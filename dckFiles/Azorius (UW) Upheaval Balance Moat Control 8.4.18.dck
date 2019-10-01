@@ -1,0 +1,52 @@
+1 [10E:61] Wrath of God
+2 [3ED:294] Plains
+1 [ZEN:220] Misty Rainforest
+2 [3ED:293] Plains
+1 [C17:37] Fractured Identity
+1 [3ED:292] Plains
+1 [MIR:74] Memory Lapse
+4 [3ED:297] Island
+1 [C13:237] Basalt Monolith
+2 [3ED:296] Island
+1 [NPH:1] Karn Liberated
+1 [RTR:201] Supreme Verdict
+1 [WTH:153] Mind Stone
+1 [STH:36] Mana Leak
+1 [ZEN:48] Into the Roil
+1 [MMQ:69] Counterspell
+1 [ODY:113] Upheaval
+1 [INV:57] Fact or Fiction
+1 [ULG:139] Faerie Conclave
+1 [THS:9] Elspeth, Sun's Champion
+1 [TOR:36] Deep Analysis
+1 [AER:181] Walking Ballista
+1 [WWK:133] Celestial Colonnade
+1 [LEA:3] Balance
+1 [NPH:130] Batterskull
+1 [EXO:35] Forbid
+1 [ZEN:211] Arid Mesa
+1 [MOR:55] Vendilion Clique
+1 [NEM:17] Parallax Wave
+1 [AKH:245] Irrigated Farmland
+1 [LEB:281] Savannah
+1 [LEG:28] Moat
+1 [MRD:257] Talisman of Unity
+1 [CSP:136] Coldsteel Heart
+SB: 1 [CHK:268] Sensei's Divining Top
+SB: 1 [DTK:181] Den Protector
+SB: 1 [MRD:152] Chrome Mox
+SB: 1 [STH:143] Volrath's Stronghold
+SB: 1 [TMP:151] Reanimate
+SB: 1 [RTR:157] Dreadbore
+SB: 1 [GPT:164] Steam Vents
+SB: 1 [MOR:22] Reveillark
+SB: 1 [DGM:11] Aetherling
+SB: 1 [NPH:33] Deceiver Exarch
+SB: 1 [ZEN:116] Vampire Nighthawk
+SB: 1 [LEG:113] Nether Void
+SB: 1 [KLD:235] Smuggler's Copter
+SB: 1 [SOK:158] Pithing Needle
+SB: 1 [GPT:157] Godless Shrine
+SB: 1 [OGW:9] Thought-Knot Seer
+LAYOUT MAIN:(1,7)(CMC,false,50)|([AER:181],[AKH:245],[ULG:139],[WWK:133],[ZEN:220],[ZEN:211],[LEB:281],[3ED:297],[3ED:296],[3ED:297],[3ED:296],[3ED:297],[3ED:297],[3ED:292],[3ED:293],[3ED:294],[3ED:294],[3ED:293])([WTH:153],[ZEN:48],[CSP:136],[STH:36],[MIR:74],[MMQ:69],[MRD:257],[LEA:3])([EXO:35],[MOR:55],[C13:237])([10E:61],[LEG:28],[RTR:201],[INV:57],[NEM:17],[TOR:36])([C17:37],[NPH:130])([THS:9],[ODY:113])([NPH:1])
+LAYOUT SIDEBOARD:(1,7)(CMC,false,50)|([MRD:152],[STH:143],[GPT:164],[GPT:157])([CHK:268],[TMP:151],[SOK:158])([KLD:235],[RTR:157],[DTK:181])([NPH:33],[ZEN:116])([LEG:113],[OGW:9])([MOR:22])([DGM:11])

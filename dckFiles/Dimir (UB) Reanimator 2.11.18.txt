@@ -1,0 +1,30 @@
+7 Island
+5 Swamp
+1 Maze of Ith
+1 Shelldock Isle
+1 Bloodstained Mire
+1 Underground Sea
+1 Gemstone Mine
+1 Reanimate
+1 Serum Visions
+1 Preordain
+1 Condescend
+1 Counterspell
+1 Mana Leak
+1 Censor
+1 Demonic Tutor
+1 Exhume
+1 Search for Azcanta
+1 Animate Dead
+1 Collective Brutality
+1 Chart a Course
+1 Mulldrifter
+1 Wurmcoil Engine
+1 Griselbrand
+1 Woodfall Primus
+1 Myr Battlesphere
+1 Fact or Fiction
+1 Damnation
+1 Jace, the Mind Sculptor
+1 Mystic Confluence
+1 Dig Through Time

@@ -1,0 +1,57 @@
+1 [M12:39] Sun Titan
+1 [MBS:21] Consecrated Sphinx
+1 [ODY:338] Island
+1 [5DN:164] Vedalken Shackles
+1 [ODY:339] Swamp
+1 [LRW:88] Sower of Temptation
+1 [ODY:336] Island
+1 [ODY:337] Island
+1 [RTR:73] Pack Rat
+1 [ODY:334] Plains
+1 [RNA:248] Godless Shrine
+2 [ODY:335] Island
+1 [NPH:4] Blade Splicer
+1 [KTK:248] Windswept Heath
+1 [SOI:5] Archangel Avacyn
+1 [EMN:40] Selfless Spirit
+1 [3ED:289] Tundra
+1 [CON:15] Path to Exile
+1 [DIS:159] Azorius Signet
+1 [5DN:55] Night's Whisper
+1 [NPH:57] Dismember
+1 [DKA:12] Lingering Souls
+1 [KLD:245] Concealed Courtyard
+2 [ODY:331] Plains
+1 [BFZ:29] Gideon, Ally of Zendikar
+1 [FUT:46] Venser, Shaper Savant
+1 [ARN:76] Library of Alexandria
+1 [KTK:239] Polluted Delta
+1 [3ED:286] Scrubland
+1 [BBD:136] True-Name Nemesis
+1 [MOR:55] Vendilion Clique
+1 [UDS:50] Treachery
+1 [NPH:42] Phyrexian Metamorph
+1 [2ED:48] Ancestral Recall
+1 [ISD:213] Geist of Saint Traft
+1 [LRW:139] Shriekmaw
+1 [SOM:226] Darkslick Shores
+1 [SOI:242] Anguished Unmaking
+SB: 1 [ROE:33] Linvala, Keeper of Silence
+SB: 1 [PLC:25] Mana Tithe
+SB: 1 [MBS:10] Leonin Relic-Warder
+SB: 1 [M19:33] Remorseful Cleric
+SB: 1 [AVR:79] Tamiyo, the Moon Sage
+SB: 1 [ULG:49] Bone Shredder
+SB: 1 [BBD:25] Brightling
+SB: 1 [KLD:231] Scrapheap Scrounger
+SB: 1 [NEM:139] Tangle Wire
+SB: 1 [BOK:163] Umezawa's Jitte
+SB: 1 [USG:309] Smokestack
+SB: 6 [GUR:2] Island
+SB: 1 [GUR:5] Swamp
+SB: 2 [GUR:4] Plains
+SB: 1 [M12:12] Day of Judgment
+SB: 1 [GRN:258] Temple Garden
+SB: 1 [THS:33] Spear of Heliod
+LAYOUT MAIN:(1,8)(CMC,false,80)|([ODY:335],[ODY:338],[ODY:335],[ODY:337],[ODY:336],[ODY:331],[ODY:331],[ODY:334],[ODY:339])([KLD:245],[SOM:226],[RNA:248],[ARN:76],[KTK:239],[3ED:286],[3ED:289],[KTK:248])([2ED:48],[CON:15])([DIS:159],[5DN:55],[RTR:73],[EMN:40])([SOI:242],[NPH:4],[NPH:57],[ISD:213],[DKA:12],[BBD:136],[5DN:164],[MOR:55])([BFZ:29],[NPH:42],[LRW:88],[FUT:46])([SOI:5],[LRW:139],[UDS:50])([MBS:21],[M12:39])
+LAYOUT SIDEBOARD:(1,6)(CMC,false,63)|([GRN:258])([PLC:25])([KLD:231],[MBS:10],[BOK:163],[M19:33])([NEM:139],[BBD:25],[THS:33],[ULG:49])([ROE:33],[M12:12],[USG:309])([AVR:79])

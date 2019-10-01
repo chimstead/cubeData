@@ -1,0 +1,49 @@
+1 [UDS:118] Rofellos, Llanowar Emissary
+1 [XLN:179] Carnage Tyrant
+1 [EXO:129] Survival of the Fittest
+1 [NPH:4] Blade Splicer
+1 [JUD:139] Mirari's Wake
+1 [CMD:159] Hornet Queen
+1 [MBS:81] Green Sun's Zenith
+1 [BOK:163] Umezawa's Jitte
+1 [STH:138] Mox Diamond
+1 [OGW:140] Oath of Nissa
+1 [ZEN:168] Lotus Cobra
+1 [LEG:303] Karakas
+1 [LEG:207] Sylvan Library
+1 [USG:321] Gaea's Cradle
+1 [ORI:189] Nissa, Vastwood Seer
+1 [CN2:18] Palace Jailer
+1 [ATQ:80a] Mishra's Factory
+1 [AVR:172] Craterhoof Behemoth
+1 [LRW:10] Cloudgoat Ranger
+1 [OGW:138] Nissa, Voice of Zendikar
+1 [ZEN:211] Arid Mesa
+6 [GUR:1] Forest
+1 [ZEN:172] Oracle of Mul Daya
+4 [GUR:4] Plains
+1 [6ED:239] Llanowar Elves
+1 [6ED:217] Birds of Paradise
+1 [WWK:95] Arbor Elf
+1 [AKH:14] Gideon of the Trials
+1 [LEB:281] Savannah
+1 [ULG:143] Treetop Village
+1 [ONS:330] Wooded Foothills
+1 [VIS:114] Natural Order
+SB: 1 [ULG:14] Mother of Runes
+SB: 1 [M19:79] Tezzeret, Artifice Master
+SB: 1 [THS:122] Firedrinker Satyr
+SB: 1 [UDS:50] Treachery
+SB: 1 [APC:139] Battlefield Forge
+SB: 1 [BBD:1] Will Kenrith
+SB: 1 [CON:15] Path to Exile
+SB: 1 [MMQ:69] Counterspell
+SB: 1 [DGM:11] Aetherling
+SB: 1 [NEM:18] Seal of Cleansing
+SB: 1 [SOI:12] Declaration in Stone
+SB: 1 [SOI:243] Arlinn Kord
+SB: 1 [ULG:110] Rancor
+SB: 1 [KLD:235] Smuggler's Copter
+SB: 1 [GRN:103] Goblin Cratermaker
+LAYOUT MAIN:(1,10)(CMC,false,64)|([GUR:1],[GUR:1],[GUR:1],[GUR:1],[GUR:1],[GUR:1],[GUR:4],[GUR:4],[GUR:4],[GUR:4])([USG:321],[LEG:303],[ATQ:80a],[LEB:281],[ULG:143],[ONS:330],[ZEN:211])([STH:138],[WWK:95],[6ED:217],[MBS:81],[6ED:239],[OGW:140])([ZEN:168],[UDS:118],[EXO:129],[LEG:207],[BOK:163])([NPH:4],[AKH:14],[ORI:189],[OGW:138])([VIS:114],[ZEN:172],[CN2:18])([LRW:10],[JUD:139])([XLN:179])([CMD:159])([AVR:172])
+LAYOUT SIDEBOARD:(1,6)(CMC,false,61)|([APC:139])([ULG:14],[CON:15],[ULG:110],[THS:122])([GRN:103],[NEM:18],[MMQ:69],[KLD:235],[SOI:12])([SOI:243])([UDS:50],[M19:79])([BBD:1],[DGM:11])

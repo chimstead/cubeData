@@ -1,0 +1,53 @@
+1 [M11:154] Pyroclasm
+1 [ROE:66] Enclave Cryptologist
+1 [M12:98] Grave Titan
+1 [3ED:105] Demonic Tutor
+1 [ODY:132] Entomb
+1 [9ED:152] Phyrexian Arena
+1 [AVR:106] Griselbrand
+1 [6ED:83] Mystical Tutor
+1 [KTK:59] Treasure Cruise
+1 [CON:30] Inkwell Leviathan
+1 [E01:80] Baleful Strix
+1 [MRD:53] Thirst for Knowledge
+1 [RAV:260] Dimir Signet
+1 [RIX:82] Ravenous Chupacabra
+1 [TMP:151] Reanimate
+1 [DGM:104] Sire of Insanity
+1 [5ED:140] Animate Dead
+1 [TSB:99] Shadowmage Infiltrator
+1 [VIS:34] Impulse
+1 [DKA:87] Faithless Looting
+1 [VIS:64] Necromancy
+1 [EMN:6] Emrakul, the Promised End
+1 [FRF:87] Tasigur, the Golden Fang
+1 [ORI:60] Jace, Vryn's Prodigy
+1 [MRD:152] Chrome Mox
+1 [JOU:163] Mana Confluence
+1 [TMP:315] Ancient Tomb
+1 [BOK:165] Tendo Ice Bridge
+1 [SOM:224] Blackcleave Cliffs
+1 [8ED:322] City of Brass
+1 [WWK:134] Creeping Tar Pit
+1 [3ED:291] Volcanic Island
+1 [GRN:257] Steam Vents
+1 [SWS:256a] Island
+2 [SWS:256b] Island
+1 [SWS:264a] Mountain
+2 [SWS:260c] Swamp
+2 [SWS:260a] Swamp
+1 [SWS:260b] Swamp
+SB: 1 [GTC:242] Godless Shrine
+SB: 1 [M19:92] Diregraf Ghoul
+SB: 1 [DOM:42] The Antiquities War
+SB: 1 [BNG:119] Courser of Kruphix
+SB: 1 [DTK:169] Zurgo Bellstriker
+SB: 1 [ARB:92] Maelstrom Pulse
+SB: 1 [GRN:152] Assassin's Trophy
+SB: 1 [TSB:97] Mystic Snake
+SB: 1 [MBS:138] Sword of Feast and Famine
+SB: 1 [3ED:214] Regrowth
+SB: 1 [RTR:213] Deathrite Shaman
+SB: 1 [EXO:72] Recurring Nightmare
+LAYOUT MAIN:(1,9)(CMC,false,50)|([MRD:152],[JOU:163],[TMP:315],[BOK:165],[SOM:224],[8ED:322],[WWK:134],[3ED:291],[GRN:257],[SWS:256a],[SWS:256b],[SWS:256b],[SWS:264a],[SWS:260c],[SWS:260c],[SWS:260a],[SWS:260b],[SWS:260a])([ROE:66],[ODY:132],[6ED:83],[TMP:151],[DKA:87])([M11:154],[3ED:105],[E01:80],[RAV:260],[5ED:140],[VIS:34],[ORI:60])([9ED:152],[MRD:53],[TSB:99],[VIS:64])([RIX:82])([M12:98],[DGM:104],[FRF:87])([AVR:106],[KTK:59])([CON:30])([EMN:6])
+LAYOUT SIDEBOARD:(1,6)(COLOR,false,50)|([GTC:242],[MBS:138])([M19:92],[EXO:72])([DOM:42])([BNG:119],[3ED:214])([DTK:169])([ARB:92],[GRN:152],[TSB:97],[RTR:213])

@@ -1,0 +1,51 @@
+1 [CHK:225] Kodama's Reach
+1 [UDS:117] Plow Under
+1 [XLN:179] Carnage Tyrant
+1 [WWK:144] Stirring Wildwood
+1 [EXO:129] Survival of the Fittest
+1 [ONS:319] Grand Coliseum
+1 [NPH:4] Blade Splicer
+1 [NPH:104] Birthing Pod
+1 [M11:172] Fauna Shaman
+1 [GRN:208] Trostani Discordant
+1 [CN2:18] Palace Jailer
+1 [AKH:175] Manglehorn
+1 [SHM:229] Kitchen Finks
+1 [ALA:9] Elspeth, Knight-Errant
+1 [BFZ:29] Gideon, Ally of Zendikar
+1 [OGW:138] Nissa, Voice of Zendikar
+1 [MBS:92] Thrun, the Last Troll
+8 [GUR:1] Forest
+1 [RAV:163] Farseek
+7 [GUR:4] Plains
+1 [6ED:239] Llanowar Elves
+1 [KLD:4] Angel of Invention
+1 [M14:169] Elvish Mystic
+1 [SOI:12] Declaration in Stone
+1 [ULG:101] Deranged Hermit
+1 [LRW:31] Mirror Entity
+1 [LRW:213] Garruk Wildspeaker
+SB: 8 [GRN:264] Forest
+SB: 1 [LRW:10] Cloudgoat Ranger
+SB: 7 [GRN:260] Plains
+SB: 1 [JOU:5] Banishing Light
+SB: 1 [WWK:115] Terastodon
+SB: 1 [LEB:85] Timetwister
+SB: 1 [5DN:118] Engineered Explosives
+SB: 1 [NPH:130] Batterskull
+SB: 1 [M10:165] Acidic Slime
+SB: 1 [APC:143] Yavimaya Coast
+SB: 1 [CNS:187] Edric, Spymaster of Trest
+SB: 1 [DST:148] Sword of Fire and Ice
+SB: 1 [ISD:97] Diregraf Ghoul
+SB: 1 [M13:193] Thragtusk
+SB: 1 [AKH:204] Nissa, Steward of Elements
+SB: 1 [EMN:130] Hanweir Garrison
+SB: 1 [MBS:1] Accorder Paladin
+SB: 1 [HOU:129] Ramunap Excavator
+SB: 1 [VIS:167] Undiscovered Paradise
+SB: 1 [MMQ:162] Snuff Out
+SB: 1 [WWK:20] Stoneforge Mystic
+SB: 1 [VIS:79] Fireblast
+LAYOUT MAIN:(1,8)(CMC,false,75)|([GUR:1],[GUR:1],[GUR:1],[GUR:1],[GUR:1],[GUR:1],[GUR:1],[GUR:1],[GUR:4],[GUR:4],[GUR:4],[GUR:4],[GUR:4],[GUR:4],[GUR:4])([ONS:319],[WWK:144])([M14:169],[6ED:239])([SOI:12],[RAV:163],[M11:172],[EXO:129])([NPH:4],[SHM:229],[CHK:225],[AKH:175],[LRW:31],[OGW:138])([NPH:104],[ALA:9],[LRW:213],[BFZ:29],[CN2:18],[MBS:92])([KLD:4],[UDS:117],[ULG:101],[GRN:208])([XLN:179])
+LAYOUT SIDEBOARD:(1,8)(CMC,false,62)|([5DN:118],[APC:143],[VIS:167])([ISD:97])([AKH:204],[MBS:1],[WWK:20])([LEB:85],[CNS:187],[EMN:130],[HOU:129],[DST:148],[JOU:5])([MMQ:162])([LRW:10],[NPH:130],[M10:165],[M13:193])([VIS:79])([WWK:115])

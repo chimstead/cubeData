@@ -1,0 +1,53 @@
+1 [CHK:268] Sensei's Divining Top
+1 [UDS:118] Rofellos, Llanowar Emissary
+1 [M12:217] Solemn Simulacrum
+1 [MBS:81] Green Sun's Zenith
+1 [M19:196] Reclamation Sage
+2 [ZEN:266] Forest
+1 [3ED:274] Sol Ring
+1 [ZEN:168] Lotus Cobra
+1 [ZEN:268] Forest
+4 [ZEN:246] Forest
+4 [ZEN:247] Forest
+4 [ZEN:269] Forest
+1 [ZEN:248] Forest
+1 [NPH:57] Dismember
+1 [CON:121] Progenitus
+1 [PLC:149] Harmonize
+1 [TSB:89] Wall of Roots
+1 [ROE:6] Kozilek, Butcher of Truth
+1 [ZEN:172] Oracle of Mul Daya
+1 [DOM:1] Karn, Scion of Urza
+1 [3ED:214] Regrowth
+1 [EMN:6] Emrakul, the Promised End
+1 [DST:148] Sword of Fire and Ice
+1 [M13:160] Arbor Elf
+1 [CON:87] Noble Hierarch
+1 [DIS:166] Simic Signet
+1 [WWK:96] Avenger of Zendikar
+1 [MRD:134] Tooth and Nail
+1 [KLD:235] Smuggler's Copter
+1 [CHK:239] Sakura-Tribe Elder
+SB: 1 [SOM:176] Mindslaver
+SB: 1 [ROE:47] Student of Warfare
+SB: 1 [KLD:244] Botanical Sanctum
+SB: 1 [FUT:46] Venser, Shaper Savant
+SB: 1 [LRW:76] Mulldrifter
+SB: 1 [3ED:283] Bayou
+SB: 1 [KTK:239] Polluted Delta
+SB: 1 [FUT:101] Magus of the Moon
+SB: 1 [BBD:122] Mystic Confluence
+SB: 1 [RTR:200] Sphinx's Revelation
+SB: 1 [BBD:136] True-Name Nemesis
+SB: 1 [UDS:50] Treachery
+SB: 1 [ZEN:223] Scalding Tarn
+SB: 1 [RTR:238] Blood Crypt
+SB: 1 [FRF:1] Ugin, the Spirit Dragon
+SB: 1 [DIS:133] Trygon Predator
+SB: 1 [ISD:213] Geist of Saint Traft
+SB: 1 [ODY:113] Upheaval
+SB: 1 [VIS:79] Fireblast
+SB: 1 [ULG:32] Frantic Search
+SB: 1 [M12:63] Mana Leak
+LAYOUT MAIN:(1,8)(CMC,false,50)|([ZEN:247],[ZEN:268],[ZEN:266],[ZEN:246],[ZEN:269],[ZEN:246],[ZEN:269],[ZEN:247],[ZEN:247],[ZEN:247],[ZEN:248],[ZEN:246],[ZEN:246],[ZEN:269],[ZEN:269],[ZEN:266])([CHK:268],[MBS:81],[M13:160],[CON:87],[3ED:274])([ZEN:168],[CHK:239],[3ED:214],[DIS:166],[UDS:118],[KLD:235],[TSB:89])([DST:148],[M19:196],[NPH:57])([DOM:1],[ZEN:172],[PLC:149],[M12:217])([MRD:134],[WWK:96])([CON:121],[ROE:6])([EMN:6])
+LAYOUT SIDEBOARD:(1,5)(COLOR,false,50)|([ZEN:223],[KLD:244],[3ED:283],[KTK:239],[RTR:238],[FRF:1],[SOM:176])([BBD:136],[ULG:32],[FUT:46],[M12:63],[BBD:122],[LRW:76],[UDS:50],[ODY:113])([VIS:79],[FUT:101])([ROE:47])([ISD:213],[RTR:200],[DIS:133])

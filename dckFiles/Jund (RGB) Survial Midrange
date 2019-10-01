@@ -1,0 +1,53 @@
+1 [M12:147] Inferno Titan
+1 [SHM:135] Woodfall Primus
+1 [THS:90] Hero's Downfall
+1 [EMN:93] Liliana, the Last Hope
+1 [RIX:82] Ravenous Chupacabra
+1 [NPH:42] Phyrexian Metamorph
+1 [AKH:134] Glorybringer
+1 [AKH:97] Liliana, Death's Majesty
+1 [LRW:139] Shriekmaw
+1 [M13:193] Thragtusk
+1 [VIS:64] Necromancy
+1 [M19:196] Reclamation Sage
+1 [3ED:105] Demonic Tutor
+1 [5ED:140] Animate Dead
+1 [RTR:141] Abrupt Decay
+1 [RTR:73] Pack Rat
+1 [EXO:129] Survival of the Fittest
+1 [WAR:181] Vivien's Arkbow
+1 [DTK:216] Dragonlord Atarka
+1 [RTR:213] Deathrite Shaman
+1 [ZEN:168] Lotus Cobra
+1 [THS:155] Commune with the Gods
+1 [PLC:85] Damnation
+1 [ZEN:211] Arid Mesa
+1 [OGW:171] Hissing Quagmire
+1 [GRN:253] Overgrown Tomb
+1 [STH:143] Volrath's Stronghold
+1 [KTK:249] Wooded Foothills
+1 [10E:359] Sulfurous Springs
+4 [UNH:140] Forest
+1 [UNH:139] Mountain
+3 [UNH:138] Swamp
+1 [M12:246] Forest
+1 [M12:242] Mountain
+1 [RNA:245] Blood Crypt
+SB: 1 [BFZ:29] Gideon, Ally of Zendikar
+SB: 1 [DGM:11] Aetherling
+SB: 1 [DRK:117] Maze of Ith
+SB: 1 [ROE:165] Splinter Twin
+SB: 1 [ORI:148] Ghirapur Aether Grid
+SB: 1 [EMN:40] Selfless Spirit
+SB: 1 [RAV:172] Life from the Loam
+SB: 1 [V14:10] Rolling Earthquake
+SB: 1 [WWK:123] Everflowing Chalice
+SB: 1 [DTK:210] Surrak, the Hunt Caller
+SB: 1 [ZEN:182] Scute Mob
+SB: 1 [APC:130] Life // Death
+SB: 1 [CSP:136] Coldsteel Heart
+SB: 1 [KLD:110] Chandra, Torch of Defiance
+SB: 1 [5DN:118] Engineered Explosives
+SB: 1 [UNH:139] Mountain
+LAYOUT MAIN:(1,9)(CMC,false,76)|([ZEN:211],[UNH:140],[UNH:140],[UNH:140],[UNH:140],[M12:246],[OGW:171],[UNH:139],[GRN:253],[10E:359],[UNH:138],[RNA:245],[UNH:138],[UNH:138],[STH:143],[KTK:249],[M12:242])([RTR:213])([RTR:141],[5ED:140],[THS:155],[3ED:105],[ZEN:168],[RTR:73],[EXO:129],[WAR:181])([THS:90],[EMN:93],[VIS:64],[M19:196])([PLC:85],[NPH:42],[RIX:82])([AKH:134],[AKH:97],[LRW:139],[M13:193])([M12:147])([DTK:216])([SHM:135])
+LAYOUT SIDEBOARD:(1,6)(CMC,false,51)|([WWK:123],[DRK:117],[UNH:139])([V14:10],[ZEN:182],[CSP:136],[5DN:118])([RAV:172],[EMN:40])([ORI:148],[APC:130])([BFZ:29],[ROE:165],[DTK:210],[KLD:110])([DGM:11])

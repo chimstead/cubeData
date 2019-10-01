@@ -1,0 +1,50 @@
+1 [MBS:66] Hero of Oxid Ridge
+1 [NPH:161] Sword of War and Peace
+1 [ORI:127] Abbot of Keral Keep
+1 [5DN:126] Grafted Wargear
+1 [M11:149] Lightning Bolt
+1 [M12:156] Stormblood Berserker
+1 [M15:145] Goblin Rabblemaster
+1 [SCG:106] Sulfuric Vortex
+1 [4ED:361] Mishra's Factory
+1 [DKA:93] Hellrider
+1 [DTK:169] Zurgo Bellstriker
+1 [ZEN:126] Goblin Guide
+1 [ISD:164] Stromkirk Noble
+1 [AVR:144] Lightning Mauler
+1 [AER:87] Kari Zev, Skyship Raider
+1 [RAV:117] Char
+1 [PLS:60] Flametongue Kavu
+1 [SOM:81] Arc Trail
+1 [HOU:90] Earthshaker Khenra
+1 [MRD:152] Chrome Mox
+1 [KTK:118] Monastery Swiftspear
+1 [M12:146] Incinerate
+1 [NPH:153] Shrine of Burning Rage
+1 [EVE:139] Figure of Destiny
+1 [TMP:315] Ancient Tomb
+6 [LEA:292] Mountain
+1 [LEG:137] Chain Lightning
+1 [VIS:79] Fireblast
+7 [LEA:293] Mountain
+SB: 1 [VIS:64] Necromancy
+SB: 1 [ALA:154] Ajani Vengeant
+SB: 1 [LRW:88] Sower of Temptation
+SB: 1 [DOM:143] Siege-Gang Commander
+SB: 1 [OGW:104] Chandra, Flamecaller
+SB: 1 [GPT:111] Electrolyze
+SB: 1 [M12:151] Manic Vandal
+SB: 1 [RTR:101] Mizzium Mortars
+SB: 1 [M13:150] Thundermaw Hellkite
+SB: 1 [M14:134] Chandra's Phoenix
+SB: 1 [ZEN:168] Lotus Cobra
+SB: 1 [ORI:157] Pia and Kiran Nalaar
+SB: 1 [GTC:245] Sacred Foundry
+SB: 1 [M13:22] Oblivion Ring
+SB: 1 [KLD:246] Inspiring Vantage
+SB: 1 [SOM:224] Blackcleave Cliffs
+SB: 1 [XLN:1] Adanto Vanguard
+SB: 1 [ORI:83] Whirler Rogue
+SB: 1 [LEA:293] Mountain
+LAYOUT MAIN:(1,6)(CMC,false,50)|([MRD:152],[4ED:361],[TMP:315],[LEA:292],[LEA:292],[LEA:292],[LEA:293],[LEA:292],[LEA:293],[LEA:293],[LEA:292],[LEA:293],[LEA:293],[LEA:293],[LEA:292],[LEA:293])([LEG:137],[M11:149],[EVE:139],[ZEN:126],[KTK:118],[DTK:169],[ISD:164])([AVR:144],[M12:156],[M12:146],[SOM:81],[HOU:90],[ORI:127],[AER:87],[NPH:153])([5DN:126],[NPH:161],[SCG:106],[M15:145],[RAV:117])([PLS:60],[DKA:93],[MBS:66])([VIS:79])
+LAYOUT SIDEBOARD:(1,6)(CMC,false,50)|([SOM:224],[GTC:245],[KLD:246],[LEA:293])([XLN:1],[ZEN:168],[RTR:101])([M13:22],[GPT:111],[VIS:64],[M12:151],[M14:134])([LRW:88],[ORI:83],[ALA:154],[ORI:157])([DOM:143],[M13:150])([OGW:104])

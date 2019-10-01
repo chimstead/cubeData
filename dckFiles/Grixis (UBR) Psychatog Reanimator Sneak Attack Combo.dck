@@ -1,0 +1,50 @@
+1 [C14:33] Daretti, Scrap Savant
+1 [LRW:88] Sower of Temptation
+1 [ODY:70] Careful Study
+1 [SOM:180] Myr Battlesphere
+1 [RTR:1] Angel of Serenity
+1 [APC:142] Shivan Reef
+1 [STH:138] Mox Diamond
+1 [PTK:122] Rolling Earthquake
+1 [MMQ:62] Bribery
+1 [5DN:27] Condescend
+1 [ODY:292] Psychatog
+1 [M11:70] Preordain
+1 [M11:192] Primeval Titan
+1 [ODY:132] Entomb
+1 [M11:97] Grave Titan
+1 [VIS:64] Necromancy
+1 [XLN:223] Hostage Taker
+1 [BBD:33] Arcane Artisan
+1 [5DN:36] Serum Visions
+1 [4ED:64] Control Magic
+1 [C18:44] Saheeli, the Gifted
+1 [USG:218] Sneak Attack
+2 [GUR:3] Mountain
+4 [GUR:2] Island
+1 [DTK:216] Dragonlord Atarka
+5 [GUR:5] Swamp
+1 [UDS:50] Treachery
+1 [WTH:164] Gemstone Mine
+1 [GPT:164] Steam Vents
+1 [JOU:163] Mana Confluence
+1 [MRD:53] Thirst for Knowledge
+1 [AKH:243] Fetid Pools
+SB: 1 [TMP:154] Sarcomancy
+SB: 1 [WWK:141] Raging Ravine
+SB: 1 [MOR:148] Mutavault
+SB: 1 [ORI:105] Languish
+SB: 1 [SOM:78] Skinrender
+SB: 1 [5DN:126] Grafted Wargear
+SB: 1 [GRN:183] Knight of Autumn
+SB: 1 [PLC:85] Damnation
+SB: 1 [LEB:279] Bayou
+SB: 1 [ZEN:14] Journey to Nowhere
+SB: 1 [SCG:106] Sulfuric Vortex
+SB: 1 [ZEN:126] Goblin Guide
+SB: 1 [THS:90] Hero's Downfall
+SB: 1 [ULG:101] Deranged Hermit
+SB: 1 [ODY:113] Upheaval
+SB: 1 [PLC:102] Keldon Marauders
+LAYOUT MAIN:(1,7)(COLOR,false,68)|([AKH:243],[WTH:164],[JOU:163],[STH:138],[SOM:180],[APC:142],[GPT:164],[GUR:2],[GUR:2],[GUR:2],[GUR:2],[GUR:3],[GUR:3],[GUR:3],[GUR:5],[GUR:5],[GUR:5],[GUR:5])([ODY:132],[M11:97],[VIS:64])([BBD:33],[MMQ:62],[ODY:70],[5DN:27],[4ED:64],[M11:70],[5DN:36],[LRW:88],[MRD:53],[UDS:50])([M11:192])([C14:33],[PTK:122],[USG:218])([RTR:1])([DTK:216],[XLN:223],[ODY:292],[C18:44])
+LAYOUT SIDEBOARD:(1,7)(CMC,false,55)|([LEB:279],[WWK:141],[MOR:148])([ZEN:126],[TMP:154])([ZEN:14],[PLC:102],[THS:90])([5DN:126],[SCG:106],[GRN:183])([ORI:105],[PLC:85],[SOM:78])([ULG:101])([ODY:113])

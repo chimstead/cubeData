@@ -1,0 +1,50 @@
+3 [JR:91] Swamp
+1 [CMA:27] Unexpectedly Absent
+1 [KTK:248] Windswept Heath
+1 [C17:37] Fractured Identity
+1 [C15:14] Mystic Confluence
+1 [APC:102] Gerrard's Verdict
+1 [RTR:201] Supreme Verdict
+1 [A25:219] Vindicate
+1 [CON:15] Path to Exile
+1 [C18:17] Night Incarnate
+1 [DKA:12] Lingering Souls
+1 [GTC:242] Godless Shrine
+1 [CMA:74] Wretched Confluence
+1 [XLN:129] Vraska's Contempt
+1 [XLN:223] Hostage Taker
+1 [WWK:133] Celestial Colonnade
+1 [WWK:134] Creeping Tar Pit
+1 [LRW:79] Ponder
+1 [GTC:249] Watery Grave
+1 [HOU:49] Supreme Will
+3 [JR:89] Plains
+1 [RTR:241] Hallowed Fountain
+1 [KTK:59] Treasure Cruise
+1 [ROE:53] Wall of Omens
+1 [KTK:233] Flooded Strand
+1 [C15:7] Righteous Confluence
+1 [IMA:65] Mana Drain
+1 [DOM:81] Cast Down
+1 [WWK:31] Jace, the Mind Sculptor
+4 [JR:90] Island
+1 [IMA:110] Thoughtseize
+1 [ORI:60] Jace, Vryn's Prodigy
+1 [BFZ:244] Shambling Vent
+SB: 1 [EMA:9] Enlightened Tutor
+SB: 1 [AVR:32] Restoration Angel
+SB: 1 [AKH:8] Cast Out
+SB: 1 [SOM:78] Skinrender
+SB: 1 [PD3:14] Entomb
+SB: 1 [EMA:78] Animate Dead
+SB: 1 [A25:96] Living Death
+SB: 1 [RTR:243] Overgrown Tomb
+SB: 1 [BFZ:50] Stasis Snare
+SB: 1 [EMN:86] Cryptbreaker
+SB: 1 [EMN:164] Noose Constrictor
+SB: 1 [AKH:13] Forsake the Worldly
+SB: 1 [ISD:213] Geist of Saint Traft
+SB: 1 [LRW:133] Oona's Prowler
+SB: 1 [DGM:114] Voice of Resurgence
+LAYOUT MAIN:(1,7)(CMC,false,50)|([GTC:249],[WWK:133],[KTK:248],[BFZ:244],[KTK:233],[GTC:242],[RTR:241],[WWK:134],[JR:90],[JR:90],[JR:90],[JR:90],[JR:89],[JR:89],[JR:89],[JR:91],[JR:91],[JR:91])([LRW:79],[CON:15],[IMA:110])([APC:102],[CMA:27],[DOM:81],[ORI:60],[ROE:53],[IMA:65])([DKA:12],[A25:219],[HOU:49])([XLN:129],[WWK:31],[RTR:201],[XLN:223])([C18:17],[CMA:74],[C15:14],[C15:7],[C17:37])([KTK:59])
+LAYOUT SIDEBOARD:(1,6)(CMC,false,50)|([RTR:243],[SOM:78])([EMA:9],[PD3:14],[EMN:86],[AVR:32])([EMA:78],[LRW:133],[EMN:164],[DGM:114])([AKH:13],[ISD:213],[BFZ:50])([AKH:8])([A25:96])

@@ -1,0 +1,28 @@
+6 Plains
+8 Island
+1 Terramorphic Expanse
+1 Hallowed Fountain
+1 Chrome Mox
+1 Mox Diamond
+1 Ponder
+1 Serum Visions
+1 Chart a Course
+1 Mana Leak
+1 Memory Lapse
+1 Search for Azcanta
+1 Snapcaster Mage
+1 Talisman of Indulgence
+1 Geist of Saint Traft
+1 Jace Beleren
+1 Monastery Mentor
+1 Oblivion Ring
+1 True-Name Nemesis
+1 Vendilion Clique
+1 Control Magic
+1 Gideon, Ally of Zendikar
+1 Sower of Temptation
+1 Bribery
+1 Mulldrifter
+1 Mystic Confluence
+1 Treachery
+1 Dig Through Time

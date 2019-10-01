@@ -1,0 +1,55 @@
+1 [DOM:215] Gilded Lotus
+1 [RTR:188] Rakdos's Return
+1 [ARB:46] Terminate
+1 [GRN:82] Plaguecrafter
+1 [LEG:137] Chain Lightning
+1 [RNA:157] Bedevil
+1 [PLS:60] Flametongue Kavu
+1 [M13:112] Vampire Nighthawk
+1 [M12:146] Incinerate
+1 [AKH:134] Glorybringer
+1 [NPH:73] Sheoldred, Whispering One
+1 [RNA:109] Rix Maadi Reveler
+1 [THS:90] Hero's Downfall
+1 [M12:98] Grave Titan
+1 [DTK:224] Kolaghan's Command
+1 [AVR:166] Zealous Conscripts
+1 [M12:217] Solemn Simulacrum
+1 [AKH:97] Liliana, Death's Majesty
+1 [3ED:274] Sol Ring
+1 [ISD:127] Ancient Grudge
+1 [ROE:165] Splinter Twin
+1 [RIX:82] Ravenous Chupacabra
+1 [9ED:152] Phyrexian Arena
+1 [SOM:224] Blackcleave Cliffs
+1 [2ED:263] Mox Jet
+1 [2ED:265] Mox Ruby
+1 [ZEN:223] Scalding Tarn
+1 [3ED:287] Taiga
+1 [DOM:263] Mountain
+1 [DOM:264] Mountain
+2 [DOM:265] Mountain
+1 [DOM:262] Mountain
+1 [DOM:261] Swamp
+3 [DOM:259] Swamp
+1 [DOM:260] Swamp
+2 [DOM:258] Swamp
+SB: 1 [SOM:176] Mindslaver
+SB: 1 [UDS:135] Metalworker
+SB: 1 [RAV:63] Remand
+SB: 1 [ZEN:114] Vampire Hexmage
+SB: 1 [RNA:248] Godless Shrine
+SB: 1 [LEG:65] Mana Drain
+SB: 1 [ROE:6] Kozilek, Butcher of Truth
+SB: 1 [M12:55] Frost Titan
+SB: 1 [KLD:235] Smuggler's Copter
+SB: 1 [SOM:226] Darkslick Shores
+SB: 1 [M14:228] Mutavault
+SB: 1 [TSP:269] Academy Ruins
+SB: 1 [TSP:73] Riftwing Cloudskate
+SB: 1 [NPH:19] Porcelain Legionnaire
+SB: 1 [DOM:1] Karn, Scion of Urza
+SB: 1 [ORI:229] Hangarback Walker
+SB: 1 [9ED:228] Wildfire
+LAYOUT MAIN:(1,8)(CMC,false,50)|([SOM:224],[2ED:263],[2ED:265],[ZEN:223],[3ED:287],[DOM:263],[DOM:264],[DOM:265],[DOM:262],[DOM:265],[DOM:261],[DOM:259],[DOM:260],[DOM:259],[DOM:258],[DOM:258],[DOM:259])([LEG:137],[3ED:274])([RTR:188],[ARB:46],[M12:146],[RNA:109],[ISD:127])([GRN:82],[RNA:157],[M13:112],[THS:90],[DTK:224],[9ED:152])([PLS:60],[M12:217],[ROE:165],[RIX:82])([DOM:215],[AKH:134],[AVR:166],[AKH:97])([M12:98])([NPH:73])
+LAYOUT SIDEBOARD:(1,6)(COLOR,false,50)|([SOM:176],[UDS:135],[RNA:248],[ROE:6],[KLD:235],[DOM:1],[ORI:229])([ZEN:114])([RAV:63],[LEG:65],[M12:55],[TSP:73])([SOM:226],[M14:228],[TSP:269])([9ED:228])([NPH:19])

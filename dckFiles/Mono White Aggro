@@ -1,0 +1,48 @@
+1 [M11:11] Condemn
+1 [XLN:22] Legion's Landing
+1 [ULG:14] Mother of Runes
+1 [DST:140] Skullclamp
+1 [ROE:47] Student of Warfare
+1 [XLN:1] Adanto Vanguard
+1 [MBS:10] Leonin Relic-Warder
+1 [M19:33] Remorseful Cleric
+1 [KLD:235] Smuggler's Copter
+1 [5ED:408] Winter Orb
+1 [M14:7] Banisher Priest
+1 [JOU:5] Banishing Light
+1 [BBD:25] Brightling
+1 [BNG:5] Brimaz, King of Oreskos
+1 [NPH:57] Dismember
+1 [AKH:14] Gideon of the Trials
+1 [NPH:161] Sword of War and Peace
+1 [ALA:9] Elspeth, Knight-Errant
+1 [RAV:16] Faith's Fetters
+1 [MBS:8] Hero of Bladehold
+1 [KLD:4] Angel of Invention
+1 [WWK:127] Lodestone Golem
+1 [M19:229] Crucible of Worlds
+1 [ZEN:211] Arid Mesa
+1 [MRD:152] Chrome Mox
+1 [XLN:254] Field of Ruin
+1 [4ED:361] Mishra's Factory
+1 [2ED:263] Mox Jet
+1 [2ED:264] Mox Pearl
+1 [M14:228] Mutavault
+10 [UGL:84] Plains
+SB: 1 [DKA:93] Hellrider
+SB: 1 [SOI:233] Tireless Tracker
+SB: 1 [JUD:139] Mirari's Wake
+SB: 1 [ALA:154] Ajani Vengeant
+SB: 1 [TMP:183] Jackal Pup
+SB: 1 [EXO:72] Recurring Nightmare
+SB: 1 [ODY:118] Buried Alive
+SB: 1 [UDS:75] Yawgmoth's Bargain
+SB: 1 [THS:223] Nykthos, Shrine to Nyx
+SB: 1 [FEM:38a] Hymn to Tourach
+SB: 1 [LRW:88] Sower of Temptation
+SB: 1 [NPH:1] Karn Liberated
+SB: 1 [M13:150] Thundermaw Hellkite
+SB: 1 [MBS:46] Massacre Wurm
+SB: 1 [JOU:94] Eidolon of the Great Revel
+LAYOUT MAIN:(1,6)(CMC,false,52)|([ZEN:211],[MRD:152],[XLN:254],[4ED:361],[2ED:263],[2ED:264],[M14:228],[UGL:84],[UGL:84],[UGL:84],[UGL:84],[UGL:84],[UGL:84],[UGL:84],[UGL:84],[UGL:84],[UGL:84])([M11:11],[XLN:22],[ULG:14],[DST:140],[ROE:47])([XLN:1],[MBS:10],[M19:33],[KLD:235],[5ED:408])([M14:7],[JOU:5],[BBD:25],[BNG:5],[NPH:57],[AKH:14],[NPH:161],[M19:229])([ALA:9],[RAV:16],[MBS:8],[WWK:127])([KLD:4])
+LAYOUT SIDEBOARD:(1,8)(CMC,false,52)|([THS:223])([TMP:183])([FEM:38a],[JOU:94])([SOI:233],[EXO:72],[ODY:118])([DKA:93],[ALA:154],[LRW:88])([JUD:139],[M13:150])([UDS:75],[MBS:46])([NPH:1])

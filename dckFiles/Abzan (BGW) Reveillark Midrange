@@ -1,0 +1,54 @@
+1 [M12:39] Sun Titan
+1 [JOU:145] Ajani, Mentor of Heroes
+1 [8ED:322] City of Brass
+2 [M13:249] Forest
+1 [M13:247] Forest
+2 [M13:246] Forest
+1 [M19:196] Reclamation Sage
+1 [OGW:144] Sylvan Advocate
+1 [SOI:5] Archangel Avacyn
+1 [M11:172] Fauna Shaman
+1 [MOR:22] Reveillark
+1 [M13:193] Thragtusk
+1 [RIX:186] Evolving Wilds
+1 [3ED:105] Demonic Tutor
+1 [EMA:108] Toxic Deluge
+1 [AKH:175] Manglehorn
+1 [GRN:253] Overgrown Tomb
+1 [AVR:172] Craterhoof Behemoth
+1 [HOU:2] Adorned Pouncer
+1 [M13:239] Swamp
+1 [OGW:138] Nissa, Voice of Zendikar
+1 [KTK:239] Polluted Delta
+1 [M13:159] Acidic Slime
+1 [M12:188] Primeval Titan
+3 [M13:233] Plains
+1 [ICE:54] Swords to Plowshares
+1 [KTK:233] Flooded Strand
+1 [M13:231] Plains
+1 [M13:230] Plains
+1 [M13:160] Arbor Elf
+1 [CON:87] Noble Hierarch
+1 [ARB:75] Qasali Pridemage
+1 [IMA:159] Curse of Predation
+1 [M13:22] Oblivion Ring
+1 [GRN:258] Temple Garden
+1 [MBS:8] Hero of Bladehold
+SB: 1 [SOM:78] Skinrender
+SB: 1 [M14:22] Imposing Sovereign
+SB: 1 [DIS:81] Cytoplast Root-Kin
+SB: 1 [ZEN:221] Oran-Rief, the Vastwood
+SB: 1 [SHM:23] Spectral Procession
+SB: 1 [ALL:139] Kjeldoran Outpost
+SB: 1 [KTK:133] Hardened Scales
+SB: 1 [EMN:111] Voldaren Pariah
+SB: 1 [SOM:229] Seachrome Coast
+SB: 1 [M14:139] Flames of the Firebrand
+SB: 1 [WWK:96] Avenger of Zendikar
+SB: 1 [WWK:20] Stoneforge Mystic
+SB: 1 [BOK:40] Kira, Great Glass-Spinner
+SB: 1 [ALL:22a] Arcane Denial
+SB: 1 [TMP:308] Scroll Rack
+SB: 1 [MBS:100] Bonehoard
+LAYOUT MAIN:(1,8)(CMC,false,30)|([8ED:322],[RIX:186],[KTK:233],[M13:246],[M13:246],[M13:249],[M13:249],[M13:247],[GRN:253],[M13:230],[M13:233],[M13:233],[M13:231],[M13:233],[KTK:239],[M13:239],[GRN:258])([M13:160],[CON:87],[ICE:54])([HOU:2],[3ED:105],[M11:172],[ARB:75],[OGW:144])([IMA:159],[AKH:175],[OGW:138],[M13:22],[M19:196],[EMA:108])([MBS:8])([M13:159],[JOU:145],[SOI:5],[MOR:22],[M13:193])([M12:188],[M12:39])([AVR:172])
+LAYOUT SIDEBOARD:(1,7)(COLOR,false,32)|([MBS:100],[ALL:139],[ZEN:221],[TMP:308],[SOM:229])([SOM:78],[EMN:111])([ALL:22a],[BOK:40])([DIS:81],[KTK:133])([M14:139])([M14:22],[WWK:20],[WWK:96])([SHM:23])

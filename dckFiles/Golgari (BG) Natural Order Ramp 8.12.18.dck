@@ -1,0 +1,49 @@
+1 [TMP:330] Wasteland
+1 [UDS:117] Plow Under
+1 [VIS:72] Vampiric Tutor
+1 [ROE:190] Joraga Treespeaker
+9 [UNH:140] Forest
+1 [SHM:135] Woodfall Primus
+1 [MBS:81] Green Sun's Zenith
+1 [OGW:140] Oath of Nissa
+1 [ZEN:229] Verdant Catacombs
+1 [ISD:181] Garruk Relentless
+1 [ZEN:168] Lotus Cobra
+1 [FRF:1] Ugin, the Spirit Dragon
+1 [USG:321] Gaea's Cradle
+1 [AKH:175] Manglehorn
+1 [THS:180] Sylvan Caryatid
+1 [UNH:138] Swamp
+1 [TSB:89] Wall of Roots
+1 [AVR:172] Craterhoof Behemoth
+1 [OGW:138] Nissa, Voice of Zendikar
+1 [MBS:92] Thrun, the Last Troll
+1 [M12:188] Primeval Titan
+1 [M15:187] Nissa, Worldwaker
+1 [DST:148] Sword of Fire and Ice
+1 [M13:160] Arbor Elf
+1 [OGW:171] Hissing Quagmire
+1 [ARC:74] Wickerbough Elder
+1 [M14:228] Mutavault
+1 [ULG:101] Deranged Hermit
+1 [BFZ:15] Ulamog, the Ceaseless Hunger
+1 [TMP:315] Ancient Tomb
+1 [CHK:239] Sakura-Tribe Elder
+1 [VIS:114] Natural Order
+SB: 1 [TMP:154] Sarcomancy
+SB: 1 [2ED:193] Fastbond
+SB: 1 [6ED:4] Armageddon
+SB: 1 [MBP:70] Scavenging Ooze
+SB: 1 [ALA:191] Sarkhan Vol
+SB: 1 [RTR:241] Hallowed Fountain
+SB: 1 [ZEN:172] Oracle of Mul Daya
+SB: 1 [EMN:6] Emrakul, the Promised End
+SB: 1 [CHK:74] Meloku the Clouded Mirror
+SB: 1 [CN2:71] Selvala's Stampede
+SB: 1 [RTR:248] Temple Garden
+SB: 1 [HOU:129] Ramunap Excavator
+SB: 1 [MM3:226] Selesnya Signet
+SB: 1 [SHM:229] Kitchen Finks
+SB: 1 [THS:32] Soldier of the Pantheon
+LAYOUT MAIN:(1,9)(CMC,false,45)|([TMP:315],[TMP:330],[USG:321],[ZEN:229],[M14:228],[OGW:171],[UNH:140],[UNH:140],[UNH:140],[UNH:140],[UNH:140],[UNH:140],[UNH:140],[UNH:140],[UNH:140],[UNH:138])([M13:160],[MBS:81],[ROE:190],[OGW:140])([ZEN:168],[CHK:239],[THS:180],[TSB:89])([AKH:175],[OGW:138],[VIS:72],[DST:148])([ARC:74],[MBS:92],[VIS:114],[ISD:181])([UDS:117],[M15:187],[ULG:101])([M12:188])([SHM:135],[AVR:172],[FRF:1])([BFZ:15])
+LAYOUT SIDEBOARD:(1,5)(CMC,false,50)|([RTR:241],[RTR:248])([2ED:193],[TMP:154],[THS:32],[MBP:70])([MM3:226],[HOU:129],[SHM:229])([6ED:4],[ZEN:172],[ALA:191])([CHK:74],[EMN:6],[CN2:71])

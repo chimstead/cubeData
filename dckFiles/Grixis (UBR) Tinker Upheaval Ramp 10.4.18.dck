@@ -1,0 +1,50 @@
+1 [ULG:45] Tinker
+1 [M19:79] Tezzeret, Artifice Master
+1 [LRW:88] Sower of Temptation
+1 [OGW:104] Chandra, Flamecaller
+1 [PTK:122] Rolling Earthquake
+1 [MMQ:62] Bribery
+1 [5DN:27] Condescend
+1 [CN2:74] Daretti, Ingenious Iconoclast
+1 [ZEN:223] Scalding Tarn
+1 [6ED:328] Sulfurous Springs
+1 [ODY:113] Upheaval
+1 [DGM:94] Ral Zarek
+1 [LEG:120] The Abyss
+1 [ONS:321] Polluted Delta
+1 [FUT:161] Coalition Relic
+1 [AER:181] Walking Ballista
+1 [HOU:140] Nicol Bolas, God-Pharaoh
+1 [RAV:63] Remand
+1 [CON:30] Inkwell Leviathan
+1 [4ED:64] Control Magic
+1 [DST:146] Sundering Titan
+1 [NPH:159] Spellskite
+1 [ARN:71] City of Brass
+2 [GUR:3] Mountain
+6 [GUR:2] Island
+3 [GUR:5] Swamp
+1 [LEB:287] Volcanic Island
+1 [USG:330] Tolarian Academy
+1 [MRD:254] Talisman of Impulse
+1 [MRD:256] Talisman of Progress
+1 [ULG:126] Grim Monolith
+1 [ORI:83] Whirler Rogue
+SB: 1 [AVR:172] Craterhoof Behemoth
+SB: 1 [5DN:164] Vedalken Shackles
+SB: 1 [POR:5] Armageddon
+SB: 1 [ONS:28] Exalted Angel
+SB: 1 [M12:156] Stormblood Berserker
+SB: 1 [M19:136] Dismissive Pyromancer
+SB: 1 [SCG:103] Siege-Gang Commander
+SB: 1 [THS:108] Tormented Hero
+SB: 1 [CON:65] Hellspark Elemental
+SB: 1 [WWK:95] Arbor Elf
+SB: 1 [NEM:18] Seal of Cleansing
+SB: 1 [ZEN:126] Goblin Guide
+SB: 1 [VIS:37] Man-o'-War
+SB: 1 [RIX:82] Ravenous Chupacabra
+SB: 1 [MRD:257] Talisman of Unity
+SB: 1 [HOU:90] Earthshaker Khenra
+LAYOUT MAIN:(1,10)(CMC,false,61)|([GUR:2],[GUR:2],[GUR:2],[GUR:2],[GUR:2],[GUR:2],[GUR:5],[GUR:5],[GUR:5],[GUR:3],[GUR:3])([ARN:71],[ONS:321],[ZEN:223],[6ED:328],[USG:330],[LEB:287])([5DN:27],[PTK:122])([ULG:126],[RAV:63],[NPH:159],[MRD:254],[MRD:256],[AER:181])([FUT:161],[CN2:74],[ULG:45])([4ED:64],[DGM:94],[LRW:88],[LEG:120],[ORI:83])([MMQ:62],[M19:79])([OGW:104],[ODY:113])([HOU:140])([DST:146],[CON:30])
+LAYOUT SIDEBOARD:(1,7)(CMC,false,68)|([WWK:95],[ZEN:126],[THS:108])([NEM:18],[M12:156],[HOU:90],[M19:136],[CON:65],[MRD:257])([VIS:37],[5DN:164])([POR:5],[RIX:82])([SCG:103])([ONS:28])([AVR:172])

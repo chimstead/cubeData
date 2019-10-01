@@ -1,0 +1,50 @@
+1 [CHK:268] Sensei's Divining Top
+1 [BOK:165] Tendo Ice Bridge
+1 [C15:14] Mystic Confluence
+1 [LEA:92] Animate Dead
+1 [PLC:85] Damnation
+1 [TSP:279] Terramorphic Expanse
+1 [RTR:172] Izzet Charm
+1 [CN2:74] Daretti, Ingenious Iconoclast
+1 [ISD:78] Snapcaster Mage
+1 [UNH:139] Mountain
+1 [LEB:278] Badlands
+1 [CNS:42] Dack Fayden
+1 [STH:36] Mana Leak
+1 [EMN:85] Collective Brutality
+1 [GPT:152] Izzet Signet
+1 [6ED:328] Sulfurous Springs
+1 [AVR:106] Griselbrand
+1 [TMP:128] Diabolic Edict
+1 [ODY:132] Entomb
+1 [DGM:94] Ral Zarek
+1 [INV:57] Fact or Fiction
+1 [LRW:145] Thoughtseize
+1 [ONS:321] Polluted Delta
+5 [UNH:137] Island
+1 [M11:97] Grave Titan
+1 [PC2:82] Baleful Strix
+4 [UNH:138] Swamp
+1 [FUT:161] Coalition Relic
+1 [EXO:72] Recurring Nightmare
+1 [RAV:63] Remand
+1 [WWK:139] Lavaclaw Reaches
+1 [MOR:55] Vendilion Clique
+1 [LRW:133] Oona's Prowler
+SB: 1 [DOM:87] Divest
+SB: 1 [DOM:42] The Antiquities War
+SB: 1 [C15:26] Fiery Confluence
+SB: 1 [ICE:118] Dance of the Dead
+SB: 1 [ZEN:119] Burst Lightning
+SB: 1 [ISD:97] Diregraf Ghoul
+SB: 1 [CON:65] Hellspark Elemental
+SB: 1 [MBS:1] Accorder Paladin
+SB: 1 [LEG:113] Nether Void
+SB: 1 [ORI:157] Pia and Kiran Nalaar
+SB: 1 [USG:132] Duress
+SB: 1 [LEB:280] Plateau
+SB: 1 [MBS:8] Hero of Bladehold
+SB: 1 [XLN:1] Adanto Vanguard
+SB: 1 [CSP:136] Coldsteel Heart
+LAYOUT MAIN:(1,8)(CMC,false,30)|([LEB:278],[UNH:137],[UNH:137],[UNH:137],[UNH:137],[UNH:137],[WWK:139],[UNH:139],[ONS:321],[6ED:328],[UNH:138],[UNH:138],[UNH:138],[UNH:138],[BOK:165],[TSP:279])([ODY:132],[CHK:268],[LRW:145])([LEA:92],[PC2:82],[EMN:85],[TMP:128],[RTR:172],[GPT:152],[STH:36],[LRW:133],[RAV:63],[ISD:78])([FUT:161],[CNS:42],[CN2:74],[EXO:72],[MOR:55])([PLC:85],[INV:57],[DGM:94])([C15:14])([M11:97])([AVR:106])
+LAYOUT SIDEBOARD:(1,4)(COLOR,false,50)|([DOM:42],[LEG:113],[MBS:1],[XLN:1],[MBS:8],[DOM:87],[ISD:97])([CON:65],[ORI:157],[LEB:280])([ICE:118],[USG:132],[CSP:136],[ZEN:119])([C15:26])

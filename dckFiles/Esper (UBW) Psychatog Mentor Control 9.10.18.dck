@@ -1,0 +1,50 @@
+1 [V12:10] Maze of Ith
+1 [LRW:88] Sower of Temptation
+1 [MMQ:62] Bribery
+1 [ODY:292] Psychatog
+1 [DOM:207] Teferi, Hero of Dominaria
+1 [STH:36] Mana Leak
+1 [ZEN:223] Scalding Tarn
+1 [DKA:12] Lingering Souls
+1 [CN2:18] Palace Jailer
+1 [LEG:58] Force Spike
+1 [GPT:157] Godless Shrine
+1 [WWK:133] Celestial Colonnade
+1 [XLN:48] Chart a Course
+1 [C13:63] True-Name Nemesis
+1 [FUT:46] Venser, Shaper Savant
+1 [LRW:56] Cryptic Command
+1 [MRD:152] Chrome Mox
+1 [ICE:54] Swords to Plowshares
+1 [C13:25] Unexpectedly Absent
+6 [GUR:2] Island
+1 [ALL:28] Force of Will
+1 [GUR:5] Swamp
+1 [CHK:74] Meloku the Clouded Mirror
+3 [GUR:4] Plains
+1 [NEM:30] Daze
+1 [FRF:20] Monastery Mentor
+1 [LEB:282] Scrubland
+1 [CNS:16] Council's Judgment
+1 [MRD:253] Talisman of Dominance
+1 [WWK:31] Jace, the Mind Sculptor
+1 [ALL:22a] Arcane Denial
+1 [LEB:285] Tundra
+1 [BFZ:244] Shambling Vent
+SB: 1 [UDS:136] Powder Keg
+SB: 1 [ULG:14] Mother of Runes
+SB: 1 [ONS:28] Exalted Angel
+SB: 1 [SHM:23] Spectral Procession
+SB: 1 [MBS:81] Green Sun's Zenith
+SB: 1 [APC:112] Mystic Snake
+SB: 1 [MOR:22] Reveillark
+SB: 1 [CN2:22] Recruiter of the Guard
+SB: 1 [6ED:326] Karplusan Forest
+SB: 1 [ZEN:48] Into the Roil
+SB: 1 [TSP:66] Looter il-Kor
+SB: 1 [VIS:37] Man-o'-War
+SB: 1 [ULG:126] Grim Monolith
+SB: 1 [MRD:53] Thirst for Knowledge
+SB: 1 [THS:32] Soldier of the Pantheon
+LAYOUT MAIN:(1,7)(CMC,false,86)|([GUR:2],[GUR:2],[GUR:2],[GUR:2],[GUR:2],[GUR:2],[GUR:4],[GUR:4],[GUR:4],[GUR:5])([WWK:133],[MRD:152],[GPT:157],[V12:10],[ZEN:223],[LEB:282],[BFZ:244],[LEB:285])([LEG:58],[ICE:54])([ALL:22a],[XLN:48],[NEM:30],[STH:36],[MRD:253],[C13:25])([CNS:16],[DKA:12],[FRF:20],[ODY:292],[C13:63])([LRW:56],[WWK:31],[CN2:18],[LRW:88],[FUT:46])([MMQ:62],[ALL:28],[CHK:74],[DOM:207])
+LAYOUT SIDEBOARD:(1,7)(CMC,false,76)|([6ED:326])([MBS:81],[THS:32],[ULG:14])([ULG:126],[UDS:136],[ZEN:48],[TSP:66])([CN2:22],[MRD:53],[VIS:37])([APC:112])([MOR:22])([SHM:23],[ONS:28])

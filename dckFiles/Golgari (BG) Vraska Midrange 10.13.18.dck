@@ -1,0 +1,49 @@
+1 [MBS:43] Go for the Throat
+1 [M15:173] Elvish Mystic
+1 [STH:138] Mox Diamond
+1 [OGW:144] Sylvan Advocate
+1 [PLC:85] Damnation
+1 [RTR:243] Overgrown Tomb
+1 [ZEN:229] Verdant Catacombs
+1 [ISD:181] Garruk Relentless
+1 [ORI:189] Nissa, Vastwood Seer
+1 [3ED:99] Dark Ritual
+1 [RIX:82] Ravenous Chupacabra
+1 [2ED:130] Sinkhole
+1 [GRN:152] Assassin's Trophy
+1 [C13:84] Ophiomancer
+1 [MM2:165] Tarmogoyf
+1 [MBP:70] Scavenging Ooze
+1 [3ED:283] Bayou
+5 [GUR:1] Forest
+1 [M15:187] Nissa, Worldwaker
+1 [EMN:93] Liliana, the Last Hope
+1 [ARB:92] Maelstrom Pulse
+6 [GUR:5] Swamp
+1 [MOR:58] Bitterblossom
+1 [OGW:171] Hissing Quagmire
+1 [CON:87] Noble Hierarch
+1 [RTR:213] Deathrite Shaman
+1 [C13:140] Curse of Predation
+1 [THS:90] Hero's Downfall
+1 [M14:228] Mutavault
+1 [GRN:213] Vraska, Golgari Queen
+1 [7ED:131] Duress
+SB: 1 [M19:55] Exclusion Mage
+SB: 1 [CHK:225] Kodama's Reach
+SB: 1 [EXO:72] Recurring Nightmare
+SB: 1 [UDS:118] Rofellos, Llanowar Emissary
+SB: 1 [ICE:244] Fyndhorn Elves
+SB: 1 [4ED:34] Land Tax
+SB: 1 [C17:37] Fractured Identity
+SB: 1 [CHK:193] Through the Breach
+SB: 1 [C18:44] Saheeli, the Gifted
+SB: 1 [WWK:139] Lavaclaw Reaches
+SB: 1 [OGW:175] Needle Spires
+SB: 1 [USG:96] Show and Tell
+SB: 1 [ISD:213] Geist of Saint Traft
+SB: 1 [LEG:28] Moat
+SB: 1 [LEG:185] Eureka
+SB: 1 [MRD:53] Thirst for Knowledge
+LAYOUT MAIN:(1,7)(CMC,false,65)|([GUR:1],[GUR:1],[GUR:1],[GUR:1],[GUR:1],[GUR:5],[GUR:5],[GUR:5],[GUR:5],[GUR:5],[GUR:5])([3ED:283],[OGW:171],[RTR:243],[ZEN:229],[M14:228],[STH:138])([3ED:99],[RTR:213],[7ED:131],[M15:173],[CON:87])([GRN:152],[MOR:58],[MBS:43],[MBP:70],[2ED:130],[OGW:144],[MM2:165])([C13:140],[THS:90],[EMN:93],[ARB:92],[ORI:189],[C13:84])([PLC:85],[ISD:181],[RIX:82],[GRN:213])([M15:187])
+LAYOUT SIDEBOARD:(1,6)(CMC,false,60)|([WWK:139],[OGW:175])([4ED:34],[ICE:244])([UDS:118])([M19:55],[ISD:213],[EXO:72],[USG:96],[MRD:53],[CHK:225])([LEG:185],[LEG:28],[C18:44])([C17:37],[CHK:193])

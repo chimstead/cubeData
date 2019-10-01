@@ -1,0 +1,49 @@
+1 [M19:94] Duress
+1 [JR:97] Ravages of War
+1 [ALA:202] Tidehollow Sculler
+1 [4ED:34] Land Tax
+1 [NPH:4] Blade Splicer
+1 [BOK:163] Umezawa's Jitte
+1 [EMN:40] Selfless Spirit
+1 [CON:15] Path to Exile
+1 [TSB:6] Disenchant
+1 [3ED:105] Demonic Tutor
+1 [DKA:12] Lingering Souls
+1 [WWK:20] Stoneforge Mystic
+1 [ALA:9] Elspeth, Knight-Errant
+1 [RIX:82] Ravenous Chupacabra
+1 [NPH:19] Porcelain Legionnaire
+1 [ULG:14] Mother of Runes
+1 [RAV:81] Dark Confidant
+1 [4ED:147] Mind Twist
+1 [6ED:4] Armageddon
+1 [KTK:239] Polluted Delta
+1 [ZEN:211] Arid Mesa
+1 [3ED:286] Scrubland
+5 [GUR:5] Swamp
+1 [MOR:58] Bitterblossom
+7 [GUR:4] Plains
+1 [DST:148] Sword of Fire and Ice
+1 [AKH:14] Gideon of the Trials
+1 [XLN:1] Adanto Vanguard
+1 [MBS:8] Hero of Bladehold
+1 [2ED:265] Mox Ruby
+SB: 1 [ROE:174] Ancient Stirrings
+SB: 1 [AVR:32] Restoration Angel
+SB: 1 [GRN:253] Overgrown Tomb
+SB: 1 [5DN:164] Vedalken Shackles
+SB: 1 [WWK:133] Celestial Colonnade
+SB: 1 [XLN:223] Hostage Taker
+SB: 1 [AKH:8] Cast Out
+SB: 1 [M12:16] Gideon Jura
+SB: 1 [AKH:1] Angel of Sanctions
+SB: 1 [ARB:92] Maelstrom Pulse
+SB: 1 [APC:114] Pernicious Deed
+SB: 1 [BBD:136] True-Name Nemesis
+SB: 1 [M15:134] Chandra, Pyromaster
+SB: 1 [M13:150] Thundermaw Hellkite
+SB: 1 [DOM:81] Cast Down
+SB: 1 [ISD:213] Geist of Saint Traft
+SB: 1 [GRN:258] Temple Garden
+LAYOUT MAIN:(1,6)(CMC,false,80)|([GUR:4],[GUR:4],[GUR:4],[GUR:4],[GUR:4],[GUR:4],[GUR:4],[GUR:5],[GUR:5],[GUR:5],[GUR:5],[GUR:5])([ZEN:211],[2ED:265],[KTK:239],[3ED:286])([M19:94],[4ED:34],[4ED:147],[ULG:14],[CON:15])([XLN:1],[MOR:58],[RAV:81],[3ED:105],[TSB:6],[EMN:40],[WWK:20],[ALA:202],[BOK:163])([NPH:4],[AKH:14],[DKA:12],[NPH:19],[DST:148])([6ED:4],[ALA:9],[MBS:8],[JR:97],[RIX:82])
+LAYOUT SIDEBOARD:(1,6)(CMC,false,68)|([WWK:133],[GRN:253],[GRN:258])([ROE:174])([DOM:81])([5DN:164],[APC:114],[BBD:136],[ARB:92],[ISD:213])([XLN:223],[AVR:32],[AKH:8],[M15:134])([AKH:1],[M13:150],[M12:16])

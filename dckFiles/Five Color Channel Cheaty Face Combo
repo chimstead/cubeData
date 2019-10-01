@@ -1,0 +1,52 @@
+1 [4ED:34] Land Tax
+1 [ROE:6] Kozilek, Butcher of Truth
+1 [ARB:110] Sphinx of the Steel Wind
+1 [AVR:106] Griselbrand
+1 [M13:22] Oblivion Ring
+1 [NPH:57] Dismember
+1 [RTR:101] Mizzium Mortars
+1 [SOI:247] Nahiri, the Harbinger
+1 [RAV:255] Boros Signet
+1 [OGW:104] Chandra, Flamecaller
+1 [SOM:223] Wurmcoil Engine
+1 [RAV:270] Selesnya Signet
+1 [ROE:12] Ulamog, the Infinite Gyre
+1 [NPH:1] Karn Liberated
+1 [6ED:161] Vampiric Tutor
+1 [CON:121] Progenitus
+1 [EXO:115] Oath of Druids
+1 [5ED:388] Mana Vault
+1 [UDS:139] Thran Dynamo
+1 [WWK:115] Terastodon
+1 [4ED:236] Channel
+1 [LEG:185] Eureka
+1 [M13:199] Nicol Bolas, Planeswalker
+1 [DRK:117] Maze of Ith
+1 [OGW:171] Hissing Quagmire
+1 [KLD:246] Inspiring Vantage
+1 [RNA:259] Stomping Ground
+1 [3ED:283] Bayou
+1 [GRN:258] Temple Garden
+1 [KLD:249] Spirebluff Canal
+1 [2ED:233] Black Lotus
+2 [UST:216] Forest
+1 [UST:213] Island
+2 [UST:215] Mountain
+1 [UST:212] Plains
+2 [UST:214] Swamp
+1 [AER:181] Walking Ballista
+SB: 1 [SOI:233] Tireless Tracker
+SB: 1 [GRN:153] Aurelia, Exemplar of Justice
+SB: 1 [CHK:163] Desperate Ritual
+SB: 1 [XLN:232] Vraska, Relic Seeker
+SB: 1 [M13:174] Garruk, Primal Hunter
+SB: 1 [NPH:153] Shrine of Burning Rage
+SB: 1 [SOI:5] Archangel Avacyn
+SB: 1 [ULG:38] Palinchron
+SB: 1 [AKH:175] Manglehorn
+SB: 1 [XLN:90] Arguel's Blood Fast
+SB: 1 [THS:33] Spear of Heliod
+SB: 1 [HOU:83] Abrade
+SB: 1 [THS:128] Magma Jet
+LAYOUT MAIN:(2,10)(CMC,true,69)|([AER:181])()()()()([SOM:223])()([ARB:110],[AVR:106],[WWK:115])([ROE:6],[CON:121])([ROE:12])([DRK:117],[OGW:171],[KLD:246],[RNA:259],[3ED:283],[GRN:258],[KLD:249],[2ED:233],[UST:216],[UST:216],[UST:213],[UST:215],[UST:215],[UST:212],[UST:214],[UST:214])([4ED:34],[6ED:161],[5ED:388])([RTR:101],[RAV:255],[RAV:270],[EXO:115],[4ED:236])([M13:22],[NPH:57])([SOI:247],[UDS:139],[LEG:185])([OGW:104])([NPH:1])([M13:199])()()
+LAYOUT SIDEBOARD:(1,7)(COLOR,false,50)|([NPH:153])([XLN:90])([ULG:38])([SOI:233],[M13:174],[AKH:175])([CHK:163],[HOU:83],[THS:128])([SOI:5],[THS:33])([GRN:153],[XLN:232])

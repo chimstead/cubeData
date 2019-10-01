@@ -1,0 +1,52 @@
+1 [GRN:183] Knight of Autumn
+2 [3ED:293] Plains
+1 [5ED:280] Birds of Paradise
+1 [C17:37] Fractured Identity
+1 [NPH:4] Blade Splicer
+1 [KTK:248] Windswept Heath
+1 [BOK:163] Umezawa's Jitte
+1 [MBS:81] Green Sun's Zenith
+1 [M15:173] Elvish Mystic
+1 [3ED:297] Island
+1 [C16:56] Ash Barrens
+1 [TSB:119] Gemstone Mine
+2 [3ED:306] Forest
+1 [LEG:303] Karakas
+1 [RTR:248] Temple Garden
+1 [3ED:304] Forest
+1 [SOI:233] Tireless Tracker
+1 [CN2:18] Palace Jailer
+1 [WWK:20] Stoneforge Mystic
+1 [IMA:240] Horizon Canopy
+1 [ALA:9] Elspeth, Knight-Errant
+1 [THS:180] Sylvan Caryatid
+1 [BFZ:29] Gideon, Ally of Zendikar
+1 [GTC:240] Breeding Pool
+1 [3ED:41] Swords to Plowshares
+1 [BFZ:239] Lumbering Falls
+1 [TSB:89] Wall of Roots
+1 [PTK:17] Ravages of War
+1 [WWK:133] Celestial Colonnade
+1 [LRW:76] Mulldrifter
+1 [NPH:130] Batterskull
+1 [UDS:40] Opposition
+1 [3ED:285] Savannah
+1 [KLD:4] Angel of Invention
+1 [CN2:22] Recruiter of the Guard
+1 [CON:87] Noble Hierarch
+1 [NEM:17] Parallax Wave
+1 [VMA:20] Council's Judgment
+SB: 1 [MOR:58] Bitterblossom
+SB: 1 [C14:22] Flesh Carver
+SB: 1 [7ED:88] Memory Lapse
+SB: 1 [UDS:117] Plow Under
+SB: 1 [BNG:5] Brimaz, King of Oreskos
+SB: 1 [C16:195] Edric, Spymaster of Trest
+SB: 1 [AKH:204] Nissa, Steward of Elements
+SB: 1 [DOM:14] Dauntless Bodyguard
+SB: 1 [USG:134] Exhume
+SB: 1 [AVR:210] Sigarda, Host of Herons
+SB: 1 [4ED:34] Land Tax
+SB: 1 [3ED:292] Plains
+LAYOUT MAIN:(1,6)(CMC,false,50)|([BFZ:239],[TSB:119],[C16:56],[IMA:240],[LEG:303],[GTC:240],[WWK:133],[3ED:285],[RTR:248],[KTK:248],[3ED:304],[3ED:306],[3ED:306],[3ED:297],[3ED:293],[3ED:293])([CON:87],[5ED:280],[3ED:41],[M15:173],[MBS:81])([BOK:163],[WWK:20],[TSB:89],[THS:180])([SOI:233],[GRN:183],[VMA:20],[NPH:4],[CN2:22])([CN2:18],[UDS:40],[NEM:17],[BFZ:29],[ALA:9],[PTK:17])([NPH:130],[C17:37],[LRW:76],[KLD:4])
+LAYOUT SIDEBOARD:(1,5)(CMC,false,50)|([3ED:292])([4ED:34],[DOM:14])([MOR:58],[AKH:204],[USG:134],[7ED:88])([BNG:5],[C16:195],[C14:22])([AVR:210],[UDS:117])

@@ -1,0 +1,50 @@
+1 [C17:37] Fractured Identity
+1 [BFZ:29] Gideon, Ally of Zendikar
+1 [NEM:17] Parallax Wave
+1 [CN2:18] Palace Jailer
+1 [DKA:12] Lingering Souls
+1 [C17:16] Curse of Disturbance
+1 [DOM:21] History of Benalia
+1 [MH1:58] Mist-Syndicate Naga
+1 [EMN:46] Thalia, Heretic Cathar
+1 [GRN:205] Thief of Sanity
+1 [APC:126] Vindicate
+1 [XLN:110] Kitesail Freebooter
+1 [M12:72] Phantasmal Image
+1 [RTR:73] Pack Rat
+1 [KLD:235] Smuggler's Copter
+1 [ALA:202] Tidehollow Sculler
+1 [C13:25] Unexpectedly Absent
+1 [RAV:81] Dark Confidant
+1 [DST:140] Skullclamp
+1 [MH1:13] Giver of Runes
+1 [LEA:40] Swords to Plowshares
+1 [ULG:14] Mother of Runes
+1 [DOM:14] Dauntless Bodyguard
+1 [KTK:66] Bloodsoaked Champion
+1 [GPT:157] Godless Shrine
+1 [MH1:246] Silent Clearing
+1 [WTH:164] Gemstone Mine
+1 [LEA:284] Tundra
+1 [DIS:174] Hallowed Fountain
+1 [ZEN:223] Scalding Tarn
+1 [ZEN:211] Arid Mesa
+1 [LEA:285] Underground Sea
+1 [ONS:328] Windswept Heath
+1 [LEA:280] Savannah
+2 [3ED:294] Plains
+2 [3ED:293] Plains
+2 [3ED:300] Swamp
+SB: 1 [MMQ:61] Brainstorm
+SB: 1 [MH1:210] Nature's Chant
+SB: 1 [RAV:284] Temple Garden
+SB: 1 [DIS:172] Breeding Pool
+SB: 1 [PLC:85] Damnation
+SB: 1 [FUT:177] Horizon Canopy
+SB: 1 [KLD:67] Torrential Gearhulk
+SB: 1 [WAR:193] Dovin's Veto
+SB: 1 [MH1:187] Trumpeting Herd
+SB: 1 [DKA:24] Thalia, Guardian of Thraben
+SB: 1 [5ED:342] Wild Growth
+LAYOUT MAIN:(1,6)(CMC,false,50)|([GPT:157],[MH1:246],[WTH:164],[LEA:284],[DIS:174],[ZEN:223],[ZEN:211],[LEA:285],[ONS:328],[LEA:280],[3ED:294],[3ED:293],[3ED:294],[3ED:293],[3ED:300],[3ED:300])([DST:140],[MH1:13],[LEA:40],[ULG:14],[DOM:14],[KTK:66])([XLN:110],[M12:72],[RTR:73],[KLD:235],[ALA:202],[C13:25],[RAV:81])([DKA:12],[C17:16],[DOM:21],[MH1:58],[EMN:46],[GRN:205],[APC:126])([BFZ:29],[NEM:17],[CN2:18])([C17:37])
+LAYOUT SIDEBOARD:(1,5)(CMC,false,50)|([RAV:284],[DIS:172],[FUT:177])([MMQ:61],[5ED:342])([MH1:210],[WAR:193],[DKA:24])([PLC:85],[MH1:187])([KLD:67])

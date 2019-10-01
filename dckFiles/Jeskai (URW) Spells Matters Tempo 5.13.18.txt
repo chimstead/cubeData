@@ -1,0 +1,32 @@
+6 Island
+4 Mountain
+1 Plains
+1 Aether Hub
+1 Battlefield Forge
+1 Grand Coliseum
+1 Irrigated Farmland
+1 Tendo Ice Bridge
+1 Wasteland
+1 Burst Lightning
+1 Force Spike
+1 Grim Lavamancer
+1 Preordain
+1 Rakdos Cackler
+1 Incinerate
+1 Jace, Vryn's Prodigy
+1 Mana Leak
+1 Memory Lapse
+1 Soltari Trooper
+1 Thing in the Ice
+1 Flames of the Firebrand
+1 Geist of Saint Traft
+1 Vedalken Shackles
+1 Fact or Fiction
+1 Flametongue Kavu
+1 Glen Elendra Archmage
+1 Jace, the Mind Sculptor
+1 Sower of Temptation
+1 Venser, Shaper Savant
+1 Bribery
+1 Force of Will
+1 Reality Smasher

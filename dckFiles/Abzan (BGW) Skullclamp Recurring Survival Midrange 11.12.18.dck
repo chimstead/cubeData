@@ -1,0 +1,50 @@
+1 [WWK:144] Stirring Wildwood
+1 [VIS:72] Vampiric Tutor
+1 [ICE:244] Fyndhorn Elves
+1 [RTR:73] Pack Rat
+1 [EXO:129] Survival of the Fittest
+1 [ZEN:220] Misty Rainforest
+1 [AKH:97] Liliana, Death's Majesty
+1 [FUT:177] Horizon Canopy
+1 [STH:138] Mox Diamond
+1 [LEB:279] Bayou
+1 [M13:193] Thragtusk
+1 [ZEN:168] Lotus Cobra
+1 [GRN:208] Trostani Discordant
+1 [LRW:145] Thoughtseize
+1 [THS:180] Sylvan Caryatid
+1 [VIS:66] Nekrataal
+1 [M11:97] Grave Titan
+1 [C14:22] Flesh Carver
+1 [EXO:72] Recurring Nightmare
+1 [MRD:152] Chrome Mox
+1 [MMA:180] Maelstrom Pulse
+1 [DST:140] Skullclamp
+1 [M10:165] Acidic Slime
+4 [GUR:1] Forest
+1 [CN2:41] Custodi Lich
+4 [GUR:5] Swamp
+2 [GUR:4] Plains
+1 [OGW:171] Hissing Quagmire
+1 [ZEN:219] Marsh Flats
+1 [M14:169] Elvish Mystic
+1 [LEB:105] Demonic Tutor
+1 [CHK:239] Sakura-Tribe Elder
+1 [LRW:213] Garruk Wildspeaker
+SB: 1 [UDS:118] Rofellos, Llanowar Emissary
+SB: 1 [C16:18] Frenzied Fugue
+SB: 1 [WWK:115] Terastodon
+SB: 1 [LEB:85] Timetwister
+SB: 1 [LEA:129] Sinkhole
+SB: 1 [FUT:153] Tarmogoyf
+SB: 1 [NPH:104] Birthing Pod
+SB: 1 [RAV:262] Golgari Signet
+SB: 1 [EMN:6] Emrakul, the Promised End
+SB: 1 [KTK:196] Sagu Mauler
+SB: 1 [NEM:141] Kor Haven
+SB: 1 [LEA:214] Regrowth
+SB: 1 [ZEN:116] Vampire Nighthawk
+SB: 1 [KLD:235] Smuggler's Copter
+SB: 1 [FUT:91] Tombstalker
+LAYOUT MAIN:(1,8)(CMC,false,79)|([GUR:1],[GUR:1],[GUR:1],[GUR:1],[GUR:5],[GUR:5],[GUR:5],[GUR:5],[GUR:4],[GUR:4])([LEB:279],[OGW:171],[FUT:177],[ZEN:219],[ZEN:220],[WWK:144])([MRD:152],[STH:138],[M14:169],[ICE:244],[DST:140],[LRW:145],[VIS:72])([LEB:105],[ZEN:168],[RTR:73],[CHK:239],[EXO:129],[THS:180])([C14:22],[MMA:180],[EXO:72])([LRW:213],[VIS:66])([M10:165],[CN2:41],[AKH:97],[M13:193],[GRN:208])([M11:97])
+LAYOUT SIDEBOARD:(1,7)(CMC,false,67)|([NEM:141])([UDS:118],[KLD:235],[LEA:214],[FUT:153],[RAV:262],[LEA:129])([LEB:85],[ZEN:116])([C16:18],[NPH:104])([KTK:196])([WWK:115],[FUT:91])([EMN:6])

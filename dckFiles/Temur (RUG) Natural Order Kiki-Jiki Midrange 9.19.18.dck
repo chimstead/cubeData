@@ -1,0 +1,50 @@
+1 [2ED:263] Mox Jet
+1 [SOM:48] Trinket Mage
+1 [2ED:262] Mox Emerald
+1 [LRW:88] Sower of Temptation
+1 [C16:195] Edric, Spymaster of Trest
+1 [BFZ:209] Bring to Light
+3 [UNH:140] Forest
+1 [THS:209] Xenagos, the Reveler
+1 [6ED:83] Mystical Tutor
+1 [BOK:163] Umezawa's Jitte
+1 [TSP:73] Riftwing Cloudskate
+1 [STH:138] Mox Diamond
+1 [M15:173] Elvish Mystic
+2 [UNH:139] Mountain
+1 [ZEN:168] Lotus Cobra
+1 [RTR:248] Temple Garden
+1 [NPH:33] Deceiver Exarch
+1 [USG:321] Gaea's Cradle
+1 [DKA:140] Huntmaster of the Fells
+1 [KLD:249] Spirebluff Canal
+1 [PLC:149] Harmonize
+3 [UNH:137] Island
+1 [LRW:76] Mulldrifter
+1 [MRD:152] Chrome Mox
+1 [CHK:175] Kiki-Jiki, Mirror Breaker
+1 [M12:188] Primeval Titan
+1 [M12:165] Birds of Paradise
+1 [2ED:85] Timetwister
+1 [3ED:285] Savannah
+1 [3ED:214] Regrowth
+1 [M19:314] Llanowar Elves
+1 [5ED:408] Winter Orb
+1 [SOM:208] Sword of Body and Mind
+1 [RTR:44] Jace, Architect of Thought
+1 [WWK:31] Jace, the Mind Sculptor
+1 [VIS:114] Natural Order
+SB: 1 [ROE:47] Student of Warfare
+SB: 1 [WWK:144] Stirring Wildwood
+SB: 1 [ARB:75] Qasali Pridemage
+SB: 1 [XLN:48] Chart a Course
+SB: 1 [M11:21] Leyline of Sanctity
+SB: 1 [ULG:80] Goblin Welder
+SB: 1 [RIX:136] Jadelight Ranger
+SB: 1 [M13:147] Searing Spear
+SB: 1 [WWK:20] Stoneforge Mystic
+SB: 1 [M19:196] Reclamation Sage
+SB: 1 [AKH:164] Dissenter's Deliverance
+SB: 1 [THS:33] Spear of Heliod
+LAYOUT MAIN:(1,7)(CMC,false,50)|([2ED:262],[2ED:263],[MRD:152],[STH:138],[USG:321],[KLD:249],[3ED:285],[RTR:248],[UNH:140],[UNH:140],[UNH:140],[UNH:137],[UNH:137],[UNH:137],[UNH:139],[UNH:139])([M19:314],[M12:165],[M15:173],[6ED:83])([BOK:163],[3ED:214],[5ED:408],[ZEN:168])([C16:195],[2ED:85],[SOM:208],[SOM:48],[NPH:33])([DKA:140],[PLC:149],[VIS:114],[RTR:44],[WWK:31],[THS:209],[LRW:88])([BFZ:209],[CHK:175],[LRW:76],[TSP:73])([M12:188])
+LAYOUT SIDEBOARD:(1,5)(CMC,false,50)|([WWK:144])([ULG:80],[ROE:47])([AKH:164],[ARB:75],[M13:147],[WWK:20],[XLN:48])([RIX:136],[THS:33],[M19:196])([M11:21])

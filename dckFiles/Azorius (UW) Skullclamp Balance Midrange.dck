@@ -1,0 +1,49 @@
+1 [2ED:262] Mox Emerald
+1 [M11:58] Jace Beleren
+1 [LRW:88] Sower of Temptation
+1 [DOM:26] Lyra Dawnbringer
+1 [4ED:34] Land Tax
+1 [NPH:4] Blade Splicer
+1 [BOK:163] Umezawa's Jitte
+1 [STH:138] Mox Diamond
+1 [DIS:159] Azorius Signet
+1 [DRK:117] Maze of Ith
+1 [LEG:303] Karakas
+1 [INV:57] Fact or Fiction
+1 [M12:55] Frost Titan
+1 [4ED:6] Balance
+1 [BFZ:29] Gideon, Ally of Zendikar
+1 [AVR:32] Restoration Angel
+1 [EVE:6] Flickerwisp
+1 [FUT:46] Venser, Shaper Savant
+1 [LRW:56] Cryptic Command
+1 [DST:140] Skullclamp
+1 [4ED:64] Control Magic
+7 [GUR:2] Island
+5 [GUR:4] Plains
+1 [MOR:55] Vendilion Clique
+1 [KLD:4] Angel of Invention
+1 [ZEN:219] Marsh Flats
+1 [2ED:48] Ancestral Recall
+1 [JOU:163] Mana Confluence
+1 [M13:22] Oblivion Ring
+1 [2ED:266] Mox Sapphire
+SB: 1 [ROE:47] Student of Warfare
+SB: 1 [WWK:115] Terastodon
+SB: 1 [ARB:46] Terminate
+SB: 1 [M12:145] Grim Lavamancer
+SB: 1 [M11:175] Garruk Wildspeaker
+SB: 1 [STH:125] Wall of Blossoms
+SB: 1 [DTK:216] Dragonlord Atarka
+SB: 1 [M13:150] Thundermaw Hellkite
+SB: 1 [4ED:361] Mishra's Factory
+SB: 1 [ISD:181] Garruk Relentless
+SB: 1 [ZEN:11] Emeria Angel
+SB: 1 [SOI:155] Falkenrath Gorger
+SB: 1 [SOM:94] Koth of the Hammer
+SB: 1 [VIS:79] Fireblast
+SB: 1 [RIX:82] Ravenous Chupacabra
+SB: 1 [ORI:143] Exquisite Firecraft
+SB: 1 [MBS:8] Hero of Bladehold
+LAYOUT MAIN:(1,8)(CMC,false,75)|([GUR:2],[GUR:2],[GUR:2],[GUR:2],[GUR:2],[GUR:2],[GUR:2],[GUR:4],[GUR:4],[GUR:4],[GUR:4],[GUR:4])([LEG:303],[JOU:163],[ZEN:219],[DRK:117],[STH:138],[2ED:262],[2ED:266])([2ED:48],[4ED:34],[DST:140])([DIS:159],[4ED:6],[BOK:163])([NPH:4],[EVE:6],[M11:58],[M13:22],[MOR:55])([4ED:64],[LRW:56],[INV:57],[BFZ:29],[AVR:32],[LRW:88],[FUT:46])([KLD:4],[DOM:26])([M12:55])
+LAYOUT SIDEBOARD:(1,9)(CMC,false,61)|([4ED:361])([M12:145],[ROE:47],[SOI:155])([ARB:46],[STH:125])([ORI:143])([SOM:94],[ZEN:11],[RIX:82],[ISD:181],[M11:175],[MBS:8])([M13:150])([VIS:79])([DTK:216])([WWK:115])

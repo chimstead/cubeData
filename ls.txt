@@ -1,0 +1,488 @@
+(WUBRG) 5 Color Control 11.6.18.dck
+3-0 Esper (UBW) Psychatog Control 4.15.18.txt
+Abzan (BGW) Aggro 6.16.18.txt
+Abzan (BGW) Attrition Aggro.txt
+Abzan (BGW) Birthing Pod Midrange.dck
+Abzan (BGW) Jank Midrange 7.1.18.txt
+Abzan (BGW) Loam Excavator Stax Aggro.txt
+Abzan (BGW) Midrange 2.txt
+Abzan (BGW) Midrange.txt
+Abzan (BGW) Natural Order Midrange
+Abzan (BGW) Recurring Nightmare Midrange 6.23.18.txt
+Abzan (BGW) Recurring Nightmare Midrange.txt
+Abzan (BGW) Recurring Nightmare Reveillark Midrange
+Abzan (BGW) Recurring Nightmare Survival Midrange 9.15.18.dck
+Abzan (BGW) Recurring Survival Reveillark Midrange Shenanigans 3.28.18.txt
+Abzan (BGW) Reveillark Midrange
+Abzan (BGW) Reveillark Recurring Nightmare Midrange 10.27.18.dck
+Abzan (BGW) Reveillark Survival Blink Midrange Shenanigans 3.25.18.txt
+Abzan (BGW) Reveillark Survival Midrange 6.23.18.txt
+Abzan (BGW) Skullclamp Recurring Nightmare Midrange.dck
+Abzan (BGW) Skullclamp Recurring Survival Midrange 11.12.18.dck
+Abzan (BGW) Tokens Midrange 10.28.18.dck
+Abzan (BGW) Tokens Superfriends Midrange
+Abzan (BGW) Vraska Loam Skullclamp Midrange 10.14.18.dck
+Azorius (UW) Aggro
+Azorius (UW) Balance Control.dck
+Azorius (UW) Balance Moat Control 8.26.18.dck
+Azorius (UW) Balance Upheaval Spells Matters Control.dck
+Azorius (UW) Control
+Azorius (UW) Control .dck
+Azorius (UW) Control 5.1.18.txt
+Azorius (UW) Control 5.19.18.txt
+Azorius (UW) Control.dck
+Azorius (UW) Control.txt
+Azorius (UW) Midrange
+Azorius (UW) Moat Control 10.1.18.dck
+Azorius (UW) Moat Control 9.2.18.dck
+Azorius (UW) Moat Control.dck
+Azorius (UW) Reveillark Balance Control 4.7.18.txt
+Azorius (UW) Reveillark Opposition Tokens Midrange
+Azorius (UW) Skullclamp Balance Midrange.dck
+Azorius (UW) Spells Matters Control 12.26.17.txt
+Azorius (UW) Stoneforge Midrange
+Azorius (UW) Stoneforge Midrange 10.29.18.dck
+Azorius (UW) Tempo
+Azorius (UW) Tempo 10.19.18.dck
+Azorius (UW) Tempo 3.24.18.txt
+Azorius (UW) Tempo 3.4.18.txt
+Azorius (UW) Tempo 4.16.18.txt
+Azorius (UW) Tezzret Control
+Azorius (UW) Upheaval Balance Moat Control 8.4.18.dck
+Bant (UGW)  Birthing Pod Reveillark Midrange 7.8.18.dck
+Bant (UGW) Armageddon Midrange.txt
+Bant (UGW) Birthing Pod Reveillark Midrange 7.12.18.dck
+Bant (UGW) Control.txt
+Bant (UGW) Edric Reveillark Midrange 1.27.18.txt
+Bant (UGW) Edric Reveillark Midrange Shenanigans 1.1.18.txt
+Bant (UGW) Excavator Opposition Midrange Shenanigans 3.11.18.txt
+Bant (UGW) Gideon Tribal Superfriends Midrange 9.29.18.dck
+Bant (UGW) Goodstuff Midrange 2.25.18.txt
+Bant (UGW) Midrange 9.12.18.txt
+Bant (UGW) Midrange.txt
+Bant (UGW) Natural Order Channel Ramp 7.29.18.dck
+Bant (UGW) Natural Order Reveillark Survival Midrange.txt
+Bant (UGW) Opposition Armageddon Midrange 11.18.18.dck
+Bant (UGW) Opposition Midrange
+Bant (UGW) Opposition Midrange 1.15.18.txt
+Bant (UGW) Opposition Tempo 1.21.18.txt
+Bant (UGW) Reveillark Tokens Midrange
+Bant (UGW) Skullclamp Armageddon Midrange 9.27.18.dck
+Bant (UGW) Skullclamp Birthing Pod Reveillark Opposition Midrange 6.13.18.txt
+Bant (UGW) Skullclamp Opposition Midrange 11.12.18.dck
+Bant (UGW) Skullclamp Survival Midrange 7.26.18.dck
+Bant (UGW) Superfriends Midrange 7.16.18.dck
+Bant (UGW) Time Walk Midrange Shenanigans 2.3.18.txt
+Bant (UGW) Wake Ramp.dck
+Boros (RW) Aggressive Midrange 9.10.18.dck
+Boros (RW) Aggro
+Boros (RW) Aggro (1)
+Boros (RW) Aggro 3.3.18.txt
+Boros (RW) Aggro 6.10.18.txt
+Boros (RW) Aggro 6.22.18.dck
+Boros (RW) Aggro 6.30.18.dck
+Boros (RW) Aggro 6.9.18.txt
+Boros (RW) Aggro Burn 12.23.17.txt
+Boros (RW) Aggro Burn 12.2517.txt
+Boros (RW) Aggro copy
+Boros (RW) Aggro copy 2
+Boros (RW) Aggro.dck
+Boros (RW) Aggro.txt
+Boros (RW) Armageddon Aggro
+Boros (RW) Armageddon Aggro 10.21.18.dck
+Boros (RW) Armageddon Aggro 12.16.17.txt
+Boros (RW) Armageddon Aggro 12.29.17.txt
+Boros (RW) Armageddon Aggro 5.12.18.txt
+Boros (RW) Armageddon Aggro 6.8.18.txt
+Boros (RW) Armageddon Aggro 7.19.18.dck
+Boros (RW) Armageddon Aggro.dck
+Boros (RW) Armageddon Crucible Midrange
+Boros (RW) Kiki-Jiki Midrange 1.5.18.txt
+Boros (RW) Purphoros Sneak Attack Tokens Midrange Shenanigans 3.23.18.txt
+Boros (RW) Purphoros Tokens Aggressive Midrange 4.14.18.txt
+Boros (RW) Purphoros Tokens Midrange.txt
+Boros (RW) Stoneforge Armageddon Aggro Burn 1.4.18.txt
+Dimir (UB) Ancestral Stax Aggro 3.17.18.txt
+Dimir (UB) As Foretold Control.txt
+Dimir (UB) Midrange
+Dimir (UB) Ramp.dck
+Dimir (UB) Reanimator 2.11.18.txt
+Dimir (UB) Reanimator 2.5.18.txt
+Dimir (UB) Reanimator Combo 5.31.18.txt
+Dimir (UB) Reanimator Combo.dck
+Dimir (UB) Reanimator Tinker Combo 7.14.18.dck
+Dimir (UB) Recurring Nightmare Midrange
+Dimir (UB) Recurring Nightmare Midrange.dck
+Dimir (UB) Spells Matters Control 4.2.18.txt
+Dimir (UB) Tempo 7.11.18.txt
+Dimir (UB) Tempo 9.8.18.txt
+Dimir (UB) The Antiquities War Reanimator Combo 5.19.18.txt
+Dimir (UB) Tinker Artifact Ramp 5.13.18.txt
+Dimir (UB) Tinker Reanimator Combo 7.6.18.dck
+Dimir (UB) Tinker Reanimator Combodck
+Dimir (UB) Tinker Upheaval Ramp 6.23.18.dck
+Dimir (UB) Upheaval Control
+Dimir (UBW) Tinker Combo.txt
+Esper (UBW) Aggressive Midrange 3.9.18.txt
+Esper (UBW) Aggro
+Esper (UBW) Balance Control
+Esper (UBW) Balance Control .txt
+Esper (UBW) Balance Control 6.13.18.txt
+Esper (UBW) Balance Control 7.11.18.dck
+Esper (UBW) Balance Control 8.15.18.dck
+Esper (UBW) Balance Control 9.8.18.dck
+Esper (UBW) Balance Control.dck
+Esper (UBW) Balance Moat Contro 6.16.18.txt
+Esper (UBW) Balance Psychatog Control 10.8.18.dck
+Esper (UBW) Balance Spells Matters Control 2.9.18.txt
+Esper (UBW) Balance Upheaval Control.dck
+Esper (UBW) Control
+Esper (UBW) Control .dck
+Esper (UBW) Control 11.18.18.dck
+Esper (UBW) Control 12.4.17.txt
+Esper (UBW) Control 3.10.18.txt
+Esper (UBW) Control 9.16.18.dck
+Esper (UBW) Control 9.2.18.txt
+Esper (UBW) Control.txt
+Esper (UBW) Midrange
+Esper (UBW) Midrange 10.13.18.dck
+Esper (UBW) Midrange 11.22.18.dck
+Esper (UBW) Midrange.dck
+Esper (UBW) Moat Control
+Esper (UBW) Moat Control 1.20.18.txt
+Esper (UBW) Moat Control 8.12.18.dck
+Esper (UBW) Opposition Moat Control 8.30.18.dck
+Esper (UBW) Opposition Tempo 9.15.18.dck
+Esper (UBW) Psychatog Mentor Control 9.10.18.dck
+Esper (UBW) Reanimator 3.24.18.txt
+Esper (UBW) Reanimator Combo 7.4.18.dck
+Esper (UBW) Reanimator Midrange
+Esper (UBW) Recurring Nightmare Living Death Midrange 10.10.18.dck
+Esper (UBW) Recurring Nightmare Reanimator Combo
+Esper (UBW) Skullclamp Tokens Midrange 11.12.18.dck
+Esper (UBW) Stoneforge Reveillark Tempo 4.28.18.txt
+Esper (UBW) Superfriends Control.dck
+Esper (UBW) Superfriends Mentor Midrange 6.3.18.txt
+Esper (UBW) Tapout Control.dck
+Esper (UBW) Tempo
+Esper (UBW) Tinker Balance Ramp 9.1.18.dck
+Esper (UBW) Tinker Moat Upheaval Control 7.1.18.txt
+Esper (UBW) Torrential Control 12.5.17.txt
+Five Color (WUBRG) Balance Superfriends Midrange 4.22.18.txt
+Five Color (WUBRG) Ramp 9.25.18.dck
+Five Color (WUBRG) Skullclamp Aggro 3.17.18.txt
+Five Color Channel Cheaty Face Combo
+Five Color Midrange.dck
+Five Color Skullclamp Recurring Nightmare Midrange
+Four Color (BRGW) Ramp 9.30.18.dck
+Four Color (RGBW) Balance Goodstuff Midrange 12.15.17.txt
+Four Color (RGBW) Goodstuff Midrange 6.11.18.txt
+Four Color (RGBW) Midrange.txt
+Four Color (UBGW) Goodstuff Midrange 1.5.18.txt
+Four Color (UBRG) Recurring Nightmare Opposition Midrange 12.7.17.txt
+Four Color (URBG) Cheaty Face Combo
+Four Color (URBG) Cheaty Face Combo 8.22.18.dck
+Four Color (URBG) Goodstuff Midrange Colorless.txt
+Four Color (URBG) Kiki-Twin Combo 9.20.18.dck
+Four Color (URBG) Tinker Cheaty Face Combo
+Four Color (URBG) Upheaval Ramp 4.22.18.txt
+Four Color (URBG) Wildfire Ramp
+Four Color (URBW) Balance Control 4.22.18.txt
+Four Color (URBW) Balance Upheaval Ramp.txt
+Four Color (URBW) Balance Wildfire Superfriends Control 8.11.18.dck
+Four Color (URBW) Midrange.txt
+Four Color (URBW) Opposition Midrange 9.1.18.dck
+Four Color (URBW) Opposition Midrange 9.26.18.dck
+Four Color (URBW) Tinker Upheaval Ramp 4.7.18.txt
+Four Color (URBW) Upheaval Ramp 6.9.18.txt
+Four Color (URGB) Channel Cheaty Face Combo
+Four Color (URGB) Cheaty Face Combo
+Four Color (URGB) Cheaty Face Combo copy
+Four Color (URGB) Cheaty Face Combo.dck
+Four Color (URGW) Kiki Combo 6.20.18.txt
+Four Color (URGW) Kiki Twin Tinker Sneak Attack Cheaty Face Combo 9.1.18.dck
+Four Color (URGW) Reveillark Midrange 1.21.18.txt
+Four Color (WURG) Tinker Oath and Tell Cheaty Face Combo 4.21.18.txt
+Four-Color (URBG) Cheaty Face Combo 2.24.18.txt
+Golgari (BG) Aggro.txt
+Golgari (BG) Lands Matters Midrange
+Golgari (BG) Midrange Stax 1.15.18.txt
+Golgari (BG) Natural Order Ramp 8.12.18.dck
+Golgari (BG) Reanimator 3.24.18.txt
+Golgari (BG) Recurring Nightmare Midrange.txt
+Golgari (BG) Skullclamp Super Ramp 10.11.18.dck
+Golgari (BG) Stax Aggro 3.17.18.txt
+Golgari (BG) Vraska Midrange 10.13.18.dck
+Golgari (BG) Vraska Midrange 10.5.18.dck
+Grixis (UBR) Control
+Grixis (UBR) Control 4.21.18.txt
+Grixis (UBR) Gifts Reanimator Combo
+Grixis (UBR) Kiki-Jiki Goodstuff Midrange 11.24.18.dck
+Grixis (UBR) Kiki-Twin Combo Upheaval Wildfire Midrange 10.14.18.dck
+Grixis (UBR) Midrange 9.12.18.dck
+Grixis (UBR) Psychatog Reanimator Combo
+Grixis (UBR) Psychatog Reanimator Sneak Attack Combo.dck
+Grixis (UBR) Ramp 7.14.18.dck
+Grixis (UBR) Ramp Control.txt
+Grixis (UBR) Reanimator Combo 11.14.18.dck
+Grixis (UBR) Reanimator Combo 6.4.18.txt
+Grixis (UBR) Reanimator Combo 7.6.18.dck
+Grixis (UBR) Reanimator Combo.dck
+Grixis (UBR) Reanimator Combo.txt
+Grixis (UBR) Reanimator Control
+Grixis (UBR) Reanimator Midrange
+Grixis (UBR) Reanimator Sneak Attack Combo.dck
+Grixis (UBR) Recurring Nightmare Control.txt
+Grixis (UBR) Recurring Nightmare Opposition Midrange 8.18.18.dck
+Grixis (UBR) Sneak Attack Reanimator Combo 7.9.18.dck
+Grixis (UBR) Spells Matters Control 6.2.18.txt
+Grixis (UBR) Storm Combo.dck
+Grixis (UBR) Time Walk Aggro 4.27.18.txt
+Grixis (UBR) Tinker Abyss Crucible Control.txt
+Grixis (UBR) Tinker Artifact Ramp 9.29.18.dck
+Grixis (UBR) Tinker Control 4.1.18.txt
+Grixis (UBR) Tinker Ramp.dck
+Grixis (UBR) Tinker Show and Tell Cheaty Face Combo 8.11.18.dck
+Grixis (UBR) Tinker Upheaval Ramp 10.4.18.dck
+Grixis (UBR) Tinker Upheaval Ramp.txt
+Grixis (UBR) Tinker Wildfire Upheaval Ramp 9.21.18.dck
+Grixis (UBR) Twin Midrange.dck
+Grixis (UBR) Upheaval Artifacts Matters Ramp 9.9.18.dck
+Grixis (UBR) Upheaval Control.dck
+Grixis (UBR) Upheaval Wildfire Control.txt
+Grixis (UBR) Upheaval Wildfire Superfriends Control.txt
+Grixis (UBR) Wildfire Ramp 11.24.18.dck
+Grixis (URB) Recurring Nightmare Reanimator Artifacts Matters Ramp 12.25.17.txt
+Gruul (RG) Aggressive Midrange
+Gruul (RG) Aggro
+Gruul (RG) Aggro copy
+Gruul (RG) Natural Order Fires Ramp 11.8.18.dck
+Gruul (RG) Natural Order Midrange Ramp.txt
+Gruul (RG) Natural Order Ramp.dck
+Gruul (RG) Natural Order Survival Midrange 8.10.18.dck
+Gruul (RG) Ramp Midrange.txt
+Gruul (RG) Rancor Survival Aggressive Midrange 6.17.18.txt
+Izzet (UR) Aggressive Twin Combo Midrange 6.8.18.txt
+Izzet (UR) Cheaty Face Combo
+Izzet (UR) Control 5.19.18.txt
+Izzet (UR) Control.dck
+Izzet (UR) Counterburn Aggro.txt
+Izzet (UR) Counterburn Tempo
+Izzet (UR) Counterburn Tempo .dck
+Izzet (UR) Counterburn Tempo 4.17.18.txt
+Izzet (UR) Kiki Combo
+Izzet (UR) Kiki-Twin Combo 3.10.18.txt
+Izzet (UR) Midrange 12.22.17.txt
+Izzet (UR) Midrange 12.5.17.txt
+Izzet (UR) Spells Matters Control
+Izzet (UR) Splinter Twin Combo.dck
+Izzet (UR) Tempo
+Izzet (UR) Tempo.dck
+Izzet (UR) Tinker Wildfire Artifact Ramp 5.26.18.txt
+Izzet (UR) Twin Combo Midrange 8.31.18.dck
+Izzet (UR) Twin Wildfire Combo
+Izzet (UR) Welder Kiki Combo
+Jeskai (URW) Aggro 12.5.17.txt
+Jeskai (URW) Armageddon Aggro 11.5.18.dck
+Jeskai (URW) Balance Control 4.4.18.txt
+Jeskai (URW) Balance Control.dck
+Jeskai (URW) Control.dck
+Jeskai (URW) Control.txt
+Jeskai (URW) Kiki-Twin Combo
+Jeskai (URW) Kiki-Twin Combo 12.17.17.txt
+Jeskai (URW) Kiki-Twin Combo 7.27.18.dck
+Jeskai (URW) Kiki-Twin Combo 9.23.18.txt
+Jeskai (URW) Kiki-Twin Reveillark Opposition Combo.dck
+Jeskai (URW) Kiki-Twin Reveillark Pod Combo 9.22.18.dck
+Jeskai (URW) Midrange.txt
+Jeskai (URW) Spells Matters Control 5.20.18.txt
+Jeskai (URW) Spells Matters Tempo 5.13.18.txt
+Jeskai (URW) Spels Matters Balance Control 12.25.17.txt
+Jeskai (URW) Superfriends Midrange 7.4.18.txt
+Jeskai (URW) Tempo.dck
+Jeskai (URW) Tinker Upheaval Ramp 4.12.18.txt
+Jeskai (URW) Tinker Upheaval Wildfire Artifact Ramp.dck
+Jeskai (URW) Twin Control 4.11.18.txt
+Jeskai (URW) Wildfire Midrange.txt
+Jeskai (UWR) Balance Tinker Wildfire Ramp 8.4.18.dck
+Jund (RBG) Eureka Cheaty Face Oath Combo 2.17.18.txt
+Jund (RBG) Reanimator Oath Sneak Attack Shenanigans Combo 12.16.17.txt
+Jund (RBG) Recurring Nightmare Natural Order Midrange 4.28.18.txt
+Jund (RBG) Survival Midrange 12.28.17.txt
+Jund (RGB) Aggro.txt
+Jund (RGB) Channel Cheaty Face Combo.dck
+Jund (RGB) Channel Oath Combo
+Jund (RGB) Cheaty Face Combo
+Jund (RGB) Cheaty Face Combo 6.30.18.txt
+Jund (RGB) Midrange
+Jund (RGB) Natural Order Recurring Nightmare Survival Midrange
+Jund (RGB) Recurring Nightmare Living Death Midrange 12.10.17.txt
+Jund (RGB) Recurring Nightmare Midrange 7.29.18.dck
+Jund (RGB) Recurring Nightmare Vraska Midrange 9.24.18.dck
+Jund (RGB) Recurring Survival Midrange.txt
+Jund (RGB) Survial Midrange
+Jund (RGB) Wildfire Midrange 5.25.18.txt
+Jund (RGB) Yawgmoth Skullclamp Midrange
+Mardu (RBW) Armageddon Aggro
+Mardu (RBW) Armageddon Aggro 2.8.18.txt
+Mardu (RBW) Stoneforge Aggro.dck
+Mardu (RBW) Wildfire Superfriends Ramp 1.21.18.txt
+Mono Black Aggro 8.20.18.dck
+Mono Black Pox Aggro 3.17.18.txt
+Mono Black Zombie Aggro
+Mono Blue Tinker Ramp 12.18.17.txt
+Mono Green Channel Tooth and Nail Super Ramp.dck
+Mono Green Natural Order Tooth and Nail Super Ramp 12.30.17.txt
+Mono Green Tooth and Nail Ramp.dck
+Mono R Aggro 3.28.18.txt
+Mono Red Aggro
+Mono Red Aggro 11.12.18.dck
+Mono Red Aggro 12.14.17.txt
+Mono Red Aggro 2 8.14.18.dck
+Mono Red Aggro 3.3.18.txt
+Mono Red Aggro 7.15.18.txt
+Mono Red Aggro 7.29.18.dck
+Mono Red Aggro 8.15.18.dck
+Mono Red Aggro 9.16.18.dck
+Mono Red Aggro Burn
+Mono Red Aggro copy
+Mono Red Aggro.dck
+Mono Red Aggro.rtf
+Mono Red Aggro.txt
+Mono Red Kiki-Twin Combo 10.7.18.dck
+Mono Red Midrange 10.14.18.dck
+Mono White Aggressive Midrange 8.23.18.dck
+Mono White Aggro
+Mono White Aggro 2.11.18.txt
+Mono White Aggro 4.1.18.txt
+Mono White Aggro 6.5.18.txt
+Mono White Aggro 8.28.18.dck
+Mono White Aggro.dck
+Mono White Aggro.txt
+Mono White Midrange
+Mono White Stoneforge Aggro
+Mono White Stoneforge Aggro 10.6.18.dck
+Naya (RGW) Aggro.dck
+Naya (RGW) Armageddon Aggro 12.20.17.txt
+Naya (RGW) Armageddon Midrange
+Naya (RGW) Collected Company Midrange.dck
+Naya (RGW) Excavator Midrange.txt
+Naya (RGW) Midrange.txt
+Naya (RGW) Reveillark Survival Midrange.dck
+Naya (RGW) Stoneforge Aggro 2.10.18.txt
+Naya (RGW) Stoneforge Aggro 6.2.18.txt
+Naya (RGW) Stoneforge Pod Midrange 10.21.18.dck
+Naya (RGW) Survival Skullclamp Midrange 4.8.18.txt
+Orzhov (BW) Aggro 10.17.18.dck
+Orzhov (BW) Aggro 2.txt
+Orzhov (BW) Aggro Pile 8.5.18.dck
+Orzhov (BW) Aggro.txt
+Orzhov (BW) Aristocrats Aggro.dck
+Orzhov (BW) Armageddon Aggro 5.1.18.txt
+Orzhov (BW) Armageddon Aggro 8.10.18.dck
+Orzhov (BW) Armageddon Aggro 9.22.18.dck
+Orzhov (BW) Armageddon Aggro.txt
+Orzhov (BW) Armageddon Braids Aggro.txt
+Orzhov (BW) Armageddon Braids Stax Aggro 1.25.18.txt
+Orzhov (BW) Armageddon Stax Aggro 4.1.18.txt
+Orzhov (BW) Armageddon Stax Aggro 7.14.18.dck
+Orzhov (BW) Armageddon Stax Aggro 8.1.18.dck
+Orzhov (BW) Armageddon Stax Aggro.txt
+Orzhov (BW) Goodstuff Midrange 4.1.18.txt
+Orzhov (BW) Midrange 7.15.18.dck
+Orzhov (BW) Midrange Pile.dck
+Orzhov (BW) Recurring Nightmare Reaniamtor Combo.txt
+Orzhov (BW) Stax Aggro 1
+Orzhov (BW) Stax Aggro 4.14.18.txt
+Orzhov (BW) Stax Aggro 9.30.18.dck
+Orzhov (BW) Stax Aggro copy 2.txt
+Orzhov (BW) Stax Aggro copy.txt
+Orzhov (BW) Stax Aggro.txt
+Orzhov (BW) Stoneforge Armageddon Aggro 10.13.18.dck
+Orzhov (BW) Stoneforge Midrange 9.12.18.dck
+Orzhov (BW) Stoneforge Midrange.txt
+Orzhov (BW) Stoneforge Stax Midrange 7.27.18.dck
+Rakdos (RB) Aggro 7.10.18.dck
+Rakdos (RB) Aggro 7.7.18.txt
+Rakdos (RB) Aggro 8.29.18.dck
+Rakdos (RB) Aggro 9.29.18.dck
+Rakdos (RB) Aggro.dck
+Rakdos (RB) Midrange
+Rakdos (RB) Recurring Nightmare Aggressive Midrange 9.16.18.dck
+Rakdos (RB) Recurring Nightmare Purphoros Midrange 5.19.18.txt
+Rakdos (RB) Recurring Nightmare Skullclamp Feldon Midrange
+Rakdos (RB) Sneak Attack Aristocrats Midrange.dck
+Rakdos (RB) Stax Aggro 10.19.18.dck
+Rakdos (RB) Stax Control 8.19.18.dck
+Selesnya (GW) Aggro
+Selesnya (GW) Armageddon Aggressive Midrange 9.1.18.dck
+Selesnya (GW) Birthing Pod Survival Tokens Midrange.dck
+Selesnya (GW) Moat Midrange
+Selesnya (GW) Natural Order Ramp 4.27.18.txt
+Selesnya (GW) Natural Order Skullclamp Reveillark Survival Midrange 11.22.18.dck
+Selesnya (GW) Natural Order Skullclmap Survival Midrange.dck
+Selesnya (GW) Natural Order Super Ramp 4.7.18.txt
+Selesnya (GW) Natural Order Survival Midrange Shenanigans 2.23.18.txt
+Selesnya (GW) Natural Order Survival Wake Ramp.dck
+Selesnya (GW) Ramp 9.5.18.txt
+Selesnya (GW) Rancor Aggro.txt
+Selesnya (GW) Reveillark Aggro.dck
+Selesnya (GW) Reveillark Skullclamp Survival Tokens Midrange 11.24.18.dck
+Selesnya (GW) Reveillark Survival Midrange 12.17.17.txt
+Selesnya (GW) Reveillark Survival Midrange 3.3.18.txt
+Selesnya (GW) Reveillark Survival Midrange.dck
+Selesnya (GW) Skullclamp Midrange
+Selesnya (GW) Stoneforge Aggro
+Selesnya (GW) Survival Midrange.txt
+Selesnya (GW) Wake Ramp
+Simic (UG) Channel Upheaval Super Ramp 6.1.18.txt
+Simic (UG) Edric Midrange 10.7.18.dck
+Simic (UG) Midrange 3.17.18.txt
+Simic (UG) Natural Order Midrange 6.30.18.txt
+Simic (UG) Natural Order Midrange 7.7.18.dck
+Simic (UG) Natural Order Opposition Midrange 8.31.18.dck
+Simic (UG) Natural Order Skullclamp Survival Ramp 10.23.18.dck
+Simic (UG) Opposition Midrange
+Simic (UG) Ramp
+Simic (UG) Ramp copy
+Simic (UG) Show and Tell Eureka Cheaty Face Combo 2.23.18.txt
+Simic (UG) Tinker Upheaval Ramp 6.6.18.txt
+Simic (UG) Tooth and Nail Ramp(1).dck
+Simic (UG) Tooth and Nail Ramp.dck
+Simic (UG) Upheaval Ramp 10.1318.txt
+Simic (UG) Upheaval Ramp.dck
+Sulai (BUG) Edric Aggro.txt
+Sultai (BUG) Aggro.dck
+Sultai (BUG) High Tide Storm Combo 8.30,18.dck
+Sultai (BUG) Midrange
+Sultai (BUG) Midrange 10.30.18.dck
+Sultai (BUG) Midrange 7.30.18.dck
+Sultai (BUG) Midrange 9.6.18.txt
+Sultai (BUG) Ramp 6.6.18.txt
+Sultai (BUG) Reanimator Combo.txt
+Sultai (BUG) Recurring Nightmare Midrange 7.27.18.dck
+Sultai (BUG) Recurring Nightmare Reanimator Midrange.txt
+Sultai (BUG) Stax Aggro 12.4.17.txt
+Sultai (BUG) Survival Midrange 5.3.18.txt
+Sultai (BUG) Tempo 4.17.18.txt
+Sultai (BUG) Time Walk - Strip Mine Loops Midrange.txt
+Sultai (BUG) Time Walk Tempo 1.9.18.txt
+Temur (RUG) Cheaty Face Channel Splinter Twin Combo 6.24.18.txt
+Temur (RUG) Cheaty Face Combo
+Temur (RUG) Cheaty Face Combo 11.19.18.dck
+Temur (RUG) Cheaty Face Combo 12.17.17.txt
+Temur (RUG) Cheaty Face Combo Ramp 9.17.18.dck
+Temur (RUG) Cheaty Face Combo copy
+Temur (RUG) Eureka Tinker Cheaty Face Combo 8.26.18.dck
+Temur (RUG) Kiki Control
+Temur (RUG) Kiki-Jiki Sneak Attack Combo
+Temur (RUG) Kiki-Twin Combo 1.20.18.txt
+Temur (RUG) Midrange Ramp.txt
+Temur (RUG) Natural Order Kiki-Jiki Midrange 9.19.18.dck
+Temur (RUG) Natural Order Midrange
+Temur (RUG) Natural Order Midrange Ramp.txt
+Temur (RUG) Opposition Midrange 8.28.18.dck
+Temur (RUG) Opposition Midrange.txt
+Temur (RUG) Skullclamp Tempo.txt
+Temur (RUG) Sneak and Show Eureka Cheaty Face Combo 6.1.18.txt
+Temur (RUG) Survival Midrange 4.8.18.txt

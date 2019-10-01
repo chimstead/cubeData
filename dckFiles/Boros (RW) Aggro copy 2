@@ -1,0 +1,50 @@
+1 [AKH:136] Hazoret the Fervent
+1 [GRN:99] Experimental Frenzy
+1 [BFZ:29] Gideon, Ally of Zendikar
+1 [NEM:17] Parallax Wave
+1 [DST:148] Sword of Fire and Ice
+1 [BBD:25] Brightling
+1 [MH1:21] Ranger-Captain of Eos
+1 [C15:3] Grasp of Fate
+1 [SOI:12] Declaration in Stone
+1 [CMA:27] Unexpectedly Absent
+1 [XLN:1] Adanto Vanguard
+1 [TSP:26] Knight of the Holy Nimbus
+1 [BOK:163] Umezawa's Jitte
+1 [KLD:235] Smuggler's Copter
+1 [MH1:13] Giver of Runes
+1 [EVE:139] Figure of Destiny
+1 [ORI:23] Kytheon, Hero of Akros
+1 [CHK:19] Isamaru, Hound of Konda
+1 [DOM:14] Dauntless Bodyguard
+1 [ULG:14] Mother of Runes
+1 [DST:140] Skullclamp
+1 [RIX:21] Skymarcher Aspirant
+1 [M19:33] Remorseful Cleric
+1 [STH:138] Mox Diamond
+1 [MRD:152] Chrome Mox
+1 [MH1:244] Prismatic Vista
+1 [8ED:322] City of Brass
+1 [TMP:330] Wasteland
+1 [OGW:175] Needle Spires
+1 [KLD:246] Inspiring Vantage
+1 [M14:228] Mutavault
+1 [3ED:303] Mountain
+5 [3ED:292] Plains
+3 [3ED:294] Plains
+SB: 1 [PLC:25] Mana Tithe
+SB: 1 [EVE:6] Flickerwisp
+SB: 1 [RTR:141] Abrupt Decay
+SB: 1 [DTK:169] Zurgo Bellstriker
+SB: 1 [SCG:41] Mind's Desire
+SB: 1 [9ED:226] Volcanic Hammer
+SB: 1 [LEG:137] Chain Lightning
+SB: 1 [MH1:26] Serra the Benevolent
+SB: 1 [AKH:14] Gideon of the Trials
+SB: 1 [SOM:81] Arc Trail
+SB: 1 [AVR:144] Lightning Mauler
+SB: 1 [SOM:228] Razorverge Thicket
+SB: 1 [LRW:17] Goldmeadow Harrier
+SB: 1 [WAR:20] Law-Rune Enforcer
+LAYOUT MAIN:(1,5)(CMC,false,50)|([STH:138],[MRD:152],[MH1:244],[8ED:322],[TMP:330],[OGW:175],[KLD:246],[M14:228],[3ED:303],[3ED:292],[3ED:294],[3ED:292],[3ED:292],[3ED:294],[3ED:292],[3ED:292],[3ED:294])([MH1:13],[EVE:139],[ORI:23],[CHK:19],[DOM:14],[ULG:14],[DST:140],[RIX:21])([SOI:12],[XLN:1],[TSP:26],[BOK:163],[KLD:235],[CMA:27],[M19:33])([DST:148],[BBD:25],[MH1:21],[C15:3])([AKH:136],[GRN:99],[BFZ:29],[NEM:17])
+LAYOUT SIDEBOARD:(1,6)(CMC,false,50)|([SOM:228])([PLC:25],[DTK:169],[LEG:137],[LRW:17],[WAR:20])([RTR:141],[9ED:226],[SOM:81],[AVR:144])([EVE:6],[AKH:14])([MH1:26])([SCG:41])

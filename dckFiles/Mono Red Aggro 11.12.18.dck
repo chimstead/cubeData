@@ -1,0 +1,49 @@
+1 [TMP:330] Wasteland
+1 [THS:127] Lightning Strike
+1 [THS:122] Firedrinker Satyr
+1 [M11:149] Lightning Bolt
+1 [M13:147] Searing Spear
+1 [BOK:163] Umezawa's Jitte
+1 [TOR:100] Grim Lavamancer
+1 [RTR:220] Rakdos Cackler
+1 [SCG:106] Sulfuric Vortex
+1 [DKA:93] Hellrider
+1 [4ED:363] Strip Mine
+1 [ZEN:126] Goblin Guide
+1 [SOI:155] Falkenrath Gorger
+1 [AER:87] Kari Zev, Skyship Raider
+1 [PLS:60] Flametongue Kavu
+1 [HOU:90] Earthshaker Khenra
+1 [MMQ:324] Rishadan Port
+1 [KTK:118] Monastery Swiftspear
+1 [C15:26] Fiery Confluence
+1 [TMP:281] Cursed Scroll
+1 [GRN:99] Experimental Frenzy
+13 [GUR:3] Mountain
+1 [3ED:185] Wheel of Fortune
+1 [DKA:87] Faithless Looting
+1 [LEG:137] Chain Lightning
+1 [SOM:94] Koth of the Hammer
+1 [KLD:235] Smuggler's Copter
+1 [VIS:79] Fireblast
+SB: 1 [LRW:272] Shelldock Isle
+SB: 1 [XLN:248] Sorcerous Spyglass
+SB: 1 [5DN:126] Grafted Wargear
+SB: 1 [C16:195] Edric, Spymaster of Trest
+SB: 1 [RIX:99] Dire Fleet Daredevil
+SB: 1 [CHK:175] Kiki-Jiki, Mirror Breaker
+SB: 1 [M10:157] Siege-Gang Commander
+SB: 1 [CMD:37] Wall of Omens
+SB: 1 [3ED:287] Taiga
+SB: 3 [GUR:3] Mountain
+SB: 1 [USG:96] Show and Tell
+SB: 1 [ISD:97] Diregraf Ghoul
+SB: 1 [M15:225] Phyrexian Revoker
+SB: 1 [5ED:408] Winter Orb
+SB: 1 [CN2:71] Selvala's Stampede
+SB: 1 [5DN:55] Night's Whisper
+SB: 1 [4ED:6] Balance
+SB: 1 [IMA:240] Horizon Canopy
+SB: 1 [JOU:72] Gnarled Scarhide
+LAYOUT MAIN:(1,7)(CMC,false,65)|([GUR:3],[GUR:3],[GUR:3],[GUR:3],[GUR:3],[GUR:3],[GUR:3],[GUR:3],[GUR:3],[GUR:3],[GUR:3],[GUR:3],[GUR:3])([4ED:363],[MMQ:324],[TMP:330])([M11:149],[ZEN:126],[TMP:281],[LEG:137],[SOI:155],[RTR:220],[THS:122],[TOR:100],[KTK:118],[DKA:87])([BOK:163],[KLD:235],[HOU:90],[M13:147],[THS:127],[AER:87])([SCG:106],[3ED:185])([C15:26],[GRN:99],[SOM:94],[DKA:93],[PLS:60])([VIS:79])
+LAYOUT SIDEBOARD:(1,6)(CMC,false,60)|([IMA:240],[LRW:272],[GUR:3],[GUR:3],[GUR:3],[3ED:287])([ISD:97],[JOU:72])([M15:225],[XLN:248],[4ED:6],[5ED:408],[RIX:99],[CMD:37],[5DN:55])([5DN:126],[C16:195],[USG:96])([M10:157],[CHK:175])([CN2:71])

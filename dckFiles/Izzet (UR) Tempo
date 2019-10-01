@@ -1,0 +1,49 @@
+1 [LEG:137] Chain Lightning
+1 [KLD:199] Bomat Courier
+1 [GPT:32] Repeal
+1 [ODY:193] Firebolt
+1 [M12:145] Grim Lavamancer
+1 [ZEN:126] Goblin Guide
+1 [KTK:118] Monastery Swiftspear
+1 [XLN:81] Spell Pierce
+1 [2ED:84] Time Walk
+1 [HOU:83] Abrade
+1 [SOI:92] Thing in the Ice
+1 [RIX:44] Negate
+1 [GPT:152] Izzet Signet
+1 [M14:163] Young Pyromancer
+1 [ULG:36] Miscalculation
+1 [MEDM:RA6] Dack Fayden
+1 [BBD:41] Spellseeker
+1 [ALL:28] Force of Will
+1 [LRW:76] Mulldrifter
+1 [CM2:98] Fiery Confluence
+1 [SCG:106] Sulfuric Vortex
+1 [KTK:59] Treasure Cruise
+1 [OGW:110] Goblin Dark-Dwellers
+1 [GRN:257] Steam Vents
+1 [KTK:233] Flooded Strand
+1 [OGW:182] Wandering Fumarole
+6 [UGL:85] Island
+8 [UGL:87] Mountain
+SB: 1 [AKH:149] Sweltering Suns
+SB: 1 [PCA:104] Shardless Agent
+SB: 1 [GRN:207] Thousand-Year Storm
+SB: 1 [ULG:80] Goblin Welder
+SB: 1 [TSB:55] Avalanche Riders
+SB: 1 [KLD:67] Torrential Gearhulk
+SB: 1 [M11:58] Jace Beleren
+SB: 1 [ORI:229] Hangarback Walker
+SB: 1 [FRF:145] Whisperwood Elemental
+SB: 1 [NEM:17] Parallax Wave
+SB: 1 [THS:187] Ashen Rider
+SB: 1 [WWK:127] Lodestone Golem
+SB: 1 [KLD:235] Smuggler's Copter
+SB: 1 [ZEN:168] Lotus Cobra
+SB: 1 [M12:151] Manic Vandal
+SB: 1 [M13:193] Thragtusk
+SB: 1 [AVR:38] Terminus
+SB: 1 [10E:163] Nekrataal
+SB: 1 [ROE:165] Splinter Twin
+LAYOUT MAIN:(1,7)(CMC,false,52)|([GRN:257],[KTK:233],[OGW:182],[UGL:85],[UGL:85],[UGL:85],[UGL:85],[UGL:85],[UGL:85],[UGL:87],[UGL:87],[UGL:87],[UGL:87],[UGL:87],[UGL:87],[UGL:87],[UGL:87])([LEG:137],[KLD:199],[GPT:32],[ODY:193],[M12:145],[ZEN:126],[KTK:118],[XLN:81])([2ED:84],[HOU:83],[SOI:92],[RIX:44],[GPT:152],[M14:163],[ULG:36])([MEDM:RA6],[BBD:41],[SCG:106])([CM2:98])([ALL:28],[LRW:76],[OGW:110])([KTK:59])
+LAYOUT SIDEBOARD:(1,8)(CMC,false,52)|([ORI:229])([ULG:80])([ZEN:168],[KLD:235])([AKH:149],[PCA:104],[M11:58],[M12:151])([TSB:55],[NEM:17],[WWK:127],[10E:163],[ROE:165])([FRF:145],[M13:193])([GRN:207],[KLD:67],[AVR:38])([THS:187])

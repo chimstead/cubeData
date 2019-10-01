@@ -1,0 +1,33 @@
+5 Island
+4 Plains
+1 Swamp
+1 Arid Mesa
+1 Flooded Strand
+1 Godless Shrine
+1 Irrigated Farmland
+1 Terramorphic Expanse
+1 Windswept Heath
+1 Chrome Mox
+1 Mind Twist
+1 Mystical Tutor
+1 Path to Exile
+1 Vampiric Tutor
+1 Arcane Denial
+1 Balance
+1 Disenchant
+1 Guardian Idol
+1 Snapcaster Mage
+1 Talisman of Dominance
+1 Thing in the Ice
+1 Unexpectedly Absent
+1 Lingering Souls
+1 Monastery Mentor
+1 Ophiomancer
+1 Toxic Deluge
+1 Vendilion Clique
+1 Vindicate
+1 Deep Analysis
+1 Elspeth, Knight-Errant
+1 Sower of Temptation
+1 Meloku the Clouded Mirror
+1 Dig Through Time

@@ -1,0 +1,48 @@
+1 [SCG:59] Carrion Feeder
+1 [GRN:77] Midnight Reaper
+1 [M14:103] Liliana's Reaver
+1 [ORI:106] Liliana, Heretical Healer
+1 [AER:164] Metallic Mimic
+1 [ORI:240] Sword of the Animist
+1 [WAR:98] Liliana's Triumph
+1 [BFZ:109] Drana, Liberator of Malakir
+1 [KLD:90] Marionette Master
+1 [MH1:116] Yawgmoth, Thran Physician
+1 [LRW:133] Oona's Prowler
+1 [5DN:126] Grafted Wargear
+1 [OGW:86] Kalitas, Traitor of Ghet
+1 [AKH:212] Never // Return
+1 [KLD:242] Aether Hub
+1 [RTR:213] Deathrite Shaman
+1 [DKA:76] Tragic Slip
+1 [C17:16] Curse of Disturbance
+1 [GRN:69] Doom Whisperer
+1 [SOI:107] Diregraf Colossus
+1 [10E:145] Graveborn Muse
+1 [ISD:105] Liliana of the Veil
+1 [SOI:281] Westvale Abbey
+1 [SOI:131] Relentless Dead
+1 [RAV:81] Dark Confidant
+1 [ORI:229] Hangarback Walker
+1 [KLD:243] Blooming Marsh
+13 [UNH:138] Swamp
+SB: 1 [KLD:203] Cultivator's Caravan
+SB: 1 [THS:172] Polukranos, World Eater
+SB: 1 [DTK:175] Avatar of the Resolute
+SB: 1 [WWK:144] Stirring Wildwood
+SB: 1 [KLD:214] Fleetwheel Cruiser
+SB: 1 [DKA:24] Thalia, Guardian of Thraben
+SB: 1 [JOU:94] Eidolon of the Great Revel
+SB: 1 [10E:17] Glorious Anthem
+SB: 1 [M15:54] Ensoul Artifact
+SB: 1 [RNA:122] Biogenic Ooze
+SB: 1 [AER:122] Rishkar, Peema Renegade
+SB: 1 [WWK:20] Stoneforge Mystic
+SB: 1 [WAR:52] Flux Channeler
+SB: 1 [M11:172] Fauna Shaman
+SB: 1 [WAR:159] Evolution Sage
+SB: 1 [RIX:160a] Journey to Eternity
+SB: 1 [RTR:141] Abrupt Decay
+SB: 1 [XLN:232] Vraska, Relic Seeker
+LAYOUT MAIN:(1,8)(CMC,false,57)|([KLD:242],[SOI:281],[ORI:229],[KLD:243],[UNH:138],[UNH:138],[UNH:138],[UNH:138],[UNH:138],[UNH:138],[UNH:138],[UNH:138],[UNH:138],[UNH:138],[UNH:138],[UNH:138],[UNH:138])([SCG:59],[RTR:213],[DKA:76])([AER:164],[ORI:240],[WAR:98],[LRW:133],[SOI:131],[RAV:81])([GRN:77],[ORI:106],[BFZ:109],[5DN:126],[C17:16],[SOI:107],[ISD:105])([M14:103],[MH1:116],[OGW:86],[10E:145])([GRN:69])([KLD:90])([AKH:212])
+LAYOUT SIDEBOARD:(1,6)(COLOR,false,50)|([KLD:203],[WWK:144],[KLD:214])([M15:54],[WAR:52])([THS:172],[DTK:175],[RNA:122],[AER:122],[M11:172],[WAR:159])([JOU:94])([DKA:24],[10E:17],[WWK:20])([RIX:160a],[RTR:141],[XLN:232])

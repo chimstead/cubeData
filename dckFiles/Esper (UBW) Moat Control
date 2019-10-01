@@ -1,0 +1,65 @@
+1 [NEM:30] Daze
+1 [MRD:257] Talisman of Unity
+1 [ROE:53] Wall of Omens
+1 [PC2:82] Baleful Strix
+1 [ORI:60] Jace, Vryn's Prodigy
+1 [MH1:230] Talisman of Conviction
+1 [ALL:22a] Arcane Denial
+1 [SOI:12] Declaration in Stone
+1 [M10:68] Ponder
+1 [5DN:27] Condescend
+1 [LEB:116] Mind Twist
+1 [LEG:26] Land Tax
+1 [TSP:48] Ancestral Vision
+1 [C13:96] Toxic Deluge
+1 [FUT:161] Coalition Relic
+1 [LRW:34] Oblivion Ring
+1 [HOU:49] Supreme Will
+1 [APC:126] Vindicate
+1 [LEG:28] Moat
+1 [LEG:120] The Abyss
+1 [C17:37] Fractured Identity
+1 [HOU:145] The Scarab God
+1 [DOM:207] Teferi, Hero of Dominaria
+1 [MH1:246] Silent Clearing
+1 [LRW:272] Shelldock Isle
+1 [LEB:285] Tundra
+1 [AKH:245] Irrigated Farmland
+1 [WWK:133] Celestial Colonnade
+1 [DIS:174] Hallowed Fountain
+1 [3ED:296] Island
+2 [3ED:297] Island
+1 [3ED:295] Island
+2 [3ED:294] Plains
+1 [3ED:292] Plains
+1 [3ED:293] Plains
+2 [3ED:299] Swamp
+1 [3ED:300] Swamp
+SB: 1 [NPH:4] Blade Splicer
+SB: 1 [PTK:122] Rolling Earthquake
+SB: 1 [TMP:281] Cursed Scroll
+SB: 1 [ROE:47] Student of Warfare
+SB: 1 [M13:150] Thundermaw Hellkite
+SB: 1 [AER:76] Aether Chaser
+SB: 1 [KTK:119] Sarkhan, the Dragonspeaker
+SB: 1 [MIR:80] Mystical Tutor
+SB: 1 [PTK:104] Burning of Xinye
+SB: 1 [TSB:6] Disenchant
+SB: 1 [MRD:175] Gilded Lotus
+SB: 1 [EMN:93] Liliana, the Last Hope
+SB: 1 [XLN:1] Adanto Vanguard
+SB: 1 [RIX:99] Dire Fleet Daredevil
+SB: 1 [ONS:28] Exalted Angel
+SB: 1 [ULG:139] Faerie Conclave
+SB: 1 [MRD:292] Island
+SB: 1 [MRD:291] Island
+SB: 1 [MRD:294] Island
+SB: 1 [MRD:293] Island
+SB: 2 [MRD:288] Plains
+SB: 1 [MRD:289] Plains
+SB: 1 [MRD:287] Plains
+SB: 1 [MRD:297] Swamp
+SB: 1 [MRD:298] Swamp
+SB: 1 [MRD:296] Swamp
+LAYOUT MAIN:(1,6)(CMC,false,50)|([TSP:48],[MH1:246],[LRW:272],[LEB:285],[AKH:245],[WWK:133],[DIS:174],[3ED:296],[3ED:297],[3ED:297],[3ED:295],[3ED:294],[3ED:294],[3ED:292],[3ED:293],[3ED:299],[3ED:300],[3ED:299])([M10:68],[5DN:27],[LEB:116],[LEG:26])([NEM:30],[MRD:257],[ROE:53],[PC2:82],[ORI:60],[MH1:230],[ALL:22a],[SOI:12])([C13:96],[FUT:161],[LRW:34],[HOU:49],[APC:126])([LEG:28],[LEG:120])([C17:37],[HOU:145],[DOM:207])
+LAYOUT SIDEBOARD:(1,6)(CMC,false,50)|([ULG:139],[MRD:292],[MRD:291],[MRD:294],[MRD:293],[MRD:288],[MRD:289],[MRD:288],[MRD:287],[MRD:297],[MRD:298],[MRD:296])([PTK:122],[TMP:281],[ROE:47],[MIR:80])([AER:76],[TSB:6],[XLN:1],[RIX:99])([NPH:4],[EMN:93])([M13:150],[KTK:119],[MRD:175])([PTK:104],[ONS:28])

@@ -1,0 +1,53 @@
+1 [CN2:18] Palace Jailer
+1 [10E:61] Wrath of God
+1 [FUT:161] Coalition Relic
+1 [C13:96] Toxic Deluge
+1 [APC:126] Vindicate
+1 [LEA:3] Balance
+1 [PC2:82] Baleful Strix
+1 [SOI:12] Declaration in Stone
+1 [LEB:105] Demonic Tutor
+1 [APC:102] Gerrard's Verdict
+1 [MIR:74] Memory Lapse
+1 [MH1:233] Talisman of Hierarchy
+1 [MH1:37] Winds of Abandon
+1 [ICE:54] Swords to Plowshares
+1 [ROE:115] Inquisition of Kozilek
+1 [CNS:16] Council's Judgment
+1 [DKA:142] Sorin, Lord of Innistrad
+1 [RTR:201] Supreme Verdict
+1 [LRW:56] Cryptic Command
+1 [C17:37] Fractured Identity
+1 [NPH:130] Batterskull
+1 [STH:138] Mox Diamond
+1 [XLN:223] Hostage Taker
+1 [ONS:328] Windswept Heath
+1 [LEB:285] Tundra
+1 [MH1:246] Silent Clearing
+1 [LEG:303] Karakas
+1 [WWK:133] Celestial Colonnade
+1 [WTH:164] Gemstone Mine
+1 [ONS:319] Grand Coliseum
+1 [AKH:245] Irrigated Farmland
+3 [3ED:295] Island
+2 [3ED:294] Plains
+2 [3ED:292] Plains
+2 [3ED:299] Swamp
+SB: 1 [ZEN:9] Day of Judgment
+SB: 1 [ISD:213] Geist of Saint Traft
+SB: 1 [GRN:69] Doom Whisperer
+SB: 1 [TMP:281] Cursed Scroll
+SB: 1 [ONS:28] Exalted Angel
+SB: 1 [PLS:60] Flametongue Kavu
+SB: 1 [5DN:126] Grafted Wargear
+SB: 1 [MOR:148] Mutavault
+SB: 1 [NEM:141] Kor Haven
+SB: 1 [5DN:118] Engineered Explosives
+SB: 1 [SCG:106] Sulfuric Vortex
+SB: 1 [UDS:40] Opposition
+SB: 1 [SCG:12] Eternal Dragon
+SB: 1 [VIS:66] Nekrataal
+SB: 1 [3ED:292] Plains
+SB: 1 [ROE:236] Island
+LAYOUT MAIN:(1,6)(CMC,false,50)|([STH:138],[ONS:328],[LEB:285],[MH1:246],[LEG:303],[WWK:133],[WTH:164],[ONS:319],[AKH:245],[3ED:295],[3ED:295],[3ED:295],[3ED:294],[3ED:292],[3ED:294],[3ED:292],[3ED:299],[3ED:299])([ICE:54],[ROE:115])([LEA:3],[PC2:82],[SOI:12],[LEB:105],[APC:102],[MIR:74],[MH1:233],[MH1:37])([FUT:161],[C13:96],[APC:126],[CNS:16])([CN2:18],[10E:61],[DKA:142],[RTR:201],[LRW:56],[XLN:223])([C17:37],[NPH:130])
+LAYOUT SIDEBOARD:(1,7)(CMC,false,50)|([5DN:118],[NEM:141],[MOR:148],[3ED:292],[ROE:236])([TMP:281])([ISD:213],[5DN:126],[SCG:106])([ZEN:9],[PLS:60],[VIS:66],[UDS:40])([GRN:69])([ONS:28])([SCG:12])

@@ -1,0 +1,49 @@
+1 [TMP:330] Wasteland
+1 [CMD:170] Scavenging Ooze
+1 [EXO:129] Survival of the Fittest
+1 [C17:37] Fractured Identity
+1 [OGW:144] Sylvan Advocate
+1 [APC:143] Yavimaya Coast
+1 [TSP:262] Prismatic Lens
+1 [ZEN:168] Lotus Cobra
+1 [LEG:207] Sylvan Library
+1 [ATQ:82a] Strip Mine
+1 [INV:57] Fact or Fiction
+1 [BFZ:239] Lumbering Falls
+1 [MOR:148] Mutavault
+1 [WWK:133] Celestial Colonnade
+1 [FUT:46] Venser, Shaper Savant
+1 [LRW:76] Mulldrifter
+1 [LRW:34] Oblivion Ring
+1 [DST:140] Skullclamp
+1 [M10:165] Acidic Slime
+1 [DIS:172] Breeding Pool
+1 [MBS:92] Thrun, the Last Troll
+1 [4ED:64] Control Magic
+3 [GUR:1] Forest
+1 [RAV:284] Temple Garden
+2 [GUR:2] Island
+1 [6ED:239] Llanowar Elves
+1 [MOR:55] Vendilion Clique
+1 [NPH:42] Phyrexian Metamorph
+1 [LEA:214] Regrowth
+1 [5DN:86] Eternal Witness
+1 [KLD:214] Fleetwheel Cruiser
+1 [AKH:245] Irrigated Farmland
+1 [JOU:163] Mana Confluence
+1 [LEB:281] Savannah
+1 [LRW:71] Jace Beleren
+1 [LEB:284] Tropical Island
+1 [LRW:213] Garruk Wildspeaker
+SB: 1 [TMP:142] Living Death
+SB: 1 [TSP:48] Ancestral Vision
+SB: 1 [LRW:10] Cloudgoat Ranger
+SB: 1 [NEM:18] Seal of Cleansing
+SB: 1 [DKA:64] Gravecrawler
+SB: 1 [M12:156] Stormblood Berserker
+SB: 1 [DST:163] Blinkmoth Nexus
+SB: 1 [DKA:142] Sorin, Lord of Innistrad
+SB: 1 [KTK:59] Treasure Cruise
+SB: 1 [ROE:21] Gideon Jura
+LAYOUT MAIN:(1,7)(CMC,false,79)|([GUR:1],[GUR:1],[GUR:1],[GUR:2],[GUR:2])([DIS:172],[WWK:133],[AKH:245],[BFZ:239],[JOU:163],[MOR:148],[LEB:281],[ATQ:82a],[RAV:284],[LEB:284],[TMP:330],[APC:143])([6ED:239],[DST:140])([ZEN:168],[TSP:262],[LEA:214],[CMD:170],[EXO:129],[OGW:144],[LEG:207])([5DN:86],[LRW:71],[LRW:34],[MOR:55])([4ED:64],[INV:57],[KLD:214],[LRW:213],[NPH:42],[MBS:92],[FUT:46])([M10:165],[C17:37],[LRW:76])
+LAYOUT SIDEBOARD:(1,6)(CMC,false,76)|([DST:163],[TSP:48])([DKA:64])([NEM:18],[M12:156])([DKA:142])([ROE:21],[TMP:142],[LRW:10])([KTK:59])

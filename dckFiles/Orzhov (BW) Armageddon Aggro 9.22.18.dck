@@ -1,0 +1,53 @@
+1 [TMP:330] Wasteland
+1 [ALA:21] Ranger of Eos
+1 [ROE:47] Student of Warfare
+1 [ODY:117] Braids, Cabal Minion
+1 [M12:15] Elite Vanguard
+1 [KTK:66] Bloodsoaked Champion
+1 [BOK:163] Umezawa's Jitte
+1 [HOU:57] Ammit Eternal
+1 [THS:107] Thoughtseize
+1 [ZEN:229] Verdant Catacombs
+1 [DTK:124] Ultimate Price
+1 [M19:229] Crucible of Worlds
+2 [USG:342] Swamp
+2 [USG:341] Swamp
+1 [DKA:12] Lingering Souls
+1 [GTC:242] Godless Shrine
+1 [ISD:105] Liliana of the Veil
+1 [MMQ:129] Dark Ritual
+1 [XLN:22] Legion's Landing
+1 [ULG:14] Mother of Runes
+1 [SOM:78] Skinrender
+1 [6ED:4] Armageddon
+1 [KLD:231] Scrapheap Scrounger
+1 [KTK:239] Polluted Delta
+1 [AKH:88] Dread Wanderer
+1 [ZEN:83] Bloodghast
+1 [NEM:139] Tangle Wire
+1 [3ED:286] Scrubland
+2 [USG:339] Swamp
+1 [KTK:230] Bloodstained Mire
+1 [USG:334] Plains
+2 [USG:331] Plains
+1 [THS:90] Hero's Downfall
+1 [USG:332] Plains
+1 [DKA:64] Gravecrawler
+1 [TOR:69] Mesmeric Fiend
+SB: 1 [CON:113] Knight of the Reliquary
+SB: 1 [SHM:135] Woodfall Primus
+SB: 1 [M19:196] Reclamation Sage
+SB: 1 [ZEN:172] Oracle of Mul Daya
+SB: 1 [TOR:77] Putrid Imp
+SB: 1 [SCG:106] Sulfuric Vortex
+SB: 1 [CN2:71] Selvala's Stampede
+SB: 1 [ARB:75] Qasali Pridemage
+SB: 1 [ZEN:126] Goblin Guide
+SB: 1 [TSP:161] Greater Gargadon
+SB: 1 [ZEN:115] Vampire Lacerator
+SB: 1 [NEM:17] Parallax Wave
+SB: 1 [AVR:200] Ulvenwald Tracker
+SB: 1 [M12:23] Honor of the Pure
+SB: 1 [AKH:175] Manglehorn
+LAYOUT MAIN:(2,6)(CMC,true,56)|([USG:332],[USG:331],[USG:331],[USG:334])([M12:15],[ROE:47],[ULG:14],[KTK:66],[AKH:88],[DKA:64])([TOR:69],[KLD:231],[ZEN:83])([HOU:57],[DKA:12])([ODY:117],[SOM:78],[ALA:21])([TMP:330],[ZEN:229],[KTK:230],[3ED:286],[KTK:239],[GTC:242])([USG:339],[USG:341],[USG:341],[USG:342],[USG:342],[USG:339])([XLN:22],[THS:107],[MMQ:129])([DTK:124],[BOK:163])([THS:90],[ISD:105],[M19:229],[NEM:139])([6ED:4])()
+LAYOUT SIDEBOARD:(1,4)(COLOR,false,50)|([TOR:77],[AVR:200],[ZEN:115])([CN2:71],[SHM:135],[ZEN:172],[AKH:175],[M19:196],[ARB:75])([ZEN:126],[SCG:106],[TSP:161],[CON:113])([NEM:17],[M12:23])

@@ -1,0 +1,52 @@
+1 [MBS:43] Go for the Throat
+1 [MIR:14] Enlightened Tutor
+1 [OGW:86] Kalitas, Traitor of Ghet
+1 [BFZ:109] Drana, Liberator of Malakir
+1 [USG:6] Catastrophe
+1 [MMQ:62] Bribery
+1 [APC:47] Phyrexian Arena
+1 [SOI:5] Archangel Avacyn
+1 [TSP:279] Terramorphic Expanse
+1 [GPT:155] Orzhov Signet
+1 [TMP:128] Diabolic Edict
+1 [MMQ:162] Snuff Out
+1 [THS:9] Elspeth, Sun's Champion
+3 [UNH:136] Plains
+1 [UNH:137] Island
+1 [GPT:157] Godless Shrine
+1 [M11:97] Grave Titan
+5 [UNH:138] Swamp
+1 [FUT:161] Coalition Relic
+1 [ULG:14] Mother of Runes
+1 [XLN:223] Hostage Taker
+1 [SOM:78] Skinrender
+1 [DST:140] Skullclamp
+1 [STH:143] Volrath's Stronghold
+1 [APC:126] Vindicate
+1 [MOR:58] Bitterblossom
+1 [ZEN:219] Marsh Flats
+1 [SOM:208] Sword of Body and Mind
+1 [LEB:105] Demonic Tutor
+1 [ZEN:116] Vampire Nighthawk
+1 [LEB:286] Underground Sea
+1 [LEG:26] Land Tax
+1 [AKH:243] Fetid Pools
+1 [BFZ:244] Shambling Vent
+SB: 1 [TMP:154] Sarcomancy
+SB: 1 [C14:22] Flesh Carver
+SB: 1 [M19:33] Remorseful Cleric
+SB: 1 [EXO:72] Recurring Nightmare
+SB: 1 [AVR:172] Craterhoof Behemoth
+SB: 1 [ROE:6] Kozilek, Butcher of Truth
+SB: 1 [APC:130] Life // Death
+SB: 1 [DST:146] Sundering Titan
+SB: 1 [5ED:408] Winter Orb
+SB: 1 [TSP:66] Looter il-Kor
+SB: 1 [ORI:157] Pia and Kiran Nalaar
+SB: 1 [USG:132] Duress
+SB: 1 [LEG:28] Moat
+SB: 1 [M12:72] Phantasmal Image
+SB: 2 [UNH:136] Plains
+SB: 5 [UNH:138] Swamp
+LAYOUT MAIN:(1,7)(CMC,false,33)|([UNH:137],[UNH:136],[UNH:136],[UNH:136],[UNH:138],[UNH:138],[UNH:138],[UNH:138],[STH:143],[LEB:286],[UNH:138],[TSP:279],[GPT:157],[BFZ:244],[AKH:243],[ZEN:219])([MIR:14],[LEG:26],[ULG:14],[DST:140])([MOR:58],[LEB:105],[TMP:128],[MBS:43],[GPT:155])([FUT:161],[BFZ:109],[APC:47],[SOM:208],[ZEN:116],[APC:126])([XLN:223],[OGW:86],[SOM:78],[MMQ:162])([SOI:5],[MMQ:62])([USG:6],[THS:9],[M11:97])
+LAYOUT SIDEBOARD:(1,8)(COLOR,false,50)|([ROE:6],[DST:146],[UNH:138],[UNH:136],[UNH:138],[UNH:136],[UNH:138],[UNH:138],[UNH:138])([TMP:154],[APC:130],[USG:132])([ORI:157],[5ED:408],[C14:22],[M19:33])([LEG:28])([M12:72])([TSP:66])([EXO:72])([AVR:172])

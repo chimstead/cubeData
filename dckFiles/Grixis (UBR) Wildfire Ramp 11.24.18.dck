@@ -1,0 +1,50 @@
+1 [MBS:21] Consecrated Sphinx
+1 [RAV:255] Boros Signet
+1 [PTK:104] Burning of Xinye
+1 [OGW:104] Chandra, Flamecaller
+1 [APC:142] Shivan Reef
+1 [PTK:122] Rolling Earthquake
+1 [5DN:27] Condescend
+1 [CN2:74] Daretti, Ingenious Iconoclast
+1 [5DN:73] Magma Jet
+1 [LEB:278] Badlands
+1 [WTH:153] Mind Stone
+1 [M13:150] Thundermaw Hellkite
+1 [ZEN:223] Scalding Tarn
+1 [GPT:152] Izzet Signet
+1 [DTK:224] Kolaghan's Command
+1 [DGM:11] Aetherling
+1 [LEB:116] Mind Twist
+1 [NPH:57] Dismember
+1 [INV:57] Fact or Fiction
+1 [ONS:321] Polluted Delta
+1 [FUT:46] Venser, Shaper Savant
+1 [WWK:134] Creeping Tar Pit
+1 [KTK:119] Sarkhan, the Dragonspeaker
+1 [C18:44] Saheeli, the Gifted
+1 [ARN:71] City of Brass
+4 [GUR:3] Mountain
+1 [USG:318] Worn Powerstone
+5 [GUR:2] Island
+2 [GUR:5] Swamp
+1 [APC:128] Fire // Ice
+1 [MOR:55] Vendilion Clique
+1 [ULG:126] Grim Monolith
+SB: 1 [HOU:2] Adorned Pouncer
+SB: 1 [ODY:117] Braids, Cabal Minion
+SB: 1 [RAV:280] Sacred Foundry
+SB: 1 [DST:146] Sundering Titan
+SB: 1 [NPH:159] Spellskite
+SB: 1 [ARB:110] Sphinx of the Steel Wind
+SB: 1 [BNG:119] Courser of Kruphix
+SB: 1 [ORI:150] Goblin Glory Chaser
+SB: 1 [MOR:22] Reveillark
+SB: 1 [AKH:16] Glory-Bound Initiate
+SB: 1 [USG:103] Time Spiral
+SB: 1 [DDF:57] Triskelion
+SB: 1 [MBS:8] Hero of Bladehold
+SB: 1 [BFZ:29] Gideon, Ally of Zendikar
+SB: 1 [CN2:58] Subterranean Tremors
+SB: 1 [DTK:10] Dragon Hunter
+LAYOUT MAIN:(1,8)(CMC,false,79)|([GUR:2],[GUR:2],[GUR:2],[GUR:2],[GUR:2],[GUR:3],[GUR:3],[GUR:3],[GUR:3],[GUR:5],[GUR:5])([LEB:278],[ARN:71],[WWK:134],[ONS:321],[ZEN:223],[APC:142])([5DN:27],[LEB:116],[PTK:122])([RAV:255],[ULG:126],[GPT:152],[5DN:73],[WTH:153])([CN2:74],[NPH:57],[DTK:224],[MOR:55],[USG:318])([INV:57],[APC:128],[C18:44],[FUT:46])([KTK:119],[M13:150])([DGM:11],[PTK:104],[OGW:104],[MBS:21])
+LAYOUT SIDEBOARD:(1,8)(CMC,false,71)|([RAV:280])([DTK:10],[ORI:150],[CN2:58])([HOU:2],[AKH:16],[NPH:159])([BNG:119])([MBS:8],[ODY:117],[BFZ:29])([MOR:22])([USG:103],[DDF:57])([ARB:110],[DST:146])

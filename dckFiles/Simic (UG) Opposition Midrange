@@ -1,0 +1,49 @@
+1 [MBS:21] Consecrated Sphinx
+1 [UDS:40] Opposition
+1 [MBS:81] Green Sun's Zenith
+1 [CON:87] Noble Hierarch
+1 [UDS:118] Rofellos, Llanowar Emissary
+1 [M15:178] Hornet Queen
+1 [XLN:179] Carnage Tyrant
+1 [AER:181] Walking Ballista
+1 [M13:159] Acidic Slime
+1 [RNA:183] Hydroid Krasis
+1 [LRW:76] Mulldrifter
+1 [HOU:129] Ramunap Excavator
+1 [ICE:244] Fyndhorn Elves
+1 [10E:319] Crucible of Worlds
+1 [ULG:101] Deranged Hermit
+1 [5DN:86] Eternal Witness
+1 [MH1:161] Deep Forest Hermit
+1 [SOM:208] Sword of Body and Mind
+1 [ROE:190] Joraga Treespeaker
+1 [3ED:288] Tropical Island
+1 [MH1:249] Waterlogged Grove
+1 [MH1:243] Nurturing Peatland
+1 [STH:138] Mox Diamond
+8 [UST:216] Forest
+4 [UST:213] Island
+1 [ONS:319] Grand Coliseum
+1 [NPH:130] Batterskull
+1 [EXO:35] Forbid
+1 [OGW:144] Sylvan Advocate
+1 [AVR:172] Craterhoof Behemoth
+SB: 1 [AVR:166] Zealous Conscripts
+SB: 1 [MMQ:324] Rishadan Port
+SB: 1 [LRW:133] Oona's Prowler
+SB: 1 [MH1:228] Sword of Sinew and Steel
+SB: 1 [KLD:67] Torrential Gearhulk
+SB: 1 [WWK:144] Stirring Wildwood
+SB: 1 [UDS:117] Plow Under
+SB: 1 [M19:79] Tezzeret, Artifice Master
+SB: 1 [CHK:74] Meloku the Clouded Mirror
+SB: 1 [USG:330] Tolarian Academy
+SB: 1 [PLC:85] Damnation
+SB: 1 [MH1:116] Yawgmoth, Thran Physician
+SB: 1 [PC2:84] Bloodbraid Elf
+SB: 1 [AKH:204] Nissa, Steward of Elements
+SB: 1 [TSP:66] Looter il-Kor
+SB: 1 [WTH:153] Mind Stone
+SB: 1 [5DN:27] Condescend
+LAYOUT MAIN:(1,9)(CMC,false,69)|([AER:181],[3ED:288],[MH1:249],[MH1:243],[STH:138],[UST:216],[UST:216],[UST:216],[UST:216],[UST:216],[UST:216],[UST:216],[UST:216],[UST:213],[UST:213],[UST:213],[ONS:319],[UST:213])([MBS:81],[CON:87],[ICE:244],[ROE:190])([UDS:118],[RNA:183],[OGW:144])([HOU:129],[10E:319],[5DN:86],[SOM:208],[EXO:35])([UDS:40])([M13:159],[LRW:76],[ULG:101],[MH1:161],[NPH:130])([MBS:21],[XLN:179])([M15:178])([AVR:172])
+LAYOUT SIDEBOARD:(1,6)(COLOR,false,50)|([MMQ:324],[MH1:228],[WWK:144],[USG:330],[WTH:153])([LRW:133],[PLC:85],[MH1:116])([KLD:67],[M19:79],[CHK:74],[TSP:66],[5DN:27])([UDS:117])([AVR:166])([PC2:84],[AKH:204])

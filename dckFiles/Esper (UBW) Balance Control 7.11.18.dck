@@ -1,0 +1,50 @@
+1 [CHK:268] Sensei's Divining Top
+1 [UDS:136] Powder Keg
+1 [V12:10] Maze of Ith
+1 [ORI:105] Languish
+1 [ZEN:220] Misty Rainforest
+1 [C17:37] Fractured Identity
+1 [ROE:115] Inquisition of Kozilek
+1 [STH:138] Mox Diamond
+1 [5DN:27] Condescend
+1 [TSP:279] Terramorphic Expanse
+1 [ZEN:48] Into the Roil
+1 [DIS:174] Hallowed Fountain
+1 [LEG:303] Karakas
+1 [ULG:139] Faerie Conclave
+1 [ONS:321] Polluted Delta
+1 [M11:97] Grave Titan
+1 [XLN:129] Vraska's Contempt
+1 [KLD:96] Noxious Gearhulk
+1 [FUT:46] Venser, Shaper Savant
+1 [WWK:134] Creeping Tar Pit
+1 [RAV:63] Remand
+1 [LEA:3] Balance
+1 [EXO:35] Forbid
+1 [USG:318] Worn Powerstone
+3 [GUR:2] Island
+1 [EMN:93] Liliana, the Last Hope
+4 [GUR:5] Swamp
+1 [GUR:4] Plains
+1 [MOR:55] Vendilion Clique
+1 [BBD:1] Will Kenrith
+1 [ZEN:116] Vampire Nighthawk
+1 [LEB:282] Scrubland
+1 [AKH:243] Fetid Pools
+1 [CSP:136] Coldsteel Heart
+1 [BFZ:244] Shambling Vent
+SB: 1 [RAV:81] Dark Confidant
+SB: 1 [ICE:244] Fyndhorn Elves
+SB: 1 [POR:129] Earthquake
+SB: 1 [PTK:122] Rolling Earthquake
+SB: 1 [OGW:144] Sylvan Advocate
+SB: 1 [APC:114] Pernicious Deed
+SB: 1 [LEB:278] Badlands
+SB: 1 [MIR:255] Worldly Tutor
+SB: 1 [SOI:116] Heir of Falkenrath
+SB: 1 [ARB:75] Qasali Pridemage
+SB: 1 [DTK:169] Zurgo Bellstriker
+SB: 1 [ORI:189] Nissa, Vastwood Seer
+SB: 1 [VIS:167] Undiscovered Paradise
+LAYOUT MAIN:(1,9)(CMC,false,70)|([GUR:2],[GUR:2],[GUR:2],[GUR:5],[GUR:5],[GUR:5],[GUR:5],[GUR:4])([WWK:134],[ULG:139],[AKH:243],[DIS:174],[LEG:303],[V12:10],[ZEN:220],[ONS:321],[LEB:282],[BFZ:244],[TSP:279])([STH:138])([5DN:27],[ROE:115],[CHK:268])([LEA:3],[CSP:136],[ZEN:48],[UDS:136],[RAV:63])([EXO:35],[EMN:93],[ZEN:116],[MOR:55],[USG:318])([ORI:105],[FUT:46],[XLN:129])([C17:37])([M11:97],[KLD:96],[BBD:1])
+LAYOUT SIDEBOARD:(1,4)(CMC,false,83)|([VIS:167],[LEB:278])([DTK:169],[PTK:122],[ICE:244],[POR:129],[MIR:255])([SOI:116],[ARB:75],[OGW:144],[RAV:81])([APC:114],[ORI:189])

@@ -1,0 +1,50 @@
+1 [DTK:181] Den Protector
+1 [UDS:117] Plow Under
+1 [LRW:88] Sower of Temptation
+1 [WWK:144] Stirring Wildwood
+1 [BNG:5] Brimaz, King of Oreskos
+1 [ZEN:220] Misty Rainforest
+1 [NPH:4] Blade Splicer
+1 [MMQ:61] Brainstorm
+1 [APC:143] Yavimaya Coast
+1 [ROE:21] Gideon Jura
+1 [DOM:207] Teferi, Hero of Dominaria
+1 [M13:193] Thragtusk
+1 [DIS:174] Hallowed Fountain
+1 [GPT:152] Izzet Signet
+1 [LEG:207] Sylvan Library
+1 [CN2:18] Palace Jailer
+1 [M11:35] Sun Titan
+1 [ULG:139] Faerie Conclave
+1 [ALA:9] Elspeth, Knight-Errant
+1 [BFZ:239] Lumbering Falls
+1 [HOU:2] Adorned Pouncer
+1 [MRD:152] Chrome Mox
+1 [DIS:172] Breeding Pool
+1 [4ED:64] Control Magic
+1 [GUR:1] Forest
+1 [ARN:71] City of Brass
+1 [DOM:1] Karn, Scion of Urza
+1 [GUR:2] Island
+5 [GUR:4] Plains
+1 [MOR:55] Vendilion Clique
+1 [AKH:14] Gideon of the Trials
+1 [LEA:214] Regrowth
+1 [SOI:12] Declaration in Stone
+1 [ONS:330] Wooded Foothills
+1 [ULG:126] Grim Monolith
+1 [LRW:213] Garruk Wildspeaker
+SB: 1 [MMQ:129] Dark Ritual
+SB: 1 [5DN:73] Magma Jet
+SB: 1 [M19:33] Remorseful Cleric
+SB: 1 [NEM:141] Kor Haven
+SB: 1 [HOU:140] Nicol Bolas, God-Pharaoh
+SB: 1 [DOM:14] Dauntless Bodyguard
+SB: 1 [POR:5] Armageddon
+SB: 1 [TMP:47] Soltari Trooper
+SB: 1 [DST:163] Blinkmoth Nexus
+SB: 1 [LEG:185] Eureka
+SB: 1 [THS:33] Spear of Heliod
+SB: 1 [VIS:66] Nekrataal
+LAYOUT MAIN:(1,8)(CMC,false,73)|([GUR:4],[GUR:4],[GUR:4],[GUR:4],[GUR:4],[GUR:2],[GUR:1])([DIS:172],[MRD:152],[ARN:71],[ULG:139],[DIS:174],[BFZ:239],[ZEN:220],[WWK:144],[ONS:330],[APC:143])([MMQ:61])([HOU:2],[SOI:12],[DTK:181],[ULG:126],[GPT:152],[LEA:214],[LEG:207])([NPH:4],[BNG:5],[AKH:14],[MOR:55])([4ED:64],[ALA:9],[LRW:213],[DOM:1],[CN2:18],[LRW:88])([ROE:21],[UDS:117],[DOM:207],[M13:193])([M11:35])
+LAYOUT SIDEBOARD:(1,6)(CMC,false,71)|([DST:163],[NEM:141])([MMQ:129],[DOM:14])([5DN:73],[M19:33],[TMP:47])([THS:33])([POR:5],[LEG:185],[VIS:66])([HOU:140])

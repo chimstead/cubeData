@@ -1,0 +1,51 @@
+1 [6ED:4] Armageddon
+1 [JR:97] Ravages of War
+1 [CN2:18] Palace Jailer
+1 [MBS:8] Hero of Bladehold
+1 [DST:140] Skullclamp
+1 [ULG:14] Mother of Runes
+1 [CON:15] Path to Exile
+1 [XLN:22] Legion's Landing
+1 [ORI:23] Kytheon, Hero of Akros
+1 [EVE:139] Figure of Destiny
+1 [DOM:14] Dauntless Bodyguard
+1 [ODY:193] Firebolt
+1 [CMA:27] Unexpectedly Absent
+1 [KLD:235] Smuggler's Copter
+1 [EMN:40] Selfless Spirit
+1 [WWK:20] Stoneforge Mystic
+1 [M19:33] Remorseful Cleric
+1 [XLN:1] Adanto Vanguard
+1 [RAV:213] Lightning Helix
+1 [NPH:4] Blade Splicer
+1 [DST:148] Sword of Fire and Ice
+1 [NPH:19] Porcelain Legionnaire
+1 [VMA:20] Council's Judgment
+1 [M15:145] Goblin Rabblemaster
+1 [MPS:16] Mana Crypt
+1 [M14:228] Mutavault
+1 [OGW:175] Needle Spires
+1 [2ED:233] Black Lotus
+1 [GRN:254] Sacred Foundry
+1 [KLD:246] Inspiring Vantage
+1 [3ED:302] Mountain
+4 [3ED:292] Plains
+3 [3ED:294] Plains
+2 [3ED:293] Plains
+SB: 1 [RAV:63] Remand
+SB: 1 [M12:16] Gideon Jura
+SB: 1 [3ED:287] Taiga
+SB: 1 [SOM:226] Darkslick Shores
+SB: 1 [AVR:129] Bonfire of the Damned
+SB: 1 [PCA:104] Shardless Agent
+SB: 1 [PLS:60] Flametongue Kavu
+SB: 1 [SOI:5] Archangel Avacyn
+SB: 1 [SOM:228] Razorverge Thicket
+SB: 1 [JOU:62] Brain Maggot
+SB: 1 [STH:125] Wall of Blossoms
+SB: 1 [EXO:72] Recurring Nightmare
+SB: 1 [M19:314] Llanowar Elves
+SB: 1 [SHM:229] Kitchen Finks
+SB: 1 [GRN:153] Aurelia, Exemplar of Justice
+LAYOUT MAIN:(1,5)(CMC,false,50)|([MPS:16],[M14:228],[OGW:175],[2ED:233],[GRN:254],[KLD:246],[3ED:302],[3ED:292],[3ED:292],[3ED:294],[3ED:293],[3ED:294],[3ED:294],[3ED:292],[3ED:293],[3ED:292])([DST:140],[ULG:14],[CON:15],[XLN:22],[ORI:23],[EVE:139],[DOM:14],[ODY:193])([CMA:27],[KLD:235],[EMN:40],[WWK:20],[M19:33],[XLN:1],[RAV:213])([NPH:4],[DST:148],[NPH:19],[VMA:20],[M15:145])([6ED:4],[JR:97],[CN2:18],[MBS:8])
+LAYOUT SIDEBOARD:(1,6)(CMC,false,50)|([3ED:287],[SOM:226],[SOM:228])([AVR:129],[M19:314])([RAV:63],[JOU:62],[STH:125])([PCA:104],[EXO:72],[SHM:229])([PLS:60],[GRN:153])([M12:16],[SOI:5])

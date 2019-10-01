@@ -1,0 +1,51 @@
+1 [CHK:268] Sensei's Divining Top
+1 [ONS:313] Bloodstained Mire
+1 [LRW:88] Sower of Temptation
+1 [M11:146] Inferno Titan
+1 [OGW:104] Chandra, Flamecaller
+1 [C15:14] Mystic Confluence
+1 [5DN:27] Condescend
+1 [TSP:279] Terramorphic Expanse
+1 [XLN:250] Treasure Map
+1 [GPT:152] Izzet Signet
+1 [MMQ:69] Counterspell
+1 [ODY:113] Upheaval
+1 [RAV:117] Char
+7 [UST:213] Island
+1 [UST:214] Swamp
+1 [FUT:161] Coalition Relic
+1 [AER:181] Walking Ballista
+1 [HOU:140] Nicol Bolas, God-Pharaoh
+1 [ULG:36] Miscalculation
+1 [POR:124] Earthquake
+4 [UST:215] Mountain
+1 [4ED:64] Control Magic
+1 [ARN:71] City of Brass
+1 [UDS:50] Treachery
+1 [APC:128] Fire // Ice
+1 [GPT:164] Steam Vents
+1 [MRD:175] Gilded Lotus
+1 [ORI:157] Pia and Kiran Nalaar
+1 [MRD:254] Talisman of Impulse
+1 [USG:174] Arc Lightning
+1 [LRW:71] Jace Beleren
+SB: 1 [EXO:115] Oath of Druids
+SB: 1 [5DN:126] Grafted Wargear
+SB: 1 [UST:216] Forest
+SB: 1 [ROE:6] Kozilek, Butcher of Truth
+SB: 1 [AKH:88] Dread Wanderer
+SB: 1 [C18:57] Retrofitter Foundry
+SB: 1 [CNS:187] Edric, Spymaster of Trest
+SB: 1 [DOM:193] Darigaaz Reincarnated
+SB: 1 [USG:228] Wildfire
+SB: 1 [OGW:171] Hissing Quagmire
+SB: 1 [USG:103] Time Spiral
+SB: 1 [NPH:33] Deceiver Exarch
+SB: 1 [AVR:166] Zealous Conscripts
+SB: 1 [DKA:64] Gravecrawler
+SB: 1 [JOU:72] Gnarled Scarhide
+SB: 1 [LEG:120] The Abyss
+SB: 1 [VIS:66] Nekrataal
+SB: 1 [CN2:58] Subterranean Tremors
+LAYOUT MAIN:(1,8)(CMC,false,68)|([ONS:313],[TSP:279],[ARN:71],[GPT:164],[UST:215],[UST:215],[UST:215],[UST:215],[UST:213],[UST:213],[UST:213],[UST:213],[UST:213],[UST:213],[UST:213],[UST:214])([5DN:27],[CHK:268],[POR:124],[AER:181])([GPT:152],[MRD:254],[XLN:250],[MMQ:69],[ULG:36],[APC:128])([LRW:71],[FUT:161],[RAV:117],[USG:174])([4ED:64],[LRW:88],[ORI:157])([UDS:50],[C15:14],[MRD:175])([ODY:113],[M11:146],[OGW:104])([HOU:140])
+LAYOUT SIDEBOARD:(1,9)(CMC,false,85)|([OGW:171],[UST:216])([C18:57],[JOU:72],[DKA:64],[AKH:88])([EXO:115])([CNS:187],[NPH:33],[5DN:126],[CN2:58])([VIS:66],[LEG:120])([AVR:166])([USG:103],[USG:228])([DOM:193])([ROE:6])

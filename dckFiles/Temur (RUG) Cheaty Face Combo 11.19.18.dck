@@ -1,0 +1,50 @@
+1 [LRW:272] Shelldock Isle
+1 [RAV:255] Boros Signet
+1 [THS:127] Lightning Strike
+1 [SHM:135] Woodfall Primus
+1 [APC:142] Shivan Reef
+1 [C18:53] Ancient Stone Idol
+1 [M11:70] Preordain
+1 [USG:96] Show and Tell
+1 [LEG:185] Eureka
+1 [CN2:58] Subterranean Tremors
+1 [ROE:12] Ulamog, the Infinite Gyre
+1 [BFZ:239] Lumbering Falls
+1 [EXO:115] Oath of Druids
+1 [ONS:328] Windswept Heath
+1 [RAV:63] Remand
+1 [DIS:172] Breeding Pool
+1 [CHK:193] Through the Breach
+4 [GUR:1] Forest
+1 [USG:218] Sneak Attack
+3 [GUR:3] Mountain
+1 [M15:187] Nissa, Worldwaker
+2 [GUR:2] Island
+1 [UDS:50] Treachery
+1 [KTK:196] Sagu Mauler
+1 [ARB:110] Sphinx of the Steel Wind
+1 [ULG:129] Memory Jar
+1 [LEB:287] Volcanic Island
+1 [JOU:163] Mana Confluence
+1 [MRD:256] Talisman of Progress
+1 [ULG:126] Grim Monolith
+1 [MRD:53] Thirst for Knowledge
+1 [CN2:69] Regal Behemoth
+1 [CSP:136] Coldsteel Heart
+1 [LEB:283] Taiga
+SB: 1 [KLD:172] Verdurous Gearhulk
+SB: 1 [LRW:88] Sower of Temptation
+SB: 1 [RAV:279] Overgrown Tomb
+SB: 1 [KTK:36] Dig Through Time
+SB: 1 [C18:44] Saheeli, the Gifted
+SB: 1 [C13:25] Unexpectedly Absent
+SB: 1 [ISD:181] Garruk Relentless
+SB: 1 [ORI:189] Nissa, Vastwood Seer
+SB: 1 [SOI:243] Arlinn Kord
+SB: 1 [ODY:113] Upheaval
+SB: 1 [USG:132] Duress
+SB: 1 [MRD:134] Tooth and Nail
+SB: 1 [SOK:158] Pithing Needle
+SB: 1 [LEG:58] Force Spike
+LAYOUT MAIN:(1,9)(CMC,false,54)|([GUR:1],[GUR:1],[GUR:1],[GUR:1],[GUR:3],[GUR:3],[GUR:3],[GUR:2],[GUR:2])([DIS:172],[BFZ:239],[JOU:163],[LRW:272],[APC:142],[LEB:283],[LEB:287],[ONS:328])([M11:70],[CN2:58])([RAV:255],[CSP:136],[ULG:126],[THS:127],[EXO:115],[RAV:63],[MRD:256])([USG:96],[MRD:53])([LEG:185],[USG:218])([ULG:129],[M15:187],[CHK:193],[UDS:50])([CN2:69],[KTK:196])([ARB:110],[SHM:135],[C18:53],[ROE:12])
+LAYOUT SIDEBOARD:(1,9)(CMC,false,55)|([RAV:279])([SOK:158],[LEG:58],[USG:132])([C13:25])([ORI:189])([LRW:88],[SOI:243],[ISD:181],[C18:44])([KLD:172])([ODY:113])([MRD:134])([KTK:36])

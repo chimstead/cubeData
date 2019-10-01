@@ -1,0 +1,53 @@
+1 [TMP:330] Wasteland
+1 [MBS:43] Go for the Throat
+1 [BFZ:109] Drana, Liberator of Malakir
+1 [BOK:163] Umezawa's Jitte
+1 [ROE:115] Inquisition of Kozilek
+1 [C14:8] Hallowed Spiritkeeper
+1 [FEM:38a] Hymn to Tourach
+1 [APC:102] Gerrard's Verdict
+1 [EMN:40] Selfless Spirit
+3 [USG:342] Swamp
+1 [EMN:46] Thalia, Heretic Cathar
+2 [USG:341] Swamp
+1 [DKA:12] Lingering Souls
+1 [ALA:9] Elspeth, Knight-Errant
+1 [DKA:142] Sorin, Lord of Innistrad
+1 [C14:22] Flesh Carver
+1 [ULG:14] Mother of Runes
+1 [HOU:2] Adorned Pouncer
+1 [C13:84] Ophiomancer
+1 [DOM:14] Dauntless Bodyguard
+1 [AKH:88] Dread Wanderer
+1 [ZEN:211] Arid Mesa
+2 [USG:339] Swamp
+1 [APC:126] Vindicate
+1 [CN2:41] Custodi Lich
+1 [MOR:58] Bitterblossom
+1 [ZEN:219] Marsh Flats
+2 [USG:333] Plains
+2 [USG:331] Plains
+2 [USG:332] Plains
+1 [LEB:282] Scrubland
+1 [CNS:16] Council's Judgment
+1 [KLD:235] Smuggler's Copter
+SB: 1 [POR:124] Earthquake
+SB: 1 [ODY:117] Braids, Cabal Minion
+SB: 1 [KLD:110] Chandra, Torch of Defiance
+SB: 1 [OGW:86] Kalitas, Traitor of Ghet
+SB: 1 [RAV:280] Sacred Foundry
+SB: 1 [THS:108] Tormented Hero
+SB: 1 [WWK:139] Lavaclaw Reaches
+SB: 1 [ICE:118] Dance of the Dead
+SB: 1 [DOM:1] Karn, Scion of Urza
+SB: 1 [CN2:74] Daretti, Ingenious Iconoclast
+SB: 1 [USG:228] Wildfire
+SB: 1 [APC:139] Battlefield Forge
+SB: 1 [OGW:171] Hissing Quagmire
+SB: 1 [SOI:116] Heir of Falkenrath
+SB: 1 [AKH:204] Nissa, Steward of Elements
+SB: 1 [DKA:64] Gravecrawler
+SB: 1 [CHK:19] Isamaru, Hound of Konda
+SB: 1 [THS:32] Soldier of the Pantheon
+LAYOUT MAIN:(2,6)(CMC,true,56)|([USG:333],[USG:333],[USG:332],[USG:332],[USG:331],[USG:331])([AKH:88],[DOM:14],[ULG:14])([HOU:2],[EMN:40])([C13:84],[C14:22],[C14:8],[EMN:46],[BFZ:109])()([CN2:41])([USG:341],[USG:339],[USG:342],[USG:342],[USG:341],[USG:342],[USG:339])([ROE:115])([APC:102],[MBS:43],[FEM:38a],[KLD:235],[BOK:163],[MOR:58])([APC:126],[CNS:16],[DKA:12])([ALA:9],[DKA:142])([ZEN:211],[LEB:282],[ZEN:219],[TMP:330])
+LAYOUT SIDEBOARD:(1,5)(COLOR_IDENTITY,false,50)|([KLD:110],[USG:228],[POR:124])([ICE:118],[SOI:116],[ODY:117],[THS:108],[OGW:86],[DKA:64])([OGW:171],[CN2:74],[AKH:204])([CHK:19],[THS:32],[DOM:1])([WWK:139],[APC:139],[RAV:280])

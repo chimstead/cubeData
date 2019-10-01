@@ -1,0 +1,48 @@
+1 [DOM:14] Dauntless Bodyguard
+1 [EVE:139] Figure of Destiny
+1 [ORI:23] Kytheon, Hero of Akros
+1 [XLN:22] Legion's Landing
+1 [DST:140] Skullclamp
+1 [ROE:47] Student of Warfare
+1 [ICE:54] Swords to Plowshares
+1 [XLN:1] Adanto Vanguard
+1 [M12:23] Honor of the Pure
+1 [MBS:10] Leonin Relic-Warder
+1 [WWK:20] Stoneforge Mystic
+1 [BOK:163] Umezawa's Jitte
+1 [VMA:20] Council's Judgment
+1 [DKA:12] Lingering Souls
+1 [CN2:22] Recruiter of the Guard
+1 [THS:33] Spear of Heliod
+1 [DST:148] Sword of Fire and Ice
+1 [ALA:9] Elspeth, Knight-Errant
+1 [KLD:4] Angel of Invention
+1 [SHM:23] Spectral Procession
+1 [ROE:33] Linvala, Keeper of Silence
+1 [M20:14] Disenchant
+1 [SHM:229] Kitchen Finks
+1 [VMA:266] Coercive Portal
+1 [RNA:248] Godless Shrine
+1 [ZEN:219] Marsh Flats
+1 [4ED:361] Mishra's Factory
+1 [2ED:264] Mox Pearl
+1 [BFZ:244] Shambling Vent
+1 [4ED:363] Strip Mine
+10 [UGL:84] Plains
+SB: 1 [5ED:408] Winter Orb
+SB: 1 [M12:98] Grave Titan
+SB: 1 [TMP:142] Living Death
+SB: 1 [USG:105] Turnabout
+SB: 1 [M13:199] Nicol Bolas, Planeswalker
+SB: 1 [GRN:183] Knight of Autumn
+SB: 1 [LEG:65] Mana Drain
+SB: 1 [CMA:27] Unexpectedly Absent
+SB: 1 [JR:97] Ravages of War
+SB: 1 [6ED:19] Enlightened Tutor
+SB: 1 [M14:163] Young Pyromancer
+SB: 1 [SOI:242] Anguished Unmaking
+SB: 1 [SOM:228] Razorverge Thicket
+SB: 1 [ULG:101] Deranged Hermit
+SB: 1 [TMP:183] Jackal Pup
+LAYOUT MAIN:(1,6)(CMC,false,52)|([RNA:248],[ZEN:219],[4ED:361],[2ED:264],[BFZ:244],[4ED:363],[UGL:84],[UGL:84],[UGL:84],[UGL:84],[UGL:84],[UGL:84],[UGL:84],[UGL:84],[UGL:84],[UGL:84])([DOM:14],[EVE:139],[ORI:23],[XLN:22],[DST:140],[ROE:47],[ICE:54])([XLN:1],[M12:23],[MBS:10],[WWK:20],[BOK:163],[M20:14])([VMA:20],[DKA:12],[CN2:22],[THS:33],[DST:148],[SHM:23],[SHM:229])([ALA:9],[ROE:33],[VMA:266])([KLD:4])
+LAYOUT SIDEBOARD:(1,8)(CMC,false,52)|([SOM:228])([TMP:183],[6ED:19])([LEG:65],[M14:163],[CMA:27],[5ED:408])([SOI:242],[GRN:183])([JR:97],[USG:105])([ULG:101],[TMP:142])([M12:98])([M13:199])

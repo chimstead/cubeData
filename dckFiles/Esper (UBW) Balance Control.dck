@@ -1,0 +1,52 @@
+1 [3ED:290] Underground Sea
+1 [3ED:294] Plains
+1 [3ED:293] Plains
+1 [C17:37] Fractured Identity
+1 [KTK:248] Windswept Heath
+1 [3ED:292] Plains
+1 [C18:57] Retrofitter Foundry
+1 [THS:107] Thoughtseize
+1 [3ED:297] Island
+1 [5DN:27] Condescend
+1 [RTR:201] Supreme Verdict
+3 [3ED:300] Swamp
+1 [M14:96] Doom Blade
+1 [EMA:108] Toxic Deluge
+1 [M12:98] Grave Titan
+1 [CN2:18] Palace Jailer
+1 [4ED:6] Balance
+1 [SOI:44] Thraben Inspector
+1 [E01:80] Baleful Strix
+1 [DKA:142] Sorin, Lord of Innistrad
+1 [GTC:242] Godless Shrine
+1 [BFZ:29] Gideon, Ally of Zendikar
+1 [ISD:105] Liliana of the Veil
+1 [XLN:223] Hostage Taker
+1 [WWK:134] Creeping Tar Pit
+1 [C13:84] Ophiomancer
+1 [MRD:152] Chrome Mox
+1 [RAV:260] Dimir Signet
+1 [RTR:241] Hallowed Fountain
+1 [3ED:286] Scrubland
+1 [KTK:233] Flooded Strand
+1 [APC:126] Vindicate
+1 [MOR:58] Bitterblossom
+1 [KTK:230] Bloodstained Mire
+1 [FRF:87] Tasigur, the Golden Fang
+1 [MRD:53] Thirst for Knowledge
+1 [M12:63] Mana Leak
+1 [BFZ:244] Shambling Vent
+SB: 1 [ULG:14] Mother of Runes
+SB: 1 [GRN:253] Overgrown Tomb
+SB: 1 [OGW:182] Wandering Fumarole
+SB: 1 [5ED:140] Animate Dead
+SB: 1 [ALA:202] Tidehollow Sculler
+SB: 1 [AER:87] Kari Zev, Skyship Raider
+SB: 1 [ULG:101] Deranged Hermit
+SB: 1 [AKH:88] Dread Wanderer
+SB: 1 [NPH:4] Blade Splicer
+SB: 1 [SCG:59] Carrion Feeder
+SB: 1 [M13:112] Vampire Nighthawk
+SB: 1 [C15:26] Fiery Confluence
+LAYOUT MAIN:(1,7)(CMC,false,50)|([MRD:152],[GTC:242],[KTK:233],[RTR:241],[KTK:248],[WWK:134],[3ED:286],[KTK:230],[3ED:290],[BFZ:244],[3ED:297],[3ED:294],[3ED:293],[3ED:292],[3ED:300],[3ED:300],[3ED:300])([C18:57],[5DN:27],[THS:107],[SOI:44])([4ED:6],[M12:63],[E01:80],[RAV:260],[MOR:58],[M14:96])([EMA:108],[ISD:105],[APC:126],[MRD:53],[C13:84])([BFZ:29],[CN2:18],[RTR:201],[XLN:223],[DKA:142])([C17:37])([M12:98],[FRF:87])
+LAYOUT SIDEBOARD:(1,6)(CMC,false,50)|([OGW:182],[GRN:253])([ULG:14],[SCG:59],[AKH:88])([5ED:140],[AER:87],[ALA:202])([NPH:4],[M13:112])([C15:26])([ULG:101])

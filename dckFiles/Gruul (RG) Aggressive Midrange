@@ -1,0 +1,49 @@
+1 [WWK:141] Raging Ravine
+1 [XLN:256] Rootbound Crag
+1 [THS:143] Stormbreath Dragon
+1 [M11:149] Lightning Bolt
+1 [THS:209] Xenagos, the Reveler
+1 [M13:147] Searing Spear
+1 [M19:152] Lightning Strike
+1 [XLN:154] Rampaging Ferocidon
+1 [OGW:144] Sylvan Advocate
+1 [ISD:140] Devil's Play
+1 [RTR:101] Mizzium Mortars
+1 [M14:134] Chandra's Phoenix
+1 [ISD:164] Stromkirk Noble
+1 [GTC:247] Stomping Ground
+1 [GTC:167] Ghor-Clan Rampager
+1 [DKA:140] Huntmaster of the Fells
+1 [KLD:199] Bomat Courier
+1 [ROE:145] Flame Slash
+1 [M12:188] Primeval Titan
+5 [GUR:1] Forest
+1 [M12:165] Birds of Paradise
+1 [M15:164] Stoke the Flames
+8 [GUR:3] Mountain
+1 [DTK:216] Dragonlord Atarka
+1 [EMN:133] Incendiary Flow
+1 [ARB:50] Bloodbraid Elf
+1 [LEG:137] Chain Lightning
+1 [SOM:94] Koth of the Hammer
+1 [SOM:225] Copperline Gorge
+SB: 1 [MBS:75] Slagstorm
+SB: 1 [ROE:33] Linvala, Keeper of Silence
+SB: 1 [ORI:106] Liliana, Heretical Healer
+SB: 1 [THS:188] Ashiok, Nightmare Weaver
+SB: 1 [10E:61] Wrath of God
+SB: 1 [OGW:116] Reckless Bushwhacker
+SB: 1 [M19:196] Reclamation Sage
+SB: 1 [M13:112] Vampire Nighthawk
+SB: 1 [NPH:103] Beast Within
+SB: 1 [PCA:104] Shardless Agent
+SB: 1 [AVR:129] Bonfire of the Damned
+SB: 1 [SOM:228] Razorverge Thicket
+SB: 1 [ORI:157] Pia and Kiran Nalaar
+SB: 1 [AKH:136] Hazoret the Fervent
+SB: 1 [MRD:222] Oblivion Stone
+SB: 1 [MBS:14] Mirran Crusader
+SB: 1 [THS:9] Elspeth, Sun's Champion
+SB: 1 [AER:122] Rishkar, Peema Renegade
+LAYOUT MAIN:(1,9)(CMC,false,65)|([GUR:1],[GUR:1],[GUR:1],[GUR:1],[GUR:1],[GUR:3],[GUR:3],[GUR:3],[GUR:3],[GUR:3],[GUR:3],[GUR:3],[GUR:3])([SOM:225],[XLN:256],[GTC:247],[WWK:141])([ROE:145],[KLD:199],[M12:165],[LEG:137],[M11:149],[ISD:164],[ISD:140])([RTR:101],[M19:152],[M13:147],[OGW:144],[EMN:133])([M14:134],[XLN:154])([SOM:94],[THS:209],[ARB:50],[M15:164],[GTC:167],[DKA:140])([THS:143])([M12:188])([DTK:216])
+LAYOUT SIDEBOARD:(1,5)(CMC,false,60)|([SOM:228])([AVR:129])([M13:112],[NPH:103],[MBS:14],[MBS:75],[PCA:104],[THS:188],[MRD:222],[ORI:106],[M19:196],[AER:122],[OGW:116])([ORI:157],[10E:61],[AKH:136],[ROE:33])([THS:9])

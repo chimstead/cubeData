@@ -1,0 +1,51 @@
+1 [CHK:268] Sensei's Divining Top
+1 [ONS:313] Bloodstained Mire
+1 [RIX:99] Dire Fleet Daredevil
+1 [STH:138] Mox Diamond
+1 [5DN:27] Condescend
+1 [PLC:85] Damnation
+1 [LEB:279] Bayou
+1 [APC:139] Battlefield Forge
+1 [DTK:224] Kolaghan's Command
+1 [6ED:328] Sulfurous Springs
+1 [LEB:116] Mind Twist
+1 [LEG:207] Sylvan Library
+1 [DTK:248] Evolving Wilds
+1 [DKA:12] Lingering Souls
+1 [LEG:120] The Abyss
+1 [LRW:76] Mulldrifter
+1 [WWK:134] Creeping Tar Pit
+1 [MMA:180] Maelstrom Pulse
+1 [RAV:280] Sacred Foundry
+1 [EXO:35] Forbid
+1 [ZEN:211] Arid Mesa
+1 [GUR:1] Forest
+1 [C18:44] Saheeli, the Gifted
+1 [ARN:71] City of Brass
+2 [GUR:2] Island
+1 [RTR:157] Dreadbore
+1 [EMN:93] Liliana, the Last Hope
+1 [GUR:5] Swamp
+1 [GUR:4] Plains
+1 [MOR:55] Vendilion Clique
+1 [TSP:48] Ancestral Vision
+1 [LEB:287] Volcanic Island
+1 [M19:218] Nicol Bolas, the Ravager
+1 [ZEN:116] Vampire Nighthawk
+1 [MIR:184] Incinerate
+1 [FRF:87] Tasigur, the Golden Fang
+1 [LEG:137] Chain Lightning
+1 [LRW:71] Jace Beleren
+1 [CSP:136] Coldsteel Heart
+SB: 1 [ULG:45] Tinker
+SB: 1 [MMQ:316] Dust Bowl
+SB: 1 [MMQ:324] Rishadan Port
+SB: 1 [BNG:5] Brimaz, King of Oreskos
+SB: 1 [DDF:57] Triskelion
+SB: 1 [ZEN:126] Goblin Guide
+SB: 1 [M11:168] Cultivate
+SB: 1 [CNS:16] Council's Judgment
+SB: 1 [DKA:24] Thalia, Guardian of Thraben
+SB: 1 [MBS:8] Hero of Bladehold
+LAYOUT MAIN:(1,8)(CMC,false,75)|([GUR:2],[GUR:2],[GUR:4],[GUR:5],[GUR:1])([ZEN:211],[APC:139],[LEB:279],[ONS:313],[ARN:71],[WWK:134],[DTK:248],[RAV:280],[6ED:328],[LEB:287])([STH:138],[TSP:48],[LEG:137],[5DN:27],[LEB:116],[CHK:268])([CSP:136],[RIX:99],[RTR:157],[MIR:184],[LEG:207])([EXO:35],[LRW:71],[DTK:224],[EMN:93],[DKA:12],[MMA:180],[ZEN:116],[MOR:55])([PLC:85],[M19:218],[C18:44],[LEG:120])([LRW:76])([FRF:87])
+LAYOUT SIDEBOARD:(1,6)(CMC,false,69)|([MMQ:316],[MMQ:324])([ZEN:126])([DKA:24])([ULG:45],[BNG:5],[CNS:16],[M11:168])([MBS:8])([DDF:57])

@@ -1,0 +1,56 @@
+1 [ICE:54] Swords to Plowshares
+1 [E01:80] Baleful Strix
+1 [ALA:202] Tidehollow Sculler
+1 [M12:63] Mana Leak
+1 [XLN:110] Kitesail Freebooter
+1 [RAV:255] Boros Signet
+1 [NEM:30] Daze
+1 [XLN:81] Spell Pierce
+1 [4ED:147] Mind Twist
+1 [C13:84] Ophiomancer
+1 [NPH:57] Dismember
+1 [DKA:12] Lingering Souls
+1 [GRN:205] Thief of Sanity
+1 [AVR:32] Restoration Angel
+1 [CN2:18] Palace Jailer
+1 [NEM:17] Parallax Wave
+1 [XLN:223] Hostage Taker
+1 [BFZ:29] Gideon, Ally of Zendikar
+1 [UDS:50] Treachery
+1 [LRW:139] Shriekmaw
+1 [BBD:122] Mystic Confluence
+1 [M12:16] Gideon Jura
+1 [AKH:1] Angel of Sanctions
+1 [CMA:27] Unexpectedly Absent
+1 [WWK:134] Creeping Tar Pit
+1 [WWK:133] Celestial Colonnade
+1 [BFZ:244] Shambling Vent
+1 [KTK:230] Bloodstained Mire
+1 [KTK:248] Windswept Heath
+1 [3ED:286] Scrubland
+1 [RNA:248] Godless Shrine
+3 [3ED:295] Island
+1 [3ED:293] Plains
+1 [3ED:292] Plains
+1 [3ED:294] Plains
+1 [3ED:297] Island
+2 [3ED:296] Island
+SB: 1 [ZEN:220] Misty Rainforest
+SB: 1 [ULG:49] Bone Shredder
+SB: 1 [5ED:408] Winter Orb
+SB: 1 [CHK:212] Heartbeat of Spring
+SB: 1 [EVE:6] Flickerwisp
+SB: 1 [M12:40] Timely Reinforcements
+SB: 1 [M14:7] Banisher Priest
+SB: 1 [SHM:23] Spectral Procession
+SB: 1 [RAV:16] Faith's Fetters
+SB: 1 [NPH:19] Porcelain Legionnaire
+SB: 1 [M13:112] Vampire Nighthawk
+SB: 1 [DST:149] Sword of Light and Shadow
+SB: 1 [KLD:84] Gonti, Lord of Luxury
+SB: 1 [ZEN:11] Emeria Angel
+SB: 2 [3ED:298] Swamp
+SB: 1 [3ED:294] Plains
+SB: 1 [3ED:300] Swamp
+LAYOUT MAIN:(1,6)(CMC,false,50)|([WWK:134],[WWK:133],[BFZ:244],[KTK:230],[KTK:248],[3ED:286],[RNA:248],[3ED:295],[3ED:295],[3ED:297],[3ED:296],[3ED:295],[3ED:293],[3ED:292],[3ED:294],[3ED:296])([ICE:54],[XLN:81],[4ED:147])([E01:80],[ALA:202],[M12:63],[XLN:110],[RAV:255],[NEM:30],[CMA:27],[LRW:139])([C13:84],[NPH:57],[DKA:12],[GRN:205])([AVR:32],[CN2:18],[NEM:17],[XLN:223],[BFZ:29])([UDS:50],[BBD:122],[M12:16],[AKH:1])
+LAYOUT SIDEBOARD:(1,5)(CMC,false,50)|([ZEN:220],[3ED:298],[3ED:294],[3ED:298],[3ED:300])([5ED:408])([ULG:49],[CHK:212],[EVE:6],[M12:40],[M14:7],[NPH:19],[M13:112],[DST:149])([RAV:16],[KLD:84],[ZEN:11])([SHM:23])

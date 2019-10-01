@@ -1,0 +1,50 @@
+1 [KLD:67] Torrential Gearhulk
+1 [2ED:263] Mox Jet
+1 [5DN:164] Vedalken Shackles
+1 [M12:16] Gideon Jura
+1 [4ED:34] Land Tax
+1 [NPH:4] Blade Splicer
+1 [STH:138] Mox Diamond
+1 [RTR:201] Supreme Verdict
+1 [3ED:289] Tundra
+1 [ALA:9] Elspeth, Knight-Errant
+1 [THS:9] Elspeth, Sun's Champion
+1 [BFZ:29] Gideon, Ally of Zendikar
+1 [2ED:233] Black Lotus
+1 [XLN:248] Sorcerous Spyglass
+1 [6ED:161] Vampiric Tutor
+1 [4ED:64] Control Magic
+1 [RTR:241] Hallowed Fountain
+1 [ICE:54] Swords to Plowshares
+5 [GUR:2] Island
+1 [7ED:67] Counterspell
+1 [APC:126] Vindicate
+2 [GUR:5] Swamp
+4 [GUR:4] Plains
+1 [MOR:55] Vendilion Clique
+1 [2ED:48] Ancestral Recall
+1 [DOM:81] Cast Down
+1 [FRF:20] Monastery Mentor
+1 [LRW:139] Shriekmaw
+1 [SOM:226] Darkslick Shores
+1 [M13:22] Oblivion Ring
+1 [SOM:223] Wurmcoil Engine
+1 [BFZ:244] Shambling Vent
+SB: 1 [PLC:25] Mana Tithe
+SB: 1 [BFZ:239] Lumbering Falls
+SB: 1 [XLN:129] Vraska's Contempt
+SB: 1 [M14:7] Banisher Priest
+SB: 1 [5ED:140] Animate Dead
+SB: 1 [SOM:180] Myr Battlesphere
+SB: 1 [ORI:229] Hangarback Walker
+SB: 1 [WWK:127] Lodestone Golem
+SB: 1 [5ED:391] Nevinyrral's Disk
+SB: 1 [ZEN:13] Iona, Shield of Emeria
+SB: 1 [DTK:219] Dragonlord Ojutai
+SB: 1 [ZEN:11] Emeria Angel
+SB: 1 [TOR:51] Cabal Ritual
+SB: 1 [ULG:80] Goblin Welder
+SB: 1 [AKH:211] Commit // Memory
+SB: 1 [ISD:51] Delver of Secrets
+LAYOUT MAIN:(1,9)(CMC,false,71)|([GUR:2],[GUR:2],[GUR:2],[GUR:2],[GUR:2],[GUR:4],[GUR:4],[GUR:4],[GUR:4],[GUR:5],[GUR:5])([SOM:226],[RTR:241],[BFZ:244],[3ED:289])([STH:138],[2ED:233],[2ED:263])([2ED:48],[4ED:34],[ICE:54],[6ED:161])([DOM:81],[7ED:67],[XLN:248])([NPH:4],[FRF:20],[M13:22],[5DN:164],[MOR:55],[APC:126])([4ED:64],[ALA:9],[BFZ:29],[RTR:201])([M12:16],[LRW:139])([THS:9],[KLD:67],[SOM:223])
+LAYOUT SIDEBOARD:(1,9)(CMC,false,61)|([BFZ:239],[ORI:229])([ISD:51],[ULG:80],[PLC:25])([5ED:140],[TOR:51])([M14:7])([XLN:129],[ZEN:11],[5ED:391],[WWK:127])([DTK:219])([SOM:180])([ZEN:13])([AKH:211])

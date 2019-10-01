@@ -1,0 +1,52 @@
+1 [2ED:85] Timetwister
+1 [EMN:189] Spell Queller
+1 [NPH:4] Blade Splicer
+1 [M12:63] Mana Leak
+1 [SHM:229] Kitchen Finks
+1 [MBS:138] Sword of Feast and Famine
+1 [DTK:219] Dragonlord Ojutai
+1 [ULG:14] Mother of Runes
+1 [LRW:88] Sower of Temptation
+1 [M19:33] Remorseful Cleric
+1 [M12:217] Solemn Simulacrum
+1 [UDS:50] Treachery
+1 [WWK:20] Stoneforge Mystic
+1 [NPH:19] Porcelain Legionnaire
+1 [AKH:1] Angel of Sanctions
+1 [BOK:163] Umezawa's Jitte
+1 [NPH:35] Gitaxian Probe
+1 [AER:31] Disallow
+1 [DIS:159] Azorius Signet
+1 [M12:39] Sun Titan
+1 [LRW:56] Cryptic Command
+1 [EVE:6] Flickerwisp
+1 [ALA:9] Elspeth, Knight-Errant
+1 [2ED:265] Mox Ruby
+1 [STH:138] Mox Diamond
+1 [XLN:254] Field of Ruin
+1 [WWK:133] Celestial Colonnade
+4 [2ED:292] Island
+2 [2ED:293] Island
+2 [2ED:290] Plains
+2 [2ED:289] Plains
+3 [2ED:288] Plains
+SB: 1 [FRF:27] Soulfire Grand Master
+SB: 1 [GRN:153] Aurelia, Exemplar of Justice
+SB: 1 [HOU:145] The Scarab God
+SB: 1 [TSB:97] Mystic Snake
+SB: 1 [FUT:101] Magus of the Moon
+SB: 1 [USG:330] Tolarian Academy
+SB: 1 [MMQ:324] Rishadan Port
+SB: 1 [4ED:361] Mishra's Factory
+SB: 1 [SOM:176] Mindslaver
+SB: 1 [SOI:5] Archangel Avacyn
+SB: 1 [C16:195] Edric, Spymaster of Trest
+SB: 1 [MBS:10] Leonin Relic-Warder
+SB: 1 [MBS:14] Mirran Crusader
+SB: 1 [DOM:14] Dauntless Bodyguard
+SB: 1 [ROE:47] Student of Warfare
+SB: 1 [M11:11] Condemn
+SB: 1 [M12:72] Phantasmal Image
+SB: 1 [BFZ:29] Gideon, Ally of Zendikar
+LAYOUT MAIN:(1,7)(CMC,false,45)|([2ED:265],[STH:138],[XLN:254],[WWK:133],[2ED:292],[2ED:293],[2ED:292],[2ED:292],[2ED:293],[2ED:292],[2ED:290],[2ED:289],[2ED:288],[2ED:289],[2ED:288],[2ED:288],[2ED:290])([ULG:14],[NPH:35])([M12:63],[M19:33],[WWK:20],[BOK:163],[DIS:159])([2ED:85],[EMN:189],[NPH:4],[SHM:229],[MBS:138],[NPH:19],[AER:31],[EVE:6])([LRW:88],[M12:217],[LRW:56],[ALA:9])([DTK:219],[UDS:50],[AKH:1])([M12:39])
+LAYOUT SIDEBOARD:(1,5)(CARD_TYPE,false,50)|([SOM:176])([FRF:27],[GRN:153],[HOU:145],[TSB:97],[FUT:101],[SOI:5],[C16:195],[MBS:10],[MBS:14],[DOM:14],[ROE:47],[M12:72])([M11:11])([USG:330],[MMQ:324],[4ED:361])([BFZ:29])

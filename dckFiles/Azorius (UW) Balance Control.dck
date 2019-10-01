@@ -1,0 +1,49 @@
+1 [LRW:88] Sower of Temptation
+1 [M12:16] Gideon Jura
+1 [4ED:34] Land Tax
+1 [KTK:248] Windswept Heath
+1 [STH:138] Mox Diamond
+1 [XLN:74] Search for Azcanta
+1 [MMQ:61] Brainstorm
+1 [C15:14] Mystic Confluence
+1 [C16:56] Ash Barrens
+1 [RTR:201] Supreme Verdict
+1 [DOM:207] Teferi, Hero of Dominaria
+1 [WTH:153] Mind Stone
+1 [CON:15] Path to Exile
+1 [MMA:218] Vedalken Shackles
+1 [INV:57] Fact or Fiction
+1 [4ED:6] Balance
+1 [TMP:308] Scroll Rack
+1 [WWK:133] Celestial Colonnade
+1 [FUT:46] Venser, Shaper Savant
+1 [EMA:42] Control Magic
+1 [EXO:35] Forbid
+1 [ZEN:211] Arid Mesa
+1 [RTR:241] Hallowed Fountain
+1 [ARN:71] City of Brass
+1 [KTK:59] Treasure Cruise
+7 [GUR:2] Island
+1 [7ED:88] Memory Lapse
+4 [GUR:4] Plains
+1 [UDS:50] Treachery
+1 [AKH:14] Gideon of the Trials
+1 [ISD:213] Geist of Saint Traft
+SB: 1 [AVR:32] Restoration Angel
+SB: 1 [PTK:17] Ravages of War
+SB: 1 [MM3:222] Gruul Signet
+SB: 1 [GRN:183] Knight of Autumn
+SB: 1 [10E:61] Wrath of God
+SB: 1 [5DN:118] Engineered Explosives
+SB: 1 [M12:146] Incinerate
+SB: 1 [EXO:53] Carnophage
+SB: 1 [USG:318] Worn Powerstone
+SB: 1 [10E:359] Sulfurous Springs
+SB: 1 [5ED:408] Winter Orb
+SB: 1 [FRF:87] Tasigur, the Golden Fang
+SB: 1 [LEG:28] Moat
+SB: 1 [MRD:146] Bonesplitter
+SB: 1 [JOU:72] Gnarled Scarhide
+SB: 1 [XLN:1] Adanto Vanguard
+LAYOUT MAIN:(1,8)(CMC,false,74)|([GUR:2],[GUR:2],[GUR:2],[GUR:2],[GUR:2],[GUR:2],[GUR:2],[GUR:4],[GUR:4],[GUR:4],[GUR:4])([ZEN:211],[C16:56],[WWK:133],[ARN:71],[RTR:241],[KTK:248])([STH:138],[MMQ:61],[4ED:34],[CON:15])([4ED:6],[7ED:88],[WTH:153],[TMP:308],[XLN:74])([EXO:35],[ISD:213],[AKH:14],[MMA:218])([EMA:42],[INV:57],[LRW:88],[RTR:201],[FUT:46])([M12:16],[C15:14],[DOM:207],[UDS:50])([KTK:59])
+LAYOUT SIDEBOARD:(1,6)(CMC,false,73)|([5DN:118],[10E:359])([MRD:146],[EXO:53],[JOU:72])([5ED:408],[XLN:1],[MM3:222],[M12:146])([GRN:183],[USG:318])([10E:61],[AVR:32],[PTK:17],[LEG:28])([FRF:87])

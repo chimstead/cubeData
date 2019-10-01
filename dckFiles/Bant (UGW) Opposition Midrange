@@ -1,0 +1,53 @@
+1 [CON:87] Noble Hierarch
+1 [M19:314] Llanowar Elves
+1 [5DN:27] Condescend
+1 [VMA:210] Fyndhorn Elves
+1 [DTK:36] Secure the Wastes
+1 [C17:76] Swords to Plowshares
+1 [M12:165] Birds of Paradise
+1 [ROE:53] Wall of Omens
+1 [CMA:27] Unexpectedly Absent
+1 [MH1:37] Winds of Abandon
+1 [EMA:187] Sylvan Library
+1 [BNG:119] Courser of Kruphix
+1 [M20:22] Hanged Executioner
+1 [5DN:86] Eternal Witness
+1 [NPH:4] Blade Splicer
+1 [UDS:40] Opposition
+1 [AVR:32] Restoration Angel
+1 [ORI:83] Whirler Rogue
+1 [NEM:17] Parallax Wave
+1 [MH1:161] Deep Forest Hermit
+1 [BNG:5] Brimaz, King of Oreskos
+1 [HOU:40] Nimble Obstructionist
+1 [LRW:199] Briarhorn
+1 [KTK:248] Windswept Heath
+1 [KTK:249] Wooded Foothills
+1 [GTC:240] Breeding Pool
+1 [USG:321] Gaea's Cradle
+1 [GRN:258] Temple Garden
+1 [WWK:133] Celestial Colonnade
+1 [EMA:240] Karakas
+2 [3ED:305] Forest
+2 [3ED:306] Forest
+1 [3ED:304] Forest
+1 [3ED:297] Island
+1 [3ED:296] Island
+2 [3ED:292] Plains
+1 [IMA:18] Elesh Norn, Grand Cenobite
+SB: 1 [A25:5] Armageddon
+SB: 1 [M19:33] Remorseful Cleric
+SB: 1 [DOM:14] Dauntless Bodyguard
+SB: 1 [HOU:31] Champion of Wits
+SB: 1 [ROE:66] Enclave Cryptologist
+SB: 1 [M13:185] Rancor
+SB: 1 [M19:94] Duress
+SB: 1 [RTR:35] Cyclonic Rift
+SB: 1 [GTC:242] Godless Shrine
+SB: 1 [A25:187] Regrowth
+SB: 1 [RAV:213] Lightning Helix
+SB: 1 [DKA:24] Thalia, Guardian of Thraben
+SB: 1 [EMA:9] Enlightened Tutor
+SB: 1 [XLN:1] Adanto Vanguard
+LAYOUT MAIN:(1,7)(CMC,false,50)|([KTK:248],[KTK:249],[GTC:240],[USG:321],[GRN:258],[WWK:133],[EMA:240],[3ED:305],[3ED:306],[3ED:305],[3ED:304],[3ED:306],[3ED:297],[3ED:296],[3ED:292],[3ED:292])([CON:87],[M19:314],[5DN:27],[VMA:210],[DTK:36],[C17:76],[M12:165])([ROE:53],[CMA:27],[MH1:37],[EMA:187])([BNG:119],[M20:22],[5DN:86],[NPH:4],[BNG:5],[HOU:40])([UDS:40],[AVR:32],[ORI:83],[NEM:17],[LRW:199])([MH1:161])([IMA:18])
+LAYOUT SIDEBOARD:(1,5)(CMC,false,50)|([GTC:242])([DOM:14],[ROE:66],[M13:185],[M19:94],[EMA:9])([M19:33],[RTR:35],[A25:187],[RAV:213],[DKA:24],[XLN:1])([HOU:31])([A25:5])

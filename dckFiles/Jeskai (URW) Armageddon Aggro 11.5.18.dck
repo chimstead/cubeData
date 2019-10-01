@@ -1,0 +1,53 @@
+1 [TMP:330] Wasteland
+1 [BOK:163] Umezawa's Jitte
+1 [M15:145] Goblin Rabblemaster
+1 [ODY:193] Firebolt
+1 [3ED:289] Tundra
+2 [USG:346] Mountain
+1 [SCG:106] Sulfuric Vortex
+1 [USG:344] Mountain
+1 [4ED:363] Strip Mine
+1 [ZEN:126] Goblin Guide
+2 [USG:343] Mountain
+1 [NPH:57] Dismember
+1 [GTC:148] Boros Charm
+1 [WWK:20] Stoneforge Mystic
+1 [AKH:136] Hazoret the Fervent
+1 [GRN:204] Tajic, Legion's Edge
+1 [IMA:240] Horizon Canopy
+1 [HOU:90] Earthshaker Khenra
+1 [ULG:14] Mother of Runes
+1 [PTK:17] Ravages of War
+1 [GRN:153] Aurelia, Exemplar of Justice
+1 [M14:22] Imposing Sovereign
+1 [DOM:14] Dauntless Bodyguard
+1 [6ED:4] Armageddon
+1 [KTK:118] Monastery Swiftspear
+1 [DST:140] Skullclamp
+1 [RTR:241] Hallowed Fountain
+1 [KTK:233] Flooded Strand
+1 [3ED:284] Plateau
+1 [ZEN:219] Marsh Flats
+1 [USG:333] Plains
+1 [USG:334] Plains
+1 [USG:331] Plains
+1 [MBS:1] Accorder Paladin
+1 [10E:319] Crucible of Worlds
+1 [ORI:23] Kytheon, Hero of Akros
+1 [ISD:213] Geist of Saint Traft
+1 [DKA:24] Thalia, Guardian of Thraben
+SB: 1 [TMP:179] Goblin Bombardment
+SB: 1 [BFZ:109] Drana, Liberator of Malakir
+SB: 1 [4ED:34] Land Tax
+SB: 1 [NPH:4] Blade Splicer
+SB: 1 [THS:128] Magma Jet
+SB: 1 [V17:11] Huntmaster of the Fells
+SB: 1 [M13:193] Thragtusk
+SB: 1 [TSP:66] Looter il-Kor
+SB: 1 [M14:139] Flames of the Firebrand
+SB: 1 [SOI:155] Falkenrath Gorger
+SB: 1 [M12:72] Phantasmal Image
+SB: 1 [PC2:84] Bloodbraid Elf
+SB: 1 [MM3:217] Boros Signet
+LAYOUT MAIN:(2,6)(CMC,true,56)|([USG:346],[USG:343],[USG:344],[USG:346],[USG:343])([ORI:23],[ULG:14],[DOM:14],[ZEN:126],[KTK:118])([WWK:20],[MBS:1],[M14:22],[HOU:90],[DKA:24])([ISD:213],[M15:145],[GRN:204])([GRN:153],[AKH:136])([3ED:289],[KTK:233],[RTR:241],[ZEN:219])([USG:331],[USG:333],[USG:334])([ODY:193],[DST:140],[NPH:57])([GTC:148],[BOK:163])([SCG:106],[10E:319])([PTK:17],[6ED:4])([IMA:240],[3ED:284],[TMP:330],[4ED:363])
+LAYOUT SIDEBOARD:(1,6)(COLOR_IDENTITY,false,50)|([M13:193])([TMP:179],[THS:128],[M14:139])([V17:11],[PC2:84],[BFZ:109])([TSP:66],[M12:72],[SOI:155])([NPH:4],[4ED:34])([MM3:217])

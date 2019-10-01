@@ -1,0 +1,50 @@
+1 [2ED:48] Ancestral Recall
+1 [JR:109] Imperial Seal
+1 [M19:94] Duress
+1 [RAV:81] Dark Confidant
+1 [MOR:58] Bitterblossom
+1 [3ED:214] Regrowth
+1 [E01:80] Baleful Strix
+1 [GRN:152] Assassin's Trophy
+1 [GRN:205] Thief of Sanity
+1 [PUMA:U22] Leovold, Emissary of Trest
+1 [AKH:175] Manglehorn
+1 [THS:188] Ashiok, Nightmare Weaver
+1 [PCA:104] Shardless Agent
+1 [ISD:105] Liliana of the Veil
+1 [XLN:129] Vraska's Contempt
+1 [ISD:181] Garruk Relentless
+1 [XLN:223] Hostage Taker
+1 [JOU:62] Brain Maggot
+1 [GPT:32] Repeal
+1 [KLD:84] Gonti, Lord of Luxury
+1 [HOU:129] Ramunap Excavator
+1 [M15:187] Nissa, Worldwaker
+1 [FRF:87] Tasigur, the Golden Fang
+1 [3ED:288] Tropical Island
+1 [3ED:290] Underground Sea
+1 [3ED:283] Bayou
+1 [GRN:259] Watery Grave
+1 [ZEN:220] Misty Rainforest
+1 [RNA:246] Breeding Pool
+1 [WWK:134] Creeping Tar Pit
+1 [GRN:253] Overgrown Tomb
+1 [M15:248] Urborg, Tomb of Yawgmoth
+1 [2ED:262] Mox Emerald
+1 [SOM:226] Darkslick Shores
+1 [KLD:243] Blooming Marsh
+2 [UGL:88] Forest
+2 [UGL:85] Island
+1 [UGL:86] Swamp
+SB: 1 [DKA:87] Faithless Looting
+SB: 1 [ULG:101] Deranged Hermit
+SB: 1 [M14:163] Young Pyromancer
+SB: 1 [WWK:141] Raging Ravine
+SB: 1 [EXO:129] Survival of the Fittest
+SB: 1 [FUT:101] Magus of the Moon
+SB: 1 [AVR:79] Tamiyo, the Moon Sage
+SB: 1 [GRN:207] Thousand-Year Storm
+SB: 1 [CHK:212] Heartbeat of Spring
+SB: 1 [MBS:46] Massacre Wurm
+LAYOUT MAIN:(1,7)(CMC,false,52)|([3ED:288],[3ED:290],[3ED:283],[GRN:259],[ZEN:220],[RNA:246],[WWK:134],[GRN:253],[M15:248],[2ED:262],[SOM:226],[KLD:243],[UGL:88],[UGL:88],[UGL:85],[UGL:85],[UGL:86])([2ED:48],[JR:109],[M19:94],[GPT:32])([RAV:81],[MOR:58],[3ED:214],[E01:80],[GRN:152],[JOU:62])([GRN:205],[PUMA:U22],[AKH:175],[THS:188],[PCA:104],[ISD:105],[HOU:129])([XLN:129],[ISD:181],[XLN:223],[KLD:84])([M15:187])([FRF:87])
+LAYOUT SIDEBOARD:(1,6)(CMC,false,52)|([WWK:141])([DKA:87])([M14:163],[EXO:129])([FUT:101],[CHK:212])([ULG:101],[AVR:79])([GRN:207],[MBS:46])

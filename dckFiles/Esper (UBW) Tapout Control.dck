@@ -1,0 +1,50 @@
+1 [MBS:43] Go for the Throat
+1 [ORI:105] Languish
+1 [THS:188] Ashiok, Nightmare Weaver
+1 [GRN:69] Doom Whisperer
+1 [AKH:1] Angel of Sanctions
+1 [PLC:85] Damnation
+1 [RAV:16] Faith's Fetters
+1 [EMN:85] Collective Brutality
+1 [NPH:57] Dismember
+1 [DKA:12] Lingering Souls
+1 [KLD:245] Concealed Courtyard
+1 [E01:80] Baleful Strix
+1 [RIX:82] Ravenous Chupacabra
+1 [THS:9] Elspeth, Sun's Champion
+1 [M12:73] Ponder
+1 [BFZ:29] Gideon, Ally of Zendikar
+1 [XLN:223] Hostage Taker
+1 [WWK:134] Creeping Tar Pit
+1 [4ED:147] Mind Twist
+1 [KTK:239] Polluted Delta
+1 [ICE:54] Swords to Plowshares
+1 [ROE:53] Wall of Omens
+2 [GUR:2] Island
+1 [APC:126] Vindicate
+4 [GUR:5] Swamp
+5 [GUR:4] Plains
+1 [THS:90] Hero's Downfall
+1 [JOU:163] Mana Confluence
+1 [SOM:226] Darkslick Shores
+1 [M13:22] Oblivion Ring
+1 [SOI:242] Anguished Unmaking
+1 [BFZ:244] Shambling Vent
+SB: 1 [EXO:115] Oath of Druids
+SB: 1 [ORI:127] Abbot of Keral Keep
+SB: 1 [BBD:33] Arcane Artisan
+SB: 1 [ALA:202] Tidehollow Sculler
+SB: 1 [M11:7] Baneslayer Angel
+SB: 1 [XLN:90] Arguel's Blood Fast
+SB: 1 [XLN:110] Kitesail Freebooter
+SB: 1 [M13:112] Vampire Nighthawk
+SB: 1 [ZEN:229] Verdant Catacombs
+SB: 1 [EMN:189] Spell Queller
+SB: 1 [ZEN:11] Emeria Angel
+SB: 1 [NEM:17] Parallax Wave
+SB: 1 [ULG:101] Deranged Hermit
+SB: 1 [ODY:113] Upheaval
+SB: 1 [CN2:18] Palace Jailer
+SB: 1 [4ED:6] Balance
+LAYOUT MAIN:(1,7)(CMC,false,65)|([KLD:245],[WWK:134],[SOM:226],[JOU:163],[KTK:239],[BFZ:244],[GUR:2],[GUR:2],[GUR:4],[GUR:4],[GUR:4],[GUR:4],[GUR:4],[GUR:5],[GUR:5],[GUR:5],[GUR:5])([4ED:147],[M12:73],[ICE:54])([E01:80],[EMN:85],[MBS:43],[ROE:53])([SOI:242],[THS:188],[THS:90],[NPH:57],[DKA:12],[M13:22],[APC:126])([PLC:85],[RAV:16],[BFZ:29],[XLN:223],[ORI:105],[RIX:82])([GRN:69],[AKH:1])([THS:9])
+LAYOUT SIDEBOARD:(1,6)(CMC,false,60)|([ZEN:229])([XLN:90],[ORI:127],[4ED:6],[ALA:202],[EXO:115],[XLN:110])([M13:112],[BBD:33],[EMN:189])([ZEN:11],[NEM:17],[CN2:18])([M11:7],[ULG:101])([ODY:113])

@@ -1,0 +1,50 @@
+1 [JR:97] Ravages of War
+1 [LRW:88] Sower of Temptation
+1 [BNG:5] Brimaz, King of Oreskos
+1 [KLD:244] Botanical Sanctum
+1 [TSB:97] Mystic Snake
+1 [M19:196] Reclamation Sage
+1 [M15:173] Elvish Mystic
+1 [WWK:108] Nature's Claim
+1 [3ED:289] Tundra
+1 [ZEN:168] Lotus Cobra
+1 [M15:225] Phyrexian Revoker
+1 [ZEN:223] Scalding Tarn
+1 [AKH:211] Commit // Memory
+1 [AKH:175] Manglehorn
+1 [SHM:229] Kitchen Finks
+1 [THS:9] Elspeth, Sun's Champion
+1 [THS:180] Sylvan Caryatid
+1 [BFZ:29] Gideon, Ally of Zendikar
+1 [GTC:240] Breeding Pool
+1 [LEG:65] Mana Drain
+1 [MRD:152] Chrome Mox
+1 [DST:140] Skullclamp
+1 [RTR:241] Hallowed Fountain
+3 [GUR:1] Forest
+1 [3ED:285] Savannah
+3 [GUR:2] Island
+1 [7ED:67] Counterspell
+4 [GUR:4] Plains
+1 [CON:87] Noble Hierarch
+1 [2ED:48] Ancestral Recall
+1 [ARB:75] Qasali Pridemage
+1 [M13:22] Oblivion Ring
+1 [MBS:8] Hero of Bladehold
+SB: 1 [M12:39] Sun Titan
+SB: 1 [MBS:10] Leonin Relic-Warder
+SB: 1 [ULG:14] Mother of Runes
+SB: 1 [ROE:47] Student of Warfare
+SB: 1 [M10:100] Hypnotic Specter
+SB: 1 [5ED:182] Necropotence
+SB: 1 [SCG:29] Brain Freeze
+SB: 1 [CHK:62] Gifts Ungiven
+SB: 1 [USG:105] Turnabout
+SB: 1 [4ED:361] Mishra's Factory
+SB: 1 [RTR:213] Deathrite Shaman
+SB: 1 [AVR:166] Zealous Conscripts
+SB: 1 [M12:23] Honor of the Pure
+SB: 1 [MBS:14] Mirran Crusader
+SB: 1 [ISD:51] Delver of Secrets
+LAYOUT MAIN:(1,7)(CMC,false,65)|([3ED:289],[ZEN:223],[3ED:285],[RTR:241],[MRD:152],[GTC:240],[KLD:244],[GUR:1],[GUR:1],[GUR:1],[GUR:2],[GUR:2],[GUR:2],[GUR:4],[GUR:4],[GUR:4],[GUR:4])([2ED:48],[M15:173],[WWK:108],[CON:87],[DST:140])([7ED:67],[ZEN:168],[LEG:65],[M15:225],[ARB:75],[THS:180])([BNG:5],[SHM:229],[AKH:175],[M13:22],[M19:196])([BFZ:29],[MBS:8],[TSB:97],[JR:97],[LRW:88])([THS:9])([AKH:211])
+LAYOUT SIDEBOARD:(1,7)(CMC,false,60)|([4ED:361])([ULG:14],[ROE:47],[ISD:51],[RTR:213])([M12:23],[SCG:29],[MBS:10])([MBS:14],[M10:100],[5ED:182])([USG:105],[CHK:62])([AVR:166])([M12:39])

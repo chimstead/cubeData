@@ -1,0 +1,55 @@
+1 [3ED:274] Sol Ring
+1 [3ED:105] Demonic Tutor
+1 [ORI:60] Jace, Vryn's Prodigy
+1 [GPT:152] Izzet Signet
+1 [NEM:30] Daze
+1 [M11:58] Jace Beleren
+1 [VMA:20] Council's Judgment
+1 [DKA:12] Lingering Souls
+1 [ISD:213] Geist of Saint Traft
+1 [M13:22] Oblivion Ring
+1 [JOU:5] Banishing Light
+1 [FUT:161] Coalition Relic
+1 [ALA:9] Elspeth, Knight-Errant
+1 [4ED:64] Control Magic
+1 [10E:61] Wrath of God
+1 [FUT:46] Venser, Shaper Savant
+1 [BFZ:29] Gideon, Ally of Zendikar
+1 [M12:16] Gideon Jura
+1 [BBD:122] Mystic Confluence
+1 [DOM:207] Teferi, Hero of Dominaria
+1 [M12:55] Frost Titan
+1 [NPH:9] Elesh Norn, Grand Cenobite
+1 [TSP:48] Ancestral Vision
+1 [3ED:289] Tundra
+1 [RNA:248] Godless Shrine
+1 [JOU:163] Mana Confluence
+1 [ZEN:223] Scalding Tarn
+1 [MRD:152] Chrome Mox
+1 [ODY:338] Island
+1 [ODY:335] Island
+2 [ODY:336] Island
+2 [ODY:331] Plains
+2 [ODY:332] Plains
+1 [ODY:334] Plains
+2 [ODY:339] Swamp
+1 [ODY:342] Swamp
+SB: 1 [NPH:73] Sheoldred, Whispering One
+SB: 1 [DOM:143] Siege-Gang Commander
+SB: 1 [CMA:27] Unexpectedly Absent
+SB: 1 [DTK:124] Ultimate Price
+SB: 1 [AVR:38] Terminus
+SB: 1 [TOR:69] Mesmeric Fiend
+SB: 1 [GRN:183] Knight of Autumn
+SB: 1 [TSP:73] Riftwing Cloudskate
+SB: 1 [CM2:98] Fiery Confluence
+SB: 1 [ISD:181] Garruk Relentless
+SB: 1 [KLD:67] Torrential Gearhulk
+SB: 1 [FRF:27] Soulfire Grand Master
+SB: 1 [USG:321] Gaea's Cradle
+SB: 1 [DKA:93] Hellrider
+SB: 1 [XLN:1] Adanto Vanguard
+SB: 1 [SOI:92] Thing in the Ice
+SB: 1 [DOM:81] Cast Down
+LAYOUT MAIN:(1,9)(CMC,false,70)|([ODY:338],[ODY:335],[ODY:336],[ODY:336],[ODY:331],[ODY:331],[ODY:332],[ODY:334],[ODY:332],[ODY:339],[ODY:339],[ODY:342])([TSP:48],[RNA:248],[JOU:163],[ZEN:223],[3ED:289])([3ED:274],[MRD:152])([NEM:30],[3ED:105],[GPT:152],[ORI:60])([JOU:5],[FUT:161],[VMA:20],[ISD:213],[M11:58],[DKA:12],[M13:22])([4ED:64],[ALA:9],[BFZ:29],[FUT:46],[10E:61])([M12:16],[BBD:122],[DOM:207])([M12:55])([NPH:9])
+LAYOUT SIDEBOARD:(1,7)(CMC,false,68)|([USG:321])([CMA:27],[DTK:124],[TOR:69],[FRF:27],[XLN:1],[SOI:92],[DOM:81])([GRN:183])([CM2:98],[ISD:181],[DKA:93])([DOM:143],[TSP:73])([AVR:38],[KLD:67])([NPH:73])

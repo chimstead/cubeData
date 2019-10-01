@@ -1,0 +1,50 @@
+1 [MH1:229] Sword of Truth and Justice
+1 [SOI:12] Declaration in Stone
+1 [LEB:281] Savannah
+1 [MH1:187] Trumpeting Herd
+1 [CN2:18] Palace Jailer
+1 [NPH:19] Porcelain Legionnaire
+1 [XLN:1] Adanto Vanguard
+1 [ZEN:168] Lotus Cobra
+1 [KLD:235] Smuggler's Copter
+1 [ROE:21] Gideon Jura
+1 [M14:22] Imposing Sovereign
+1 [TSP:279] Terramorphic Expanse
+1 [NPH:130] Batterskull
+1 [SOI:5] Archangel Avacyn
+1 [RAV:284] Temple Garden
+1 [HOU:129] Ramunap Excavator
+1 [OGW:138] Nissa, Voice of Zendikar
+1 [C13:25] Unexpectedly Absent
+1 [AKH:175] Manglehorn
+1 [MBS:8] Hero of Bladehold
+1 [GRN:183] Knight of Autumn
+1 [DTK:248] Evolving Wilds
+1 [WWK:20] Stoneforge Mystic
+1 [USG:321] Gaea's Cradle
+1 [ZEN:219] Marsh Flats
+1 [WWK:95] Arbor Elf
+5 [UST:216] Forest
+6 [UST:212] Plains
+1 [UDS:118] Rofellos, Llanowar Emissary
+1 [BOK:163] Umezawa's Jitte
+1 [DST:149] Sword of Light and Shadow
+SB: 1 [WAR:234] Saheeli, Sublime Artificer
+SB: 1 [RAV:172] Life from the Loam
+SB: 1 [AKH:204] Nissa, Steward of Elements
+SB: 1 [MRD:134] Tooth and Nail
+SB: 1 [ZEN:223] Scalding Tarn
+SB: 1 [6ED:326] Karplusan Forest
+SB: 1 [LEG:120] The Abyss
+SB: 1 [SOM:175] Mimic Vat
+SB: 1 [WWK:134] Creeping Tar Pit
+SB: 1 [PTK:113] Imperial Recruiter
+SB: 1 [SCG:12] Eternal Dragon
+SB: 1 [C18:53] Ancient Stone Idol
+SB: 1 [UST:212] Plains
+SB: 1 [MRD:257] Talisman of Unity
+SB: 1 [TSB:6] Disenchant
+SB: 1 [ZEN:9] Day of Judgment
+SB: 1 [MH1:228] Sword of Sinew and Steel
+LAYOUT MAIN:(1,6)(CMC,false,76)|([DTK:248],[UST:216],[UST:216],[UST:216],[UST:216],[UST:216],[USG:321],[ZEN:219],[UST:212],[UST:212],[UST:212],[UST:212],[UST:212],[UST:212],[LEB:281],[RAV:284],[TSP:279])([WWK:95])([XLN:1],[SOI:12],[M14:22],[ZEN:168],[UDS:118],[KLD:235],[WWK:20],[BOK:163],[C13:25])([GRN:183],[AKH:175],[OGW:138],[NPH:19],[HOU:129],[MH1:229],[DST:149])([MBS:8],[CN2:18],[MH1:187])([SOI:5],[NPH:130],[ROE:21])
+LAYOUT SIDEBOARD:(1,2)(COLOR,false,65)|([C18:53],[SOM:175],[MRD:257],[RAV:172],[TSB:6],[SCG:12],[ZEN:9],[MH1:228])([LEG:120],[WWK:134],[6ED:326],[UST:212],[ZEN:223],[AKH:204],[WAR:234],[MRD:134],[PTK:113])

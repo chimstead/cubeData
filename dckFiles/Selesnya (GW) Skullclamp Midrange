@@ -1,0 +1,52 @@
+1 [THS:9] Elspeth, Sun's Champion
+1 [XLN:179] Carnage Tyrant
+1 [KLD:172] Verdurous Gearhulk
+1 [LRW:233] Primal Command
+1 [M13:174] Garruk, Primal Hunter
+1 [M19:208] Vivien Reid
+1 [ZEN:168] Lotus Cobra
+1 [M13:160] Arbor Elf
+1 [M19:314] Llanowar Elves
+1 [ICE:244] Fyndhorn Elves
+1 [ISD:170] Avacyn's Pilgrim
+1 [DST:140] Skullclamp
+1 [BOK:163] Umezawa's Jitte
+1 [JOU:5] Banishing Light
+1 [GRN:183] Knight of Autumn
+1 [ORI:189] Nissa, Vastwood Seer
+1 [AKH:175] Manglehorn
+1 [AVR:32] Restoration Angel
+1 [RAV:16] Faith's Fetters
+1 [NEM:17] Parallax Wave
+1 [M11:175] Garruk Wildspeaker
+1 [MBS:92] Thrun, the Last Troll
+1 [AER:181] Walking Ballista
+1 [XLN:1] Adanto Vanguard
+1 [2ED:262] Mox Emerald
+1 [KTK:248] Windswept Heath
+1 [SOM:228] Razorverge Thicket
+5 [3ED:306] Forest
+3 [3ED:304] Forest
+3 [3ED:294] Plains
+2 [3ED:292] Plains
+SB: 1 [RNA:246] Breeding Pool
+SB: 1 [GRN:253] Overgrown Tomb
+SB: 1 [ULG:101] Deranged Hermit
+SB: 1 [XLN:90] Arguel's Blood Fast
+SB: 1 [4ED:361] Mishra's Factory
+SB: 1 [C16:195] Edric, Spymaster of Trest
+SB: 1 [ROE:12] Ulamog, the Infinite Gyre
+SB: 1 [EXO:72] Recurring Nightmare
+SB: 1 [SOM:225] Copperline Gorge
+SB: 1 [LEG:137] Chain Lightning
+SB: 1 [WWK:127] Lodestone Golem
+SB: 1 [THS:172] Polukranos, World Eater
+SB: 1 [CHK:239] Sakura-Tribe Elder
+SB: 1 [DKA:140] Huntmaster of the Fells
+SB: 1 [TMP:330] Wasteland
+SB: 1 [MIR:141] Shallow Grave
+SB: 1 [ZEN:126] Goblin Guide
+SB: 1 [KTK:249] Wooded Foothills
+SB: 1 [3ED:305] Forest
+LAYOUT MAIN:(1,7)(CMC,false,50)|([AER:181],[2ED:262],[KTK:248],[SOM:228],[3ED:306],[3ED:306],[3ED:304],[3ED:304],[3ED:306],[3ED:304],[3ED:306],[3ED:306],[3ED:294],[3ED:292],[3ED:294],[3ED:292],[3ED:294])([M13:160],[M19:314],[ICE:244],[ISD:170],[DST:140])([ZEN:168],[BOK:163],[XLN:1])([JOU:5],[GRN:183],[ORI:189],[AKH:175])([AVR:32],[RAV:16],[NEM:17],[M11:175],[MBS:92])([KLD:172],[LRW:233],[M13:174],[M19:208])([THS:9],[XLN:179])
+LAYOUT SIDEBOARD:(1,7)(CMC,false,50)|([RNA:246],[GRN:253],[4ED:361],[SOM:225],[TMP:330],[KTK:249],[3ED:305])([LEG:137],[ZEN:126])([XLN:90],[CHK:239],[MIR:141])([C16:195],[EXO:72])([WWK:127],[THS:172],[DKA:140])([ULG:101])([ROE:12])

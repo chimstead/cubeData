@@ -1,0 +1,49 @@
+1 [MBS:43] Go for the Throat
+1 [MM3:163] Falkenrath Aristocrat
+1 [5DN:126] Grafted Wargear
+1 [RTR:73] Pack Rat
+1 [KTK:66] Bloodsoaked Champion
+1 [ROE:115] Inquisition of Kozilek
+1 [THS:128] Magma Jet
+1 [FEM:38a] Hymn to Tourach
+1 [ODY:193] Firebolt
+1 [ZEN:229] Verdant Catacombs
+1 [RTR:220] Rakdos Cackler
+1 [ZEN:223] Scalding Tarn
+1 [DKA:93] Hellrider
+1 [SOI:155] Falkenrath Gorger
+1 [AER:87] Kari Zev, Skyship Raider
+1 [RAV:81] Dark Confidant
+1 [C13:84] Ophiomancer
+1 [3ED:282] Badlands
+1 [SCG:59] Carrion Feeder
+1 [M12:146] Incinerate
+1 [ZEN:211] Arid Mesa
+4 [GUR:3] Mountain
+1 [EXO:53] Carnophage
+6 [GUR:5] Swamp
+1 [ZEN:119] Burst Lightning
+1 [RTR:238] Blood Crypt
+1 [ORI:157] Pia and Kiran Nalaar
+1 [JOU:163] Mana Confluence
+1 [LRW:139] Shriekmaw
+1 [SOM:94] Koth of the Hammer
+1 [KLD:235] Smuggler's Copter
+1 [JOU:72] Gnarled Scarhide
+SB: 1 [SOM:175] Mimic Vat
+SB: 1 [VIS:72] Vampiric Tutor
+SB: 1 [OGW:138] Nissa, Voice of Zendikar
+SB: 1 [3ED:283] Bayou
+SB: 1 [STH:143] Volrath's Stronghold
+SB: 1 [NPH:159] Spellskite
+SB: 1 [EMN:93] Liliana, the Last Hope
+SB: 1 [APC:128] Fire // Ice
+SB: 1 [SOI:116] Heir of Falkenrath
+SB: 1 [5DN:55] Night's Whisper
+SB: 1 [TSP:161] Greater Gargadon
+SB: 1 [AVR:210] Sigarda, Host of Herons
+SB: 1 [DTK:36] Secure the Wastes
+SB: 1 [LEG:28] Moat
+SB: 1 [ULG:126] Grim Monolith
+LAYOUT MAIN:(1,7)(CMC,false,74)|([GUR:3],[GUR:3],[GUR:3],[GUR:3],[GUR:5],[GUR:5],[GUR:5],[GUR:5],[GUR:5],[GUR:5])([ZEN:211],[3ED:282],[RTR:238],[JOU:163],[ZEN:229],[ZEN:223])([KTK:66],[ZEN:119],[EXO:53],[SCG:59],[SOI:155],[ODY:193],[JOU:72],[ROE:115],[RTR:220])([RAV:81],[MBS:43],[FEM:38a],[M12:146],[AER:87],[THS:128],[RTR:73],[KLD:235])([5DN:126],[C13:84])([MM3:163],[DKA:93],[SOM:94],[ORI:157])([LRW:139])
+LAYOUT SIDEBOARD:(1,7)(CMC,false,50)|([3ED:283],[STH:143])([DTK:36],[VIS:72])([ULG:126],[SOI:116],[5DN:55],[NPH:159])([EMN:93],[SOM:175],[OGW:138])([APC:128],[LEG:28])([AVR:210])([TSP:161])

@@ -1,0 +1,49 @@
+1 [EVE:22] Glen Elendra Archmage
+1 [MBS:21] Consecrated Sphinx
+1 [5ED:388] Mana Vault
+1 [SOM:48] Trinket Mage
+1 [2ED:262] Mox Emerald
+1 [M19:94] Duress
+1 [M11:58] Jace Beleren
+1 [3ED:289] Tundra
+1 [ZEN:229] Verdant Catacombs
+1 [DIS:159] Azorius Signet
+1 [3ED:288] Tropical Island
+1 [GPT:152] Izzet Signet
+1 [3ED:105] Demonic Tutor
+1 [MPS:16] Mana Crypt
+1 [ODY:113] Upheaval
+1 [M12:55] Frost Titan
+1 [LEG:65] Mana Drain
+1 [FUT:46] Venser, Shaper Savant
+1 [6ED:161] Vampiric Tutor
+1 [ARN:76] Library of Alexandria
+1 [M13:112] Vampire Nighthawk
+5 [GUR:2] Island
+6 [GUR:5] Swamp
+1 [UDS:50] Treachery
+1 [ULG:129] Memory Jar
+1 [ZEN:219] Marsh Flats
+1 [NEM:30] Daze
+1 [FRF:87] Tasigur, the Golden Fang
+1 [KLD:84] Gonti, Lord of Luxury
+1 [SOM:223] Wurmcoil Engine
+1 [M12:63] Mana Leak
+SB: 1 [CHK:212] Heartbeat of Spring
+SB: 1 [ROE:47] Student of Warfare
+SB: 1 [M14:7] Banisher Priest
+SB: 1 [BFZ:209] Bring to Light
+SB: 1 [M14:5] Archangel of Thune
+SB: 1 [CMA:27] Unexpectedly Absent
+SB: 1 [3ED:282] Badlands
+SB: 1 [CON:30] Inkwell Leviathan
+SB: 1 [3ED:286] Scrubland
+SB: 1 [UDS:75] Yawgmoth's Bargain
+SB: 1 [TSP:66] Looter il-Kor
+SB: 1 [ISD:213] Geist of Saint Traft
+SB: 1 [GRN:258] Temple Garden
+SB: 1 [LRW:233] Primal Command
+SB: 1 [KLD:249] Spirebluff Canal
+SB: 1 [V14:2] Burning of Xinye
+LAYOUT MAIN:(1,8)(CMC,false,62)|([GUR:5],[GUR:5],[GUR:5],[GUR:5],[GUR:5],[GUR:5],[GUR:2],[GUR:2],[GUR:2],[GUR:2],[GUR:2])([ARN:76],[ZEN:219],[3ED:289],[ZEN:229],[3ED:288])([2ED:262],[MPS:16],[M19:94],[5ED:388],[6ED:161])([DIS:159],[NEM:30],[3ED:105],[GPT:152],[LEG:65],[M12:63])([M11:58],[SOM:48],[M13:112])([EVE:22],[KLD:84],[FUT:46])([ULG:129],[UDS:50])([MBS:21],[M12:55],[FRF:87],[ODY:113],[SOM:223])
+LAYOUT SIDEBOARD:(1,7)(CMC,false,77)|([3ED:282],[KLD:249],[GRN:258],[3ED:286])([ROE:47])([TSP:66],[CMA:27])([CHK:212],[M14:7],[ISD:213])([BFZ:209],[M14:5],[LRW:233])([UDS:75],[V14:2])([CON:30])

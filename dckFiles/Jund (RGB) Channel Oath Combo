@@ -1,0 +1,53 @@
+1 [WWK:123] Everflowing Chalice
+1 [PTK:122] Rolling Earthquake
+1 [LEA:188] Channel
+1 [WTH:153] Mind Stone
+1 [LEG:207] Sylvan Library
+1 [EXO:115] Oath of Druids
+1 [5DN:73] Magma Jet
+1 [SOM:81] Arc Trail
+1 [M13:147] Searing Spear
+1 [THS:127] Lightning Strike
+1 [RAV:117] Char
+1 [LRW:213] Garruk Wildspeaker
+1 [CHK:193] Through the Breach
+1 [CN2:71] Selvala's Stampede
+1 [M11:146] Inferno Titan
+1 [SOM:223] Wurmcoil Engine
+1 [NPH:1] Karn Liberated
+1 [SOM:180] Myr Battlesphere
+1 [FRF:1] Ugin, the Spirit Dragon
+1 [BFZ:15] Ulamog, the Ceaseless Hunger
+1 [ROE:6] Kozilek, Butcher of Truth
+1 [EMN:6] Emrakul, the Promised End
+1 [VIS:72] Vampiric Tutor
+1 [LEB:283] Taiga
+1 [6ED:328] Sulfurous Springs
+1 [GPT:165] Stomping Ground
+1 [6ED:326] Karplusan Forest
+1 [ZEN:229] Verdant Catacombs
+1 [ZEN:211] Arid Mesa
+2 [ODY:350] Forest
+1 [ODY:349] Forest
+2 [ODY:348] Forest
+1 [ODY:347] Forest
+1 [ODY:346] Mountain
+4 [ODY:340] Swamp
+SB: 1 [MIR:253] Wall of Roots
+SB: 1 [ORI:157] Pia and Kiran Nalaar
+SB: 1 [SCG:106] Sulfuric Vortex
+SB: 1 [HOU:90] Earthshaker Khenra
+SB: 1 [SOM:175] Mimic Vat
+SB: 1 [ROE:190] Joraga Treespeaker
+SB: 1 [MH1:249] Waterlogged Grove
+SB: 1 [RNA:183] Hydroid Krasis
+SB: 1 [M13:193] Thragtusk
+SB: 1 [ROE:115] Inquisition of Kozilek
+SB: 1 [PC2:84] Bloodbraid Elf
+SB: 1 [MH1:116] Yawgmoth, Thran Physician
+SB: 1 [DIS:172] Breeding Pool
+SB: 1 [ALL:22a] Arcane Denial
+SB: 1 [USG:6] Catastrophe
+SB: 1 [DKA:93] Hellrider
+LAYOUT MAIN:(1,11)(CMC,false,55)|([ODY:350],[ODY:350],[ODY:349],[ODY:348],[ODY:348],[ODY:347],[ODY:346],[ODY:340],[ODY:340],[ODY:340],[ODY:340])([ZEN:211],[6ED:326],[GPT:165],[6ED:328],[LEB:283],[ZEN:229])([PTK:122],[VIS:72])([SOM:81],[LEA:188],[THS:127],[5DN:73],[WTH:153],[EXO:115],[M13:147],[LEG:207],[WWK:123])([RAV:117])([LRW:213])([CHK:193])([M11:146],[CN2:71],[SOM:223])([NPH:1],[SOM:180])([FRF:1])([ROE:6],[BFZ:15],[EMN:6])
+LAYOUT SIDEBOARD:(1,7)(CMC,false,60)|([MH1:249],[DIS:172])([ROE:190],[ROE:115])([MIR:253],[HOU:90],[RNA:183],[ALL:22a])([SCG:106],[SOM:175])([ORI:157],[PC2:84],[MH1:116],[DKA:93])([M13:193])([USG:6])

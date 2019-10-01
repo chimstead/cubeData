@@ -1,0 +1,49 @@
+1 [VIS:72] Vampiric Tutor
+1 [AVR:86] Blood Artist
+1 [C16:18] Frenzied Fugue
+1 [5DN:128] Guardian Idol
+1 [AKH:97] Liliana, Death's Majesty
+1 [M19:136] Dismissive Pyromancer
+1 [C14:35] Feldon of the Third Path
+1 [FRF:90] Alesha, Who Smiles at Death
+1 [SOI:116] Heir of Falkenrath
+1 [LEB:116] Mind Twist
+1 [TSP:161] Greater Gargadon
+1 [ATQ:80a] Mishra's Factory
+1 [RIX:82] Ravenous Chupacabra
+1 [M11:97] Grave Titan
+1 [FUT:161] Coalition Relic
+1 [EXO:72] Recurring Nightmare
+1 [SOM:78] Skinrender
+1 [C13:84] Ophiomancer
+1 [KLD:231] Scrapheap Scrounger
+1 [MRD:152] Chrome Mox
+1 [DIS:171] Blood Crypt
+1 [DST:140] Skullclamp
+1 [SCG:59] Carrion Feeder
+1 [ARN:71] City of Brass
+1 [SCG:103] Siege-Gang Commander
+1 [WWK:139] Lavaclaw Reaches
+4 [GUR:3] Mountain
+7 [GUR:5] Swamp
+1 [ORI:157] Pia and Kiran Nalaar
+1 [KLD:235] Smuggler's Copter
+1 [ONS:330] Wooded Foothills
+SB: 1 [ROE:66] Enclave Cryptologist
+SB: 1 [EXO:115] Oath of Druids
+SB: 1 [THS:127] Lightning Strike
+SB: 1 [RAV:213] Lightning Helix
+SB: 1 [KTK:119] Sarkhan, the Dragonspeaker
+SB: 1 [ZEN:83] Bloodghast
+SB: 1 [NPH:130] Batterskull
+SB: 1 [6ED:326] Karplusan Forest
+SB: 1 [TSP:131] Smallpox
+SB: 1 [DDF:57] Triskelion
+SB: 1 [MIR:184] Incinerate
+SB: 1 [BFZ:15] Ulamog, the Ceaseless Hunger
+SB: 1 [FRF:87] Tasigur, the Golden Fang
+SB: 1 [USG:174] Arc Lightning
+SB: 1 [AKH:175] Manglehorn
+SB: 1 [ODY:283] Wild Mongrel
+LAYOUT MAIN:(1,9)(CMC,false,68)|([GUR:3],[GUR:3],[GUR:3],[GUR:3],[GUR:5],[GUR:5],[GUR:5],[GUR:5],[GUR:5],[GUR:5],[GUR:5])([DIS:171],[ARN:71],[WWK:139],[ATQ:80a],[ONS:330])([MRD:152],[SCG:59],[LEB:116],[DST:140],[VIS:72])([AVR:86],[M19:136],[5DN:128],[SOI:116],[KLD:231],[KLD:235])([FRF:90],[FUT:161],[C14:35],[C13:84],[EXO:72])([C16:18],[ORI:157],[RIX:82],[SOM:78])([AKH:97],[SCG:103])([M11:97])([TSP:161])
+LAYOUT SIDEBOARD:(1,7)(CMC,false,65)|([6ED:326])([ROE:66])([MIR:184],[THS:127],[ZEN:83],[EXO:115],[ODY:283],[RAV:213],[TSP:131])([USG:174],[AKH:175])([KTK:119],[NPH:130])([FRF:87],[DDF:57])([BFZ:15])

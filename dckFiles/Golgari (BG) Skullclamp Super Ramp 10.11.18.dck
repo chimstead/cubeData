@@ -1,0 +1,48 @@
+1 [ONS:313] Bloodstained Mire
+1 [UDS:139] Thran Dynamo
+1 [RAV:279] Overgrown Tomb
+1 [UDS:118] Rofellos, Llanowar Emissary
+1 [XLN:179] Carnage Tyrant
+1 [WWK:123] Everflowing Chalice
+1 [ICE:244] Fyndhorn Elves
+1 [ROE:190] Joraga Treespeaker
+1 [M13:206] Gilded Lotus
+1 [EXO:129] Survival of the Fittest
+1 [CMD:157] Garruk Wildspeaker
+1 [APC:141] Llanowar Wastes
+1 [C18:57] Retrofitter Foundry
+1 [4ED:261] Llanowar Elves
+1 [WTH:153] Mind Stone
+11 [3ED:305] Forest
+1 [USG:321] Gaea's Cradle
+1 [ME4:242] Bayou
+1 [THS:180] Sylvan Caryatid
+1 [FRF:143] Warden of the First Tree
+1 [AVR:172] Craterhoof Behemoth
+1 [OGW:138] Nissa, Voice of Zendikar
+1 [DST:140] Skullclamp
+1 [EMN:6] Emrakul, the Promised End
+1 [BNG:119] Courser of Kruphix
+1 [WWK:95] Arbor Elf
+1 [LEA:115] Mind Twist
+1 [ULG:101] Deranged Hermit
+1 [BFZ:15] Ulamog, the Ceaseless Hunger
+1 [GRN:213] Vraska, Golgari Queen
+SB: 1 [VIS:64] Necromancy
+SB: 1 [5DN:126] Grafted Wargear
+SB: 1 [APC:140] Caves of Koilos
+SB: 1 [AKH:88] Dread Wanderer
+SB: 1 [FUT:153] Tarmogoyf
+SB: 1 [C16:56] Ash Barrens
+SB: 1 [ODY:292] Psychatog
+SB: 1 [M10:191] Master of the Wild Hunt
+SB: 1 [SOI:116] Heir of Falkenrath
+SB: 1 [MIR:253] Wall of Roots
+SB: 1 [AKH:204] Nissa, Steward of Elements
+SB: 1 [EMN:164] Noose Constrictor
+SB: 1 [USG:134] Exhume
+SB: 1 [SOI:155] Falkenrath Gorger
+SB: 1 [LEA:282] Taiga
+SB: 1 [ODY:283] Wild Mongrel
+LAYOUT MAIN:(1,10)(CMC,false,50)|([WWK:123],[USG:321],[ONS:313],[ME4:242],[RAV:279],[APC:141],[3ED:305],[3ED:305],[3ED:305],[3ED:305],[3ED:305],[3ED:305],[3ED:305],[3ED:305],[3ED:305],[3ED:305],[3ED:305])([WWK:95],[4ED:261],[ROE:190],[FRF:143],[C18:57],[LEA:115],[DST:140],[ICE:244])([THS:180],[EXO:129],[WTH:153],[UDS:118])([OGW:138],[BNG:119])([UDS:139],[GRN:213],[CMD:157])([ULG:101],[M13:206])([XLN:179])([AVR:172])([BFZ:15])([EMN:6])
+LAYOUT SIDEBOARD:(1,5)(CMC,false,50)|([C16:56],[LEA:282],[APC:140])([SOI:155],[AKH:88])([MIR:253],[USG:134],[AKH:204],[ODY:283],[SOI:116],[FUT:153],[EMN:164])([ODY:292],[5DN:126],[VIS:64])([M10:191])

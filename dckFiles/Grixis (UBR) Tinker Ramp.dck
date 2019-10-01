@@ -1,0 +1,51 @@
+1 [ULG:45] Tinker
+1 [M19:55] Exclusion Mage
+1 [M19:79] Tezzeret, Artifice Master
+1 [LRW:88] Sower of Temptation
+1 [WWK:123] Everflowing Chalice
+1 [ORI:229] Hangarback Walker
+1 [10E:362] Underground River
+1 [C18:53] Ancient Stone Idol
+1 [CN2:74] Daretti, Ingenious Iconoclast
+1 [WTH:153] Mind Stone
+1 [RTR:247] Steam Vents
+1 [EMA:108] Toxic Deluge
+1 [M12:98] Grave Titan
+1 [MRD:245] Solemn Simulacrum
+1 [3ED:99] Dark Ritual
+1 [FUT:161] Coalition Relic
+1 [AER:181] Walking Ballista
+1 [XLN:223] Hostage Taker
+1 [MRD:152] Chrome Mox
+1 [3ED:282] Badlands
+1 [C18:44] Saheeli, the Gifted
+2 [GUR:3] Mountain
+1 [USG:318] Worn Powerstone
+1 [DOM:1] Karn, Scion of Urza
+7 [GUR:2] Island
+4 [GUR:5] Swamp
+1 [USG:330] Tolarian Academy
+1 [MRD:253] Talisman of Dominance
+1 [SOM:223] Wurmcoil Engine
+1 [ULG:126] Grim Monolith
+SB: 1 [KLD:67] Torrential Gearhulk
+SB: 1 [GRN:152] Assassin's Trophy
+SB: 1 [ODY:117] Braids, Cabal Minion
+SB: 1 [GRN:183] Knight of Autumn
+SB: 1 [OGW:86] Kalitas, Traitor of Ghet
+SB: 1 [KLD:231] Scrapheap Scrounger
+SB: 1 [LRW:56] Cryptic Command
+SB: 1 [3ED:283] Bayou
+SB: 1 [AKH:88] Dread Wanderer
+SB: 1 [CON:30] Inkwell Leviathan
+SB: 1 [GUR:2] Island
+SB: 1 [7ED:88] Memory Lapse
+SB: 1 [ISD:97] Diregraf Ghoul
+SB: 1 [AKH:204] Nissa, Steward of Elements
+SB: 1 [TSP:161] Greater Gargadon
+SB: 1 [USG:101] Sunder
+SB: 1 [RTR:213] Deathrite Shaman
+SB: 1 [FRF:87] Tasigur, the Golden Fang
+SB: 1 [WWK:31] Jace, the Mind Sculptor
+LAYOUT MAIN:(1,8)(CMC,false,50)|([AER:181],[USG:330],[MRD:152],[3ED:282],[10E:362],[RTR:247],[WWK:123],[ORI:229],[GUR:2],[GUR:2],[GUR:2],[GUR:2],[GUR:2],[GUR:2],[GUR:2],[GUR:3],[GUR:3],[GUR:5],[GUR:5],[GUR:5],[GUR:5])([3ED:99])([ULG:126],[MRD:253],[WTH:153])([EMA:108],[USG:318],[ULG:45],[FUT:161],[CN2:74],[M19:55])([C18:44],[DOM:1],[MRD:245],[LRW:88],[XLN:223])([M19:79])([SOM:223],[M12:98])([C18:53])
+LAYOUT SIDEBOARD:(1,9)(CMC,false,50)|([3ED:283],[GUR:2])([AKH:88],[RTR:213],[ISD:97])([AKH:204],[GRN:152],[7ED:88],[KLD:231])([GRN:183])([OGW:86],[ODY:117],[LRW:56],[WWK:31])([USG:101])([KLD:67],[FRF:87])([CON:30])([TSP:161])

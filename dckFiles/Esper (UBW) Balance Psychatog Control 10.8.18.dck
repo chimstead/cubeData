@@ -1,0 +1,50 @@
+1 [CHK:268] Sensei's Divining Top
+1 [MBS:43] Go for the Throat
+1 [V12:10] Maze of Ith
+1 [BNG:5] Brimaz, King of Oreskos
+1 [APC:140] Caves of Koilos
+1 [MIR:74] Memory Lapse
+1 [5DN:27] Condescend
+1 [C16:56] Ash Barrens
+1 [ODY:292] Psychatog
+1 [M11:70] Preordain
+1 [WTH:153] Mind Stone
+1 [DIS:174] Hallowed Fountain
+1 [MMQ:69] Counterspell
+1 [LEG:303] Karakas
+1 [HOU:145] The Scarab God
+1 [ALA:9] Elspeth, Knight-Errant
+1 [RAV:286] Watery Grave
+1 [FUT:46] Venser, Shaper Savant
+1 [LRW:76] Mulldrifter
+1 [LEA:3] Balance
+1 [ZEN:211] Arid Mesa
+1 [4ED:64] Control Magic
+6 [GUR:2] Island
+2 [GUR:5] Swamp
+2 [GUR:4] Plains
+1 [UDS:50] Treachery
+1 [TSP:48] Ancestral Vision
+1 [ZEN:219] Marsh Flats
+1 [NEM:30] Daze
+1 [MRD:253] Talisman of Dominance
+1 [ISD:213] Geist of Saint Traft
+1 [LEG:26] Land Tax
+1 [LRW:71] Jace Beleren
+SB: 1 [M19:79] Tezzeret, Artifice Master
+SB: 1 [DOM:14] Dauntless Bodyguard
+SB: 1 [ORI:229] Hangarback Walker
+SB: 1 [PTK:104] Burning of Xinye
+SB: 1 [NPH:130] Batterskull
+SB: 1 [5DN:128] Guardian Idol
+SB: 1 [RAV:262] Golgari Signet
+SB: 1 [HOU:83] Abrade
+SB: 1 [M19:218] Nicol Bolas, the Ravager
+SB: 1 [KLD:214] Fleetwheel Cruiser
+SB: 1 [ODY:113] Upheaval
+SB: 1 [LRW:133] Oona's Prowler
+SB: 1 [CN2:58] Subterranean Tremors
+SB: 1 [MRD:159] Crystal Shard
+SB: 1 [ORI:83] Whirler Rogue
+LAYOUT MAIN:(1,7)(CMC,false,69)|([GUR:2],[GUR:2],[GUR:2],[GUR:2],[GUR:2],[GUR:2],[GUR:4],[GUR:4],[GUR:5],[GUR:5])([ZEN:211],[C16:56],[APC:140],[DIS:174],[LEG:303],[ZEN:219],[V12:10],[RAV:286])([5DN:27],[LEG:26],[M11:70],[CHK:268],[TSP:48])([LEA:3],[MMQ:69],[NEM:30],[MBS:43],[MIR:74],[WTH:153],[MRD:253])([BNG:5],[ISD:213],[LRW:71],[ODY:292])([4ED:64],[ALA:9],[FUT:46])([LRW:76],[HOU:145],[UDS:50])
+LAYOUT SIDEBOARD:(1,7)(CMC,false,68)|([ORI:229])([CN2:58],[DOM:14])([HOU:83],[5DN:128],[RAV:262],[LRW:133])([MRD:159])([KLD:214],[M19:218],[ORI:83])([NPH:130],[M19:79])([ODY:113],[PTK:104])

@@ -1,0 +1,50 @@
+1 [LEB:116] Mind Twist
+1 [MH1:168] Hexdrinker
+1 [FRF:143] Warden of the First Tree
+1 [DST:140] Skullclamp
+1 [DTK:36] Secure the Wastes
+1 [LEG:207] Sylvan Library
+1 [MRD:255] Talisman of Indulgence
+1 [MOR:58] Bitterblossom
+1 [CSP:136] Coldsteel Heart
+1 [MMA:180] Maelstrom Pulse
+1 [NPH:4] Blade Splicer
+1 [HOU:129] Ramunap Excavator
+1 [APC:126] Vindicate
+1 [WAR:13] Gideon Blackblade
+1 [BFZ:29] Gideon, Ally of Zendikar
+1 [CN2:18] Palace Jailer
+1 [DKA:142] Sorin, Lord of Innistrad
+1 [ISD:181] Garruk Relentless
+1 [ALA:9] Elspeth, Knight-Errant
+1 [M13:193] Thragtusk
+1 [ONS:28] Exalted Angel
+1 [MH1:230] Talisman of Conviction
+1 [LEB:279] Bayou
+1 [FUT:177] Horizon Canopy
+1 [TSP:279] Terramorphic Expanse
+1 [RAV:284] Temple Garden
+1 [OGW:171] Hissing Quagmire
+1 [ONS:313] Bloodstained Mire
+1 [MRD:152] Chrome Mox
+2 [GUR:1] Forest
+6 [GUR:4] Plains
+2 [GUR:5] Swamp
+1 [CON:15] Path to Exile
+SB: 1 [EXO:115] Oath of Druids
+SB: 1 [V12:10] Maze of Ith
+SB: 1 [WWK:134] Creeping Tar Pit
+SB: 1 [KLD:110] Chandra, Torch of Defiance
+SB: 1 [SOM:81] Arc Trail
+SB: 1 [RAV:280] Sacred Foundry
+SB: 1 [ROE:115] Inquisition of Kozilek
+SB: 1 [AKH:212] Never // Return
+SB: 1 [PLC:25] Mana Tithe
+SB: 1 [SOM:94] Koth of the Hammer
+SB: 1 [THS:108] Tormented Hero
+SB: 1 [KTK:118] Monastery Swiftspear
+SB: 1 [XLN:248] Sorcerous Spyglass
+SB: 1 [5DN:55] Night's Whisper
+SB: 1 [MOR:148] Mutavault
+LAYOUT MAIN:(1,8)(CMC,false,81)|([GUR:4],[GUR:4],[GUR:4],[GUR:4],[GUR:4],[GUR:4],[GUR:1],[GUR:1],[GUR:5],[GUR:5])([LEB:279],[ONS:313],[OGW:171],[FUT:177],[RAV:284],[TSP:279])([MRD:152],[MH1:168],[LEB:116],[DTK:36],[DST:140],[FRF:143],[CON:15])([MOR:58],[CSP:136],[LEG:207],[MH1:230],[MRD:255])([NPH:4],[WAR:13],[MMA:180],[HOU:129],[APC:126])([ALA:9],[ISD:181],[BFZ:29],[CN2:18],[DKA:142])([M13:193])([ONS:28])
+LAYOUT SIDEBOARD:(1,5)(CMC,false,74)|([V12:10],[WWK:134],[RAV:280],[MOR:148])([ROE:115],[PLC:25],[THS:108],[KTK:118])([EXO:115],[SOM:81],[XLN:248],[5DN:55])([KLD:110],[SOM:94])([AKH:212])

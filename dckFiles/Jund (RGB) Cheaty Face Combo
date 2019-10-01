@@ -1,0 +1,50 @@
+4 [GUR:1] Forest
+2 [GUR:3] Mountain
+2 [GUR:5] Swamp
+1 [DIS:171] Blood Crypt
+1 [ARN:71] City of Brass
+1 [ONS:319] Grand Coliseum
+1 [FUT:177] Horizon Canopy
+1 [RAV:279] Overgrown Tomb
+1 [WWK:141] Raging Ravine
+1 [6ED:328] Sulfurous Springs
+1 [LEB:283] Taiga
+1 [MRD:152] Chrome Mox
+1 [ZEN:119] Burst Lightning
+1 [ODY:193] Firebolt
+1 [CHK:268] Sensei's Divining Top
+1 [CN2:58] Subterranean Tremors
+1 [VIS:72] Vampiric Tutor
+1 [5DN:73] Magma Jet
+1 [EXO:115] Oath of Druids
+1 [TMP:308] Scroll Rack
+1 [MH1:230] Talisman of Conviction
+1 [MRD:255] Talisman of Indulgence
+1 [MRD:256] Talisman of Progress
+1 [ISD:181] Garruk Relentless
+1 [ULG:130] Quicksilver Amulet
+1 [USG:218] Sneak Attack
+1 [ULG:129] Memory Jar
+1 [M11:146] Inferno Titan
+1 [CN2:71] Selvala's Stampede
+1 [AVR:106] Griselbrand
+1 [ARB:110] Sphinx of the Steel Wind
+1 [DST:146] Sundering Titan
+1 [SHM:135] Woodfall Primus
+1 [CON:30] Inkwell Leviathan
+1 [XLN:250] Treasure Map
+SB: 1 [MIR:184] Incinerate
+SB: 1 [TMP:128] Diabolic Edict
+SB: 1 [EMN:130a] Hanweir Garrison
+SB: 1 [USG:228] Wildfire
+SB: 1 [RAV:280] Sacred Foundry
+SB: 1 [LEB:282] Scrubland
+SB: 1 [OGW:182] Wandering Fumarole
+SB: 1 [RTR:172] Izzet Charm
+SB: 1 [VIS:37] Man-o'-War
+SB: 1 [RTR:201] Supreme Verdict
+SB: 1 [LRW:76] Mulldrifter
+SB: 1 [M20:52] Cavalier of Gales
+SB: 1 [AKH:148] Soul-Scar Mage
+LAYOUT MAIN:(1,8)(CMC,false,74)|([GUR:1],[GUR:1],[GUR:1],[GUR:1],[GUR:3],[GUR:3],[GUR:5],[GUR:5],[DIS:171],[ARN:71],[ONS:319],[FUT:177],[RAV:279],[WWK:141],[6ED:328],[LEB:283],[MRD:152])([ZEN:119],[ODY:193],[CHK:268],[CN2:58],[VIS:72])([5DN:73],[EXO:115],[TMP:308],[MH1:230],[MRD:255],[MRD:256],[XLN:250])([ISD:181],[ULG:130],[USG:218])([ULG:129])([M11:146],[CN2:71])([AVR:106],[ARB:110],[DST:146],[SHM:135])([CON:30])
+LAYOUT SIDEBOARD:(1,7)(CMC,false,73)|([RAV:280],[LEB:282],[OGW:182])([AKH:148])([TMP:128],[MIR:184],[RTR:172])([EMN:130a],[VIS:37])([RTR:201])([M20:52],[LRW:76])([USG:228])

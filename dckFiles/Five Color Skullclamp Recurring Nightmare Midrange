@@ -1,0 +1,50 @@
+1 [CHK:225] Kodama's Reach
+1 [ONS:319] Grand Coliseum
+1 [C16:18] Frenzied Fugue
+1 [NPH:4] Blade Splicer
+1 [C17:37] Fractured Identity
+1 [AKH:97] Liliana, Death's Majesty
+1 [C16:56] Ash Barrens
+1 [M11:172] Fauna Shaman
+1 [6ED:328] Sulfurous Springs
+1 [TSP:161] Greater Gargadon
+1 [ORI:189] Nissa, Vastwood Seer
+1 [AKH:175] Manglehorn
+1 [RIX:82] Ravenous Chupacabra
+1 [EXO:72] Recurring Nightmare
+1 [ALA:154] Ajani Vengeant
+1 [MRD:152] Chrome Mox
+1 [DST:140] Skullclamp
+1 [M10:165] Acidic Slime
+1 [RAV:280] Sacred Foundry
+2 [GUR:1] Forest
+1 [ARN:71] City of Brass
+1 [RAV:262] Golgari Signet
+1 [RAV:284] Temple Garden
+1 [GUR:3] Mountain
+1 [RTR:157] Dreadbore
+2 [GUR:5] Swamp
+1 [6ED:217] Birds of Paradise
+1 [OGW:171] Hissing Quagmire
+1 [ZEN:219] Marsh Flats
+1 [CON:87] Noble Hierarch
+1 [NPH:42] Phyrexian Metamorph
+1 [LEB:105] Demonic Tutor
+1 [DDF:57] Triskelion
+1 [JOU:163] Mana Confluence
+1 [LRW:139] Shriekmaw
+1 [LRW:133] Oona's Prowler
+1 [LEB:286] Underground Sea
+1 [LEB:285] Tundra
+SB: 1 [XLN:248] Sorcerous Spyglass
+SB: 1 [OGW:140] Oath of Nissa
+SB: 1 [ODY:292] Psychatog
+SB: 1 [EMN:40] Selfless Spirit
+SB: 1 [ZEN:36] Steppe Lynx
+SB: 1 [KLD:172] Verdurous Gearhulk
+SB: 1 [EVE:80] Wickerbough Elder
+SB: 1 [APC:130] Life // Death
+SB: 1 [VIS:66] Nekrataal
+SB: 1 [CNS:187] Edric, Spymaster of Trest
+LAYOUT MAIN:(1,9)(CMC,false,70)|([GUR:1],[GUR:1],[GUR:5],[GUR:5],[GUR:3])([C16:56],[ARN:71],[ONS:319],[OGW:171],[JOU:163],[ZEN:219],[RAV:280],[6ED:328],[RAV:284],[LEB:285],[LEB:286])([MRD:152],[6ED:217],[CON:87],[DST:140])([LEB:105],[RTR:157],[M11:172],[RAV:262],[LRW:133])([NPH:4],[CHK:225],[AKH:175],[ORI:189],[EXO:72])([ALA:154],[C16:18],[NPH:42],[RIX:82])([M10:165],[C17:37],[AKH:97],[LRW:139])([DDF:57])([TSP:161])
+LAYOUT SIDEBOARD:(1,5)(CMC,false,85)|([ZEN:36],[OGW:140])([EMN:40],[XLN:248])([CNS:187],[APC:130],[ODY:292])([VIS:66],[EVE:80])([KLD:172])

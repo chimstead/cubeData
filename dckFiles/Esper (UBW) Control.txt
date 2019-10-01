@@ -1,0 +1,33 @@
+6 Island
+2 Plains
+2 Swamp
+1 Celestial Colonnade
+1 City of Brass
+1 Aether Hub
+1 Watery Grave
+1 Flooded Strand
+1 Polluted Delta
+1 Misty Rainforest
+1 Ponder
+1 Maze of Ith
+1 Jace, Vryn's Prodigy
+1 Baral, Chief of Compliance
+1 Remand
+1 Daze
+1 Chart a Course
+1 Mana Leak
+1 Spell Queller
+1 Fairgrounds Warden
+1 Phyrexian Metamorph
+1 Lingering Souls
+1 Anguished Unmaking
+1 Vindicate
+1 Hostage Taker
+1 Glen Elendra Archmage
+1 Fact or Fiction
+1 Jace, the Mind Sculptor
+1 Cryptic Command
+1 Fractured Identity
+1 Tasigur, the Golden Fang
+1 Dragonlord Silumgar
+1 Dig Through Time

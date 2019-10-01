@@ -1,0 +1,52 @@
+1 [ISD:127] Ancient Grudge
+1 [CHK:175] Kiki-Jiki, Mirror Breaker
+1 [MBS:21] Consecrated Sphinx
+1 [RNA:109] Rix Maadi Reveler
+1 [4ED:64] Control Magic
+1 [ORI:157] Pia and Kiran Nalaar
+1 [MOR:55] Vendilion Clique
+1 [RNA:47] Pteramander
+1 [AER:31] Disallow
+1 [APC:128] Fire // Ice
+1 [DKA:87] Faithless Looting
+1 [ALL:28] Force of Will
+1 [DKA:140] Huntmaster of the Fells
+1 [NPH:42] Phyrexian Metamorph
+1 [RTR:44] Jace, Architect of Thought
+1 [RAV:40] Compulsive Research
+1 [NPH:33] Deceiver Exarch
+1 [M15:145] Goblin Rabblemaster
+1 [ORI:60] Jace, Vryn's Prodigy
+1 [7ED:67] Counterspell
+1 [LRW:56] Cryptic Command
+1 [AKH:134] Glorybringer
+1 [M11:70] Preordain
+1 [KTK:230] Bloodstained Mire
+1 [RNA:259] Stomping Ground
+1 [KTK:239] Polluted Delta
+1 [3ED:291] Volcanic Island
+1 [RNA:246] Breeding Pool
+1 [2ED:265] Mox Ruby
+1 [WWK:123] Everflowing Chalice
+1 [WAR:244] Blast Zone
+3 [ISD:254] Island
+2 [ISD:255] Island
+1 [ISD:253] Island
+1 [ISD:260] Mountain
+2 [ISD:259] Mountain
+SB: 1 [AKH:97] Liliana, Death's Majesty
+SB: 1 [SCG:29] Brain Freeze
+SB: 1 [NEM:17] Parallax Wave
+SB: 1 [MIR:307] Lion's Eye Diamond
+SB: 1 [DTK:169] Zurgo Bellstriker
+SB: 1 [CHK:163] Desperate Ritual
+SB: 1 [GRN:207] Thousand-Year Storm
+SB: 1 [SOM:176] Mindslaver
+SB: 1 [DTK:216] Dragonlord Atarka
+SB: 1 [DOM:143] Siege-Gang Commander
+SB: 1 [3ED:185] Wheel of Fortune
+SB: 1 [GRN:115] Runaway Steam-Kin
+SB: 1 [ALA:218] Relic of Progenitus
+SB: 1 [SOI:92] Thing in the Ice
+LAYOUT MAIN:(1,7)(CMC,false,50)|([KTK:230],[RNA:259],[KTK:239],[3ED:291],[RNA:246],[2ED:265],[WWK:123],[WAR:244],[ISD:254],[ISD:255],[ISD:254],[ISD:255],[ISD:254],[ISD:253],[ISD:260],[ISD:259],[ISD:259])([RNA:47],[DKA:87],[M11:70])([ISD:127],[RNA:109],[ORI:60],[7ED:67],[APC:128])([MOR:55],[AER:31],[RAV:40],[NPH:33],[M15:145],[NPH:42])([4ED:64],[ORI:157],[DKA:140],[RTR:44],[LRW:56])([CHK:175],[ALL:28],[AKH:134])([MBS:21])
+LAYOUT SIDEBOARD:(1,8)(COLOR,false,50)|([MIR:307],[ALA:218])([AKH:97])([SCG:29],[3ED:185],[GRN:115])([DTK:169],[CHK:163])([NEM:17])([GRN:207])([SOM:176],[SOI:92])([DTK:216],[DOM:143])

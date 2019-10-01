@@ -1,0 +1,52 @@
+1 [ULG:45] Tinker
+1 [EVE:22] Glen Elendra Archmage
+1 [CHK:268] Sensei's Divining Top
+1 [LRW:88] Sower of Temptation
+1 [5ED:140] Animate Dead
+1 [SOM:180] Myr Battlesphere
+1 [10E:362] Underground River
+1 [THS:128] Magma Jet
+1 [ISD:78] Snapcaster Mage
+1 [CN2:74] Daretti, Ingenious Iconoclast
+3 [UNH:139] Mountain
+1 [USG:96] Show and Tell
+1 [ZEN:229] Verdant Catacombs
+1 [OGW:182] Wandering Fumarole
+1 [DTK:224] Kolaghan's Command
+1 [INV:57] Fact or Fiction
+1 [LRW:145] Thoughtseize
+5 [UNH:137] Island
+1 [MM3:217] Boros Signet
+3 [UNH:138] Swamp
+1 [ULG:36] Miscalculation
+1 [MBS:99] Blightsteel Colossus
+1 [WWK:134] Creeping Tar Pit
+1 [4ED:147] Mind Twist
+1 [GTC:249] Watery Grave
+1 [EMA:42] Control Magic
+1 [NPH:159] Spellskite
+1 [EMN:6] Emrakul, the Promised End
+1 [RTR:238] Blood Crypt
+1 [MM3:224] Orzhov Signet
+1 [MRD:53] Thirst for Knowledge
+1 [ORI:60] Jace, Vryn's Prodigy
+SB: 1 [3ED:41] Swords to Plowshares
+SB: 1 [UST:215] Mountain
+SB: 1 [RIX:99] Dire Fleet Daredevil
+SB: 1 [5DN:118] Engineered Explosives
+SB: 1 [BOK:163] Umezawa's Jitte
+SB: 1 [M19:136] Dismissive Pyromancer
+SB: 1 [3ED:285] Savannah
+SB: 1 [DST:149] Sword of Light and Shadow
+SB: 1 [CN2:71] Selvala's Stampede
+SB: 1 [NPH:33] Deceiver Exarch
+SB: 1 [NPH:9] Elesh Norn, Grand Cenobite
+SB: 1 [DKA:87] Faithless Looting
+SB: 1 [MM3:226] Selesnya Signet
+SB: 1 [DGM:94] Ral Zarek
+SB: 1 [MRD:146] Bonesplitter
+SB: 1 [MRD:159] Crystal Shard
+SB: 1 [UNH:137] Island
+SB: 1 [THS:32] Soldier of the Pantheon
+LAYOUT MAIN:(1,8)(CMC,false,37)|([RTR:238],[WWK:134],[UNH:137],[UNH:137],[UNH:137],[UNH:137],[UNH:137],[UNH:139],[UNH:139],[UNH:139],[UNH:138],[UNH:138],[UNH:138],[10E:362],[ZEN:229],[OGW:182],[GTC:249])([4ED:147],[CHK:268],[LRW:145])([5ED:140],[MM3:217],[ORI:60],[THS:128],[ULG:36],[MM3:224],[ISD:78],[NPH:159])([CN2:74],[DTK:224],[USG:96],[MRD:53],[ULG:45])([EMA:42],[INV:57],[EVE:22],[LRW:88])([SOM:180])([MBS:99])([EMN:6])
+LAYOUT SIDEBOARD:(1,5)(CMC,false,50)|([3ED:285],[UNH:137],[UST:215])([MRD:146],[DKA:87],[THS:32],[3ED:41],[5DN:118],[MM3:226])([RIX:99],[M19:136],[BOK:163])([MRD:159],[DST:149],[NPH:33])([CN2:71],[NPH:9],[DGM:94])

@@ -1,0 +1,51 @@
+1 [3ED:290] Underground Sea
+1 [WWK:123] Everflowing Chalice
+1 [3ED:291] Volcanic Island
+1 [KTK:249] Wooded Foothills
+1 [STH:138] Mox Diamond
+2 [3ED:297] Island
+1 [CN2:74] Daretti, Ingenious Iconoclast
+4 [3ED:302] Mountain
+2 [3ED:301] Mountain
+1 [USG:228] Wildfire
+1 [M13:150] Thundermaw Hellkite
+1 [M11:70] Preordain
+1 [ZEN:229] Verdant Catacombs
+1 [DTK:224] Kolaghan's Command
+1 [AVR:166] Zealous Conscripts
+1 [HOU:145] The Scarab God
+1 [ODY:113] Upheaval
+1 [INV:57] Fact or Fiction
+1 [MM3:219] Dimir Signet
+1 [FUT:161] Coalition Relic
+1 [SOM:175] Mimic Vat
+1 [XLN:223] Hostage Taker
+1 [CHK:175] Kiki-Jiki, Mirror Breaker
+1 [KLD:110] Chandra, Torch of Defiance
+1 [MRD:152] Chrome Mox
+1 [M12:147] Inferno Titan
+1 [3ED:282] Badlands
+1 [NPH:130] Batterskull
+1 [PTK:113] Imperial Recruiter
+1 [C18:44] Saheeli, the Gifted
+1 [ROE:165] Splinter Twin
+1 [KTK:233] Flooded Strand
+1 [3ED:299] Swamp
+1 [MM3:225] Rakdos Signet
+1 [TMP:315] Ancient Tomb
+SB: 1 [MMQ:324] Rishadan Port
+SB: 1 [C16:195] Edric, Spymaster of Trest
+SB: 1 [M12:16] Gideon Jura
+SB: 1 [C15:26] Fiery Confluence
+SB: 1 [DTK:216] Dragonlord Atarka
+SB: 1 [ODY:193] Firebolt
+SB: 1 [MOR:55] Vendilion Clique
+SB: 1 [OGW:171] Hissing Quagmire
+SB: 1 [ORI:157] Pia and Kiran Nalaar
+SB: 1 [EMN:47] Thalia's Lancers
+SB: 1 [MMQ:162] Snuff Out
+SB: 1 [JOU:72] Gnarled Scarhide
+SB: 1 [DKA:131] Vorapede
+SB: 1 [V14:2] Burning of Xinye
+LAYOUT MAIN:(1,7)(CMC,false,50)|([STH:138],[WWK:123],[TMP:315],[3ED:282],[KTK:233],[3ED:290],[3ED:291],[ZEN:229],[MRD:152],[KTK:249],[3ED:297],[3ED:297],[3ED:302],[3ED:302],[3ED:302],[3ED:302],[3ED:301],[3ED:301],[3ED:299])([M11:70])([MM3:225],[MM3:219])([CN2:74],[FUT:161],[PTK:113],[DTK:224],[SOM:175])([XLN:223],[ROE:165],[KLD:110],[INV:57],[C18:44])([CHK:175],[HOU:145],[AVR:166],[NPH:130],[M13:150])([ODY:113],[M12:147],[USG:228])
+LAYOUT SIDEBOARD:(1,7)(CMC,false,50)|([MMQ:324],[OGW:171])([JOU:72],[ODY:193])([C16:195],[MOR:55])([ORI:157],[MMQ:162],[C15:26])([DKA:131],[M12:16],[EMN:47])([V14:2])([DTK:216])

@@ -1,0 +1,50 @@
+1 [WWK:123] Everflowing Chalice
+1 [STH:138] Mox Diamond
+1 [ROE:21] Gideon Jura
+1 [OGW:140] Oath of Nissa
+1 [ISD:181] Garruk Relentless
+1 [ZEN:168] Lotus Cobra
+1 [LEG:207] Sylvan Library
+1 [ALA:9] Elspeth, Knight-Errant
+1 [BFZ:29] Gideon, Ally of Zendikar
+1 [BFZ:239] Lumbering Falls
+1 [WWK:133] Celestial Colonnade
+1 [JOU:5] Banishing Light
+1 [ONS:28] Exalted Angel
+1 [SCG:12] Eternal Dragon
+1 [DIS:172] Breeding Pool
+3 [GUR:1] Forest
+1 [RAV:163] Farseek
+1 [RAV:284] Temple Garden
+1 [C13:25] Unexpectedly Absent
+2 [GUR:2] Island
+5 [GUR:4] Plains
+1 [KLD:4] Angel of Invention
+1 [ISD:170] Avacyn's Pilgrim
+1 [ZEN:219] Marsh Flats
+1 [CON:87] Noble Hierarch
+1 [AKH:14] Gideon of the Trials
+1 [CNS:16] Council's Judgment
+1 [LEB:281] Savannah
+1 [M10:68] Ponder
+1 [WWK:31] Jace, the Mind Sculptor
+1 [MRD:256] Talisman of Progress
+1 [CHK:239] Sakura-Tribe Elder
+1 [LEB:285] Tundra
+SB: 1 [UDS:136] Powder Keg
+SB: 1 [WWK:141] Raging Ravine
+SB: 1 [POR:5] Armageddon
+SB: 1 [M11:168] Cultivate
+SB: 1 [SHM:23] Spectral Procession
+SB: 1 [XLN:74] Search for Azcanta
+SB: 1 [6ED:239] Llanowar Elves
+SB: 1 [MMQ:69] Counterspell
+SB: 1 [NEM:30] Daze
+SB: 1 [LEG:120] The Abyss
+SB: 1 [LEG:26] Land Tax
+SB: 1 [M12:72] Phantasmal Image
+SB: 1 [SHM:229] Kitchen Finks
+SB: 1 [GPT:157] Godless Shrine
+SB: 1 [LEG:58] Force Spike
+LAYOUT MAIN:(1,9)(CMC,false,70)|([GUR:1],[GUR:1],[GUR:1],[GUR:2],[GUR:2],[GUR:4],[GUR:4],[GUR:4],[GUR:4],[GUR:4])([DIS:172],[WWK:133],[BFZ:239],[ZEN:219],[LEB:281],[RAV:284],[LEB:285])([STH:138],[ISD:170],[CON:87],[OGW:140],[M10:68])([RAV:163],[ZEN:168],[CHK:239],[LEG:207],[MRD:256],[C13:25],[WWK:123])([JOU:5],[CNS:16],[AKH:14])([ALA:9],[ISD:181],[BFZ:29],[WWK:31])([KLD:4],[ROE:21])([ONS:28])([SCG:12])
+LAYOUT SIDEBOARD:(1,6)(CMC,false,69)|([WWK:141],[GPT:157])([LEG:26],[6ED:239],[LEG:58])([MMQ:69],[XLN:74],[M12:72],[UDS:136],[NEM:30])([M11:168],[SHM:229])([LEG:120],[POR:5])([SHM:23])

@@ -1,0 +1,49 @@
+1 [RAV:255] Boros Signet
+1 [ONS:316] Flooded Strand
+1 [GRN:183] Knight of Autumn
+1 [EXO:129] Survival of the Fittest
+1 [FUT:177] Horizon Canopy
+1 [SOI:5] Archangel Avacyn
+1 [ROE:21] Gideon Jura
+1 [M11:172] Fauna Shaman
+1 [MOR:22] Reveillark
+1 [CON:15] Path to Exile
+1 [MIR:253] Wall of Roots
+1 [LEG:303] Karakas
+1 [NPH:9] Elesh Norn, Grand Cenobite
+1 [GRN:208] Trostani Discordant
+1 [CN2:18] Palace Jailer
+1 [THS:9] Elspeth, Sun's Champion
+1 [BFZ:29] Gideon, Ally of Zendikar
+1 [LRW:10] Cloudgoat Ranger
+8 [GUR:1] Forest
+1 [ICE:54] Swords to Plowshares
+6 [GUR:4] Plains
+1 [6ED:217] Birds of Paradise
+1 [BNG:119] Courser of Kruphix
+1 [ISD:170] Avacyn's Pilgrim
+1 [CON:87] Noble Hierarch
+1 [5DN:86] Eternal Witness
+1 [MRD:255] Talisman of Indulgence
+1 [MBS:122] Phyrexian Revoker
+SB: 1 [VIS:64] Necromancy
+SB: 1 [FRF:18] Mardu Woe-Reaper
+SB: 1 [SOM:78] Skinrender
+SB: 1 [GRN:152] Assassin's Trophy
+SB: 1 [RAV:213] Lightning Helix
+SB: 1 [MIR:14] Enlightened Tutor
+SB: 1 [THS:122] Firedrinker Satyr
+SB: 1 [ONS:28] Exalted Angel
+SB: 1 [PTK:104] Burning of Xinye
+SB: 1 [SCG:12] Eternal Dragon
+SB: 1 [C15:26] Fiery Confluence
+SB: 1 [NPH:104] Birthing Pod
+SB: 1 [5ED:408] Winter Orb
+SB: 1 [CON:65] Hellspark Elemental
+SB: 1 [NEM:18] Seal of Cleansing
+SB: 1 [FRF:20] Monastery Mentor
+SB: 1 [VIS:167] Undiscovered Paradise
+SB: 1 [DTK:36] Secure the Wastes
+SB: 1 [NPH:19] Porcelain Legionnaire
+LAYOUT MAIN:(1,9)(CMC,false,70)|([GUR:1],[GUR:1],[GUR:1],[GUR:1],[GUR:1],[GUR:1],[GUR:1],[GUR:1],[GUR:4],[GUR:4],[GUR:4],[GUR:4],[GUR:4],[GUR:4])([ONS:316],[FUT:177],[LEG:303])([ISD:170],[6ED:217],[CON:87],[CON:15],[ICE:54])([RAV:255],[M11:172],[MBS:122],[EXO:129],[MRD:255],[MIR:253])([BNG:119],[5DN:86],[GRN:183])([BFZ:29],[CN2:18])([SOI:5],[LRW:10],[ROE:21],[MOR:22],[GRN:208])([THS:9])([NPH:9])
+LAYOUT SIDEBOARD:(1,7)(CMC,false,63)|([VIS:167])([MIR:14],[FRF:18],[THS:122],[DTK:36])([5ED:408],[GRN:152],[NEM:18],[CON:65],[RAV:213])([VIS:64],[NPH:19],[FRF:20])([SOM:78],[C15:26],[NPH:104])([ONS:28],[PTK:104])([SCG:12])

@@ -1,0 +1,49 @@
+1 [EVE:22] Glen Elendra Archmage
+1 [XLN:254] Field of Ruin
+1 [XLN:90] Arguel's Blood Fast
+1 [AKH:97] Liliana, Death's Majesty
+1 [XLN:74] Search for Azcanta
+1 [3ED:274] Sol Ring
+1 [NPH:1] Karn Liberated
+1 [ISD:78] Snapcaster Mage
+1 [7ED:76] Force Spike
+1 [DTK:124] Ultimate Price
+1 [M15:248] Urborg, Tomb of Yawgmoth
+1 [FRF:1] Ugin, the Spirit Dragon
+8 [UST:213] Island
+6 [UST:214] Swamp
+1 [E01:80] Baleful Strix
+1 [M12:72] Phantasmal Image
+1 [SOM:176] Mindslaver
+1 [LEG:65] Mana Drain
+1 [XLN:129] Vraska's Contempt
+1 [KLD:96] Noxious Gearhulk
+1 [XLN:223] Hostage Taker
+1 [4ED:147] Mind Twist
+1 [KTK:36] Dig Through Time
+1 [USG:318] Worn Powerstone
+1 [MOR:55] Vendilion Clique
+1 [DIS:165] Rakdos Signet
+1 [SOM:226] Darkslick Shores
+1 [ORI:60] Jace, Vryn's Prodigy
+SB: 1 [ORI:90] Dark Petition
+SB: 1 [KLD:172] Verdurous Gearhulk
+SB: 1 [AER:57] Fatal Push
+SB: 1 [KLD:244] Botanical Sanctum
+SB: 1 [RTR:1] Angel of Serenity
+SB: 1 [DOM:143] Siege-Gang Commander
+SB: 1 [ARN:70] Bazaar of Baghdad
+SB: 1 [APC:126] Vindicate
+SB: 1 [CM2:94] Dualcaster Mage
+SB: 1 [ODY:193] Firebolt
+SB: 1 [EMN:40] Selfless Spirit
+SB: 1 [CON:15] Path to Exile
+SB: 1 [M11:21] Leyline of Sanctity
+SB: 1 [ISD:213] Geist of Saint Traft
+SB: 1 [M13:43] Augur of Bolas
+SB: 1 [AKH:136] Hazoret the Fervent
+SB: 1 [AVR:36] Silverblade Paladin
+SB: 1 [NPH:19] Porcelain Legionnaire
+SB: 1 [SOM:122] Genesis Wave
+LAYOUT MAIN:(1,9)(CMC,false,37)|([XLN:254],[SOM:226],[M15:248],[UST:213],[UST:213],[UST:213],[UST:213],[UST:213],[UST:213],[UST:213],[UST:213],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214])([4ED:147],[3ED:274],[7ED:76])([LEG:65],[XLN:74],[M12:72],[DTK:124],[ISD:78],[XLN:90],[ORI:60],[DIS:165],[E01:80])([MOR:55],[USG:318])([XLN:129],[EVE:22],[XLN:223])([AKH:97])([KLD:96],[SOM:176])([NPH:1])([KTK:36],[FRF:1])
+LAYOUT SIDEBOARD:(1,7)(COLOR,false,50)|([ARN:70],[KLD:244])([ORI:90],[AER:57])([M13:43])([KLD:172],[SOM:122])([DOM:143],[CM2:94],[AKH:136],[ODY:193])([NPH:19],[CON:15],[EMN:40],[M11:21],[RTR:1],[AVR:36])([ISD:213],[APC:126])

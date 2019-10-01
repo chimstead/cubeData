@@ -1,0 +1,33 @@
+4 Forest
+4 Mountain
+2 Swamp
+1 Arid Mesa
+1 Bayou
+1 Blood Crypt
+1 City of Brass
+1 Mana Confluence
+1 Maze of Ith
+1 Taiga
+1 Treetop Village
+1 Faithless Looting
+1 Rolling Earthquake
+1 Izzet Signet
+1 Lightning Strike
+1 Sorcerous Spyglass
+1 Everflowing Chalice
+1 Coalition Relic
+1 Cultivate
+1 Kodama's Reach
+1 Maelstrom Pulse
+1 Pernicious Deed
+1 Chandra, Torch of Defiance
+1 Garruk Relentless
+1 Garruk Wildspeaker
+1 Snuff Out
+1 Sarkhan, the Dragonspeaker
+1 Shriekmaw
+1 Thundermaw Hellkite
+1 Burning of Xinye
+1 Inferno Titan
+1 Primeval Titan
+1 Dragonlord Atarka

@@ -1,0 +1,50 @@
+1 [VIS:72] Vampiric Tutor
+1 [RTR:73] Pack Rat
+1 [KLD:242] Aether Hub
+1 [M11:146] Inferno Titan
+1 [C17:37] Fractured Identity
+1 [5DN:27] Condescend
+1 [TMP:151] Reanimate
+1 [ODY:292] Psychatog
+1 [M11:70] Preordain
+1 [STH:36] Mana Leak
+1 [ZEN:229] Verdant Catacombs
+1 [LEB:116] Mind Twist
+1 [ODY:132] Entomb
+1 [GPT:157] Godless Shrine
+6 [UNH:137] Island
+4 [UNH:138] Swamp
+1 [VIS:64] Necromancy
+1 [RAV:286] Watery Grave
+1 [XLN:48] Chart a Course
+1 [LRW:34] Oblivion Ring
+1 [EXO:35] Forbid
+1 [DST:146] Sundering Titan
+1 [ARN:71] City of Brass
+1 [MOR:55] Vendilion Clique
+1 [UDS:50] Treachery
+1 [ARB:110] Sphinx of the Steel Wind
+1 [LEB:105] Demonic Tutor
+1 [NEM:30] Daze
+1 [LEB:282] Scrubland
+1 [LRW:139] Shriekmaw
+1 [LEB:286] Underground Sea
+1 [CSP:136] Coldsteel Heart
+SB: 1 [WWK:141] Raging Ravine
+SB: 1 [C14:22] Flesh Carver
+SB: 1 [DOM:42] The Antiquities War
+SB: 1 [WWK:144] Stirring Wildwood
+SB: 1 [V12:10] Maze of Ith
+SB: 1 [SOM:180] Myr Battlesphere
+SB: 1 [5DN:118] Engineered Explosives
+SB: 1 [APC:143] Yavimaya Coast
+SB: 1 [ROE:21] Gideon Jura
+SB: 1 [ZEN:116] Vampire Nighthawk
+SB: 1 [VIS:37] Man-o'-War
+SB: 1 [USG:174] Arc Lightning
+SB: 1 [THS:9] Elspeth, Sun's Champion
+SB: 1 [VIS:66] Nekrataal
+SB: 1 [ODY:283] Wild Mongrel
+SB: 1 [UNH:138] Swamp
+LAYOUT MAIN:(1,7)(CMC,false,30)|([KLD:242],[ARN:71],[LEB:286],[GPT:157],[LEB:282],[ZEN:229],[RAV:286],[UNH:137],[UNH:137],[UNH:137],[UNH:137],[UNH:137],[UNH:137],[UNH:138],[UNH:138],[UNH:138],[UNH:138])([ODY:132],[LEB:116],[TMP:151],[VIS:72],[M11:70],[5DN:27])([LEB:105],[RTR:73],[STH:36],[XLN:48],[CSP:136],[NEM:30])([VIS:64],[MOR:55],[EXO:35],[LRW:34],[ODY:292])([LRW:139],[UDS:50],[C17:37])([M11:146])([ARB:110],[DST:146])
+LAYOUT SIDEBOARD:(1,6)(COLOR,false,50)|([APC:143],[WWK:141],[WWK:144],[SOM:180],[UNH:138],[5DN:118],[V12:10])([ZEN:116],[C14:22],[VIS:66])([DOM:42],[VIS:37])([ODY:283])([USG:174])([THS:9],[ROE:21])

@@ -1,0 +1,13 @@
+name: cubedata
+title: cubedata
+username:
+account: chimstead
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 963475
+bundleId: 2339123
+url: https://chimstead.shinyapps.io/cubedata/
+when: 1566340408.38197
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|app2.R|cardapp.R|combapp.R|deckapp.R|decksapp.R|draftbot.R|jdd_new.csv|jdd_newestold.csv|make_stats.R

@@ -1,0 +1,50 @@
+1 [VIS:72] Vampiric Tutor
+1 [SHM:135] Woodfall Primus
+1 [CMD:159] Hornet Queen
+1 [APC:141] Llanowar Wastes
+1 [STH:138] Mox Diamond
+1 [PTK:122] Rolling Earthquake
+1 [C18:53] Ancient Stone Idol
+1 [APC:114] Pernicious Deed
+1 [LEA:188] Channel
+1 [6ED:326] Karplusan Forest
+1 [5DN:55] Night's Whisper
+1 [CN2:58] Subterranean Tremors
+1 [ROE:12] Ulamog, the Infinite Gyre
+1 [EXO:115] Oath of Druids
+1 [MBS:99] Blightsteel Colossus
+1 [TMP:245] Rampant Growth
+1 [ULG:130] Quicksilver Amulet
+1 [DIS:171] Blood Crypt
+1 [CHK:193] Through the Breach
+5 [GUR:1] Forest
+1 [ARN:71] City of Brass
+1 [RAV:262] Golgari Signet
+1 [USG:218] Sneak Attack
+1 [WWK:139] Lavaclaw Reaches
+2 [GUR:3] Mountain
+1 [EMN:6] Emrakul, the Promised End
+3 [GUR:5] Swamp
+1 [ZEN:219] Marsh Flats
+1 [GPT:165] Stomping Ground
+1 [LEB:105] Demonic Tutor
+1 [DKA:87] Faithless Looting
+1 [MRD:256] Talisman of Progress
+1 [CN2:69] Regal Behemoth
+SB: 1 [TMP:154] Sarcomancy
+SB: 1 [BFZ:239] Lumbering Falls
+SB: 1 [ROE:47] Student of Warfare
+SB: 1 [MMQ:62] Bribery
+SB: 1 [APC:143] Yavimaya Coast
+SB: 1 [LEA:92] Animate Dead
+SB: 1 [C13:25] Unexpectedly Absent
+SB: 1 [MOR:55] Vendilion Clique
+SB: 1 [DDL:43] Polukranos, World Eater
+SB: 1 [EMN:164] Noose Constrictor
+SB: 1 [AKH:245] Irrigated Farmland
+SB: 1 [CN2:18] Palace Jailer
+SB: 1 [MRD:134] Tooth and Nail
+SB: 1 [M12:72] Phantasmal Image
+SB: 1 [ORI:60] Jace, Vryn's Prodigy
+LAYOUT MAIN:(1,11)(CMC,false,58)|([GUR:1],[GUR:1],[GUR:1],[GUR:1],[GUR:1],[GUR:5],[GUR:5],[GUR:5],[GUR:3],[GUR:3])([DIS:171],[ARN:71],[6ED:326],[WWK:139],[APC:141],[ZEN:219],[GPT:165])([STH:138],[DKA:87],[PTK:122],[CN2:58],[VIS:72])([LEA:188],[LEB:105],[RAV:262],[5DN:55],[EXO:115],[TMP:245],[MRD:256])([APC:114])([ULG:130],[USG:218])([CHK:193])([CN2:69])([CMD:159])([SHM:135])([C18:53],[MBS:99],[EMN:6],[ROE:12])
+LAYOUT SIDEBOARD:(1,7)(CMC,false,56)|([AKH:245],[APC:143],[BFZ:239])([TMP:154],[ROE:47])([LEA:92],[ORI:60],[EMN:164],[C13:25],[M12:72])([MOR:55])([CN2:18],[DDL:43])([MMQ:62])([MRD:134])

@@ -1,0 +1,49 @@
+1 [PLC:25] Mana Tithe
+1 [EVE:22] Glen Elendra Archmage
+1 [KLD:67] Torrential Gearhulk
+1 [RAV:255] Boros Signet
+1 [5ED:388] Mana Vault
+1 [M12:16] Gideon Jura
+1 [KTK:248] Windswept Heath
+1 [ISD:78] Snapcaster Mage
+1 [7ED:76] Force Spike
+1 [TSB:6] Disenchant
+1 [ODY:113] Upheaval
+1 [INV:57] Fact or Fiction
+1 [M12:55] Frost Titan
+1 [4ED:6] Balance
+1 [LRW:56] Cryptic Command
+1 [RAV:260] Dimir Signet
+1 [KTK:36] Dig Through Time
+1 [ICE:54] Swords to Plowshares
+9 [GUR:2] Island
+1 [SOI:92] Thing in the Ice
+5 [GUR:4] Plains
+1 [UDS:50] Treachery
+1 [2ED:48] Ancestral Recall
+1 [VMA:20] Council's Judgment
+1 [SOM:229] Seachrome Coast
+1 [WWK:31] Jace, the Mind Sculptor
+1 [2ED:265] Mox Ruby
+1 [M12:63] Mana Leak
+SB: 1 [GRN:254] Sacred Foundry
+SB: 1 [DOM:26] Lyra Dawnbringer
+SB: 1 [THS:122] Firedrinker Satyr
+SB: 1 [6ED:4] Armageddon
+SB: 1 [CHK:175] Kiki-Jiki, Mirror Breaker
+SB: 1 [DOM:46] Blink of an Eye
+SB: 1 [SHM:23] Spectral Procession
+SB: 1 [NPH:153] Shrine of Burning Rage
+SB: 1 [RAV:262] Golgari Signet
+SB: 1 [M13:150] Thundermaw Hellkite
+SB: 1 [4ED:361] Mishra's Factory
+SB: 1 [A25:136] Imperial Recruiter
+SB: 1 [DKA:93] Hellrider
+SB: 1 [DTK:169] Zurgo Bellstriker
+SB: 1 [MRD:199] Lightning Greaves
+SB: 1 [LEG:120] The Abyss
+SB: 1 [SOI:242] Anguished Unmaking
+SB: 1 [M12:40] Timely Reinforcements
+SB: 1 [BFZ:244] Shambling Vent
+LAYOUT MAIN:(1,9)(CMC,false,71)|([GUR:2],[GUR:2],[GUR:2],[GUR:2],[GUR:2],[GUR:2],[GUR:2],[GUR:2],[GUR:2],[GUR:4],[GUR:4],[GUR:4],[GUR:4],[GUR:4])([SOM:229],[KTK:248])([2ED:265],[2ED:48],[7ED:76],[PLC:25],[5ED:388],[ICE:54])([4ED:6],[RAV:255],[RAV:260],[TSB:6],[M12:63],[ISD:78],[SOI:92])([VMA:20])([LRW:56],[INV:57],[EVE:22],[WWK:31])([M12:16],[UDS:50])([M12:55],[KLD:67],[ODY:113])([KTK:36])
+LAYOUT SIDEBOARD:(1,7)(CMC,false,61)|([4ED:361],[BFZ:244],[GRN:254])([THS:122],[DTK:169])([RAV:262],[MRD:199],[NPH:153],[DOM:46])([SOI:242],[M12:40],[A25:136])([LEG:120],[DKA:93],[6ED:4])([DOM:26],[M13:150],[CHK:175])([SHM:23])

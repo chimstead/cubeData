@@ -1,0 +1,52 @@
+1 [THS:122] Firedrinker Satyr
+1 [M12:156] Stormblood Berserker
+4 [KTK:264] Mountain
+1 [M15:145] Goblin Rabblemaster
+1 [LEB:278] Badlands
+3 [KTK:265] Mountain
+1 [M13:150] Thundermaw Hellkite
+3 [KTK:262] Mountain
+1 [SCG:106] Sulfuric Vortex
+3 [KTK:263] Mountain
+1 [DKA:93] Hellrider
+1 [DTK:169] Zurgo Bellstriker
+1 [DTK:224] Kolaghan's Command
+1 [6ED:328] Sulfurous Springs
+1 [ISD:164] Stromkirk Noble
+1 [AER:87] Kari Zev, Skyship Raider
+1 [MRD:146] Bonesplitter
+1 [PLC:102] Keldon Marauders
+1 [HOU:90] Earthshaker Khenra
+1 [LEA:161] Lightning Bolt
+1 [MOR:148] Mutavault
+1 [KTK:118] Monastery Swiftspear
+1 [DST:140] Skullclamp
+1 [TMP:183] Jackal Pup
+1 [KTK:258] Swamp
+1 [HOU:83] Abrade
+1 [EMN:130] Hanweir Garrison
+1 [KLD:214] Fleetwheel Cruiser
+1 [AKH:148] Soul-Scar Mage
+1 [LEG:137] Chain Lightning
+1 [USG:174] Arc Lightning
+SB: 1 [XLN:248] Sorcerous Spyglass
+SB: 1 [EXO:115] Oath of Druids
+SB: 1 [ALA:154] Ajani Vengeant
+SB: 1 [NPH:161] Sword of War and Peace
+SB: 1 [POR:129] Earthquake
+SB: 1 [USG:6] Catastrophe
+SB: 1 [NPH:4] Blade Splicer
+SB: 1 [STH:143] Volrath's Stronghold
+SB: 1 [OGW:144] Sylvan Advocate
+SB: 1 [M11:151] Manic Vandal
+SB: 1 [APC:114] Pernicious Deed
+SB: 1 [FRF:90] Alesha, Who Smiles at Death
+SB: 1 [DST:149] Sword of Light and Shadow
+SB: 1 [SOM:208] Sword of Body and Mind
+SB: 1 [TMP:128] Diabolic Edict
+SB: 1 [GTC:148] Boros Charm
+SB: 1 [SOK:158] Pithing Needle
+SB: 1 [AKH:136] Hazoret the Fervent
+SB: 1 [ULG:139] Faerie Conclave
+LAYOUT MAIN:(1,6)(CMC,false,50)|([6ED:328],[MOR:148],[LEB:278],[KTK:264],[KTK:263],[KTK:264],[KTK:265],[KTK:265],[KTK:264],[KTK:263],[KTK:264],[KTK:262],[KTK:265],[KTK:263],[KTK:262],[KTK:262],[KTK:258])([KTK:118],[AKH:148],[DTK:169],[THS:122],[LEA:161],[LEG:137],[ISD:164],[TMP:183],[DST:140],[MRD:146])([HOU:90],[HOU:83],[PLC:102],[AER:87],[M12:156])([M15:145],[USG:174],[EMN:130],[SCG:106],[DTK:224])([DKA:93],[KLD:214])([M13:150])
+LAYOUT SIDEBOARD:(1,6)(COLOR,false,50)|([SOK:158],[DST:149],[NPH:161],[XLN:248],[ULG:139],[STH:143],[SOM:208])([TMP:128])([EXO:115],[OGW:144])([POR:129],[FRF:90],[M11:151],[AKH:136])([USG:6],[NPH:4])([APC:114],[GTC:148],[ALA:154])

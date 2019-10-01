@@ -1,0 +1,35 @@
+4 Island
+1 Mountain
+3 Plains
+1 Swamp
+1 Scrubland
+1 City of Brass
+1 Evolving Wilds
+1 Faerie Conclave
+1 Irrigated Farmland
+1 Polluted Delta
+1 Shivan Reef
+1 Steam Vents
+1 Rolling Earthquake
+1 Subterranean Tremors
+1 Swords to Plowshares
+1 Vampiric Tutor
+1 Arc Trail
+1 Balance
+1 Counterspell
+1 Snapcaster Mage
+1 Thing in the Ice
+1 Unexpectedly Absent
+1 Banishing Light
+1 Dack Fayden
+1 Forbid
+1 Geist of Saint Traft
+1 Gideon of the Trials
+1 Jace Beleren
+1 True-Name Nemesis
+1 Vedalken Shackles
+1 Venser, Shaper Savant
+1 Wrath of God
+1 Archangel Avacyn
+1 Force of Will
+1 Dig Through Time

@@ -1,0 +1,51 @@
+1 [EVE:22] Glen Elendra Archmage
+1 [MBS:43] Go for the Throat
+1 [RAV:255] Boros Signet
+1 [5DN:143] Pentad Prism
+1 [UDS:139] Thran Dynamo
+1 [5ED:443] Mountain
+1 [3ED:290] Underground Sea
+1 [MEDM:GR3] Daretti, Ingenious Iconoclast
+1 [RIX:99] Dire Fleet Daredevil
+1 [PLC:85] Damnation
+1 [NPH:1] Karn Liberated
+1 [ZEN:223] Scalding Tarn
+1 [RNA:245] Blood Crypt
+1 [E01:80] Baleful Strix
+1 [5ED:434] Island
+2 [5ED:435] Island
+1 [UDS:135] Metalworker
+1 [5ED:436] Island
+1 [FUT:161] Coalition Relic
+1 [BFZ:239] Lumbering Falls
+1 [LEG:65] Mana Drain
+1 [GRN:253] Overgrown Tomb
+1 [LRW:76] Mulldrifter
+1 [WWK:134] Creeping Tar Pit
+1 [RNA:259] Stomping Ground
+1 [3ED:282] Badlands
+1 [DST:146] Sundering Titan
+1 [M13:199] Nicol Bolas, Planeswalker
+1 [DTK:216] Dragonlord Atarka
+1 [DOM:215] Gilded Lotus
+1 [ULG:129] Memory Jar
+1 [OGW:171] Hissing Quagmire
+1 [NPH:42] Phyrexian Metamorph
+1 [TMP:315] Ancient Tomb
+1 [5ED:329] Sylvan Library
+1 [GRN:259] Watery Grave
+1 [MRD:53] Thirst for Knowledge
+1 [V14:2] Burning of Xinye
+1 [GRN:257] Steam Vents
+SB: 1 [EMN:189] Spell Queller
+SB: 1 [TMP:116] Corpse Dance
+SB: 1 [AER:31] Disallow
+SB: 1 [KLD:245] Concealed Courtyard
+SB: 1 [M12:146] Incinerate
+SB: 1 [TSP:73] Riftwing Cloudskate
+SB: 1 [MBS:46] Massacre Wurm
+SB: 1 [GRN:99] Experimental Frenzy
+SB: 1 [M11:154] Pyroclasm
+SB: 1 [RTR:141] Abrupt Decay
+LAYOUT MAIN:(1,7)(COLOR,false,51)|([3ED:282],[GRN:257],[GRN:259],[3ED:290],[ZEN:223],[TMP:315],[BFZ:239],[RNA:259],[GRN:253],[WWK:134],[RNA:245],[OGW:171],[5ED:435],[5ED:434],[5ED:436],[5ED:435],[5ED:443])([RAV:255],[FUT:161],[DOM:215],[NPH:1],[ULG:129],[UDS:135],[5DN:143],[DST:146],[UDS:139])([PLC:85],[MBS:43])([EVE:22],[LEG:65],[LRW:76],[NPH:42],[MRD:53])([5ED:329])([V14:2],[RIX:99])([E01:80],[MEDM:GR3],[DTK:216],[M13:199])
+LAYOUT SIDEBOARD:(1,6)(CMC,false,50)|([KLD:245])([M11:154],[RTR:141],[M12:146])([EMN:189],[TMP:116],[AER:31])([GRN:99])([TSP:73])([MBS:46])

@@ -1,0 +1,49 @@
+1 [M12:39] Sun Titan
+1 [MBS:21] Consecrated Sphinx
+1 [5DN:164] Vedalken Shackles
+1 [SOM:48] Trinket Mage
+1 [LRW:88] Sower of Temptation
+1 [4ED:34] Land Tax
+1 [M11:7] Baneslayer Angel
+1 [NPH:4] Blade Splicer
+1 [BOK:163] Umezawa's Jitte
+1 [STH:138] Mox Diamond
+1 [7ED:76] Force Spike
+1 [EMN:40] Selfless Spirit
+1 [3ED:289] Tundra
+1 [MPS:16] Mana Crypt
+1 [WWK:20] Stoneforge Mystic
+1 [ALA:9] Elspeth, Knight-Errant
+1 [NPH:19] Porcelain Legionnaire
+1 [LRW:76] Mulldrifter
+1 [SHM:23] Spectral Procession
+1 [ICE:54] Swords to Plowshares
+7 [GUR:2] Island
+1 [BBD:136] True-Name Nemesis
+7 [GUR:4] Plains
+1 [MOR:55] Vendilion Clique
+1 [CN2:22] Recruiter of the Guard
+1 [NPH:42] Phyrexian Metamorph
+1 [VMA:20] Council's Judgment
+1 [2ED:266] Mox Sapphire
+SB: 1 [DOM:21] History of Benalia
+SB: 1 [JR:97] Ravages of War
+SB: 1 [C16:195] Edric, Spymaster of Trest
+SB: 1 [TSB:97] Mystic Snake
+SB: 1 [M13:147] Searing Spear
+SB: 1 [NEM:139] Tangle Wire
+SB: 1 [FEM:38a] Hymn to Tourach
+SB: 1 [FUT:153] Tarmogoyf
+SB: 1 [3ED:286] Scrubland
+SB: 1 [CM2:94] Dualcaster Mage
+SB: 1 [M13:174] Garruk, Primal Hunter
+SB: 1 [KTK:230] Bloodstained Mire
+SB: 1 [ISD:170] Avacyn's Pilgrim
+SB: 1 [RTR:238] Blood Crypt
+SB: 1 [M14:228] Mutavault
+SB: 1 [ORI:23] Kytheon, Hero of Akros
+SB: 1 [ULG:101] Deranged Hermit
+SB: 1 [M13:43] Augur of Bolas
+SB: 1 [M12:23] Honor of the Pure
+LAYOUT MAIN:(1,9)(CMC,false,67)|([GUR:2],[GUR:2],[GUR:2],[GUR:2],[GUR:2],[GUR:2],[GUR:2],[GUR:4],[GUR:4],[GUR:4],[GUR:4],[GUR:4],[GUR:4],[GUR:4])([3ED:289])([MPS:16],[STH:138],[2ED:266])([7ED:76],[4ED:34],[ICE:54])([EMN:40],[WWK:20],[BOK:163])([NPH:4],[VMA:20],[NPH:19],[CN2:22],[SOM:48],[BBD:136],[5DN:164],[MOR:55])([ALA:9],[NPH:42],[LRW:88])([M11:7],[LRW:76])([MBS:21],[SHM:23],[M12:39])
+LAYOUT SIDEBOARD:(1,6)(CMC,false,69)|([KTK:230],[M14:228],[3ED:286],[RTR:238])([ORI:23],[ISD:170])([FEM:38a],[M13:147],[FUT:153],[M13:43],[M12:23])([C16:195],[DOM:21],[CM2:94],[NEM:139])([TSB:97],[JR:97])([ULG:101],[M13:174])

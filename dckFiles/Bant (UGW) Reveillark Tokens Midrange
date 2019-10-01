@@ -1,0 +1,50 @@
+1 [6ED:217] Birds of Paradise
+1 [MH1:234] Talisman of Resilience
+1 [MH1:232] Talisman of Curiosity
+1 [LEG:207] Sylvan Library
+1 [MH1:37] Winds of Abandon
+1 [C13:25] Unexpectedly Absent
+1 [OGW:138] Nissa, Voice of Zendikar
+1 [LRW:34] Oblivion Ring
+1 [HOU:129] Ramunap Excavator
+1 [SHM:229] Kitchen Finks
+1 [CNS:16] Council's Judgment
+1 [CN2:18] Palace Jailer
+1 [MH1:26] Serra the Benevolent
+1 [ALA:9] Elspeth, Knight-Errant
+1 [NEM:17] Parallax Wave
+1 [AVR:32] Restoration Angel
+1 [M15:187] Nissa, Worldwaker
+1 [MH1:161] Deep Forest Hermit
+1 [MOR:22] Reveillark
+1 [CHK:74] Meloku the Clouded Mirror
+1 [THS:9] Elspeth, Sun's Champion
+1 [ZEN:211] Arid Mesa
+1 [MH1:244] Prismatic Vista
+1 [ATQ:80a] Mishra's Factory
+1 [JOU:163] Mana Confluence
+1 [WWK:144] Stirring Wildwood
+1 [DIS:172] Breeding Pool
+1 [AKH:245] Irrigated Farmland
+1 [ONS:319] Grand Coliseum
+1 [ULG:143] Treetop Village
+1 [BFZ:239] Lumbering Falls
+1 [ONS:328] Windswept Heath
+1 [ORI:229] Hangarback Walker
+1 [MH1:229] Sword of Truth and Justice
+1 [GUR:1] Forest
+1 [GUR:2] Island
+4 [GUR:4] Plains
+SB: 1 [DGM:11] Aetherling
+SB: 1 [TMP:154] Sarcomancy
+SB: 1 [KTK:36] Dig Through Time
+SB: 1 [APC:114] Pernicious Deed
+SB: 1 [XLN:1] Adanto Vanguard
+SB: 1 [ORI:83] Whirler Rogue
+SB: 1 [C14:8] Hallowed Spiritkeeper
+SB: 1 [DTK:10] Dragon Hunter
+SB: 1 [P02:12] Armageddon
+SB: 1 [UDS:124] Yavimaya Elder
+SB: 1 [MH1:210] Nature's Chant
+LAYOUT MAIN:(1,8)(CMC,false,73)|([GUR:1],[GUR:2],[GUR:4],[GUR:4],[GUR:4],[GUR:4])([ZEN:211],[DIS:172],[ONS:319],[AKH:245],[BFZ:239],[JOU:163],[ATQ:80a],[MH1:244],[WWK:144],[ULG:143],[ONS:328])([6ED:217])([LEG:207],[MH1:232],[MH1:234],[C13:25],[MH1:37],[ORI:229])([CNS:16],[SHM:229],[OGW:138],[LRW:34],[HOU:129],[MH1:229])([ALA:9],[CN2:18],[NEM:17],[AVR:32],[MH1:26])([MH1:161],[CHK:74],[M15:187],[MOR:22])([THS:9])
+LAYOUT SIDEBOARD:(1,6)(CMC,false,70)|([TMP:154],[DTK:10])([XLN:1],[MH1:210])([APC:114],[C14:8],[UDS:124])([ORI:83],[P02:12])([DGM:11])([KTK:36])

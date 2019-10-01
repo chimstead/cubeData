@@ -1,0 +1,49 @@
+1 [TMP:330] Wasteland
+1 [ROE:47] Student of Warfare
+1 [NPH:161] Sword of War and Peace
+1 [JR:97] Ravages of War
+1 [BNG:5] Brimaz, King of Oreskos
+1 [M12:16] Gideon Jura
+6 [LEA:286] Plains
+1 [4ED:361] Mishra's Factory
+7 [LEA:287] Plains
+1 [M15:225] Phyrexian Revoker
+1 [ISD:15] Fiend Hunter
+1 [4ED:363] Strip Mine
+1 [WWK:20] Stoneforge Mystic
+1 [AVR:36] Silverblade Paladin
+1 [ALA:9] Elspeth, Knight-Errant
+1 [NPH:19] Porcelain Legionnaire
+1 [XLN:22] Legion's Landing
+1 [MMQ:324] Rishadan Port
+1 [M14:7] Banisher Priest
+1 [RIX:21] Skymarcher Aspirant
+1 [DST:149] Sword of Light and Shadow
+1 [DOM:6] Benalish Marshal
+1 [NPH:42] Phyrexian Metamorph
+1 [5ED:408] Winter Orb
+1 [VMA:20] Council's Judgment
+1 [EVE:139] Figure of Destiny
+1 [M12:23] Honor of the Pure
+1 [DKA:24] Thalia, Guardian of Thraben
+1 [XLN:1] Adanto Vanguard
+SB: 1 [AER:57] Fatal Push
+SB: 1 [RAV:213] Lightning Helix
+SB: 1 [ORI:127] Abbot of Keral Keep
+SB: 1 [ODY:117] Braids, Cabal Minion
+SB: 1 [6ED:161] Vampiric Tutor
+SB: 1 [THS:122] Firedrinker Satyr
+SB: 1 [RIX:99] Dire Fleet Daredevil
+SB: 1 [XLN:232] Vraska, Relic Seeker
+SB: 1 [MOR:58] Bitterblossom
+SB: 1 [UDS:50] Treachery
+SB: 1 [CM2:98] Fiery Confluence
+SB: 1 [A25:136] Imperial Recruiter
+SB: 1 [DTK:169] Zurgo Bellstriker
+SB: 1 [SOI:247] Nahiri, the Harbinger
+SB: 1 [AVR:166] Zealous Conscripts
+SB: 1 [DKA:12] Lingering Souls
+SB: 1 [KLD:246] Inspiring Vantage
+SB: 1 [CHK:129] Nezumi Graverobber
+LAYOUT MAIN:(1,6)(CMC,false,50)|([4ED:361],[MMQ:324],[4ED:363],[TMP:330],[LEA:287],[LEA:287],[LEA:287],[LEA:286],[LEA:287],[LEA:286],[LEA:286],[LEA:287],[LEA:287],[LEA:287],[LEA:286],[LEA:286],[LEA:286])([XLN:22],[RIX:21],[ROE:47],[EVE:139])([DKA:24],[M15:225],[5ED:408],[XLN:1],[M12:23],[WWK:20])([ISD:15],[M14:7],[AVR:36],[NPH:19],[NPH:161],[BNG:5],[DOM:6],[DST:149],[VMA:20])([ALA:9],[NPH:42],[JR:97])([M12:16])
+LAYOUT SIDEBOARD:(1,6)(CMC,false,50)|([AER:57],[DTK:169],[6ED:161],[THS:122])([CHK:129],[MOR:58],[RIX:99],[RAV:213],[ORI:127])([CM2:98],[ODY:117],[SOI:247],[A25:136],[DKA:12])([AVR:166],[UDS:50])([XLN:232])([KLD:246])

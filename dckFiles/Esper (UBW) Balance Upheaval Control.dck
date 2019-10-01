@@ -1,0 +1,53 @@
+1 [LRW:272] Shelldock Isle
+1 [MBS:21] Consecrated Sphinx
+1 [RAV:255] Boros Signet
+1 [M19:79] Tezzeret, Artifice Master
+1 [ONS:316] Flooded Strand
+1 [WWK:123] Everflowing Chalice
+1 [ONS:319] Grand Coliseum
+1 [CMA:27] Unexpectedly Absent
+1 [3ED:294] Plains
+2 [3ED:293] Plains
+1 [3ED:292] Plains
+1 [3ED:298] Swamp
+3 [3ED:297] Island
+1 [5DN:27] Condescend
+1 [DOM:207] Teferi, Hero of Dominaria
+1 [DIS:174] Hallowed Fountain
+1 [V09:1] Balance
+1 [LEB:116] Mind Twist
+1 [ODY:113] Upheaval
+1 [HOU:145] The Scarab God
+1 [DKA:12] Lingering Souls
+1 [BFZ:29] Gideon, Ally of Zendikar
+1 [LEG:65] Mana Drain
+1 [XLN:223] Hostage Taker
+1 [WWK:133] Celestial Colonnade
+1 [ONS:328] Windswept Heath
+1 [WWK:134] Creeping Tar Pit
+1 [RAV:63] Remand
+1 [ICE:54] Swords to Plowshares
+1 [CN2:41] Custodi Lich
+1 [APC:126] Vindicate
+1 [C17:7] Stalking Leonin
+1 [DIS:166] Simic Signet
+1 [LEB:260] Mana Vault
+1 [CNS:16] Council's Judgment
+1 [WWK:31] Jace, the Mind Sculptor
+1 [LEB:286] Underground Sea
+SB: 1 [WWK:141] Raging Ravine
+SB: 1 [TMP:179] Goblin Bombardment
+SB: 1 [5DN:126] Grafted Wargear
+SB: 1 [DST:140] Skullclamp
+SB: 1 [KTK:66] Bloodsoaked Champion
+SB: 1 [SCG:103] Siege-Gang Commander
+SB: 1 [3ED:295] Island
+SB: 1 [M19:217] Heroic Reinforcements
+SB: 1 [OGW:171] Hissing Quagmire
+SB: 1 [FRF:20] Monastery Mentor
+SB: 1 [GRN:207] Thousand-Year Storm
+SB: 1 [LEB:280] Plateau
+SB: 1 [VIS:79] Fireblast
+SB: 1 [AER:62] Glint-Sleeve Siphoner
+LAYOUT MAIN:(1,7)(CMC,false,50)|([WWK:123],[LRW:272],[WWK:133],[ONS:319],[LEB:286],[ONS:328],[ONS:316],[WWK:134],[DIS:174],[3ED:297],[3ED:297],[3ED:297],[3ED:293],[3ED:292],[3ED:293],[3ED:294],[3ED:298])([5DN:27],[ICE:54],[LEB:260],[LEB:116])([RAV:255],[V09:1],[RAV:63],[CMA:27],[DIS:166],[LEG:65])([DKA:12],[C17:7],[CNS:16],[APC:126])([WWK:31],[XLN:223],[BFZ:29])([CN2:41],[M19:79],[HOU:145],[DOM:207])([MBS:21],[ODY:113])
+LAYOUT SIDEBOARD:(1,7)(CMC,false,50)|([LEB:280],[WWK:141],[OGW:171],[3ED:295])([DST:140],[KTK:66])([AER:62],[TMP:179])([5DN:126],[FRF:20])([M19:217])([SCG:103])([VIS:79],[GRN:207])

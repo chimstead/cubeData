@@ -1,0 +1,51 @@
+1 [SOM:94] Koth of the Hammer
+1 [C15:26] Fiery Confluence
+1 [RAV:117] Char
+1 [M15:145] Goblin Rabblemaster
+1 [EMN:130a] Hanweir Garrison
+1 [WAR:137] Krenko, Tin Street Kingpin
+1 [NPH:19] Porcelain Legionnaire
+1 [DST:148] Sword of Fire and Ice
+1 [MBS:138] Sword of Feast and Famine
+1 [HOU:83] Abrade
+1 [XLN:1] Adanto Vanguard
+1 [HOU:90] Earthshaker Khenra
+1 [MIR:184] Incinerate
+1 [AVR:144] Lightning Mauler
+1 [5DN:73] Magma Jet
+1 [EMN:40] Selfless Spirit
+1 [KLD:235] Smuggler's Copter
+1 [LEG:137] Chain Lightning
+1 [ODY:193] Firebolt
+1 [TOR:100] Grim Lavamancer
+1 [KTK:118] Monastery Swiftspear
+1 [ULG:14] Mother of Runes
+1 [DTK:169] Zurgo Bellstriker
+1 [STH:138] Mox Diamond
+1 [ZEN:211] Arid Mesa
+1 [ONS:313] Bloodstained Mire
+1 [MRD:152] Chrome Mox
+1 [LEG:303] Karakas
+1 [LEB:280] Plateau
+1 [GPT:165] Stomping Ground
+1 [ONS:328] Windswept Heath
+1 [LEB:287] Volcanic Island
+2 [3ED:302] Mountain
+4 [3ED:301] Mountain
+1 [3ED:303] Mountain
+1 [3ED:294] Plains
+SB: 1 [M14:169] Elvish Mystic
+SB: 1 [DTK:36] Secure the Wastes
+SB: 1 [RTR:157] Dreadbore
+SB: 1 [APC:126] Vindicate
+SB: 1 [LEB:2] Armageddon
+SB: 1 [WAR:181] Vivien's Arkbow
+SB: 1 [ORI:127] Abbot of Keral Keep
+SB: 1 [AVR:166] Zealous Conscripts
+SB: 1 [WAR:138] Mizzium Tank
+SB: 1 [DOM:14] Dauntless Bodyguard
+SB: 1 [PLS:60] Flametongue Kavu
+SB: 1 [DKA:87] Faithless Looting
+SB: 1 [MMQ:324] Rishadan Port
+LAYOUT MAIN:(1,5)(CMC,false,50)|([STH:138],[ZEN:211],[ONS:313],[MRD:152],[LEG:303],[LEB:280],[GPT:165],[ONS:328],[LEB:287],[3ED:302],[3ED:301],[3ED:301],[3ED:301],[3ED:303],[3ED:302],[3ED:301],[3ED:294])([LEG:137],[ODY:193],[TOR:100],[KTK:118],[ULG:14],[DTK:169])([HOU:83],[XLN:1],[HOU:90],[MIR:184],[AVR:144],[5DN:73],[EMN:40],[KLD:235])([RAV:117],[M15:145],[EMN:130a],[WAR:137],[NPH:19],[DST:148],[MBS:138])([SOM:94],[C15:26])
+LAYOUT SIDEBOARD:(1,6)(CMC,false,50)|([MMQ:324])([DOM:14],[M14:169],[DTK:36],[DKA:87])([ORI:127],[RTR:157],[WAR:181])([WAR:138],[APC:126])([LEB:2],[PLS:60])([AVR:166])

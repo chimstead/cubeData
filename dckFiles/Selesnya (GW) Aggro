@@ -1,0 +1,51 @@
+1 [M13:23] Odric, Master Tactician
+1 [M19:34] Resplendent Angel
+1 [ROE:47] Student of Warfare
+1 [KLD:4] Angel of Invention
+1 [CMA:27] Unexpectedly Absent
+1 [DKA:24] Thalia, Guardian of Thraben
+1 [PLC:25] Mana Tithe
+1 [MH1:13] Giver of Runes
+1 [GRN:208] Trostani Discordant
+1 [RIX:21] Skymarcher Aspirant
+1 [MBS:1] Accorder Paladin
+1 [BNG:5] Brimaz, King of Oreskos
+1 [M19:33] Remorseful Cleric
+1 [V13:8] Tangle Wire
+1 [ORI:23] Kytheon, Hero of Akros
+1 [DOM:14] Dauntless Bodyguard
+1 [EMN:46] Thalia, Heretic Cathar
+1 [AKH:16] Glory-Bound Initiate
+1 [C17:76] Swords to Plowshares
+1 [ORI:229] Hangarback Walker
+1 [GRN:183] Knight of Autumn
+1 [CMA:147] Song of the Dryads
+1 [KTK:248] Windswept Heath
+1 [GRN:258] Temple Garden
+1 [WWK:144] Stirring Wildwood
+1 [ZEN:220] Misty Rainforest
+1 [USG:321] Gaea's Cradle
+1 [EMA:240] Karakas
+2 [P02:164] Forest
+2 [P02:152] Plains
+5 [P02:151] Plains
+2 [P02:153] Plains
+1 [M12:188] Primeval Titan
+SB: 1 [RAV:117] Char
+SB: 1 [NPH:103] Beast Within
+SB: 1 [M14:195] Scavenging Ooze
+SB: 1 [BNG:119] Courser of Kruphix
+SB: 1 [AVR:172] Craterhoof Behemoth
+SB: 1 [DTK:177] Collected Company
+SB: 1 [UDS:118] Rofellos, Llanowar Emissary
+SB: 1 [KLD:231] Scrapheap Scrounger
+SB: 1 [M13:185] Rancor
+SB: 1 [GRN:254] Sacred Foundry
+SB: 1 [EXO:129] Survival of the Fittest
+SB: 1 [RIX:82] Ravenous Chupacabra
+SB: 1 [M11:172] Fauna Shaman
+SB: 1 [EMN:204a] Hanweir Battlements
+SB: 1 [SHM:135] Woodfall Primus
+SB: 1 [EMA:220] Duplicant
+LAYOUT MAIN:(2,7)(CMC,true,55)|([KTK:248],[GRN:258],[WWK:144],[ZEN:220],[USG:321],[EMA:240],[P02:164],[P02:164])([DOM:14],[MH1:13],[ORI:23],[RIX:21],[ROE:47])([MBS:1],[AKH:16],[M19:33],[DKA:24])([BNG:5],[M19:34],[EMN:46],[GRN:183])([M13:23],[ORI:229])([KLD:4],[GRN:208])([M12:188])([P02:152],[P02:151],[P02:152],[P02:153],[P02:151],[P02:151],[P02:151],[P02:151],[P02:153])([PLC:25],[C17:76])([CMA:27])([V13:8],[CMA:147])()()()
+LAYOUT SIDEBOARD:(1,7)(CMC,false,38)|([EMN:204a],[GRN:254])([M13:185])([M11:172],[UDS:118],[M14:195],[KLD:231],[EXO:129])([NPH:103],[RAV:117],[BNG:119])([DTK:177],[RIX:82])([EMA:220])([AVR:172],[SHM:135])
