@@ -52,23 +52,29 @@ ui <- fluidPage(
     tabPanel(
      title = "Description",
      value = "desc",
-     titlePanel("3-0 Cube Decks"),
+     titlePanel("XMage Cube Data"),
      br(),
-     p('This app pulls from a wonderful dataset of 3-0 cube decklists, and offers a multitude of options
-       for querying. In the "Cards" tab, you can search for the cards that appear most often in 3-0
-       decks using a variety of filters. In the "Decks" tab, you can search for 3-0 decks by colors,
-       archetypes, spheres, and cards they contain. The "Decks" tab also offers the option to export 
-       the current list of decks you are viewing to the "Deck Stats" tab, where you can view the card,
-       curve, color, and type breakdowns for that subset of decks.'),
+     p('This app pulls from a wonderful dataset of 3-0 cube decklists curated by the XMage Cube public discord server, and offers a multitude of options
+       for querying. Search our data at the card or deck level, see deck and archetype analysis, and let our DraftBot make picks for you!'),
+     actionLink("link_to_cards", "Cards Tab:"),
+     p("Search for the cards that appear most often in 3-0 decks using a variety of filters."),
      br(),
-     p('The DraftBot tab contains two text input fields, one to input the cards in your draft pool, and 
-       the other to input the cards in the current pack you are viewing. Each field can be filled in with the
-       style: "Birds of Paradise | palace jailer | Opposition | noble Hierarch" etc. To run the bot, press
-       the Run button. The left side of the page contains tables with your current color, archetype, and
-       sphere commitments, and the right side contains a table with a row for each card in the current pack
-       explaining the benefits and detriments of selecting this card. This all cumulates in a "Value"
-       for each possible selection in the pack, which displays the algorithm\'s guess at which card fits best in your deck.')
+     actionLink("link_to_decks", "Decks Tab:"),
+     p("Search for 3-0 decks by colors, archetypes, spheres, and cards they contain.The 'Decks' tab also offers the option to export 
+       the current list of decks you are viewing to the 'Deck Stats' tab"),
+     br(),
+     actionLink("link_to_sdecks", "Deck Stats Tab:"),
+     p("View the card, curve, color, and type breakdowns for a subset of decks"),
+     br(),
+     actionLink("link_to_draftbot", "DraftBot Tab:"),
+     p("Let our algorithm make your picks for you!")
      ),
+#    tabPanel(
+#      title = "Test",
+#      value = "test",
+#      titlePanel("Test"),
+#      DTOutput(outputId = "ttb")
+#    ),
     tabPanel(
      title = "Cards",
      value = "cards",
@@ -181,12 +187,20 @@ ui <- fluidPage(
           checkboxInput(inputId = 'dpowered',
                         label = "Include Powered Decks",
                         value = FALSE),
-          textInput(inputId = 'dcard',
-                    label = 'Decks Containing this Card',
-                    value = ""),
           checkboxInput(inputId = "dsearchsb",
                         label = "Include Sideboards in Card Search",
                         value = FALSE),
+          fluidRow(
+            column(8,
+              textInput(inputId = 'dcard',
+                        label = 'Search Cards (separate cards with "|")',
+                        value = "")),
+            column(4,
+              selectInput(inputId = 'dsearchtype',
+                          label = 'Search Type',
+                          selected = 'AND',
+                          choices = c('AND', 'OR')))
+          ),
           checkboxInput(inputId = "dshow_color",
                         label = "Show Color Filter",
                         value = FALSE),
@@ -270,7 +284,7 @@ ui <- fluidPage(
       ),
       mainPanel(
           actionLink(inputId = "linkdecks",
-                     label = "View Selected Decks in Deck Stats"),
+                     label = "View Filtered Decks in Deck Stats"),
           DTOutput(outputId = "dtb")
       )
     )
@@ -308,6 +322,7 @@ ui <- fluidPage(
              ),
     tabPanel(
       title = "DraftBot",
+      value = "draftbot",
       titlePanel(title = "Draftbot"),
       p('Do you need some advice on a tough pack? Want to get a new perspective on some cube cards? Ask the Draftbot! 
         Input the cards you have already picked on the left under "Pool", and the cards in the pack you are 
@@ -378,6 +393,17 @@ server <- function(input, output, session) {
        updateCheckboxGroupInput(session, "darchetype", "", choices=arch_vector)
      }
    })
+   
+   #########################################################
+   #test
+   #########################################################
+   
+
+   
+   
+   #########################################################
+   
+   
    
    output$tb <- renderDT({
      
@@ -549,18 +575,28 @@ server <- function(input, output, session) {
          decksout<-dacontonly(input$darchetype, decksout)
        }
      }
-
+     
+     #filter by name
      if(input$dcard != ""){
+       jdd2<-jdd1s
        if(!input$dsearchsb){
-         jdd2<-jdd1%>%
+         jdd2<-jdd1s%>%
            filter(location == "MB")
        }else{
-         jdd2<-jdd1
+         jdd2<-jdd1s
        }
-       d<-jdd2%>%
-         filter(tolower(name) == tolower(input$dcard))
+       vec<-makecv(strsplit(isolate(input$dcard), "\\|"))
+       
+       jdd_dcs<-jdd2%>%
+         filter(tolower(name)%in%tolower(vec))
+       if(input$dsearchtype == 'AND'){
+         jdd_dcs<-jdd_dcs%>%
+           group_by(deckID)%>%
+           summarise(count = n())%>%
+           filter(count == length(vec))
+       }
        decksout<-decksout%>%
-         filter(deckID %in% d$deckID)
+         filter(deckID %in% jdd_dcs$deckID)
      }
      rv$value = decksout
      #output
@@ -778,6 +814,22 @@ server <- function(input, output, session) {
          )
        }
      }
+   })
+   
+   observeEvent(input$link_to_cards, {
+     updateTabsetPanel(session, "tabset1", selected = "cards")
+   })
+   
+   observeEvent(input$link_to_decks, {
+     updateTabsetPanel(session, "tabset1", selected = "decks")
+   })
+   
+   observeEvent(input$link_to_sdecks, {
+     updateTabsetPanel(session, "tabset1", selected = "deckstats")
+   })
+   
+   observeEvent(input$link_to_draftbot, {
+     updateTabsetPanel(session, "tabset1", selected = "draftbot")
    })
    
    #draftbot
