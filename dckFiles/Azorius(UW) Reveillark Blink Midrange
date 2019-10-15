@@ -1,0 +1,49 @@
+1 [ORI:229] Hangarback Walker
+1 [MMQ:61] Brainstorm
+1 [5DN:27] Condescend
+1 [PLC:25] Mana Tithe
+1 [CON:15] Path to Exile
+1 [CSP:136] Coldsteel Heart
+1 [ORI:60] Jace, Vryn's Prodigy
+1 [ROE:53] Wall of Omens
+1 [NPH:4] Blade Splicer
+1 [FUT:161] Coalition Relic
+1 [EVE:6] Flickerwisp
+1 [SHM:229] Kitchen Finks
+1 [MOR:55] Vendilion Clique
+1 [INV:57] Fact or Fiction
+1 [CN2:18] Palace Jailer
+1 [NEM:17] Parallax Wave
+1 [AVR:32] Restoration Angel
+1 [FUT:46] Venser, Shaper Savant
+1 [KLD:4] Angel of Invention
+1 [C17:37] Fractured Identity
+1 [LRW:76] Mulldrifter
+1 [MOR:22] Reveillark
+1 [M12:39] Sun Titan
+1 [ZEN:211] Arid Mesa
+1 [WWK:133] Celestial Colonnade
+1 [RNA:251] Hallowed Fountain
+1 [AKH:245] Irrigated Farmland
+1 [KTK:248] Windswept Heath
+1 [TMP:330] Wasteland
+5 [GUR:2] Island
+6 [GUR:4] Plains
+SB: 1 [EMN:93] Liliana, the Last Hope
+SB: 1 [10E:61] Wrath of God
+SB: 1 [THS:128] Magma Jet
+SB: 1 [DTK:216] Dragonlord Atarka
+SB: 1 [WWK:139] Lavaclaw Reaches
+SB: 1 [NPH:103] Beast Within
+SB: 1 [EMN:147] Thermo-Alchemist
+SB: 1 [EMN:28a] Gisela, the Broken Blade
+SB: 1 [LRW:31] Mirror Entity
+SB: 1 [5ED:391] Nevinyrral's Disk
+SB: 1 [WAR:188] Cruel Celebrant
+SB: 1 [RIX:21] Skymarcher Aspirant
+SB: 1 [AKH:1] Angel of Sanctions
+SB: 1 [XLN:250] Treasure Map
+SB: 1 [BNG:5] Brimaz, King of Oreskos
+SB: 1 [ULG:14] Mother of Runes
+LAYOUT MAIN:(1,8)(CMC,false,74)|([GUR:2],[GUR:2],[GUR:2],[GUR:2],[GUR:2],[GUR:4],[GUR:4],[GUR:4],[GUR:4],[GUR:4],[GUR:4])([ZEN:211],[WWK:133],[RNA:251],[AKH:245],[TMP:330],[KTK:248])([MMQ:61],[5DN:27],[PLC:25],[CON:15])([CSP:136],[ORI:60],[ROE:53],[ORI:229])([NPH:4],[FUT:161],[EVE:6],[SHM:229],[MOR:55])([INV:57],[CN2:18],[NEM:17],[AVR:32],[FUT:46])([KLD:4],[C17:37],[LRW:76],[MOR:22])([M12:39])
+LAYOUT SIDEBOARD:(1,6)(CMC,false,62)|([WWK:139])([RIX:21],[XLN:250],[ULG:14])([WAR:188],[THS:128],[EMN:147])([NPH:103],[EMN:93],[LRW:31],[BNG:5])([EMN:28a],[5ED:391],[10E:61],[AKH:1])([DTK:216])

@@ -1,0 +1,56 @@
+1 [FUT:161] Coalition Relic
+1 [MRD:257] Talisman of Unity
+1 [TSB:6] Disenchant
+1 [USG:318] Worn Powerstone
+1 [FRF:1] Ugin, the Spirit Dragon
+1 [C15:14] Mystic Confluence
+1 [SOI:12] Declaration in Stone
+1 [HOU:49] Supreme Will
+1 [ROE:53] Wall of Omens
+1 [THS:9] Elspeth, Sun's Champion
+1 [WTH:153] Mind Stone
+1 [M10:68] Ponder
+1 [DTK:36] Secure the Wastes
+1 [C17:37] Fractured Identity
+1 [UDS:40] Opposition
+1 [JOU:5] Banishing Light
+1 [CNS:16] Council's Judgment
+1 [ULG:36] Miscalculation
+1 [FUT:46] Venser, Shaper Savant
+1 [TSP:48] Ancestral Vision
+1 [USG:103] Time Spiral
+1 [FRF:20] Monastery Mentor
+1 [DTK:248] Evolving Wilds
+1 [ULG:139] Faerie Conclave
+1 [WAR:244] Blast Zone
+1 [NEM:30] Daze
+1 [BFZ:258] Island
+1 [BFZ:256] Island
+3 [BFZ:259] Island
+1 [BFZ:255] Island
+1 [BFZ:257] Island
+2 [BFZ:254] Plains
+2 [BFZ:253] Plains
+2 [BFZ:250] Plains
+1 [BFZ:252] Plains
+SB: 1 [RAV:286] Watery Grave
+SB: 1 [RAV:213] Lightning Helix
+SB: 1 [LEA:129] Sinkhole
+SB: 1 [MRD:146] Bonesplitter
+SB: 1 [WWK:20] Stoneforge Mystic
+SB: 1 [M13:147] Searing Spear
+SB: 1 [CN2:22] Recruiter of the Guard
+SB: 1 [APC:114] Pernicious Deed
+SB: 1 [AER:87] Kari Zev, Skyship Raider
+SB: 1 [LEB:232] Basalt Monolith
+SB: 1 [LRW:78] Pestermite
+SB: 1 [EVE:139] Figure of Destiny
+SB: 1 [MH1:13] Giver of Runes
+SB: 1 [DKA:24] Thalia, Guardian of Thraben
+SB: 1 [EVE:6] Flickerwisp
+SB: 1 [DGM:11] Aetherling
+SB: 1 [P02:12] Armageddon
+SB: 1 [MIR:14] Enlightened Tutor
+SB: 1 [SCG:12] Eternal Dragon
+LAYOUT MAIN:(1,8)(CMC,false,50)|([DTK:248],[ULG:139],[WAR:244],[BFZ:258],[BFZ:256],[BFZ:259],[BFZ:259],[BFZ:255],[BFZ:257],[BFZ:259],[BFZ:254],[BFZ:253],[BFZ:254],[BFZ:250],[BFZ:253],[BFZ:252],[BFZ:250])([M10:68],[DTK:36],[TSP:48])([MRD:257],[TSB:6],[SOI:12],[ROE:53],[WTH:153],[ULG:36],[NEM:30])([FUT:161],[USG:318],[HOU:49],[JOU:5],[CNS:16],[FRF:20])([UDS:40],[FUT:46])([C15:14],[C17:37])([THS:9],[USG:103])([FRF:1])
+LAYOUT SIDEBOARD:(1,6)(COLOR,false,50)|([RAV:286],[MRD:146],[LEB:232])([LEA:129])([LRW:78],[DGM:11])([M13:147],[AER:87])([WWK:20],[CN2:22],[MH1:13],[DKA:24],[EVE:6],[P02:12],[MIR:14],[SCG:12])([RAV:213],[APC:114],[EVE:139])

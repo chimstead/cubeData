@@ -1,0 +1,49 @@
+1 [STH:138] Mox Diamond
+1 [CHK:268] Sensei's Divining Top
+1 [C18:57] Retrofitter Foundry
+1 [WWK:123] Everflowing Chalice
+1 [MRD:255] Talisman of Indulgence
+1 [MH1:233] Talisman of Hierarchy
+1 [ULG:126] Grim Monolith
+1 [MRD:254] Talisman of Impulse
+1 [XLN:250] Treasure Map
+1 [RTR:172] Izzet Charm
+1 [LRW:71] Jace Beleren
+1 [5DN:164] Vedalken Shackles
+1 [C18:44] Saheeli, the Gifted
+1 [KLD:110] Chandra, Torch of Defiance
+1 [MH1:75] Urza, Lord High Artificer
+1 [PLS:60] Flametongue Kavu
+1 [UDS:50] Treachery
+1 [KTK:119] Sarkhan, the Dragonspeaker
+1 [CHK:74] Meloku the Clouded Mirror
+1 [OGW:104] Chandra, Flamecaller
+1 [PTK:122] Rolling Earthquake
+1 [GPT:164] Steam Vents
+1 [USG:330] Tolarian Academy
+1 [ARN:71] City of Brass
+1 [ATQ:80a] Mishra's Factory
+8 [GUR:2] Island
+7 [GUR:3] Mountain
+SB: 1 [LEB:282] Scrubland
+SB: 1 [NPH:4] Blade Splicer
+SB: 1 [DOM:14] Dauntless Bodyguard
+SB: 1 [RTR:220] Rakdos Cackler
+SB: 1 [DST:146] Sundering Titan
+SB: 1 [CN2:74] Daretti, Ingenious Iconoclast
+SB: 1 [POR:124] Earthquake
+SB: 1 [DKA:87] Faithless Looting
+SB: 1 [LEG:137] Chain Lightning
+SB: 1 [KTK:118] Monastery Swiftspear
+SB: 1 [BFZ:244] Shambling Vent
+SB: 1 [SOK:158] Pithing Needle
+SB: 1 [ODY:193] Firebolt
+SB: 1 [ORI:23] Kytheon, Hero of Akros
+SB: 1 [KLD:67] Torrential Gearhulk
+SB: 1 [FRF:18] Mardu Woe-Reaper
+SB: 1 [DTK:10] Dragon Hunter
+SB: 1 [ULG:45] Tinker
+SB: 1 [RAV:63] Remand
+SB: 1 [ALL:22a] Arcane Denial
+LAYOUT MAIN:(1,8)(CMC,false,71)|([GUR:2],[GUR:2],[GUR:2],[GUR:2],[GUR:2],[GUR:2],[GUR:2],[GUR:2],[GUR:3],[GUR:3],[GUR:3],[GUR:3],[GUR:3],[GUR:3],[GUR:3])([ARN:71],[ATQ:80a],[GPT:164],[USG:330])([STH:138],[C18:57],[PTK:122],[CHK:268])([ULG:126],[RTR:172],[MH1:233],[MRD:254],[MRD:255],[WWK:123],[XLN:250])([LRW:71],[5DN:164])([KLD:110],[PLS:60],[C18:44],[MH1:75])([CHK:74],[KTK:119],[UDS:50])([OGW:104])
+LAYOUT SIDEBOARD:(1,5)(COLOR,false,63)|([SOK:158],[LEB:282],[BFZ:244],[DST:146])([ALL:22a],[RAV:63],[ULG:45],[KLD:67])([LEG:137],[POR:124],[DKA:87],[ODY:193],[KTK:118])([NPH:4],[DOM:14],[DTK:10],[ORI:23],[FRF:18])([CN2:74],[RTR:220])

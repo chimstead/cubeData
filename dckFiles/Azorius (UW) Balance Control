@@ -1,0 +1,50 @@
+1 [MMQ:61] Brainstorm
+1 [PLC:25] Mana Tithe
+1 [CON:15] Path to Exile
+1 [M10:68] Ponder
+1 [P02:46] Sleight of Hand
+1 [LEA:3] Balance
+1 [ZEN:14] Journey to Nowhere
+1 [MRD:253] Talisman of Dominance
+1 [MH1:232] Talisman of Curiosity
+1 [C13:25] Unexpectedly Absent
+1 [AKH:14] Gideon of the Trials
+1 [HOU:49] Supreme Will
+1 [MOR:55] Vendilion Clique
+1 [4ED:64] Control Magic
+1 [ALA:9] Elspeth, Knight-Errant
+1 [WAR:53] God-Eternal Kefnet
+1 [LRW:88] Sower of Temptation
+1 [10E:61] Wrath of God
+1 [KTK:36] Dig Through Time
+1 [DOM:207] Teferi, Hero of Dominaria
+1 [CHK:74] Meloku the Clouded Mirror
+1 [ROE:21] Gideon Jura
+1 [SOK:158] Pithing Needle
+1 [LEB:285] Tundra
+1 [DIS:174] Hallowed Fountain
+1 [AKH:245] Irrigated Farmland
+7 [GUR:2] Island
+7 [GUR:4] Plains
+SB: 1 [ULG:45] Tinker
+SB: 1 [GPT:157] Godless Shrine
+SB: 1 [ODY:292] Psychatog
+SB: 1 [MOR:22] Reveillark
+SB: 1 [KLD:4] Angel of Invention
+SB: 1 [LEB:281] Savannah
+SB: 1 [LEB:282] Scrubland
+SB: 1 [M13:132] Flames of the Firebrand
+SB: 1 [FEM:38a] Hymn to Tourach
+SB: 1 [AKH:243] Fetid Pools
+SB: 1 [WAR:13] Gideon Blackblade
+SB: 1 [XLN:1] Adanto Vanguard
+SB: 1 [AER:57] Fatal Push
+SB: 1 [MIR:80] Mystical Tutor
+SB: 1 [ROE:115] Inquisition of Kozilek
+SB: 1 [MMQ:162] Snuff Out
+SB: 1 [HOU:145] The Scarab God
+SB: 1 [PC2:82] Baleful Strix
+SB: 1 [LEB:105] Demonic Tutor
+SB: 4 [GUR:5] Swamp
+LAYOUT MAIN:(1,8)(CMC,false,79)|([GUR:2],[GUR:2],[GUR:2],[GUR:2],[GUR:2],[GUR:2],[GUR:2],[GUR:4],[GUR:4],[GUR:4],[GUR:4],[GUR:4],[GUR:4],[GUR:4])([DIS:174],[AKH:245],[LEB:285])([MMQ:61],[PLC:25],[CON:15],[SOK:158],[M10:68],[P02:46])([LEA:3],[ZEN:14],[MH1:232],[MRD:253],[C13:25])([AKH:14],[HOU:49],[MOR:55])([4ED:64],[ALA:9],[WAR:53],[LRW:88],[10E:61])([ROE:21],[CHK:74],[DOM:207])([KTK:36])
+LAYOUT SIDEBOARD:(1,8)(CMC,false,65)|([AKH:243],[GPT:157],[LEB:281],[LEB:282])([AER:57],[MIR:80],[ROE:115])([XLN:1],[FEM:38a],[PC2:82])([M13:132],[WAR:13],[ODY:292],[ULG:45])([MMQ:162])([KLD:4],[MOR:22],[HOU:145])([LEB:105])([GUR:5],[GUR:5],[GUR:5],[GUR:5])

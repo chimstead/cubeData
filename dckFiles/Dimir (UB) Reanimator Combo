@@ -1,0 +1,53 @@
+1 [ODY:132] Entomb
+1 [XLN:48] Chart a Course
+1 [6ED:83] Mystical Tutor
+1 [RAV:40] Compulsive Research
+1 [AER:31] Disallow
+1 [INV:57] Fact or Fiction
+1 [DST:146] Sundering Titan
+1 [THS:107] Thoughtseize
+1 [LRW:272] Shelldock Isle
+1 [USG:134] Exhume
+1 [ROE:4] Emrakul, the Aeons Torn
+1 [M12:72] Phantasmal Image
+1 [MBS:99] Blightsteel Colossus
+1 [6ED:161] Vampiric Tutor
+1 [MIR:141] Shallow Grave
+1 [JR:109] Imperial Seal
+1 [MMQ:61] Brainstorm
+1 [DIS:165] Rakdos Signet
+1 [KTK:239] Polluted Delta
+1 [RAV:63] Remand
+1 [5DN:55] Night's Whisper
+1 [EMN:6] Emrakul, the Promised End
+1 [M12:55] Frost Titan
+1 [ULG:32] Frantic Search
+1 [BBD:33] Arcane Artisan
+4 [3ED:295] Island
+2 [3ED:297] Island
+1 [3ED:296] Island
+3 [3ED:298] Swamp
+2 [3ED:299] Swamp
+3 [3ED:300] Swamp
+SB: 1 [AVR:32] Restoration Angel
+SB: 1 [USG:96] Show and Tell
+SB: 1 [AKH:14] Gideon of the Trials
+SB: 1 [CMA:27] Unexpectedly Absent
+SB: 1 [DIS:133] Trygon Predator
+SB: 1 [SHM:23] Spectral Procession
+SB: 1 [ISD:122] Unburial Rites
+SB: 1 [RAV:16] Faith's Fetters
+SB: 1 [3ED:291] Volcanic Island
+SB: 1 [TMP:142] Living Death
+SB: 1 [M12:16] Gideon Jura
+SB: 1 [GRN:253] Overgrown Tomb
+SB: 1 [AER:28] Baral, Chief of Compliance
+SB: 1 [4ED:64] Control Magic
+SB: 1 [4ED:6] Balance
+SB: 1 [9ED:216] Seething Song
+SB: 1 [TSB:97] Mystic Snake
+SB: 1 [FRF:27] Soulfire Grand Master
+SB: 1 [VMA:20] Council's Judgment
+SB: 1 [MMQ:82] Gush
+LAYOUT MAIN:(2,8)(CMC,true,68)|([KTK:239],[LRW:272])([M12:72])([BBD:33])([M12:55])([DST:146])([MBS:99])([EMN:6])([ROE:4])([3ED:295],[3ED:297],[3ED:295],[3ED:296],[3ED:295],[3ED:295],[3ED:297],[3ED:298],[3ED:298],[3ED:298],[3ED:299],[3ED:299],[3ED:300],[3ED:300],[3ED:300])([MMQ:61],[6ED:83],[JR:109],[6ED:161],[THS:107],[ODY:132])([DIS:165],[XLN:48],[RAV:63],[5DN:55],[USG:134],[MIR:141])([AER:31],[RAV:40],[ULG:32])([INV:57])()()()
+LAYOUT SIDEBOARD:(1,4)(COLOR,false,48)|([TMP:142],[ISD:122])([AER:28],[4ED:64],[USG:96],[MMQ:82])([4ED:6],[VMA:20],[RAV:16],[M12:16],[AKH:14],[AVR:32],[FRF:27],[SHM:23],[CMA:27])([3ED:291],[GRN:253],[9ED:216],[DIS:133],[TSB:97])

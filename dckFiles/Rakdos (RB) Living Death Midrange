@@ -1,0 +1,53 @@
+1 [HOU:83] Abrade
+1 [M14:103] Liliana's Reaver
+1 [M13:150] Thundermaw Hellkite
+1 [GRN:103] Goblin Cratermaker
+1 [KLD:84] Gonti, Lord of Luxury
+1 [TMP:308] Scroll Rack
+1 [RTR:157] Dreadbore
+1 [MBS:43] Go for the Throat
+1 [AKH:149] Sweltering Suns
+1 [EMN:123] Collective Defiance
+1 [ISD:105] Liliana of the Veil
+1 [SOM:205] Steel Hellkite
+1 [9ED:171] Zombify
+1 [M12:98] Grave Titan
+1 [XLN:110] Kitesail Freebooter
+1 [M12:147] Inferno Titan
+1 [AKH:212] Never // Return
+1 [ORI:114] Read the Bones
+1 [KLD:110] Chandra, Torch of Defiance
+1 [THS:107] Thoughtseize
+1 [DST:149] Sword of Light and Shadow
+1 [TMP:142] Living Death
+1 [EMN:86] Cryptbreaker
+1 [KTK:230] Bloodstained Mire
+1 [SOM:224] Blackcleave Cliffs
+1 [RNA:245] Blood Crypt
+1 [WAR:244] Blast Zone
+1 [WWK:139] Lavaclaw Reaches
+2 [HOU:196] Mountain
+2 [HOU:197] Mountain
+1 [HOU:188] Mountain
+2 [HOU:195] Swamp
+3 [HOU:187] Swamp
+2 [HOU:194] Swamp
+SB: 1 [MEDM:RA6] Dack Fayden
+SB: 1 [MRD:134] Tooth and Nail
+SB: 1 [ORI:23] Kytheon, Hero of Akros
+SB: 1 [KLD:169] Servant of the Conduit
+SB: 1 [LRW:76] Mulldrifter
+SB: 1 [M12:72] Phantasmal Image
+SB: 1 [ULG:80] Goblin Welder
+SB: 1 [TSP:269] Academy Ruins
+SB: 1 [DTK:213] Atarka's Command
+SB: 1 [SOI:155] Falkenrath Gorger
+SB: 1 [AKH:6] Binding Mummy
+SB: 1 [AKH:14] Gideon of the Trials
+SB: 1 [CHK:193] Through the Breach
+SB: 1 [ZEN:178] Rampaging Baloths
+SB: 1 [AER:24] Sram's Expertise
+SB: 1 [KTK:248] Windswept Heath
+SB: 1 [WWK:141] Raging Ravine
+LAYOUT MAIN:(1,8)(CMC,false,45)|([KTK:230],[SOM:224],[RNA:245],[WAR:244],[WWK:139],[HOU:196],[HOU:197],[HOU:188],[HOU:197],[HOU:196],[HOU:195],[HOU:187],[HOU:194],[HOU:187],[HOU:187],[HOU:194],[HOU:195])([THS:107],[EMN:86])([HOU:83],[GRN:103],[TMP:308],[RTR:157],[MBS:43],[XLN:110])([AKH:149],[EMN:123],[ISD:105],[ORI:114],[DST:149])([M14:103],[KLD:84],[9ED:171],[KLD:110])([M13:150],[TMP:142])([SOM:205],[M12:98],[M12:147])([AKH:212])
+LAYOUT SIDEBOARD:(1,5)(CARD_TYPE,false,50)|([ORI:23],[KLD:169],[LRW:76],[M12:72],[ULG:80],[SOI:155],[AKH:6],[ZEN:178])([DTK:213],[CHK:193])([TSP:269],[KTK:248],[WWK:141])([MEDM:RA6],[AKH:14])([MRD:134],[AER:24])

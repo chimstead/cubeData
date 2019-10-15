@@ -1,0 +1,52 @@
+1 [M12:63] Mana Leak
+1 [CM2:98] Fiery Confluence
+1 [VMA:266] Coercive Portal
+1 [RTR:101] Mizzium Mortars
+1 [M15:145] Goblin Rabblemaster
+1 [NPH:1] Karn Liberated
+1 [4ED:6] Balance
+1 [BBD:122] Mystic Confluence
+1 [ALA:60] Tezzeret the Seeker
+1 [KLD:67] Torrential Gearhulk
+1 [RAV:63] Remand
+1 [BOK:163] Umezawa's Jitte
+1 [XLN:74] Search for Azcanta
+1 [5ED:388] Mana Vault
+1 [FRF:20] Monastery Mentor
+1 [GPT:155] Orzhov Signet
+1 [WWK:123] Everflowing Chalice
+1 [EVE:22] Glen Elendra Archmage
+1 [ODY:113] Upheaval
+1 [MEDM:RA6] Dack Fayden
+1 [ULG:36] Miscalculation
+1 [RIX:111] Rekindling Phoenix
+1 [VIS:34] Impulse
+1 [KLD:249] Spirebluff Canal
+1 [OGW:182] Wandering Fumarole
+1 [2ED:262] Mox Emerald
+1 [3ED:284] Plateau
+1 [GRN:254] Sacred Foundry
+1 [LRW:272] Shelldock Isle
+1 [ZEN:223] Scalding Tarn
+2 [BFZ:255] Island
+3 [BFZ:257] Island
+3 [BFZ:269] Mountain
+1 [BFZ:254] Plains
+1 [BFZ:253] Plains
+SB: 1 [M12:16] Gideon Jura
+SB: 1 [NPH:73] Sheoldred, Whispering One
+SB: 1 [M12:98] Grave Titan
+SB: 1 [WWK:108] Nature's Claim
+SB: 1 [EXO:129] Survival of the Fittest
+SB: 1 [CON:30] Inkwell Leviathan
+SB: 1 [TSP:269] Academy Ruins
+SB: 1 [4ED:34] Land Tax
+SB: 1 [NPH:103] Beast Within
+SB: 1 [6ED:4] Armageddon
+SB: 1 [LEG:28] Moat
+SB: 1 [10E:61] Wrath of God
+SB: 1 [10E:163] Nekrataal
+SB: 1 [M13:150] Thundermaw Hellkite
+SB: 1 [ODY:193] Firebolt
+LAYOUT MAIN:(1,8)(CMC,false,50)|([KLD:249],[OGW:182],[2ED:262],[3ED:284],[GRN:254],[LRW:272],[ZEN:223],[BFZ:255],[BFZ:257],[BFZ:257],[BFZ:257],[BFZ:255],[BFZ:269],[BFZ:269],[BFZ:269],[BFZ:254],[BFZ:253])([5ED:388],[WWK:123])([M12:63],[RTR:101],[4ED:6],[RAV:63],[BOK:163],[XLN:74],[GPT:155],[ULG:36],[VIS:34])([M15:145],[FRF:20],[MEDM:RA6])([CM2:98],[VMA:266],[EVE:22],[RIX:111])([BBD:122],[ALA:60])([KLD:67],[ODY:113])([NPH:1])
+LAYOUT SIDEBOARD:(1,6)(COLOR,false,50)|([TSP:269])([NPH:73],[M12:98],[10E:163])([CON:30])([WWK:108],[EXO:129],[NPH:103])([M13:150],[ODY:193])([M12:16],[4ED:34],[6ED:4],[LEG:28],[10E:61])

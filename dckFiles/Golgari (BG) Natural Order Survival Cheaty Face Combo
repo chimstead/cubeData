@@ -1,0 +1,49 @@
+1 [M19:314] Llanowar Elves
+1 [VIS:64] Necromancy
+1 [MRD:134] Tooth and Nail
+1 [GRN:69] Doom Whisperer
+1 [NPH:73] Sheoldred, Whispering One
+1 [WWK:115] Terastodon
+1 [NPH:1] Karn Liberated
+1 [UDS:118] Rofellos, Llanowar Emissary
+1 [LRW:139] Shriekmaw
+1 [LEG:185] Eureka
+1 [AKH:97] Liliana, Death's Majesty
+1 [AKH:175] Manglehorn
+1 [JR:109] Imperial Seal
+1 [DTK:216] Dragonlord Atarka
+1 [VIS:114] Natural Order
+1 [3ED:274] Sol Ring
+1 [TSB:89] Wall of Roots
+1 [5ED:140] Animate Dead
+1 [ROE:190] Joraga Treespeaker
+1 [M13:160] Arbor Elf
+1 [CON:87] Noble Hierarch
+1 [NPH:9] Elesh Norn, Grand Cenobite
+1 [EXO:129] Survival of the Fittest
+1 [SOM:122] Genesis Wave
+1 [SOM:224] Blackcleave Cliffs
+1 [WWK:139] Lavaclaw Reaches
+1 [2ED:233] Black Lotus
+1 [SOM:228] Razorverge Thicket
+1 [RNA:248] Godless Shrine
+1 [WWK:144] Stirring Wildwood
+6 [UST:216] Forest
+4 [UST:214] Swamp
+SB: 1 [EXO:115] Oath of Druids
+SB: 1 [ORI:105] Languish
+SB: 1 [MBS:8] Hero of Bladehold
+SB: 1 [M12:16] Gideon Jura
+SB: 1 [ROE:53] Wall of Omens
+SB: 1 [BBD:33] Arcane Artisan
+SB: 1 [EMN:189] Spell Queller
+SB: 1 [ISD:213] Geist of Saint Traft
+SB: 1 [NPH:4] Blade Splicer
+SB: 1 [M10:191] Master of the Wild Hunt
+SB: 1 [M13:112] Vampire Nighthawk
+SB: 1 [DOM:14] Dauntless Bodyguard
+SB: 1 [ARB:50] Bloodbraid Elf
+SB: 1 [M15:187] Nissa, Worldwaker
+SB: 1 [KLD:84] Gonti, Lord of Luxury
+LAYOUT MAIN:(2,8)(CMC,true,69)|()([M19:314],[ROE:190],[M13:160],[CON:87])([UDS:118],[TSB:89])([AKH:175])()([GRN:69],[LRW:139])([NPH:73],[DTK:216],[NPH:9])([WWK:115])([SOM:224],[WWK:139],[2ED:233],[SOM:228],[RNA:248],[WWK:144],[UST:216],[UST:216],[UST:216],[UST:216],[UST:216],[UST:216],[UST:214],[UST:214],[UST:214],[UST:214])([JR:109],[3ED:274])([5ED:140],[EXO:129])([VIS:64],[SOM:122])([LEG:185],[VIS:114])([AKH:97])([MRD:134],[NPH:1])()
+LAYOUT SIDEBOARD:(1,5)(COLOR,false,50)|([ORI:105],[M13:112],[KLD:84])([BBD:33])([EXO:115],[M10:191],[M15:187])([MBS:8],[M12:16],[ROE:53],[NPH:4],[DOM:14])([EMN:189],[ISD:213],[ARB:50])

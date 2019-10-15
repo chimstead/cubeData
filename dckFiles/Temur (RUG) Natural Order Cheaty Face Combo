@@ -1,0 +1,49 @@
+1 [ICE:244] Fyndhorn Elves
+1 [M13:160] Arbor Elf
+1 [ARB:50] Bloodbraid Elf
+1 [OGW:138] Nissa, Voice of Zendikar
+1 [CON:121] Progenitus
+1 [WWK:115] Terastodon
+1 [SHM:135] Woodfall Primus
+1 [ULG:101] Deranged Hermit
+1 [M12:165] Birds of Paradise
+1 [M12:188] Primeval Titan
+1 [LEG:185] Eureka
+1 [USG:218] Sneak Attack
+1 [DKA:140] Huntmaster of the Fells
+1 [VIS:114] Natural Order
+1 [ROE:190] Joraga Treespeaker
+1 [ISD:170] Avacyn's Pilgrim
+1 [RAV:270] Selesnya Signet
+1 [MBS:81] Green Sun's Zenith
+1 [WWK:96] Avenger of Zendikar
+1 [ISD:181] Garruk Relentless
+1 [M15:187] Nissa, Worldwaker
+1 [2ED:265] Mox Ruby
+1 [USG:321] Gaea's Cradle
+1 [2ED:262] Mox Emerald
+1 [M13:193] Thragtusk
+9 [UST:216] Forest
+4 [UST:215] Mountain
+1 [AVR:172] Craterhoof Behemoth
+1 [SHM:229] Kitchen Finks
+SB: 1 [DIS:133] Trygon Predator
+SB: 1 [EXO:72] Recurring Nightmare
+SB: 1 [DKA:12] Lingering Souls
+SB: 1 [ULG:14] Mother of Runes
+SB: 1 [ARB:46] Terminate
+SB: 1 [M12:72] Phantasmal Image
+SB: 1 [ROE:145] Flame Slash
+SB: 1 [JOU:62] Brain Maggot
+SB: 1 [OGW:175] Needle Spires
+SB: 1 [MEDM:GR3] Daretti, Ingenious Iconoclast
+SB: 1 [BFZ:29] Gideon, Ally of Zendikar
+SB: 1 [XLN:179] Carnage Tyrant
+SB: 1 [DOM:26] Lyra Dawnbringer
+SB: 1 [M11:175] Garruk Wildspeaker
+SB: 1 [FRF:1] Ugin, the Spirit Dragon
+SB: 1 [4ED:236] Channel
+SB: 1 [M13:159] Acidic Slime
+SB: 1 [WWK:108] Nature's Claim
+LAYOUT MAIN:(2,7)(CMC,true,69)|()([ICE:244],[M13:160],[M12:165],[ROE:190],[ISD:170])()([SHM:229])([ARB:50],[DKA:140])([ULG:101],[M13:193])([M12:188],[WWK:96],[CON:121],[WWK:115],[SHM:135])([2ED:265],[USG:321],[2ED:262],[UST:216],[UST:216],[UST:216],[UST:216],[UST:216],[UST:216],[UST:216],[UST:216],[UST:216],[UST:215],[UST:215],[UST:215],[UST:215])([MBS:81])([RAV:270])([OGW:138])([LEG:185],[USG:218],[VIS:114],[ISD:181])([M15:187],[AVR:172])()
+LAYOUT SIDEBOARD:(1,1)(COLOR,false,50)|([OGW:175],[FRF:1],[DIS:133],[DKA:12],[ULG:14],[ARB:46],[M12:72],[ROE:145],[MEDM:GR3],[BFZ:29],[XLN:179],[DOM:26],[M11:175],[4ED:236],[EXO:72],[JOU:62],[M13:159],[WWK:108])

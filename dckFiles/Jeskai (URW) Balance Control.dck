@@ -1,0 +1,53 @@
+1 [LRW:272] Shelldock Isle
+1 [MBS:21] Consecrated Sphinx
+1 [EMA:199] Dack Fayden
+1 [LRW:88] Sower of Temptation
+1 [3ED:294] Plains
+1 [4ED:34] Land Tax
+1 [EMA:33] Unexpectedly Absent
+1 [ZEN:220] Misty Rainforest
+1 [3ED:293] Plains
+1 [3ED:292] Plains
+1 [KTK:249] Wooded Foothills
+1 [3ED:291] Volcanic Island
+1 [C15:14] Mystic Confluence
+2 [3ED:297] Island
+1 [3ED:295] Island
+1 [3ED:301] Mountain
+1 [3ED:289] Tundra
+1 [ZEN:223] Scalding Tarn
+1 [INV:57] Fact or Fiction
+1 [GTC:245] Sacred Foundry
+1 [4ED:6] Balance
+1 [M12:12] Day of Judgment
+1 [ALA:9] Elspeth, Knight-Errant
+1 [BFZ:29] Gideon, Ally of Zendikar
+1 [AER:181] Walking Ballista
+1 [WWK:133] Celestial Colonnade
+1 [RAV:63] Remand
+1 [KTK:239] Polluted Delta
+1 [M12:147] Inferno Titan
+1 [CMD:37] Wall of Omens
+1 [8ED:89] Mana Leak
+1 [DOM:1] Karn, Scion of Urza
+1 [MOR:55] Vendilion Clique
+1 [CN2:22] Recruiter of the Guard
+1 [KTK:230] Bloodstained Mire
+1 [DDG:34] Oblivion Ring
+1 [NEM:17] Parallax Wave
+1 [SOI:12] Declaration in Stone
+1 [ISD:213] Geist of Saint Traft
+SB: 1 [ZEN:119] Burst Lightning
+SB: 1 [MMQ:324] Rishadan Port
+SB: 1 [DOM:14] Dauntless Bodyguard
+SB: 1 [ORI:23] Kytheon, Hero of Akros
+SB: 1 [DKA:64] Gravecrawler
+SB: 1 [NPH:4] Blade Splicer
+SB: 1 [5ED:329] Sylvan Library
+SB: 1 [M13:147] Searing Spear
+SB: 1 [KTK:202] Sorin, Solemn Visitor
+SB: 1 [CHK:19] Isamaru, Hound of Konda
+SB: 1 [10E:357] Shivan Reef
+SB: 1 [GTC:240] Breeding Pool
+LAYOUT MAIN:(1,7)(CMC,false,50)|([ZEN:223],[KTK:249],[WWK:133],[KTK:239],[LRW:272],[KTK:230],[GTC:245],[ZEN:220],[3ED:291],[3ED:289],[3ED:297],[3ED:295],[3ED:297],[3ED:301],[3ED:294],[3ED:292],[3ED:293])([4ED:34])([8ED:89],[EMA:33],[4ED:6],[RAV:63],[CMD:37],[SOI:12],[AER:181])([DDG:34],[MOR:55],[EMA:199],[CN2:22],[ISD:213])([INV:57],[BFZ:29],[ALA:9],[M12:12],[NEM:17],[LRW:88],[DOM:1])([C15:14])([M12:147],[MBS:21])
+LAYOUT SIDEBOARD:(1,5)(CMC,false,50)|([GTC:240],[MMQ:324],[10E:357])([ORI:23],[DKA:64],[CHK:19],[ZEN:119],[DOM:14])([5ED:329],[M13:147])([NPH:4])([KTK:202])

@@ -1,0 +1,49 @@
+1 [M19:314] Llanowar Elves
+1 [ORI:229] Hangarback Walker
+1 [AER:181] Walking Ballista
+1 [DST:140] Skullclamp
+1 [ULG:14] Mother of Runes
+1 [EXO:129] Survival of the Fittest
+1 [M11:172] Fauna Shaman
+1 [M12:190] Rampant Growth
+1 [OGW:138] Nissa, Voice of Zendikar
+1 [SHM:229] Kitchen Finks
+1 [MH1:37] Winds of Abandon
+1 [RTR:213] Deathrite Shaman
+1 [VIS:114] Natural Order
+1 [M15:178] Hornet Queen
+1 [SHM:135] Woodfall Primus
+1 [M13:159] Acidic Slime
+1 [MOR:22] Reveillark
+1 [CN2:18] Palace Jailer
+1 [NEM:17] Parallax Wave
+1 [M12:217] Solemn Simulacrum
+1 [AVR:32] Restoration Angel
+1 [NPH:4] Blade Splicer
+1 [KTK:248] Windswept Heath
+1 [10E:361] Treetop Village
+1 [GRN:258] Temple Garden
+1 [WWK:144] Stirring Wildwood
+1 [FUT:177] Horizon Canopy
+1 [WWK:123] Everflowing Chalice
+7 [GUR:1] Forest
+5 [GUR:4] Plains
+SB: 1 [VIS:37] Man-o'-War
+SB: 1 [RNA:195] Prime Speaker Vannifar
+SB: 1 [LRW:133] Oona's Prowler
+SB: 1 [MH1:214] Soulherder
+SB: 1 [9ED:228] Wildfire
+SB: 1 [MH1:13] Giver of Runes
+SB: 1 [WWK:20] Stoneforge Mystic
+SB: 1 [ELD:233] Sorcerous Spyglass
+SB: 1 [EMN:46] Thalia, Heretic Cathar
+SB: 1 [NPH:19] Porcelain Legionnaire
+SB: 1 [ISD:19] Intangible Virtue
+SB: 1 [3ED:214] Regrowth
+SB: 1 [EMN:189] Spell Queller
+SB: 1 [AKH:204] Nissa, Steward of Elements
+SB: 1 [M15:225] Phyrexian Revoker
+SB: 1 [ISD:6] Champion of the Parish
+SB: 1 [MBS:81] Green Sun's Zenith
+LAYOUT MAIN:(1,9)(CMC,false,71)|([GUR:1],[GUR:1],[GUR:1],[GUR:1],[GUR:1],[GUR:1],[GUR:1],[GUR:4],[GUR:4],[GUR:4],[GUR:4],[GUR:4])([FUT:177],[WWK:144],[GRN:258],[10E:361],[KTK:248])([RTR:213],[M19:314],[ULG:14],[DST:140])([M11:172],[M12:190],[EXO:129],[MH1:37],[ORI:229],[WWK:123],[AER:181])([NPH:4],[SHM:229],[OGW:138])([VIS:114],[CN2:18],[NEM:17],[AVR:32],[M12:217])([M13:159],[MOR:22])([M15:178])([SHM:135])
+LAYOUT SIDEBOARD:(1,5)(CMC,false,62)|([ISD:6],[MH1:13],[MBS:81])([ISD:19],[AKH:204],[LRW:133],[M15:225],[3ED:214],[ELD:233],[WWK:20])([VIS:37],[NPH:19],[MH1:214],[EMN:189],[EMN:46])([RNA:195])([9ED:228])

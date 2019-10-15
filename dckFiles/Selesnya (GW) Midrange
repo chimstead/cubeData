@@ -1,0 +1,49 @@
+1 [CON:87] Noble Hierarch
+1 [CHK:19] Isamaru, Hound of Konda
+1 [FRF:143] Warden of the First Tree
+1 [ULG:14] Mother of Runes
+1 [M19:33] Remorseful Cleric
+1 [FUT:153] Tarmogoyf
+1 [M14:22] Imposing Sovereign
+1 [C14:8] Hallowed Spiritkeeper
+1 [M20:22] Hanged Executioner
+1 [CNS:16] Council's Judgment
+1 [JOU:5] Banishing Light
+1 [BNG:5] Brimaz, King of Oreskos
+1 [EMN:46] Thalia, Heretic Cathar
+1 [MH1:26] Serra the Benevolent
+1 [ALA:9] Elspeth, Knight-Errant
+1 [CN2:18] Palace Jailer
+1 [LRW:213] Garruk Wildspeaker
+1 [RNA:122] Biogenic Ooze
+1 [M15:187] Nissa, Worldwaker
+1 [M10:191] Master of the Wild Hunt
+1 [M13:193] Thragtusk
+1 [AKH:16] Glory-Bound Initiate
+1 [ZEN:219] Marsh Flats
+1 [LEB:281] Savannah
+1 [MOR:148] Mutavault
+1 [ONS:316] Flooded Strand
+1 [FUT:177] Horizon Canopy
+5 [UGL:88] Forest
+7 [UGL:84] Plains
+1 [DST:148] Sword of Fire and Ice
+SB: 1 [CON:30] Inkwell Leviathan
+SB: 1 [ZEN:9] Day of Judgment
+SB: 1 [MBS:99] Blightsteel Colossus
+SB: 1 [VIS:37] Man-o'-War
+SB: 1 [HOU:140] Nicol Bolas, God-Pharaoh
+SB: 1 [AKH:245] Irrigated Farmland
+SB: 1 [DOM:207] Teferi, Hero of Dominaria
+SB: 1 [CHK:74] Meloku the Clouded Mirror
+SB: 1 [DKA:24] Thalia, Guardian of Thraben
+SB: 1 [TSP:161] Greater Gargadon
+SB: 1 [SHM:229] Kitchen Finks
+SB: 1 [MH1:116] Yawgmoth, Thran Physician
+SB: 1 [BFZ:15] Ulamog, the Ceaseless Hunger
+SB: 1 [ROE:21] Gideon Jura
+SB: 1 [OGW:140] Oath of Nissa
+SB: 1 [DTK:10] Dragon Hunter
+SB: 1 [M20:200] Voracious Hydra
+LAYOUT MAIN:(1,6)(CMC,false,50)|([ZEN:219],[LEB:281],[MOR:148],[ONS:316],[FUT:177],[UGL:88],[UGL:88],[UGL:88],[UGL:88],[UGL:88],[UGL:84],[UGL:84],[UGL:84],[UGL:84],[UGL:84],[UGL:84],[UGL:84])([CON:87],[CHK:19],[FRF:143],[ULG:14])([M19:33],[FUT:153],[M14:22],[AKH:16])([C14:8],[M20:22],[CNS:16],[JOU:5],[BNG:5],[EMN:46],[DST:148])([MH1:26],[ALA:9],[CN2:18],[LRW:213],[M10:191])([RNA:122],[M15:187],[M13:193])
+LAYOUT SIDEBOARD:(1,10)(CMC,false,50)|([AKH:245])([OGW:140],[DTK:10])([DKA:24],[M20:200])([VIS:37],[SHM:229])([ZEN:9],[MH1:116])([DOM:207],[CHK:74],[ROE:21])([HOU:140])([CON:30])([TSP:161],[BFZ:15])([MBS:99])

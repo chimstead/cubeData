@@ -1,0 +1,49 @@
+1 [MIR:74] Memory Lapse
+1 [KTK:59] Treasure Cruise
+1 [WAR:50] Fblthp, the Lost
+1 [ELD:199] The Royal Scions
+1 [DDI:44] Koth of the Hammer
+1 [M20:68] Mu Yanling, Sky Dancer
+1 [BBD:119] Impulse
+1 [STH:36] Mana Leak
+1 [MH1:67] Scour All Possibilities
+1 [NPH:35] Gitaxian Probe
+1 [RIX:99] Dire Fleet Daredevil
+1 [KLD:235] Smuggler's Copter
+1 [RNA:51] Shimmer of Possibility
+1 [M12:72] Phantasmal Image
+1 [CSP:46] Rune Snag
+1 [RAV:69] Telling Time
+1 [EMN:130a] Hanweir Garrison
+1 [M11:70] Preordain
+1 [THS:127] Lightning Strike
+1 [KLD:110] Chandra, Torch of Defiance
+1 [M14:163] Young Pyromancer
+1 [WAR:137] Krenko, Tin Street Kingpin
+1 [HOU:49] Supreme Will
+1 [LEB:162] Lightning Bolt
+1 [ICE:194] Incinerate
+1 [EXP:18] Bloodstained Mire
+1 [ARN:71] City of Brass
+1 [JOU:163] Mana Confluence
+1 [MH1:247] Sunbaked Canyon
+6 [GUR:2] Island
+5 [GUR:3] Mountain
+SB: 1 [M20:127] Chandra, Awakened Inferno
+SB: 1 [SHM:229] Kitchen Finks
+SB: 1 [C17:16] Curse of Disturbance
+SB: 1 [5ED:342] Wild Growth
+SB: 1 [LEA:282] Taiga
+SB: 1 [RAV:81] Dark Confidant
+SB: 1 [GPT:165] Stomping Ground
+SB: 1 [PLS:60] Flametongue Kavu
+SB: 1 [DDL:44] Orcish Lumberjack
+SB: 1 [ELD:138] Robber of the Rich
+SB: 1 [GPT:111] Electrolyze
+SB: 1 [KTK:119] Sarkhan, the Dragonspeaker
+SB: 1 [ODY:193] Firebolt
+SB: 1 [THS:209] Xenagos, the Reveler
+SB: 1 [LEA:52] Control Magic
+SB: 1 [BBD:62] Najeela, the Blade-Blossom
+LAYOUT MAIN:(2,6)(CMC,true,20)|()()([RIX:99],[WAR:50],[M12:72],[M14:163])([EMN:130a],[WAR:137])()()([EXP:18],[ARN:71],[JOU:163],[MH1:247],[GUR:2],[GUR:2],[GUR:2],[GUR:2],[GUR:2],[GUR:2],[GUR:3],[GUR:3],[GUR:3],[GUR:3],[GUR:3])([NPH:35],[LEB:162],[M11:70])([BBD:119],[ICE:194],[THS:127],[STH:36],[MIR:74],[CSP:46],[MH1:67],[RNA:51],[KLD:235],[RAV:69])([M20:68],[HOU:49],[ELD:199])([KLD:110],[DDI:44])([KTK:59])
+LAYOUT SIDEBOARD:(1,8)(COLOR_IDENTITY,false,25)|([5ED:342])([M20:127],[PLS:60],[ELD:138],[KTK:119],[ODY:193])([DDL:44],[THS:209])([C17:16],[RAV:81])([LEA:52])([GPT:111],[GPT:165],[LEA:282])([SHM:229])([BBD:62])

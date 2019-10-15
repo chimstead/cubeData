@@ -1,0 +1,53 @@
+1 [EMA:199] Dack Fayden
+1 [6ED:83] Mystical Tutor
+1 [OGW:104] Chandra, Flamecaller
+1 [3ED:291] Volcanic Island
+1 [M13:150] Thundermaw Hellkite
+1 [3ED:288] Tropical Island
+1 [M15:225] Phyrexian Revoker
+1 [GPT:152] Izzet Signet
+1 [4ED:363] Strip Mine
+1 [M19:229] Crucible of Worlds
+1 [M19:306] Nexus of Fate
+1 [M12:72] Phantasmal Image
+1 [GRN:224] Expansion // Explosion
+2 [2ED:298] Mountain
+1 [ISD:127] Ancient Grudge
+2 [2ED:299] Mountain
+1 [SOM:176] Mindslaver
+1 [2ED:297] Mountain
+1 [2ED:292] Island
+1 [2ED:293] Island
+1 [LRW:56] Cryptic Command
+4 [2ED:291] Island
+1 [XLN:81] Spell Pierce
+1 [KTK:239] Polluted Delta
+1 [M12:147] Inferno Titan
+1 [4ED:64] Control Magic
+1 [7ED:67] Counterspell
+1 [BBD:136] True-Name Nemesis
+1 [HOU:83] Abrade
+1 [DOM:215] Gilded Lotus
+1 [2ED:48] Ancestral Recall
+1 [AKH:149] Sweltering Suns
+1 [DIS:165] Rakdos Signet
+1 [TMP:315] Ancient Tomb
+1 [GRN:257] Steam Vents
+SB: 1 [MMQ:129] Dark Ritual
+SB: 1 [TSB:89] Wall of Roots
+SB: 1 [SOM:48] Trinket Mage
+SB: 1 [TSB:97] Mystic Snake
+SB: 1 [ARB:46] Terminate
+SB: 1 [TSP:216] Search for Tomorrow
+SB: 1 [ARN:70] Bazaar of Baghdad
+SB: 1 [OGW:171] Hissing Quagmire
+SB: 1 [USG:105] Turnabout
+SB: 1 [LEG:303] Karakas
+SB: 1 [MBS:138] Sword of Feast and Famine
+SB: 1 [M14:228] Mutavault
+SB: 1 [KLD:124] Pia Nalaar
+SB: 1 [V14:2] Burning of Xinye
+SB: 1 [M12:40] Timely Reinforcements
+SB: 1 [5ED:249] Mana Flare
+LAYOUT MAIN:(1,7)(CMC,false,51)|([TMP:315],[2ED:293],[2ED:291],[2ED:291],[2ED:291],[2ED:292],[2ED:291],[2ED:298],[2ED:299],[2ED:298],[2ED:297],[2ED:299],[KTK:239],[GRN:257],[4ED:363],[3ED:288],[3ED:291])([2ED:48],[6ED:83],[XLN:81])([HOU:83],[ISD:127],[7ED:67],[GPT:152],[M12:72],[M15:225],[DIS:165])([M19:229],[EMA:199],[AKH:149],[BBD:136])([4ED:64],[LRW:56])([DOM:215],[M13:150])([OGW:104],[M12:147],[SOM:176],[M19:306],[GRN:224])
+LAYOUT SIDEBOARD:(1,6)(CMC,false,50)|([LEG:303],[OGW:171],[ARN:70],[M14:228])([MMQ:129])([TSB:89],[ARB:46])([5ED:249],[MBS:138],[KLD:124],[TSP:216],[SOM:48],[M12:40])([TSB:97],[USG:105])([V14:2])

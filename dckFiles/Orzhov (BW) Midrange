@@ -1,0 +1,50 @@
+1 [FRF:20] Monastery Mentor
+1 [DKA:12] Lingering Souls
+1 [M12:98] Grave Titan
+1 [RNA:248] Godless Shrine
+1 [KTK:248] Windswept Heath
+1 [CON:15] Path to Exile
+1 [BFZ:244] Shambling Vent
+1 [M14:228] Mutavault
+1 [ZEN:219] Marsh Flats
+1 [MBS:43] Go for the Throat
+1 [BOK:163] Umezawa's Jitte
+1 [AVR:32] Restoration Angel
+1 [AER:181] Walking Ballista
+1 [KLD:245] Concealed Courtyard
+1 [10E:163] Nekrataal
+1 [ZEN:11] Emeria Angel
+1 [ALA:9] Elspeth, Knight-Errant
+1 [6ED:4] Armageddon
+1 [2ED:264] Mox Pearl
+1 [AVR:36] Silverblade Paladin
+1 [SOI:5] Archangel Avacyn
+1 [WWK:20] Stoneforge Mystic
+1 [NPH:130] Batterskull
+1 [M19:229] Crucible of Worlds
+1 [AKH:14] Gideon of the Trials
+1 [JR:109] Imperial Seal
+1 [3ED:105] Demonic Tutor
+1 [2ED:233] Black Lotus
+1 [KLD:4] Angel of Invention
+1 [2ED:263] Mox Jet
+1 [CMA:27] Unexpectedly Absent
+1 [MBS:14] Mirran Crusader
+4 [FRF:176] Plains
+2 [FRF:177] Plains
+2 [FRF:181] Swamp
+SB: 1 [ZEN:126] Goblin Guide
+SB: 1 [TSP:66] Looter il-Kor
+SB: 1 [XLN:74] Search for Azcanta
+SB: 1 [ORI:127] Abbot of Keral Keep
+SB: 1 [TSB:97] Mystic Snake
+SB: 1 [NPH:153] Shrine of Burning Rage
+SB: 1 [ISD:105] Liliana of the Veil
+SB: 1 [ALA:202] Tidehollow Sculler
+SB: 1 [MBS:10] Leonin Relic-Warder
+SB: 1 [M19:33] Remorseful Cleric
+SB: 1 [GRN:69] Doom Whisperer
+SB: 1 [DOM:14] Dauntless Bodyguard
+SB: 1 [JR:97] Ravages of War
+LAYOUT MAIN:(1,7)(CMC,false,50)|([RNA:248],[KTK:248],[BFZ:244],[M14:228],[ZEN:219],[KLD:245],[2ED:264],[2ED:233],[2ED:263],[FRF:176],[FRF:176],[FRF:176],[FRF:177],[FRF:176],[FRF:177],[FRF:181],[FRF:181])([CON:15],[JR:109])([MBS:43],[BOK:163],[WWK:20],[3ED:105],[CMA:27],[AER:181])([FRF:20],[DKA:12],[AVR:36],[M19:229],[AKH:14],[MBS:14])([AVR:32],[10E:163],[ZEN:11],[ALA:9],[6ED:4])([SOI:5],[NPH:130],[KLD:4])([M12:98])
+LAYOUT SIDEBOARD:(1,5)(CMC,false,50)|([ZEN:126],[DOM:14])([TSP:66],[XLN:74],[ORI:127],[NPH:153],[ALA:202],[MBS:10],[M19:33])([ISD:105])([TSB:97],[JR:97])([GRN:69])

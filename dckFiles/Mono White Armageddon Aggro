@@ -1,0 +1,48 @@
+1 [CN2:18] Palace Jailer
+1 [ORI:23] Kytheon, Hero of Akros
+1 [NPH:57] Dismember
+1 [EVE:139] Figure of Destiny
+1 [MH1:228] Sword of Sinew and Steel
+1 [FRF:18] Mardu Woe-Reaper
+1 [BNG:5] Brimaz, King of Oreskos
+1 [MBS:1] Accorder Paladin
+1 [THS:32] Soldier of the Pantheon
+1 [MH1:13] Giver of Runes
+1 [SOI:5] Archangel Avacyn
+1 [MRD:146] Bonesplitter
+1 [WAR:13] Gideon Blackblade
+1 [XLN:1] Adanto Vanguard
+1 [KLD:214] Fleetwheel Cruiser
+1 [ZEN:36] Steppe Lynx
+1 [AKH:14] Gideon of the Trials
+1 [ONS:28] Exalted Angel
+1 [THS:33] Spear of Heliod
+1 [WWK:20] Stoneforge Mystic
+1 [P02:12] Armageddon
+1 [M14:22] Imposing Sovereign
+1 [MH1:37] Winds of Abandon
+1 [AKH:16] Glory-Bound Initiate
+1 [MRD:152] Chrome Mox
+1 [FUT:177] Horizon Canopy
+1 [ATQ:80a] Mishra's Factory
+13 [UNH:136] Plains
+SB: 1 [DOM:207] Teferi, Hero of Dominaria
+SB: 1 [RAV:63] Remand
+SB: 1 [BFZ:109] Drana, Liberator of Malakir
+SB: 1 [ARB:110] Sphinx of the Steel Wind
+SB: 1 [ODY:193] Firebolt
+SB: 1 [RTR:220] Rakdos Cackler
+SB: 1 [ZEN:116] Vampire Nighthawk
+SB: 1 [CNS:187] Edric, Spymaster of Trest
+SB: 1 [KLD:231] Scrapheap Scrounger
+SB: 1 [MMA:180] Maelstrom Pulse
+SB: 1 [MBS:122] Phyrexian Revoker
+SB: 1 [ZEN:168] Lotus Cobra
+SB: 1 [APC:130] Life // Death
+SB: 1 [FRF:75] Mardu Strike Leader
+SB: 1 [RAV:284] Temple Garden
+SB: 1 [VIS:167] Undiscovered Paradise
+SB: 1 [TMP:183] Jackal Pup
+SB: 1 [NPH:42] Phyrexian Metamorph
+LAYOUT MAIN:(1,8)(CMC,false,51)|([UNH:136],[UNH:136],[UNH:136],[UNH:136],[UNH:136],[UNH:136],[UNH:136],[UNH:136],[UNH:136],[UNH:136],[UNH:136],[UNH:136],[UNH:136])([FUT:177],[ATQ:80a],[MRD:152])([MRD:146],[EVE:139],[MH1:13],[ORI:23],[FRF:18],[THS:32],[ZEN:36])([MBS:1],[XLN:1],[AKH:16],[M14:22],[WWK:20],[MH1:37])([BNG:5],[NPH:57],[WAR:13],[AKH:14],[THS:33],[MH1:228])([P02:12],[KLD:214],[CN2:18])([SOI:5])([ONS:28])
+LAYOUT SIDEBOARD:(1,7)(CMC,false,50)|([ODY:193],[RTR:220],[TMP:183])([RAV:63],[KLD:231],[MBS:122],[ZEN:168])([BFZ:109],[ZEN:116],[CNS:187],[MMA:180],[APC:130],[FRF:75])([NPH:42])([DOM:207])([ARB:110])([RAV:284],[VIS:167])

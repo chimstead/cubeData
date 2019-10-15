@@ -1,0 +1,50 @@
+1 [STH:138] Mox Diamond
+1 [6ED:217] Birds of Paradise
+1 [6ED:239] Llanowar Elves
+1 [FRF:143] Warden of the First Tree
+1 [LEB:116] Mind Twist
+1 [ROE:115] Inquisition of Kozilek
+1 [DST:140] Skullclamp
+1 [RTR:73] Pack Rat
+1 [GRN:152] Assassin's Trophy
+1 [KLD:231] Scrapheap Scrounger
+1 [RAV:172] Life from the Loam
+1 [BOK:163] Umezawa's Jitte
+1 [HOU:129] Ramunap Excavator
+1 [M15:194] Reclamation Sage
+1 [GRN:183] Knight of Autumn
+1 [C13:84] Ophiomancer
+1 [5DN:86] Eternal Witness
+1 [APC:126] Vindicate
+1 [C14:22] Flesh Carver
+1 [DKA:12] Lingering Souls
+1 [NPH:4] Blade Splicer
+1 [MH1:116] Yawgmoth, Thran Physician
+1 [DKA:142] Sorin, Lord of Innistrad
+1 [GRN:213] Vraska, Golgari Queen
+1 [FUT:177] Horizon Canopy
+1 [LEB:279] Bayou
+1 [ONS:328] Windswept Heath
+1 [ATQ:82a] Strip Mine
+1 [ONS:313] Bloodstained Mire
+1 [MH1:246] Silent Clearing
+1 [ARN:71] City of Brass
+4 [GUR:1] Forest
+2 [GUR:4] Plains
+3 [GUR:5] Swamp
+SB: 1 [ODY:117] Braids, Cabal Minion
+SB: 1 [DKA:64] Gravecrawler
+SB: 1 [ODY:283] Wild Mongrel
+SB: 1 [SOM:94] Koth of the Hammer
+SB: 1 [MH1:234] Talisman of Resilience
+SB: 1 [LEG:120] The Abyss
+SB: 1 [AKH:88] Dread Wanderer
+SB: 1 [AKH:245] Irrigated Farmland
+SB: 1 [USG:309] Smokestack
+SB: 1 [RIX:82] Ravenous Chupacabra
+SB: 1 [UDS:124] Yavimaya Elder
+SB: 1 [CN2:71] Selvala's Stampede
+SB: 1 [ISD:170] Avacyn's Pilgrim
+SB: 1 [WAR:98] Liliana's Triumph
+LAYOUT MAIN:(1,6)(CMC,false,85)|([GUR:1],[GUR:1],[GUR:1],[GUR:1],[GUR:4],[GUR:4],[GUR:5],[GUR:5],[GUR:5])([LEB:279],[ONS:313],[ARN:71],[FUT:177],[MH1:246],[ATQ:82a],[ONS:328])([STH:138],[6ED:217],[ROE:115],[6ED:239],[LEB:116],[DST:140],[FRF:143])([GRN:152],[RAV:172],[RTR:73],[KLD:231],[BOK:163])([NPH:4],[5DN:86],[C14:22],[GRN:183],[DKA:12],[C13:84],[HOU:129],[M15:194],[APC:126])([DKA:142],[GRN:213],[MH1:116])
+LAYOUT SIDEBOARD:(1,6)(CMC,false,70)|([AKH:245])([DKA:64],[AKH:88],[ISD:170])([ODY:283],[MH1:234],[WAR:98])([UDS:124])([ODY:117],[SOM:94],[LEG:120],[USG:309],[RIX:82])([CN2:71])

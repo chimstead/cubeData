@@ -1,0 +1,50 @@
+1 [RTR:201] Supreme Verdict
+1 [FUT:46] Venser, Shaper Savant
+1 [NEM:30] Daze
+1 [WAR:53] God-Eternal Kefnet
+1 [MRD:257] Talisman of Unity
+1 [DOM:207] Teferi, Hero of Dominaria
+1 [ULG:36] Miscalculation
+1 [ORI:60] Jace, Vryn's Prodigy
+1 [CN2:22] Recruiter of the Guard
+1 [C17:37] Fractured Identity
+1 [ZEN:9] Day of Judgment
+1 [5DN:27] Condescend
+1 [GRN:183] Knight of Autumn
+1 [INV:57] Fact or Fiction
+1 [TSP:66] Looter il-Kor
+1 [M20:68] Mu Yanling, Sky Dancer
+1 [ELD:197] Oko, Thief of Crowns
+1 [VIS:34] Impulse
+1 [MRD:256] Talisman of Progress
+1 [WWK:95] Arbor Elf
+1 [CON:87] Noble Hierarch
+1 [ARB:75] Qasali Pridemage
+1 [MH1:232] Talisman of Curiosity
+1 [PLC:25] Mana Tithe
+1 [WWK:144] Stirring Wildwood
+1 [FUT:177] Horizon Canopy
+1 [DIS:174] Hallowed Fountain
+1 [RAV:284] Temple Garden
+1 [AKH:245] Irrigated Farmland
+1 [BFZ:239] Lumbering Falls
+1 [ONS:328] Windswept Heath
+1 [LEG:303] Karakas
+1 [UST:216] Forest
+4 [UST:213] Island
+3 [UST:212] Plains
+SB: 1 [BFZ:223] Hedron Archive
+SB: 1 [M20:56] Drawn from Dreams
+SB: 1 [ZEN:126] Goblin Guide
+SB: 1 [AKH:204] Nissa, Steward of Elements
+SB: 1 [LEA:214] Regrowth
+SB: 1 [TMP:154] Sarcomancy
+SB: 1 [MMQ:316] Dust Bowl
+SB: 1 [NEM:139] Tangle Wire
+SB: 1 [M12:72] Phantasmal Image
+SB: 1 [MIR:253] Wall of Roots
+SB: 1 [LRW:78] Pestermite
+SB: 1 [ZEN:14] Journey to Nowhere
+SB: 1 [M13:193] Thragtusk
+LAYOUT MAIN:(2,7)(CMC,true,71)|()([WWK:95],[CON:87])([ORI:60],[TSP:66],[ARB:75])([CN2:22],[GRN:183])([FUT:46],[WAR:53])()()([WWK:144],[FUT:177],[DIS:174],[RAV:284],[AKH:245],[BFZ:239],[ONS:328],[LEG:303],[UST:216],[UST:213],[UST:213],[UST:213],[UST:213],[UST:212],[UST:212],[UST:212])([PLC:25])([NEM:30],[ULG:36],[VIS:34],[MRD:256],[MH1:232],[MRD:257])([M20:68],[ELD:197])([RTR:201],[ZEN:9],[INV:57])([DOM:207],[C17:37])([5DN:27])
+LAYOUT SIDEBOARD:(1,6)(COLOR_IDENTITY,false,50)|([BFZ:223],[MMQ:316],[NEM:139])([LEA:214],[MIR:253],[M13:193])([ZEN:126])([TMP:154],[ZEN:14])([M20:56],[M12:72],[LRW:78])([AKH:204])

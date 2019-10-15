@@ -1,0 +1,50 @@
+1 [M11:70] Preordain
+1 [5DN:36] Serum Visions
+1 [P02:46] Sleight of Hand
+1 [VIS:34] Impulse
+1 [EXO:115] Oath of Druids
+1 [ALL:22a] Arcane Denial
+1 [ULG:36] Miscalculation
+1 [WTH:153] Mind Stone
+1 [MH1:234] Talisman of Resilience
+1 [TMP:308] Scroll Rack
+1 [LEB:105] Demonic Tutor
+1 [TMP:245] Rampant Growth
+1 [MMA:180] Maelstrom Pulse
+1 [LRW:213] Garruk Wildspeaker
+1 [LEG:185] Eureka
+1 [MMQ:62] Bribery
+1 [CN2:71] Selvala's Stampede
+1 [BFZ:15] Ulamog, the Ceaseless Hunger
+1 [ROE:12] Ulamog, the Infinite Gyre
+1 [NPH:9] Elesh Norn, Grand Cenobite
+1 [DTK:216] Dragonlord Atarka
+1 [SOM:223] Wurmcoil Engine
+1 [NEM:30] Daze
+1 [MH1:244] Prismatic Vista
+1 [OGW:171] Hissing Quagmire
+1 [ELD:244] Fabled Passage
+1 [RAV:279] Overgrown Tomb
+1 [ULG:143] Treetop Village
+1 [DTK:248] Evolving Wilds
+1 [MH1:249] Waterlogged Grove
+1 [ARN:71] City of Brass
+2 [GUR:1] Forest
+5 [GUR:2] Island
+2 [GUR:5] Swamp
+SB: 1 [BOK:163] Umezawa's Jitte
+SB: 1 [GPT:165] Stomping Ground
+SB: 1 [ODY:193] Firebolt
+SB: 1 [ODY:292] Psychatog
+SB: 1 [TMP:47] Soltari Trooper
+SB: 1 [6ED:326] Karplusan Forest
+SB: 1 [CHK:74] Meloku the Clouded Mirror
+SB: 1 [USG:309] Smokestack
+SB: 1 [UDS:117] Plow Under
+SB: 1 [TSP:161] Greater Gargadon
+SB: 1 [KLD:231] Scrapheap Scrounger
+SB: 1 [TMP:183] Jackal Pup
+SB: 1 [APC:130] Life // Death
+SB: 1 [KTK:119] Sarkhan, the Dragonspeaker
+LAYOUT MAIN:(1,11)(CMC,false,58)|([GUR:2],[GUR:2],[GUR:2],[GUR:2],[GUR:2],[GUR:1],[GUR:1],[GUR:5],[GUR:5])([ARN:71],[DTK:248],[ELD:244],[OGW:171],[RAV:279],[MH1:244],[ULG:143],[MH1:249])([M11:70],[5DN:36],[P02:46])([ALL:22a],[NEM:30],[LEB:105],[VIS:34],[WTH:153],[ULG:36],[EXO:115],[TMP:245],[TMP:308],[MH1:234])([MMA:180])([LEG:185],[LRW:213])([MMQ:62])([CN2:71],[SOM:223])([DTK:216],[NPH:9])([BFZ:15])([ROE:12])
+LAYOUT SIDEBOARD:(1,7)(CMC,false,50)|([GPT:165],[6ED:326])([ODY:193],[TMP:183])([BOK:163],[TMP:47],[KLD:231])([ODY:292],[APC:130])([USG:309])([CHK:74],[UDS:117],[KTK:119])([TSP:161])
