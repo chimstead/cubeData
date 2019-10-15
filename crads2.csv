@@ -7597,7 +7597,7 @@ Sacrifice Full Moon's Rise: Regenerate all Werewolf creatures you control.",Ench
 Rapacious One,Red,6,{5}{R},5,4,"Trample
 Whenever Rapacious One deals combat damage to a player, create that many 0/1 colorless Eldrazi Spawn creature tokens. They have ""Sacrifice this creature: Add {C}.""",Creature,Eldrazi Drone
 Weirded Vampire,Black,4,{3}{B},3,3,"Madness {2}{B} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)",Creature,Vampire Horror
-Oakhame Adversary,Green,4,{3}{G},2,3,"This spell costs {2} less to cast if your opponent controls a green permanent.
+Oakhame Adversary,Green,4,{3}{G},2,3,"This spell costs {2} less to cast if an opponent controls a green permanent.
 Deathtouch
 Whenever Oakhame Adversary deals combat damage to a player, draw a card.",Creature,Elf Warrior
 Shivan Sand-Mage,Red,4,{2}{R}{R},3,2,"When Shivan Sand-Mage enters the battlefield, choose one —
@@ -8709,6 +8709,8 @@ Silent Submersible,Blue,2,{U}{U},2,3,"Whenever Silent Submersible deals combat d
 Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)",Artifact,Vehicle
 Turn Aside,Blue,1,{U},,,Counter target spell that targets a permanent you control.,Instant,
 Witch's Mist,Black,3,{2}{B},,,"{2}{B}, {T}: Destroy target creature that was dealt damage this turn.",Enchantment,
+Highcliff Felidar,White,7,{5}{W}{W},5,5,"Vigilance
+When Highcliff Felidar enters the battlefield, for each opponent, choose a creature with the greatest power among creatures that player controls. Destroy those creatures.",Creature,Cat Beast
 Archangel Avacyn,White,5,{3}{W}{W},4,4,"Flash
 Flying, vigilance
 When Archangel Avacyn enters the battlefield, creatures you control gain indestructible until end of turn.
@@ -14894,6 +14896,8 @@ Faithbearer Paladin,White,5,{4}{W},3,4,Lifelink (Damage dealt by this creature a
 Living Tsunami,Blue,4,{2}{U}{U},4,4,"Flying
 At the beginning of your upkeep, sacrifice Living Tsunami unless you return a land you control to its owner's hand.",Creature,Elemental
 Foriysian Brigade,White,4,{3}{W},2,4,Foriysian Brigade can block an additional creature each combat.,Creature,Human Soldier
+Calculating Lich,Black,6,{4}{B}{B},5,5,"Menace
+Whenever a creature attacks one of your opponents, that player loses 1 life.",Creature,Zombie Wizard
 Cadaver Imp,Black,3,{1}{B}{B},1,1,"Flying
 When Cadaver Imp enters the battlefield, you may return target creature card from your graveyard to your hand.",Creature,Imp
 Azorius Keyrune,Colorless,3,{3},,,"{T}: Add {W} or {U}.
@@ -22349,6 +22353,8 @@ Glowrider,White,3,{2}{W},2,1,Noncreature spells cost {1} more to cast.,Creature,
 Searing Spear,Red,2,{1}{R},,,Searing Spear deals 3 damage to any target.,Instant,
 Worry Beads,Colorless,3,{3},,,"At the beginning of each player's upkeep, that player puts the top card of their library into their graveyard.",Artifact,
 Flamespeaker Adept,Red,3,{2}{R},2,3,"Whenever you scry, Flamespeaker Adept gets +2/+0 and gains first strike until end of turn.",Creature,Human Shaman
+Fiendish Duo,Red,6,{4}{R}{R},5,5,"First strike
+If a source would deal damage to an opponent, it deals double that damage to that player instead.",Creature,Devil
 Cloudthresher,Green,6,{2}{G}{G}{G}{G},7,7,"Flash
 Reach
 When Cloudthresher enters the battlefield, it deals 2 damage to each creature with flying and each player.
@@ -26866,6 +26872,8 @@ Saprazzan Outrigger,Blue,4,{3}{U},5,5,"When Saprazzan Outrigger attacks or block
 Molten Hydra,Red,2,{1}{R},1,1,"{1}{R}{R}: Put a +1/+1 counter on Molten Hydra.
 {T}, Remove all +1/+1 counters from Molten Hydra: It deals damage to any target equal to the number of +1/+1 counters removed this way.",Creature,Hydra
 Clam-I-Am,Blue,3,{2}{U},2,2,"If you roll a 3 on a six-sided die, you may reroll that die.",Creature,Clamfolk
+Earthshaker Giant,Green,6,{4}{G}{G},6,6,"Trample
+When Earthshaker Giant enters the battlefield, other creatures you control get +3/+3 and gain trample until end of turn.",Creature,Giant Druid
 Invocation of Saint Traft,Blue White,3,{1}{W}{U},,,"Enchant creature
 Enchanted creature has ""Whenever this creature attacks, create a 4/4 white Angel creature token with flying that's tapped and attacking. Exile that token at end of combat.""",Enchantment,Aura
 Charge Across the Araba,White,5,{4}{W},,,Sweep — Return any number of Plains you control to their owner's hand. Creatures you control get +1/+1 until end of turn for each Plains returned this way.,Instant,Arcane
@@ -29738,7 +29746,7 @@ When enchanted creature becomes the target of a spell or ability, destroy Ice Ca
 Emcee,White,3,{2}{W},0,1,"Whenever another creature enters the battlefield, you may stand up and say in a deep, booming voice, ""Presenting . . . "" and that creature's name. If you do, put a +1/+1 counter on that creature.",Creature,Human Rogue
 Glorious Anthem,White,3,{1}{W}{W},,,Creatures you control get +1/+1.,Enchantment,
 Unwind,Blue,3,{2}{U},,,Counter target noncreature spell. Untap up to three lands.,Instant,
-Steelbane Hydra,Green,2,{X}{G}{G},,,"Steelbane Hydra enters the battlefield with X +1/+1 counters on it.
+Steelbane Hydra,Green,2,{X}{G}{G},0,0,"Steelbane Hydra enters the battlefield with X +1/+1 counters on it.
 {2}{G}, Remove a +1/+1 counter from Steelbane Hydra: Destroy target artifact or enchantment.",Creature,Turtle Hydra
 Hammer of Nazahn,Colorless,4,{4},,,"Whenever Hammer of Nazahn or another Equipment enters the battlefield under your control, you may attach that Equipment to target creature you control.
 Equipped creature gets +2/+0 and has indestructible.
@@ -30084,6 +30092,8 @@ Lore Broker,Blue,2,{1}{U},1,2,"{T}: Each player draws a card, then discards a ca
 Nested Ghoul,Black,5,{3}{B}{B},4,2,"Whenever a source deals damage to Nested Ghoul, create a 2/2 black Zombie creature token.",Creature,Zombie Warrior
 Glorious End,Red,3,{2}{R},,,"End the turn. (Exile all spells and abilities on the stack, including this card. The player whose turn it is discards down to their maximum hand size. Damage wears off, and ""this turn"" and ""until end of turn"" effects end.)
 At the beginning of your next end step, you lose the game.",Instant,
+Sphinx of Enlightenment,Blue,6,{4}{U}{U},5,5,"Flying
+When Sphinx of Enlightenment enters the battlefield, target opponent draws a card and you draw three cards.",Creature,Sphinx
 Caligo Skin-Witch,Black,2,{1}{B},1,3,"Kicker {3}{B} (You may pay an additional {3}{B} as you cast this spell.)
 When Caligo Skin-Witch enters the battlefield, if it was kicked, each opponent discards two cards.",Creature,Human Wizard
 Norwood Ranger,Green,1,{G},1,2,,Creature,Elf Scout
