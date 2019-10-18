@@ -19,6 +19,7 @@ library(data.table)
 library(shiny)
 library(stats)
 
+
 #set up global dataframes and vectors
 jdd1<-read_csv("jdd_newest.csv")
 jdd7<-read_csv("jdd7.csv")
@@ -26,25 +27,30 @@ jdd20<-jdd1
 arch_c<-read_csv("arch_c.csv")
 jdd_lands<-read_csv("jdd_lands.csv")
 jdd_sb<-read_csv("jdd_sb.csv")
-
-decks<-jdd1%>%
-  group_by(deckID, colors, baseColors, splashes, sphere, archetype, powered)%>%
-  summarise(count = n())%>%
-  select(-count)
-jdd1s<-jdd1
-jdd1$color<-tolower(jdd1$color)
-jdd1$text<-tolower(jdd1$text)
-jdd1<-jdd1%>%
-  filter(!str_detect(name, '^Forest$|^Island$|^Mountain$|^Swamp$|^Plains$'))
 color_vector <- c("white", "blue", "black", "red", "green")
 none_color_vector <- c("white", "blue", "black", "red", "green", "-")
+type_vector <- unique(jdd1$types)
 sphere_vector <- c('midrange', 'ramp', 'control', 'combo', 'aggro')
 arch_vector <- c("twin", "wildfire", "opposition", "reanimator", "cheat", "artifacts", "storm", "stax",
                  "burn", "stoneforge", "armageddon", "skullclamp", "counterburn", "pox", "monowhite",
                  "monored", "naturalorder", "edric", "reveillark", "spellsmatter", "pod", "oath",
                  "fivecolor", "balance", "moat", "upheaval", "mentor", "abyss", "crucible", "superfriends",
                  "survival", "blink", "tokens", "channel")
-type_vector <- unique(jdd1$types)
+
+
+#create deck table
+decks<-jdd1%>%
+  group_by(deckID, colors, baseColors, splashes, sphere, archetype, powered)%>%
+  summarise(count = n())%>%
+  select(-count)
+
+
+#make casing easier and remove basics from one dataframe
+jdd1s<-jdd1
+jdd1$color<-tolower(jdd1$color)
+jdd1$text<-tolower(jdd1$text)
+jdd1<-jdd1%>%
+  filter(!str_detect(name, '^Forest$|^Island$|^Mountain$|^Swamp$|^Plains$'))
 
 
 # Define UI for the application
@@ -345,9 +351,9 @@ ui <- fluidPage(
         )
       )
     )
-  
   )
 )
+
 
 
 #server

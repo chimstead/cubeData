@@ -25,13 +25,9 @@ setwd("/Users/conorhimstead/Desktop/math216/finalProject/data")
 
 cube_cards<-read_csv('deckfile.csv')
 
-k<-cube_cards%>%
-  select(deckID, number, name, location, deckName)
-
-cube_cards<-k%>%
-  select(deckID, number, name, location, deckName)
 
 #Clean the data
+
 num = 0
 for (i in 1:length(cube_cards$name)){
   if(cube_cards$name[i]=="15 Mountainpar"){
@@ -53,12 +49,11 @@ cube_cards<-cube_cards%>%
          )
 
 
-
-
 cube_cards<-cube_cards%>%
   mutate(deckID = ifelse(deckID>num, deckID-1, deckID))
 unique(cube_cards$deckID)
 
+#fix names with mistakes
 cube_cards$name <- recode_factor(cube_cards$name, "Celestial Collonade" = "Celestial Colonnade",
                                  "Assassins Trophy" = "Assassin's Trophy",
                                  "Heros Downfall" = "Hero's Downfall",
@@ -206,9 +201,7 @@ cube_cards$name <- recode_factor(cube_cards$name,
 cube_cards$name <- recode_factor(cube_cards$name,
                                  "Elsepth, Suns Champion" = "Elspeth, Sun's Champion")
 
-
-
-
+#fix mismatched basics in different listings
 c3<-cube_cards%>%
   filter(str_detect(name, '^Forest$|^Island$|^Mountain$|^Swamp$|^Plains$'))%>%
   group_by(name, deckID, location, deckName)%>%
@@ -227,7 +220,7 @@ c5$name <- as.character(c5$name)
 c6<-c5%>%
   filter(str_sub(name, 1, 1) != ',')
 
-
+#fix more names
 c6<-c6%>%
   filter(name != "aggro",
          name != "for the best",
@@ -237,7 +230,6 @@ c6<-c6%>%
          name != "Storm",
          name != "Ramp",
          name != "OPPOSITION-SLAVER")
-
 
 c6$name<-recode_factor(c6$name, 
                        "Aetherligng" = "Aetherling",
@@ -312,9 +304,9 @@ c6$name<-recode_factor(c6$name,
                        "Dacks Duplicate" = "Dack's Duplicate",
                        "Insult" = "Insult // Injury")
 
-write_csv(c6, "c5.csv")
 
-#make_cards_data.R
+
+#from make_cards_data.R
 
 ##create the cards database
 
@@ -520,7 +512,7 @@ crads <- data.frame('name' = card_name,
                     'layout' = card_layout,
                     'id' = c(1:length(cards)))
 
-#remove stuff that does not matter
+#remove cards that do not matter
 omit_list = c('token', 'double_faced_token', 'scheme', 'vanguard', 'augment', 'planar', 'host', 'art_series', 'emblem')
 #make double face and split cards work, split crads first
 crads<-crads%>%
@@ -550,12 +542,11 @@ write_csv(crads2, "crads2.csv")
 #and creating the deck-level data
 
 crads2<-read_csv("crads2.csv")
-c5<-read_csv("c5.csv")
 
-joined_cards<-left_join(c5, crads2, by = c('name', 'name'))
+joined_cards<-left_join(c6, crads2, by = c('name', 'name'))
 
+#create deck color column
 dck_by_color = data.frame("deckID" = c(), 'color' = c(), "count" = c())
-
 for (i in 1:length(unique(joined_cards$deckID))){
   cd<-joined_cards%>%
     filter(deckID == i,
@@ -581,7 +572,7 @@ for (i in 1:length(unique(joined_cards$deckID))){
 }
 
 
-
+#create deck color, split into splashes and base colors
 deck_colors = rep("", length(unique(joined_cards$deckID)))
 deck_splashes = rep("", length(unique(joined_cards$deckID)))
 deck_baseColors = rep("", length(unique(joined_cards$deckID)))
@@ -608,12 +599,13 @@ for (i in 1:length(deck_colors)){
 }
 
 
-
+#create decks dataframe
 decks<-data.frame("deckID" = unique(joined_cards$deckID), 
                   "colors" = deck_colors, 
                   'baseColors' = deck_baseColors,
                   'splashes' = deck_splashes)
 
+#separate powered decks
 powered<-rep(FALSE, length(decks$deckID))
 for (i in 1:length(joined_cards$name)){
   if(joined_cards$name[i] == "Black Lotus" |
@@ -684,6 +676,7 @@ for (i in 1:length(jdd10$sphere)){
   }
 }
 
+#create archetype column
 jdd10$archetype<-rep("", length(jdd10$archetype))
 for (i in 1:length(jdd10$archetype)){
   if (str_detect(tolower(jdd10$deckName[i]), "kiki")|str_detect(tolower(jdd10$deckName[i]), "twin")){
@@ -819,6 +812,7 @@ write_csv(jdd10, "jdd_newest.csv")
 jdd1<-read_csv("jdd_newest.csv")
 
 
+#add card pip totals
 jdd2<-jdd1%>%
   filter(!str_detect(jdd1$types, "Land"),
          !powered)%>%
@@ -827,7 +821,7 @@ jdd2<-jdd1%>%
   mutate(pips = str_count(manaCost, "\\{(B|G|W|R|U)\\}"))
 
 
-
+#fix cmc pip totals for strange cards
 for (i in 1:length(jdd2$pips)){
   if(is.na(jdd2$pips[i])){
     jdd2$pips[i] <- '-'
@@ -872,6 +866,7 @@ for (i in 1:length(jdd2$pips)){
 
 jdd3<-jdd2
 
+#more card info
 jdd3$colorType <-rep("", length(jdd3$name))
 for (i in 1:length(jdd3$name)){
   if(jdd3$color[i] == "Colorless"){
@@ -883,7 +878,7 @@ for (i in 1:length(jdd3$name)){
   }
 }
 
-
+#how cards compare to others within their categories
 jdd3$colordiff<-rep("", length(jdd3$name))
 jdd3$cmcdiff<-rep("", length(jdd3$name))
 jdd3$pipdiff<-rep("", length(jdd3$name))
@@ -933,16 +928,19 @@ for (i in 1:length(jdd3$pips)){
 }
 
 
+
 jdd3<-jdd3%>%
   mutate(power = sum(as.numeric(pipdiff), 
                      as.numeric(colordiff), 
                      as.numeric(cmcdiff), 
                      as.numeric(colortypediff)))
 
+#account for heavier commitments to 1 drops that must be played on curve
 jdd6<-jdd3%>%
   mutate(colorCommitment = ifelse(str_detect(types, "Creature") | str_detect(color, "Black"), (power + 5) * as.numeric(pips)/cmc, 
                                   (power + 5) * as.numeric(pips)/(cmc + 2)))
 
+#calculate new color commitments
 jdd7<-jdd6%>%
   mutate(newcc = ifelse(is.na(max(log(colorCommitment), 0))|is.nan(max(log(colorCommitment), 0)), 
                         0,
