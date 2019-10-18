@@ -14,6 +14,7 @@ library(leaflet)
 library(stringr)
 library(rvest)
 library(data.table)
+
 library(shiny)
 library(stats)
 library(openintro)

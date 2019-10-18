@@ -56,7 +56,7 @@ jdd1<-jdd1%>%
 # Define UI for the application
 ui <- fluidPage(
    
-  tabsetPanel(id = "tabset1",
+   tabsetPanel(id = "tabset1",
     tabPanel(
      title = "Description",
      value = "desc",
