@@ -6,4 +6,4 @@ This repository contains the app's code (app.R in /apperino), supplemental .csv 
 
 * **Conor Himstead**
 
-See also the [discord server](https://github.com/your/project/contributors) that inspired, oversaw, and provided the data for this project.
+See also the [discord server](https://github.com/your/project/contributors) that inspired, tested, and provided the data for this project.
