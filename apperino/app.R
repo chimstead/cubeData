@@ -19,9 +19,10 @@ library(data.table)
 library(shiny)
 library(stats)
 
+#set up global dataframes and vectors
 jdd1<-read_csv("jdd_newest.csv")
 jdd7<-read_csv("jdd7.csv")
-jdd20<-read_csv("jdd_newest.csv")
+jdd20<-jdd1
 arch_c<-read_csv("arch_c.csv")
 jdd_lands<-read_csv("jdd_lands.csv")
 jdd_sb<-read_csv("jdd_sb.csv")
@@ -45,7 +46,8 @@ arch_vector <- c("twin", "wildfire", "opposition", "reanimator", "cheat", "artif
                  "survival", "blink", "tokens", "channel")
 type_vector <- unique(jdd1$types)
 
-# Define UI for application that draws a histogram
+
+# Define UI for the application
 ui <- fluidPage(
    
   tabsetPanel(id = "tabset1",
@@ -69,18 +71,10 @@ ui <- fluidPage(
      actionLink("link_to_draftbot", "DraftBot Tab:"),
      p("Let our algorithm make your picks for you!")
      ),
-#    tabPanel(
-#      title = "Test",
-#      value = "test",
-#      titlePanel("Test"),
-#      DTOutput(outputId = "ttb")
-#    ),
     tabPanel(
      title = "Cards",
      value = "cards",
      titlePanel("3-0 Frequency by Card"),
-     
-     # Sidebar with a slider input for number of bins 
      sidebarLayout(
        sidebarPanel(
          checkboxInput(inputId = 'nbs',
@@ -394,17 +388,8 @@ server <- function(input, output, session) {
      }
    })
    
-   #########################################################
-   #test
-   #########################################################
    
-
-   
-   
-   #########################################################
-   
-   
-   
+   #cards table
    output$tb <- renderDT({
      
      #exclude sideboard
@@ -502,6 +487,7 @@ server <- function(input, output, session) {
      pageLength = 15)
    )
    
+   #decks table
    output$dtb <- renderDT({
      decksout<-decks
      #exclude powered decks
@@ -633,6 +619,7 @@ server <- function(input, output, session) {
    }, options = list(
      pageLength = 40))
    
+   #numdecks and numcards text fields display number of decks and unique cards
    output$numdecks<-renderText({
      not_decks = FALSE
      stbout2<-jdd1s%>%
@@ -677,6 +664,7 @@ server <- function(input, output, session) {
      }
    })
    
+   #cmc chart
    output$scurve<-renderPlot({
      not_decks = FALSE
      stbout<-jdd1s%>%
@@ -714,6 +702,7 @@ server <- function(input, output, session) {
      }
    })
    
+   #supertype chart
    output$stypes<-renderPlot({
      not_decks = FALSE
      stbout<-jdd1s%>%
@@ -750,6 +739,7 @@ server <- function(input, output, session) {
      }
    })
    
+   #card color chart
    output$scolors<-renderPlot({
      not_decks = FALSE
      stbout<-jdd1s%>%
@@ -795,6 +785,7 @@ server <- function(input, output, session) {
      }
    })
    
+   #handle link from decks tab to deckstats tab
    observeEvent(input$linkdecks, {
      if(!is.null(rv$value)){
        v<-rv$value
@@ -816,6 +807,7 @@ server <- function(input, output, session) {
      }
    })
    
+   #description page links
    observeEvent(input$link_to_cards, {
      updateTabsetPanel(session, "tabset1", selected = "cards")
    })
@@ -832,7 +824,8 @@ server <- function(input, output, session) {
      updateTabsetPanel(session, "tabset1", selected = "draftbot")
    })
    
-   #draftbot
+   
+   #draftbot tables
    output$clrtb <- renderTable({
      input$go
      cv<-makecv(strsplit(isolate(input$pool), "\\|"))
@@ -931,18 +924,8 @@ server <- function(input, output, session) {
 #
 #
 #
-#
-#
-#
-#
-#
-#
-#
-#define functions
-#
-#
-#
-#
+
+#filter cards by multiple colors
 filter_multi <- function(inp, jddout){
   
   neg_color = c()
@@ -972,7 +955,7 @@ filter_multi <- function(inp, jddout){
 
 
 
-#sphere filter 1
+#card sphere filter (is exactly)
 isex <- function(inp, jddout){
   issph<-rep(TRUE, length(jddout$sphere))
   spheres<-str_split(jddout$sphere, ' ')
@@ -997,7 +980,7 @@ isex <- function(inp, jddout){
   return(jddout)
 }
 
-#sphere filter 2
+#card sphere filter (contains only)
 contonly <- function(inp, jddout){
   
   neg_sphere = c()
@@ -1026,7 +1009,7 @@ contonly <- function(inp, jddout){
   return(jddout)
 }
 
-#sphere filter 3
+#card sphere filter (includes)
 incl <- function(inp, jddout){
   issph<-rep(FALSE, length(jddout$sphere))
   for (i in 1:length(jddout$sphere)){
@@ -1045,7 +1028,7 @@ incl <- function(inp, jddout){
   return(jddout)
 }
 
-#archetype filter 1
+#card archetype filter (includes)
 aincl <- function(inp, jddout){
   isarch<-rep(FALSE, length(jddout$archetype))
   for (i in 1:length(jddout$archetype)){
@@ -1064,7 +1047,7 @@ aincl <- function(inp, jddout){
   return(jddout)
 }
 
-#archetype filter 2
+#card archetype filter (is exactly)
 aisex <- function(inp, jddout){
   isarch<-rep(TRUE, length(jddout$archetype))
   archetypes<-str_split(jddout$archetype, ' ')
@@ -1089,7 +1072,7 @@ aisex <- function(inp, jddout){
   return(jddout)
 }
 
-#archetype filter 3
+#card archetype filter (contains only)
 acontonly <- function(inp, jddout){
   
   
@@ -1141,6 +1124,7 @@ jdd_to_out<-function(table_to_output){
   return(t)
 }
 
+#filter decks by multiple colors
 dfilter_multi <- function(inp, decksout){
   
   neg_color = c()
@@ -1167,7 +1151,7 @@ dfilter_multi <- function(inp, decksout){
     select(-iscol)
   return(decksout)
 }
-
+#filter decks by multiple base colors
 dfilter_base_multi <- function(inp, decksout){
   
   neg_color = c()
@@ -1195,7 +1179,7 @@ dfilter_base_multi <- function(inp, decksout){
   return(decksout)
 }
 
-#filter splash colors
+#filter deck by multiple splash colors
 dfilter_splash_multi <- function(inp, decksout){
   
   neg_color = c()
@@ -1223,7 +1207,7 @@ dfilter_splash_multi <- function(inp, decksout){
   return(decksout)
 }
 
-#sphere filter 1
+#deck sphere filter (is exactly)
 disex <- function(inp, decksout){
   issph<-rep(TRUE, length(decksout$sphere))
   spheres<-str_split(decksout$sphere, ' ')
@@ -1248,7 +1232,7 @@ disex <- function(inp, decksout){
   return(decksout)
 }
 
-#sphere filter 2
+#deck sphere filter (contains only)
 dcontonly <- function(inp, decksout){
   
   neg_sphere = c()
@@ -1277,7 +1261,7 @@ dcontonly <- function(inp, decksout){
   return(decksout)
 }
 
-#sphere filter 3
+#deck sphere filter (includes)
 dincl <- function(inp, decksout){
   issph<-rep(FALSE, length(decksout$sphere))
   for (i in 1:length(decksout$sphere)){
@@ -1296,7 +1280,7 @@ dincl <- function(inp, decksout){
   return(decksout)
 }
 
-#archetype filter 1
+#deck archetype filter (includes)
 daincl <- function(inp, decksout){
   isarch<-rep(FALSE, length(decksout$archetype))
   for (i in 1:length(decksout$archetype)){
@@ -1315,7 +1299,7 @@ daincl <- function(inp, decksout){
   return(decksout)
 }
 
-#archetype filter 2
+#deck archetype filter (is exactly)
 daisex <- function(inp, decksout){
   isarch<-rep(TRUE, length(decksout$archetype))
   archetypes<-str_split(decksout$archetype, ' ')
@@ -1340,7 +1324,7 @@ daisex <- function(inp, decksout){
   return(decksout)
 }
 
-#archetype filter 3
+#deck archetype filter (contains only)
 dacontonly <- function(inp, decksout){
   
 
@@ -1369,6 +1353,7 @@ dacontonly <- function(inp, decksout){
   return(decksout)
 }
 
+#deck stats supertype table helper function
 split_types <- function(stbout){
   stb15<-stbout%>%
     filter(FALSE)
@@ -1383,6 +1368,8 @@ split_types <- function(stbout){
   return(stb15)
 }
 
+
+#turns card list into vector
 makecv <- function(cardlist){
   cv<-unlist(cardlist)
   cv<-str_replace_all(cv, "^(\\s)*", "")
@@ -1391,7 +1378,7 @@ makecv <- function(cardlist){
   return(cv)
 }
 
-
+#calculates color commitment
 createcc<-function(pool, jdd7){
   color_commitment = data_frame("color" = c("White", "Blue", "Black", "Red", "Green"), 
                                 "commitment" = rep(0, 5))
@@ -1428,6 +1415,7 @@ createcc<-function(pool, jdd7){
   return(color_commitment)
 }
 
+#calculates sphere commitment 
 createsph<-function(spool, jdd20){
   sphere_commitment = data_frame("sphere" = c("midrange", "aggro", "control", "ramp", "combo"), "commitment" = rep(0, 5))
   if(length(spool) == 0){
@@ -1469,7 +1457,7 @@ createsph<-function(spool, jdd20){
   return(sphere_commitment)
 }
 
-
+#calculates arch commitment
 createarch<-function(apool, jdd20){
   arch_commitment = data_frame("arch" = arch_vector,
                                "commitment" = rep(0, length(arch_vector)))
@@ -1484,7 +1472,7 @@ createarch<-function(apool, jdd20){
   return(arch_commitment)
 }
 
-
+#determine pool cards' color values
 makeColorVals <- function(pack, pool){
   currentcolors = createcc(pool, jdd7)
   colorVector = rep(0, length(pack))
@@ -1539,7 +1527,7 @@ makeColorVals <- function(pack, pool){
   return(colorVector)
 }
 
-
+#determine pool cards' sphere values
 makeSphereVals <- function(pack, pool){
   currentsphere = createsph(pool, jdd20)
   sphVector = rep(0, length(pack))
@@ -1562,6 +1550,7 @@ makeSphereVals <- function(pack, pool){
   }
 }
 
+#calculates pool cards' archetype values
 makeArchVals <- function(pack, pool){
   currentarch = createarch(pool, jdd20)
   archVector = rep(0, length(pack))
@@ -1584,7 +1573,7 @@ makeArchVals <- function(pack, pool){
   return(archVector)
 }
 
-
+#returns pool cards' power values
 makePowerVals<- function(pack){
   powervals <- rep(0, length(pack))
   if(length(pack) !=0){
@@ -1606,7 +1595,7 @@ makePowerVals<- function(pack){
   return(powervals)
 }
 
-
+#adds up values to create overall pool card value column
 add_evs<-function(df){
   if(length(df$Name)>0){
     df$Value = rep(0, length(df$Name))
