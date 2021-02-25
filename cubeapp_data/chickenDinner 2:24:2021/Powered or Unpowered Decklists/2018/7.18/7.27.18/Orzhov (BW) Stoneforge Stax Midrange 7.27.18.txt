@@ -1,0 +1,55 @@
+1 [TMP:332] Plains
+1 [TMP:331] Plains
+1 [TMP:334] Plains
+1 [ODY:117] Braids, Cabal Minion
+1 [TMP:333] Plains
+1 [RTR:73] Pack Rat
+1 [4ED:34] Land Tax
+1 [ROE:115] Inquisition of Kozilek
+1 [STH:138] Mox Diamond
+1 [FEM:38a] Hymn to Tourach
+1 [USG:309] Smokestack
+1 [C16:56] Ash Barrens
+1 [EMN:40] Selfless Spirit
+1 [CON:15] Path to Exile
+1 [MBS:138] Sword of Feast and Famine
+1 [LEG:303] Karakas
+1 [DKA:12] Lingering Souls
+1 [WWK:20] Stoneforge Mystic
+1 [DKA:142] Sorin, Lord of Innistrad
+1 [LRW:145] Thoughtseize
+1 [THS:9] Elspeth, Sun's Champion
+1 [GTC:242] Godless Shrine
+1 [ISD:105] Liliana of the Veil
+1 [TMP:341] Swamp
+1 [TMP:340] Swamp
+1 [MMQ:324] Rishadan Port
+1 [TMP:342] Swamp
+1 [C13:84] Ophiomancer
+1 [MRD:152] Chrome Mox
+1 [NPH:130] Batterskull
+1 [DST:140] Skullclamp
+1 [3ED:286] Scrubland
+1 [APC:126] Vindicate
+1 [MOR:58] Bitterblossom
+1 [DST:148] Sword of Fire and Ice
+1 [ZEN:219] Marsh Flats
+2 [TMP:339] Swamp
+1 [MBS:8] Hero of Bladehold
+1 [BFZ:244] Shambling Vent
+SB: 1 [C14:22] Flesh Carver
+SB: 1 [PTK:17] Ravages of War
+SB: 1 [5DN:126] Grafted Wargear
+SB: 1 [DOM:14] Dauntless Bodyguard
+SB: 1 [BFZ:109] Drana, Liberator of Malakir
+SB: 1 [M15:194] Reclamation Sage
+SB: 1 [TMP:281] Cursed Scroll
+SB: 1 [SOI:5] Archangel Avacyn
+SB: 1 [EXO:53] Carnophage
+SB: 1 [TMP:315] Ancient Tomb
+SB: 1 [JOU:72] Gnarled Scarhide
+SB: 1 [3ED:99] Dark Ritual
+SB: 1 [BFZ:29] Gideon, Ally of Zendikar
+SB: 1 [XLN:1] Adanto Vanguard
+LAYOUT MAIN:(2,9)(CMC,true,56)|()()([WWK:20],[RTR:73],[EMN:40])([C13:84])([MBS:8],[ODY:117])()()([LEG:303],[MMQ:324])([3ED:286],[ZEN:219],[BFZ:244],[C16:56],[GTC:242])([TMP:332],[TMP:334],[TMP:333],[TMP:331],[TMP:339],[TMP:342],[TMP:339],[TMP:341],[TMP:340])([4ED:34],[CON:15],[LRW:145],[ROE:115],[DST:140])([FEM:38a],[MOR:58])([DST:148],[DKA:12],[ISD:105],[MBS:138],[APC:126])([DKA:142],[USG:309])([NPH:130])([THS:9])([STH:138],[MRD:152])()
+LAYOUT SIDEBOARD:(1,6)(COLOR,false,50)|([5DN:126],[TMP:281])([BFZ:109],[EXO:53],[3ED:99],[JOU:72])([M15:194])([DOM:14],[BFZ:29],[XLN:1],[SOI:5],[PTK:17])([TMP:315])([C14:22])

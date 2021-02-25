@@ -1,0 +1,49 @@
+1 [THS:9] Elspeth, Sun's Champion
+1 [INV:57] Fact or Fiction
+1 [C17:37] Fractured Identity
+1 [NPH:42] Phyrexian Metamorph
+1 [ROE:53] Wall of Omens
+1 [USG:318] Worn Powerstone
+1 [MBS:10] Leonin Relic-Warder
+1 [RTR:200] Sphinx's Revelation
+1 [RAV:260] Dimir Signet
+1 [2ED:84] Time Walk
+1 [M11:58] Jace Beleren
+1 [UDS:50] Treachery
+1 [4ED:64] Control Magic
+1 [DIS:159] Azorius Signet
+1 [MRD:53] Thirst for Knowledge
+1 [FRF:27] Soulfire Grand Master
+1 [M12:73] Ponder
+1 [ULG:36] Miscalculation
+1 [M20:69] Negate
+1 [ZEN:14] Journey to Nowhere
+1 [NEM:30] Daze
+1 [10E:61] Wrath of God
+1 [STH:138] Mox Diamond
+1 [3ED:289] Tundra
+1 [SOM:229] Seachrome Coast
+1 [KTK:248] Windswept Heath
+1 [WWK:133] Celestial Colonnade
+7 [UNH:137] Island
+6 [UNH:136] Plains
+SB: 1 [SCG:75] Tendrils of Agony
+SB: 1 [USG:171] Yawgmoth's Will
+SB: 1 [APC:128] Fire // Ice
+SB: 1 [DKA:24] Thalia, Guardian of Thraben
+SB: 1 [WWK:20] Stoneforge Mystic
+SB: 1 [UMA:11] Containment Priest
+SB: 1 [GRN:205] Thief of Sanity
+SB: 1 [DOM:26] Lyra Dawnbringer
+SB: 1 [ULG:129] Memory Jar
+SB: 1 [ATQ:81] Mishra's Workshop
+SB: 1 [THS:33] Spear of Heliod
+SB: 1 [ISD:213] Geist of Saint Traft
+SB: 1 [SOI:247] Nahiri, the Harbinger
+SB: 1 [RNA:259] Stomping Ground
+SB: 1 [KLD:243] Blooming Marsh
+SB: 1 [GRN:253] Overgrown Tomb
+SB: 1 [CHK:163] Desperate Ritual
+SB: 1 [AVR:32] Restoration Angel
+LAYOUT MAIN:(1,8)(CMC,false,51)|([UNH:137],[UNH:137],[UNH:137],[UNH:137],[UNH:137],[UNH:137],[UNH:137],[UNH:136],[UNH:136],[UNH:136],[UNH:136],[UNH:136],[UNH:136])([WWK:133],[SOM:229],[3ED:289],[KTK:248],[STH:138])([M12:73])([DIS:159],[NEM:30],[RAV:260],[ZEN:14],[MBS:10],[ULG:36],[M20:69],[FRF:27],[2ED:84],[ROE:53])([M11:58],[MRD:53],[USG:318])([4ED:64],[INV:57],[NPH:42],[10E:61])([C17:37],[UDS:50])([THS:9],[RTR:200])
+LAYOUT SIDEBOARD:(1,6)(CMC,false,50)|([ATQ:81])([DKA:24],[WWK:20],[UMA:11],[CHK:163])([USG:171],[GRN:205],[THS:33],[ISD:213])([SCG:75],[APC:128],[SOI:247],[AVR:32])([DOM:26],[ULG:129])([RNA:259],[KLD:243],[GRN:253])

@@ -1,0 +1,54 @@
+2021
+1.31.21
+1 [ZNR:145] Kargan Intimidator
+1 [EMA:150] Sulfuric Vortex
+1 [VMA:153] Chain Lightning
+1 [A25:141] Lightning Bolt
+1 [AKH:148] Soul-Scar Mage
+1 [ELD:115] Bonecrusher Giant
+1 [UMA:155] Young Pyromancer
+1 [LRW:139] Shriekmaw
+1 [ELD:138] Robber of the Rich
+1 [DKA:93] Hellrider
+1 [KLD:199] Bomat Courier
+1 [C20:251] Skullclamp
+1 [MM2:109] Burst Lightning
+1 [E01:58] Stormblood Berserker
+1 [ELD:120] Embercleave
+1 [GRN:103] Goblin Cratermaker
+1 [DTK:224] Kolaghan's Command
+1 [RNA:185] Judith, the Scourge Diva
+1 [JVC:49] Firebolt
+1 [ZEN:126] Goblin Guide
+1 [MM2:75] Dark Confidant
+1 [IKO:366] Heartless Act
+1 [EMN:85] Collective Brutality
+1 [C13:84] Ophiomancer
+2 [ZNR:276] Mountain
+4 [ZNR:275] Mountain
+3 [ZNR:277] Mountain
+2 [ZNR:274] Swamp
+1 [ZNR:273] Swamp
+1 [V10:10] Mox Diamond
+1 [RTR:238] Blood Crypt
+1 [ZEN:223] Scalding Tarn
+1 [ZEN:211] Arid Mesa
+SB: 1 [EMA:92] Hymn to Tourach
+SB: 1 [ZNR:115] Nighthawk Scavenger
+SB: 1 [IMA:82] Bloodghast
+SB: 1 [ZNR:106] Hagra Mauling
+SB: 1 [MH1:81] Carrion Feeder
+SB: 1 [ZNR:125] Skyclave Shade
+SB: 1 [ZNR:336] Agadeem's Awakening
+SB: 1 [ZNR:262] Crawling Barrens
+SB: 1 [CN2:80] Throne of the High City
+SB: 1 [KTK:59] Treasure Cruise
+SB: 1 [OGW:86] Kalitas, Traitor of Ghet
+SB: 1 [MH1:116] Yawgmoth, Thran Physician
+SB: 1 [FRF:90] Alesha, Who Smiles at Death
+SB: 1 [RTR:172] Izzet Charm
+SB: 1 [BFZ:109] Drana, Liberator of Malakir
+SB: 1 [AKH:88] Dread Wanderer
+SB: 1 [HOU:83] Abrade
+LAYOUT MAIN:(2,6)(CMC,true,50)|()([AKH:148],[KLD:199],[ZEN:126])([ZNR:145],[UMA:155],[ELD:138],[E01:58],[GRN:103],[MM2:75])([RNA:185],[C13:84])([DKA:93])()([ZNR:276],[ZNR:275],[ZNR:275],[ZNR:277],[ZNR:275],[ZNR:277],[ZNR:276],[ZNR:277],[ZNR:275],[ZNR:274],[ZNR:273],[V10:10],[RTR:238],[ZEN:223],[ZEN:211],[ZNR:274])([VMA:153],[A25:141],[C20:251],[MM2:109],[JVC:49])([LRW:139],[ELD:115],[IKO:366],[EMN:85])([EMA:150],[DTK:224])()([ELD:120])
+LAYOUT SIDEBOARD:(1,4)(COLOR,false,50)|([EMA:92],[ZNR:115],[AKH:88],[IMA:82],[ZNR:106],[MH1:81],[ZNR:336],[BFZ:109],[OGW:86],[MH1:116])([ZNR:125])([FRF:90])([HOU:83])

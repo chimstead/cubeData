@@ -1,10 +1,13 @@
+2018
+2.18
+2.25.18
 1 Hallowed Fountain
 1 Faerie Conclave
 1 Treetop Village
 1 Celestial Colonnade
 1 Yavimaya Coast
 1 City of Brass
-1 Mishra’s Factory
+1 Mishra's Factory
 1 Karakas
 1 Breeding Pool
 1 Wooded Foothills
@@ -18,7 +21,7 @@
 1 Swords to Plowshares
 1 Phantasmal Image
 1 Sylvan Caryatid
-1 Umezawa’s Jitte
+1 Umezawa's Jitte
 1 Survival of the Fittest
 1 Arcane Denial
 1 Thalia, Heretic Cathar

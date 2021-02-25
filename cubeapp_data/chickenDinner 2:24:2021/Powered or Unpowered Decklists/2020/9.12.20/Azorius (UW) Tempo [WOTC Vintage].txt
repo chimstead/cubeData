@@ -1,0 +1,49 @@
+1 [LRW:78] Pestermite
+1 [4ED:363] Strip Mine
+1 [AVR:36] Silverblade Paladin
+1 [ICE:54] Swords to Plowshares
+1 [RNA:251] Hallowed Fountain
+1 [TSP:73] Riftwing Cloudskate
+1 [7ED:67] Counterspell
+1 [LEG:65] Mana Drain
+1 [NEM:30] Daze
+1 [MMQ:324] Rishadan Port
+1 [ORI:60] Jace, Vryn's Prodigy
+1 [M12:63] Mana Leak
+1 [CON:15] Path to Exile
+1 [FUT:46] Venser, Shaper Savant
+1 [8ED:64] Bribery
+1 [WWK:133] Celestial Colonnade
+1 [MB1:440] Mystic Confluence
+1 [XLN:1] Adanto Vanguard
+1 [M12:16] Gideon Jura
+1 [MBS:21] Consecrated Sphinx
+1 [TMP:330] Wasteland
+1 [WWK:31] Jace, the Mind Sculptor
+1 [LEG:303] Karakas
+1 [ORI:23] Kytheon, Hero of Akros
+1 [BBD:25] Brightling
+1 [ULG:14] Mother of Runes
+1 [NPH:33] Deceiver Exarch
+1 [ZEN:11] Emeria Angel
+7 [UST:213] Island
+5 [UST:212] Plains
+SB: 1 [MED:RA6] Dack Fayden
+SB: 1 [2XM:131] Imperial Recruiter
+SB: 1 [DTK:169] Zurgo Bellstriker
+SB: 1 [M12:145] Grim Lavamancer
+SB: 1 [MOR:22] Reveillark
+SB: 1 [KLD:110] Chandra, Torch of Defiance
+SB: 1 [SUM:290] Underground Sea
+SB: 1 [5ED:140] Animate Dead
+SB: 1 [ODY:132] Entomb
+SB: 1 [USG:134] Exhume
+SB: 1 [CHK:62] Gifts Ungiven
+SB: 1 [M11:154] Pyroclasm
+SB: 1 [DOM:143] Siege-Gang Commander
+SB: 1 [HOU:83] Abrade
+SB: 1 [MIR:141] Shallow Grave
+SB: 1 [PLS:60] Flametongue Kavu
+SB: 1 [M12:12] Day of Judgment
+LAYOUT MAIN:(1,7)(CMC,false,71)|([4ED:363],[RNA:251],[MMQ:324],[WWK:133],[TMP:330],[LEG:303],[UST:213],[UST:213],[UST:213],[UST:213],[UST:213],[UST:213],[UST:213],[UST:212],[UST:212],[UST:212],[UST:212],[UST:212])([ICE:54],[CON:15],[ORI:23],[ULG:14])([7ED:67],[LEG:65],[NEM:30],[ORI:60],[M12:63],[XLN:1])([LRW:78],[AVR:36],[BBD:25],[NPH:33])([FUT:46],[WWK:31],[ZEN:11])([TSP:73],[8ED:64],[MB1:440],[M12:16])([MBS:21])
+LAYOUT SIDEBOARD:(1,6)(COLOR,false,82)|([SUM:290])([5ED:140],[ODY:132],[USG:134],[MIR:141])([CHK:62])([2XM:131],[DTK:169],[M12:145],[KLD:110],[M11:154],[DOM:143],[HOU:83],[PLS:60])([MOR:22],[M12:12])([MED:RA6])

@@ -1,0 +1,37 @@
+1 Sacred Foundry
+1 Volcanic Island
+1 Celestial Colonnade
+1 Hallowed Fountain
+1 Grand Coliseum
+1 Marsh Flats
+1 Polluted Delta
+1 Tundra
+1 Scrubland
+4 Island
+1 Mountain
+1 Plains
+1 Swamp
+1 Preordain
+1 Mystical Tutor
+1 Ponder
+1 Journey to Nowhere
+1 Snapcaster Mage
+1 Izzet Signet
+1 Izzet Charm
+1 Mind Stone
+1 Search for Azcanta
+1 Gruul Signet
+1 Lingering Souls
+1 Coalition Relic
+1 Vindicate
+1 Monastery Mentor
+1 Dack Fayden
+1 Toxic Deluge
+1 Jace, the Mind Sculptor
+1 Armageddon
+1 Ajani Vengeant
+1 Meloku the Clouded Mirror
+1 Keranos, God of Storms
+1 Wurmcoil Engine
+1 Upheaval
+1 Nicol Bolas, Planeswalker

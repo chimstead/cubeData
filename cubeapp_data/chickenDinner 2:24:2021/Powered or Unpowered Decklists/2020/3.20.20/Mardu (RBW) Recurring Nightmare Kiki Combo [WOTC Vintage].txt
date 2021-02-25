@@ -1,0 +1,50 @@
+1 [DST:140] Skullclamp
+1 [4ED:147] Mind Twist
+1 [EVE:139] Figure of Destiny
+1 [M14:163] Young Pyromancer
+1 [M12:146] Incinerate
+1 [XLN:110] Kitesail Freebooter
+1 [RAV:262] Golgari Signet
+1 [DIS:165] Rakdos Signet
+1 [C13:84] Ophiomancer
+1 [EXO:72] Recurring Nightmare
+1 [GRN:82] Plaguecrafter
+1 [FUT:101] Magus of the Moon
+1 [M20:111] Rotting Regisaur
+1 [AVR:32] Restoration Angel
+1 [CHK:175] Kiki-Jiki, Mirror Breaker
+1 [RIX:82] Ravenous Chupacabra
+1 [KLD:84] Gonti, Lord of Luxury
+1 [M12:98] Grave Titan
+1 [AER:181] Walking Ballista
+1 [KLD:110] Chandra, Torch of Defiance
+1 [VMA:266] Coercive Portal
+1 [DOM:1] Karn, Scion of Urza
+1 [TMP:151] Reanimate
+1 [MH1:244] Prismatic Vista
+1 [2ED:263] Mox Jet
+1 [WAR:244] Blast Zone
+1 [WWK:139] Lavaclaw Reaches
+1 [ZEN:211] Arid Mesa
+1 [LEG:303] Karakas
+1 [TMP:330] Wasteland
+1 [BFZ:244] Shambling Vent
+5 [THB:253] Mountain
+1 [THB:250] Plains
+3 [THB:252] Swamp
+SB: 1 [M12:147] Inferno Titan
+SB: 1 [GRN:183] Knight of Autumn
+SB: 1 [THS:223] Nykthos, Shrine to Nyx
+SB: 1 [PLC:85] Damnation
+SB: 1 [TSP:216] Search for Tomorrow
+SB: 1 [MBS:46] Massacre Wurm
+SB: 1 [ELD:171] Questing Beast
+SB: 1 [6ED:4] Armageddon
+SB: 1 [M14:228] Mutavault
+SB: 1 [M11:175] Garruk Wildspeaker
+SB: 1 [THS:33] Spear of Heliod
+SB: 1 [TOR:77] Putrid Imp
+SB: 1 [M11:154] Pyroclasm
+SB: 1 [ELD:191] Garruk, Cursed Huntsman
+LAYOUT MAIN:(1,7)(CMC,false,81)|([MH1:244],[2ED:263],[WAR:244],[WWK:139],[ZEN:211],[LEG:303],[TMP:330],[BFZ:244],[THB:253],[THB:253],[THB:253],[THB:253],[THB:250],[THB:252],[THB:252],[THB:252],[THB:253])([DST:140],[4ED:147],[EVE:139],[TMP:151],[AER:181])([M14:163],[M12:146],[XLN:110],[RAV:262],[DIS:165])([C13:84],[EXO:72],[GRN:82],[FUT:101],[M20:111])([AVR:32],[RIX:82],[KLD:84],[KLD:110],[VMA:266],[DOM:1])([CHK:175])([M12:98])
+LAYOUT SIDEBOARD:(1,6)(CMC,false,61)|([THS:223],[M14:228])([TOR:77])([M11:154])([GRN:183],[TSP:216],[THS:33])([PLC:85],[ELD:171],[6ED:4],[M11:175])([M12:147],[MBS:46],[ELD:191])

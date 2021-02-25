@@ -1,0 +1,49 @@
+1 [THS:9] Elspeth, Sun's Champion
+1 [XLN:179] Carnage Tyrant
+1 [M19:208] Vivien Reid
+1 [M13:174] Garruk, Primal Hunter
+1 [DOM:207] Teferi, Hero of Dominaria
+1 [7ED:92] Opposition
+1 [M11:175] Garruk Wildspeaker
+1 [C16:195] Edric, Spymaster of Trest
+1 [OGW:138] Nissa, Voice of Zendikar
+1 [GRN:183] Knight of Autumn
+1 [EMN:189] Spell Queller
+1 [NPH:19] Porcelain Legionnaire
+1 [SOM:208] Sword of Body and Mind
+1 [WWK:20] Stoneforge Mystic
+1 [M12:63] Mana Leak
+1 [THS:180] Sylvan Caryatid
+1 [M12:165] Birds of Paradise
+1 [ICE:54] Swords to Plowshares
+1 [BNG:149] Kiora, the Crashing Wave
+1 [M15:187] Nissa, Worldwaker
+1 [M13:193] Thragtusk
+1 [LRW:76] Mulldrifter
+1 [M12:16] Gideon Jura
+1 [2ED:262] Mox Emerald
+1 [2ED:264] Mox Pearl
+1 [MRD:152] Chrome Mox
+1 [RNA:246] Breeding Pool
+1 [3ED:285] Savannah
+1 [BFZ:239] Lumbering Falls
+1 [2ED:263] Mox Jet
+1 [3ED:289] Tundra
+1 [KTK:249] Wooded Foothills
+1 [GRN:258] Temple Garden
+1 [KTK:248] Windswept Heath
+1 [LEG:303] Karakas
+1 [RNA:251] Hallowed Fountain
+3 [3ED:304] Forest
+1 [3ED:293] Plains
+SB: 1 [3ED:274] Sol Ring
+SB: 1 [ULG:45] Tinker
+SB: 1 [TSP:216] Search for Tomorrow
+SB: 1 [6ED:161] Vampiric Tutor
+SB: 1 [SHM:229] Kitchen Finks
+SB: 1 [ROE:47] Student of Warfare
+SB: 1 [M14:7] Banisher Priest
+SB: 1 [M11:172] Fauna Shaman
+SB: 1 [HOU:129] Ramunap Excavator
+LAYOUT MAIN:(1,7)(CMC,false,50)|([2ED:262],[2ED:264],[MRD:152],[RNA:246],[3ED:285],[BFZ:239],[2ED:263],[3ED:289],[KTK:249],[GRN:258],[KTK:248],[LEG:303],[RNA:251],[3ED:304],[3ED:304],[3ED:304],[3ED:293])([M12:165],[ICE:54])([WWK:20],[M12:63],[THS:180])([C16:195],[OGW:138],[GRN:183],[EMN:189],[NPH:19],[SOM:208],[LRW:76])([7ED:92],[M11:175],[BNG:149])([M19:208],[M13:174],[DOM:207],[M15:187],[M13:193],[M12:16])([THS:9],[XLN:179])
+LAYOUT SIDEBOARD:(1,3)(CMC,false,50)|([3ED:274],[6ED:161],[ROE:47])([M11:172])([ULG:45],[TSP:216],[SHM:229],[M14:7],[HOU:129])

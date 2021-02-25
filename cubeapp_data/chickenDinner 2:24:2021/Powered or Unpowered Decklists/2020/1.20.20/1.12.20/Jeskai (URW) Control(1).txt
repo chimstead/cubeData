@@ -1,0 +1,53 @@
+1 [5DN:27] Condescend
+1 [4ED:65] Counterspell
+1 [ROE:145] Flame Slash
+1 [ODY:193] Firebolt
+1 [3ED:162] Lightning Bolt
+1 [4ED:34] Land Tax
+1 [NEM:30] Daze
+1 [ZEN:14] Journey to Nowhere
+1 [THS:128] Magma Jet
+1 [M14:64] Negate
+1 [XLN:74] Search for Azcanta
+1 [MH1:230] Talisman of Conviction
+1 [GPT:111] Electrolyze
+1 [DDG:34] Oblivion Ring
+1 [KTK:97] Arc Lightning
+1 [KLD:110] Chandra, Torch of Defiance
+1 [ZEN:9] Day of Judgment
+1 [INV:57] Fact or Fiction
+1 [C15:26] Fiery Confluence
+1 [BFZ:29] Gideon, Ally of Zendikar
+1 [OGW:104] Chandra, Flamecaller
+1 [DRK:117] Maze of Ith
+1 [WAR:143] Sarkhan the Masterless
+1 [TMP:315] Ancient Tomb
+1 [WWK:133] Celestial Colonnade
+1 [ARN:71] City of Brass
+1 [ELD:244] Fabled Passage
+1 [KTK:233] Flooded Strand
+1 [RTR:241] Hallowed Fountain
+1 [ZEN:219] Marsh Flats
+1 [JOU:163] Mana Confluence
+1 [KTK:239] Polluted Delta
+1 [4ED:369] Island
+1 [4ED:368] Island
+3 [4ED:373] Mountain
+2 [4ED:374] Mountain
+1 [4ED:366] Plains
+SB: 1 [UDS:40] Opposition
+SB: 1 [ELD:160] Gilded Goose
+SB: 1 [NPH:57] Dismember
+SB: 1 [AER:24] Sram's Expertise
+SB: 1 [OGW:140] Oath of Nissa
+SB: 1 [WWK:20] Stoneforge Mystic
+SB: 1 [ORI:157] Pia and Kiran Nalaar
+SB: 1 [MIR:253] Wall of Roots
+SB: 1 [AKH:97] Liliana, Death's Majesty
+SB: 1 [DKA:93] Hellrider
+SB: 1 [MRD:257] Talisman of Unity
+SB: 1 [RIX:99] Dire Fleet Daredevil
+SB: 1 [TSP:66] Looter il-Kor
+SB: 1 [4ED:365] Plains
+LAYOUT MAIN:(1,7)(CMC,false,64)|([TMP:315],[WWK:133],[ARN:71],[ELD:244],[KTK:233],[RTR:241],[4ED:369],[4ED:368],[JOU:163],[ZEN:219],[DRK:117],[4ED:373],[4ED:373],[4ED:374],[4ED:373],[4ED:374],[4ED:366],[KTK:239])([5DN:27],[ODY:193],[ROE:145],[4ED:34],[3ED:162])([4ED:65],[NEM:30],[ZEN:14],[THS:128],[M14:64],[XLN:74],[MH1:230])([KTK:97],[GPT:111],[DDG:34])([KLD:110],[ZEN:9],[INV:57],[C15:26],[BFZ:29])([WAR:143])([OGW:104])
+LAYOUT SIDEBOARD:(1,5)(CMC,false,63)|([ELD:160],[OGW:140],[4ED:365])([RIX:99],[TSP:66],[WWK:20],[MRD:257],[MIR:253])([NPH:57])([DKA:93],[UDS:40],[ORI:157],[AER:24])([AKH:97])

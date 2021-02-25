@@ -1,0 +1,55 @@
+1 [ROE:4] Emrakul, the Aeons Torn
+1 [RNA:183] Hydroid Krasis
+1 [MBS:21] Consecrated Sphinx
+1 [M12:165] Birds of Paradise
+1 [DIS:166] Simic Signet
+1 [4ED:236] Channel
+1 [M13:159] Acidic Slime
+1 [KTK:59] Treasure Cruise
+1 [CON:87] Noble Hierarch
+1 [UDS:124] Yavimaya Elder
+1 [M12:73] Ponder
+1 [M19:208] Vivien Reid
+1 [C16:195] Edric, Spymaster of Trest
+1 [M12:72] Phantasmal Image
+1 [DIS:133] Trygon Predator
+1 [M21:1] Ugin, the Spirit Dragon
+1 [M21:177] Cultivate
+1 [DST:148] Sword of Fire and Ice
+1 [KTK:36] Dig Through Time
+1 [ZEN:168] Lotus Cobra
+1 [THB:229] Uro, Titan of Nature's Wrath
+1 [ELD:197] Oko, Thief of Crowns
+1 [RNA:122] Biogenic Ooze
+1 [2ED:264] Mox Pearl
+1 [ARN:76] Library of Alexandria
+1 [BFZ:239] Lumbering Falls
+1 [KTK:248] Windswept Heath
+1 [3ED:288] Tropical Island
+1 [KLD:244] Botanical Sanctum
+1 [RNA:246] Breeding Pool
+1 [LEG:303] Karakas
+1 [DTK:216] Dragonlord Atarka
+1 [SOM:225] Copperline Gorge
+1 [ROE:245] Forest
+1 [ROE:246] Forest
+1 [ROE:248] Forest
+1 [ROE:247] Forest
+1 [ROE:236] Island
+1 [ROE:243] Mountain
+1 [ROE:235] Island
+SB: 1 [RTR:1] Angel of Serenity
+SB: 1 [SOI:92] Thing in the Ice
+SB: 1 [WWK:144] Stirring Wildwood
+SB: 1 [M21:164] Terror of the Peaks
+SB: 1 [UDS:135] Metalworker
+SB: 1 [5ED:408] Winter Orb
+SB: 1 [DKA:93] Hellrider
+SB: 1 [THS:33] Spear of Heliod
+SB: 1 [HOU:129] Ramunap Excavator
+SB: 1 [3ED:214] Regrowth
+SB: 1 [MMQ:82] Gush
+SB: 1 [ROE:234] Island
+SB: 1 [4ED:361] Mishra's Factory
+LAYOUT MAIN:(1,10)(CMC,false,50)|([2ED:264],[ARN:76],[BFZ:239],[KTK:248],[3ED:288],[KLD:244],[RNA:246],[LEG:303],[SOM:225],[ROE:245],[ROE:246],[ROE:248],[ROE:247],[ROE:236],[ROE:243],[ROE:235])([M12:165],[CON:87],[M12:73])([RNA:183],[DIS:166],[M12:72],[ZEN:168])([UDS:124],[C16:195],[DIS:133],[M21:177],[DST:148],[THB:229],[ELD:197])([M13:159],[M19:208],[RNA:122])([MBS:21])([DTK:216])([KTK:59],[M21:1],[KTK:36])([ROE:4])([4ED:236])
+LAYOUT SIDEBOARD:(1,5)(COLOR,false,48)|([WWK:144],[UDS:135],[5ED:408],[ROE:234],[4ED:361])([SOI:92],[MMQ:82])([HOU:129],[3ED:214])([M21:164],[DKA:93])([RTR:1],[THS:33])

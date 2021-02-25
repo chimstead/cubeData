@@ -1,8 +1,11 @@
+2018
+4.18
+4.2.18
 6 Island
 6 Swamp
 1 Evolving Wilds
 1 Flooded Strand
-1 Maze of Its
+1 Maze of Ith
 1 Mishra's Factory
 1 Underground Sea
 1 Watery Grave
@@ -18,7 +21,7 @@
 1 Toxic Deluge
 1 Vampire Nighthawk
 1 Vedalken Shackles
-1 Never//Return
+1 Never // Return
 1 Damnation
 1 Deep Analysis
 1 Fact or Fiction
@@ -26,5 +29,5 @@
 1 Skinrender
 1 Batterskull
 1 Custodi Lich
-1 Meloku, the Clouded Mirror
+1 Meloku the Clouded Mirror
 1 Dig Through Time

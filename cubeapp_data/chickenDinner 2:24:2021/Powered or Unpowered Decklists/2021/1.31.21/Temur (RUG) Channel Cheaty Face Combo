@@ -1,0 +1,50 @@
+1 [ZEN:67] Spell Pierce
+1 [ZNR:166] Spikefield Hazard
+1 [MRD:255] Talisman of Indulgence
+1 [ALL:22a] Arcane Denial
+1 [MH1:234] Talisman of Resilience
+1 [LEA:188] Channel
+1 [SOM:81] Arc Trail
+1 [RTR:172] Izzet Charm
+1 [LRW:71] Jace Beleren
+1 [USG:96] Show and Tell
+1 [LEG:185] Eureka
+1 [ULG:130] Quicksilver Amulet
+1 [CHK:193] Through the Breach
+1 [ROE:4] Emrakul, the Aeons Torn
+1 [EMN:6] Emrakul, the Promised End
+1 [BFZ:15] Ulamog, the Ceaseless Hunger
+1 [SHM:135] Woodfall Primus
+1 [M11:146] Inferno Titan
+1 [DST:146] Sundering Titan
+1 [DTK:216] Dragonlord Atarka
+1 [ZNR:215] Turntimber Symbiosis
+1 [CHK:74] Meloku the Clouded Mirror
+1 [MRD:152] Chrome Mox
+1 [LEB:283] Taiga
+1 [C16:56] Ash Barrens
+1 [MH1:238] Fiery Islet
+1 [MH1:249] Waterlogged Grove
+1 [OGW:182] Wandering Fumarole
+5 [PGRU:5] Forest
+4 [PGRU:2] Island
+2 [PGRU:4] Mountain
+1 [RAV:117] Char
+SB: 1 [VIS:72] Vampiric Tutor
+SB: 1 [MMA:180] Maelstrom Pulse
+SB: 1 [TMP:128] Diabolic Edict
+SB: 1 [BFZ:244] Shambling Vent
+SB: 1 [SOM:94] Koth of the Hammer
+SB: 1 [MH1:116] Yawgmoth, Thran Physician
+SB: 1 [PTK:78] Imperial Seal
+SB: 1 [CON:30] Inkwell Leviathan
+SB: 1 [TSP:161] Greater Gargadon
+SB: 1 [CHK:19] Isamaru, Hound of Konda
+SB: 1 [M11:97] Grave Titan
+SB: 1 [PC2:82] Baleful Strix
+SB: 1 [ULG:14] Mother of Runes
+SB: 1 [RTR:220] Rakdos Cackler
+SB: 1 [ALA:202] Tidehollow Sculler
+SB: 1 [C16:18] Frenzied Fugue
+LAYOUT MAIN:(1,11)(CMC,false,57)|([PGRU:5],[PGRU:5],[PGRU:5],[PGRU:5],[PGRU:5],[PGRU:2],[PGRU:2],[PGRU:2],[PGRU:2],[PGRU:4],[PGRU:4])([C16:56],[MH1:238],[LEB:283],[OGW:182],[MH1:249])([MRD:152],[ZEN:67],[ZNR:166])([SOM:81],[ALL:22a],[LEA:188],[RTR:172],[MRD:255],[MH1:234])([LRW:71],[USG:96],[RAV:117])([LEG:185],[ULG:130])([CHK:74],[CHK:193])([M11:146])([DTK:216],[ZNR:215])([DST:146],[SHM:135])([BFZ:15],[EMN:6],[ROE:4])
+LAYOUT SIDEBOARD:(1,8)(CMC,false,73)|([BFZ:244])([VIS:72],[PTK:78],[CHK:19],[ULG:14],[RTR:220])([TMP:128],[PC2:82],[ALA:202],[C16:18])([MMA:180])([SOM:94],[MH1:116])([M11:97])([CON:30])([TSP:161])

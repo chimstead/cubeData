@@ -1,4 +1,7 @@
-2 Forest 
+2017
+12.17
+12.3.17
+2 Forest
 3 Plains
 1 Mountain
 1 Battlefield Forge
@@ -20,7 +23,7 @@
 1 Regrowth
 1 Scavenging Ooze
 1 Stoneforge Mystic
-1 Umezawa’s Jitte
+1 Umezawa's Jitte
 1 Wall of Roots
 1 Winter Orb
 1 Courser of Kruphix
@@ -35,4 +38,3 @@
 1 Palace Jailer
 1 Acidic Slime
 1 Reveillark
-

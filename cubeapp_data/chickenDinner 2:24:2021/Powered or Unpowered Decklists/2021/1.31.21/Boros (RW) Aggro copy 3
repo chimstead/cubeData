@@ -1,0 +1,52 @@
+1 [KLD:199] Bomat Courier
+1 [DOM:14] Dauntless Bodyguard
+1 [ZEN:126] Goblin Guide
+1 [A25:141] Lightning Bolt
+1 [RIX:21] Skymarcher Aspirant
+1 [SOM:81] Arc Trail
+1 [RTR:86] Ash Zealot
+1 [ZNR:145] Kargan Intimidator
+1 [ELD:138] Robber of the Rich
+1 [KLD:235] Smuggler's Copter
+1 [EMA:150] Sulfuric Vortex
+1 [RAV:117] Char
+1 [NPH:4] Blade Splicer
+1 [NPH:19] Porcelain Legionnaire
+1 [C15:26] Fiery Confluence
+1 [KLD:110] Chandra, Torch of Defiance
+1 [ELD:115] Bonecrusher Giant
+1 [HOP:54] Flametongue Kavu
+1 [AER:181] Walking Ballista
+1 [C18:57] Retrofitter Foundry
+1 [DDF:1] Elspeth, Knight-Errant
+1 [V13:8] Tangle Wire
+1 [M13:150] Thundermaw Hellkite
+1 [JOU:163] Mana Confluence
+1 [TPR:249] Wasteland
+1 [ZEN:223] Scalding Tarn
+1 [RAV:280] Sacred Foundry
+1 [M14:228] Mutavault
+1 [MM3:239] Marsh Flats
+1 [A25:242] Mishra's Factory
+2 [KLD:259] Mountain
+2 [KLD:261] Mountain
+3 [KLD:260] Mountain
+2 [KLD:252] Plains
+1 [KLD:250] Plains
+SB: 1 [TPR:58] Mana Leak
+SB: 1 [ELD:281] Brazen Borrower
+SB: 1 [SHM:229] Kitchen Finks
+SB: 1 [MH1:100] Plague Engineer
+SB: 1 [IMA:159] Curse of Predation
+SB: 1 [M11:70] Preordain
+SB: 1 [UMA:50] Dig Through Time
+SB: 1 [VMA:319] Tolarian Academy
+SB: 1 [V13:4] Fyndhorn Elves
+SB: 1 [CMD:40] Brainstorm
+SB: 1 [BNG:119] Courser of Kruphix
+SB: 1 [V14:15] Wrath of God
+SB: 1 [V14:1] Armageddon
+SB: 1 [RNA:122] Biogenic Ooze
+SB: 1 [MBS:8] Hero of Bladehold
+LAYOUT MAIN:(1,6)(CMC,false,69)|([JOU:163],[MM3:239],[A25:242],[KLD:259],[KLD:261],[KLD:260],[KLD:259],[KLD:260],[KLD:261],[KLD:260],[M14:228],[KLD:252],[KLD:250],[KLD:252],[RAV:280],[ZEN:223],[AER:181],[TPR:249])([KLD:199],[DOM:14],[ZEN:126],[A25:141],[C18:57],[RIX:21])([SOM:81],[RTR:86],[ZNR:145],[ELD:138],[KLD:235],[ELD:115],[NPH:19])([NPH:4],[RAV:117],[EMA:150],[V13:8])([KLD:110],[DDF:1],[C15:26],[HOP:54])([M13:150])
+LAYOUT SIDEBOARD:(1,7)(CMC,false,50)|([VMA:319])([CMD:40],[V13:4],[M11:70])([TPR:58])([BNG:119],[IMA:159],[SHM:229],[MH1:100])([V14:1],[V14:15],[MBS:8])([RNA:122],[ELD:281])([UMA:50])

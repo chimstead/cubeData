@@ -1,0 +1,33 @@
+4 Swamp
+3 Forest
+3 Island
+1 Creeping Tar Pit
+1 Evolving Wilds
+1 Hissing Quagmire
+1 Misty Rainforest
+1 Tendo Ice Bridge
+1 Treetop Village
+1 Wasteland
+1 Careful Study
+1 Fyndhorn Elves
+1 Mind Twist
+1 Reanimate
+1 Worldly Tutor
+1 Animate Dead
+1 Dance of the Dead
+1 Demonic Tutor
+1 Looter il-Kor
+1 Noose Constrictor
+1 Oona's Prowler
+1 Phantasmal Image
+1 Sylvan Caryatid
+1 Eternal Witness
+1 Man-o'-War
+1 Necromancy
+1 Sower of Temptation
+1 Glen Elendra Archmage
+1 Mystic Confluence
+1 Liliana, Death's Majesty
+1 Hornet Queen
+1 Griselbrand
+1 Sphinx of the Steel Wind

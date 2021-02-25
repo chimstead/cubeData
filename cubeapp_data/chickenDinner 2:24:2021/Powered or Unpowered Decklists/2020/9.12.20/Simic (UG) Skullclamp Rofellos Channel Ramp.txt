@@ -1,0 +1,49 @@
+1 [RAV:63] Remand
+1 [ROE:4] Emrakul, the Aeons Torn
+1 [DST:140] Skullclamp
+1 [ISD:181] Garruk Relentless
+1 [DST:146] Sundering Titan
+1 [ZEN:168] Lotus Cobra
+1 [MH1:168] Hexdrinker
+1 [USG:321] Gaea's Cradle
+1 [RNA:183] Hydroid Krasis
+1 [GTC:240] Breeding Pool
+1 [NPH:42] Phyrexian Metamorph
+1 [MH1:249] Waterlogged Grove
+1 [ULG:101] Deranged Hermit
+1 [IMA:157] Channel
+1 [DIS:99] Utopia Sprawl
+1 [MIR:253] Wall of Roots
+1 [M14:169] Elvish Mystic
+1 [MBS:81] Green Sun's Zenith
+1 [ROE:190] Joraga Treespeaker
+1 [AVR:172] Craterhoof Behemoth
+1 [IKO:175] Vivien, Monsters' Advocate
+1 [THB:229] Uro, Titan of Nature's Wrath
+1 [ORI:189] Nissa, Vastwood Seer
+1 [UDS:118] Rofellos, Llanowar Emissary
+1 [LRW:76] Mulldrifter
+1 [MB1:1266] Manglehorn
+1 [M21:185] Garruk's Harbinger
+11 [UST:216] Forest
+2 [UST:213] Island
+SB: 1 [2ED:93] Animate Dead
+SB: 1 [MM2:71] Bitterblossom
+SB: 1 [AER:62] Glint-Sleeve Siphoner
+SB: 1 [2ED:282] Scrubland
+SB: 1 [EVE:6] Flickerwisp
+SB: 1 [ULG:139] Faerie Conclave
+SB: 1 [TMP:315] Ancient Tomb
+SB: 1 [CN2:106] Deceiver Exarch
+SB: 1 [MMA:218] Vedalken Shackles
+SB: 1 [ODY:132] Entomb
+SB: 1 [10E:319] Crucible of Worlds
+SB: 1 [MMQ:62] Bribery
+SB: 1 [GRN:183] Knight of Autumn
+SB: 1 [ARB:75] Qasali Pridemage
+SB: 1 [C13:25] Unexpectedly Absent
+SB: 1 [IKO:216] Winota, Joiner of Forces
+SB: 1 [FUT:161] Coalition Relic
+SB: 1 [CMD:196] Edric, Spymaster of Trest
+LAYOUT MAIN:(1,8)(CMC,false,71)|([USG:321],[GTC:240],[MH1:249],[UST:216],[UST:216],[UST:216],[UST:216],[UST:216],[UST:216],[UST:216],[UST:216],[UST:216],[UST:216],[UST:216],[UST:213],[UST:213])([DST:140],[MH1:168],[DIS:99],[M14:169],[MBS:81],[ROE:190])([RAV:63],[ZEN:168],[RNA:183],[IMA:157],[MIR:253],[UDS:118])([THB:229],[ORI:189],[MB1:1266],[M21:185])([ISD:181],[NPH:42])([ULG:101],[IKO:175],[LRW:76])([DST:146],[AVR:172])([ROE:4])
+LAYOUT SIDEBOARD:(1,5)(COLOR,false,98)|([2ED:282],[ULG:139],[TMP:315],[MMA:218],[10E:319],[FUT:161])([2ED:93],[MM2:71],[AER:62],[ODY:132])([CN2:106],[MMQ:62])([EVE:6],[C13:25])([GRN:183],[ARB:75],[IKO:216],[CMD:196])

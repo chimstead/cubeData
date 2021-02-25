@@ -1,0 +1,49 @@
+1 [M15:145] Goblin Rabblemaster
+1 [DKA:93] Hellrider
+1 [WAR:185] Angrath's Rampage
+1 [MOR:58] Bitterblossom
+1 [WAR:207] Nicol Bolas, Dragon-God
+1 [M12:145] Grim Lavamancer
+1 [MH1:145] Seasoned Pyromancer
+1 [ELD:122] Embereth Shieldbreaker
+1 [ISD:105] Liliana of the Veil
+1 [NPH:153] Shrine of Burning Rage
+1 [AKH:136] Hazoret the Fervent
+1 [GPT:152] Izzet Signet
+1 [FEM:38a] Hymn to Tourach
+1 [DTK:224] Kolaghan's Command
+1 [3ED:274] Sol Ring
+1 [LEG:137] Chain Lightning
+1 [M13:112] Vampire Nighthawk
+1 [VIS:79] Fireblast
+1 [RNA:107] Light Up the Stage
+1 [ODY:193] Firebolt
+1 [KLD:235] Smuggler's Copter
+1 [MH1:116] Yawgmoth, Thran Physician
+1 [C13:84] Ophiomancer
+1 [EVE:139] Figure of Destiny
+1 [GRN:257] Steam Vents
+1 [KTK:230] Bloodstained Mire
+1 [KLD:249] Spirebluff Canal
+1 [WWK:139] Lavaclaw Reaches
+1 [ZEN:211] Arid Mesa
+6 [UST:215] Mountain
+5 [UST:214] Swamp
+SB: 1 [3ED:284] Plateau
+SB: 1 [TMP:142] Living Death
+SB: 1 [FRF:27] Soulfire Grand Master
+SB: 1 [DTK:181] Den Protector
+SB: 1 [M13:193] Thragtusk
+SB: 1 [6ED:4] Armageddon
+SB: 1 [AVR:32] Restoration Angel
+SB: 1 [VMA:20] Council's Judgment
+SB: 1 [JOU:94] Eidolon of the Great Revel
+SB: 1 [RTR:101] Mizzium Mortars
+SB: 1 [5ED:408] Winter Orb
+SB: 1 [NEM:17] Parallax Wave
+SB: 1 [CHK:175] Kiki-Jiki, Mirror Breaker
+SB: 1 [CHK:62] Gifts Ungiven
+SB: 1 [RAV:16] Faith's Fetters
+SB: 1 [PLS:60] Flametongue Kavu
+LAYOUT MAIN:(2,5)(CMC,false,61)|([KTK:230],[WWK:139],[UST:215],[UST:215],[UST:215],[UST:215],[UST:215],[UST:215])([UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[GRN:257],[KLD:249],[ZEN:211])([M12:145],[3ED:274],[LEG:137],[ODY:193],[EVE:139],[ELD:122],[RNA:107])([M15:145],[MH1:145],[ISD:105],[DTK:224],[M13:112],[C13:84])([WAR:207])()()([WAR:185],[MOR:58],[NPH:153],[GPT:152],[FEM:38a],[KLD:235])([DKA:93],[AKH:136],[MH1:116])([VIS:79])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([3ED:284],[TMP:142],[FRF:27],[DTK:181],[M13:193],[6ED:4],[AVR:32],[VMA:20],[JOU:94],[RTR:101],[5ED:408],[NEM:17],[CHK:175],[CHK:62],[RAV:16],[PLS:60])

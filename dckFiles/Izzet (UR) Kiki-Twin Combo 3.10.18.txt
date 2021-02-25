@@ -1,3 +1,6 @@
+2018
+3.18
+3.10.18
 6 Mountain
 7 Island
 1 Shivan Reef
@@ -6,7 +9,7 @@
 1 Scalding Tarn
 1 Enclave Cryptologist
 1 Force Spike
-1 Fatihless Looting
+1 Faithless Looting
 1 Young Pyromancer
 1 Waterfront Bouncer
 1 Search for Azcanta
@@ -14,7 +17,7 @@
 1 Miscalculation
 1 Daze
 1 Memory Lapse
-1 Pestermine
+1 Pestermite
 1 Deceiver Exarch
 1 Dack Fayden
 1 Supreme Will

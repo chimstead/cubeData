@@ -1,0 +1,53 @@
+1 [MMQ:162] Snuff Out
+1 [C13:84] Ophiomancer
+1 [INV:64] Opt
+1 [MM2:55] Remand
+1 [EMA:112] Vampiric Tutor
+1 [EMA:108] Toxic Deluge
+1 [MH1:232] Talisman of Curiosity
+1 [MBS:43] Go for the Throat
+1 [MM3:239] Marsh Flats
+1 [IMA:47] Consecrated Sphinx
+1 [TSP:66] Looter il-Kor
+1 [SOM:180] Myr Battlesphere
+1 [MM3:249] Verdant Catacombs
+1 [V17:12a] Jace, Vryn's Prodigy
+1 [ROE:115] Inquisition of Kozilek
+1 [MH1:199] Fallen Shinobi
+1 [XLN:110] Kitesail Freebooter
+1 [GRN:259] Watery Grave
+1 [LRW:272] Shelldock Isle
+1 [4ED:64] Control Magic
+1 [UMA:104] Liliana of the Veil
+1 [A25:76] Vendilion Clique
+1 [UMA:58] Glen Elendra Archmage
+1 [MH1:246] Silent Clearing
+1 [DDE:54] Coalition Relic
+1 [FEM:38a] Hymn to Tourach
+1 [PC2:82] Baleful Strix
+1 [MRD:253] Talisman of Dominance
+1 [MM3:244] Scalding Tarn
+1 [TMP:315] Ancient Tomb
+1 [BFZ:257] Island
+2 [BFZ:258] Island
+1 [BFZ:256] Island
+1 [BFZ:259] Island
+3 [BFZ:264] Swamp
+2 [BFZ:260] Swamp
+SB: 1 [EMA:155] Young Pyromancer
+SB: 1 [ODY:70] Careful Study
+SB: 1 [RNA:185] Judith, the Scourge Diva
+SB: 1 [GNT:36] Zulaport Cutthroat
+SB: 1 [ORI:105] Languish
+SB: 1 [MH1:116] Yawgmoth, Thran Physician
+SB: 1 [AKH:16] Glory-Bound Initiate
+SB: 1 [RIX:82] Ravenous Chupacabra
+SB: 1 [WAR:99] Massacre Girl
+SB: 1 [KTK:66] Bloodsoaked Champion
+SB: 1 [MMQ:61] Brainstorm
+SB: 1 [ELD:288] Order of Midnight
+SB: 1 [RNA:245] Blood Crypt
+SB: 1 [HOU:49] Supreme Will
+SB: 1 [ELD:287] Murderous Rider
+LAYOUT MAIN:(1,8)(CMC,false,50)|([MM3:239],[MM3:249],[GRN:259],[LRW:272],[MH1:246],[MM3:244],[TMP:315],[BFZ:257],[BFZ:258],[BFZ:256],[BFZ:259],[BFZ:258],[BFZ:264],[BFZ:264],[BFZ:260],[BFZ:260],[BFZ:264])([INV:64],[EMA:112],[ROE:115])([MM2:55],[MH1:232],[MBS:43],[TSP:66],[V17:12a],[XLN:110],[FEM:38a],[PC2:82],[MRD:253])([C13:84],[EMA:108],[UMA:104],[A25:76],[DDE:54])([MMQ:162],[4ED:64],[UMA:58])([MH1:199])([IMA:47])([SOM:180])
+LAYOUT SIDEBOARD:(1,7)(CMC,false,50)|([RNA:245])([ODY:70],[KTK:66],[MMQ:61])([EMA:155],[GNT:36],[AKH:16])([RNA:185],[HOU:49])([ORI:105],[MH1:116],[RIX:82],[ELD:288])([WAR:99])([ELD:287])

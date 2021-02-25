@@ -1,0 +1,49 @@
+1 [ELD:281] Brazen Borrower
+1 [MM2:109] Burst Lightning
+1 [EMN:130a] Hanweir Garrison
+1 [EMA:155] Young Pyromancer
+1 [BBD:122] Mystic Confluence
+1 [RTR:172] Izzet Charm
+1 [MM2:55] Remand
+1 [VIS:34] Impulse
+1 [MM3:116] Zealous Conscripts
+1 [HOU:83] Abrade
+1 [APC:128] Fire // Ice
+1 [TSP:66] Looter il-Kor
+1 [TSP:73] Riftwing Cloudskate
+1 [UMA:50] Dig Through Time
+1 [BBD:131] Sower of Temptation
+1 [MMQ:61] Brainstorm
+1 [MH1:231] Talisman of Creativity
+1 [KLD:67] Torrential Gearhulk
+1 [ULG:36] Miscalculation
+1 [A25:76] Vendilion Clique
+1 [CNS:187] Edric, Spymaster of Trest
+1 [NPH:42] Phyrexian Metamorph
+1 [CHK:175] Kiki-Jiki, Mirror Breaker
+1 [GRN:257] Steam Vents
+1 [MM3:229] Arid Mesa
+1 [GTC:240] Breeding Pool
+1 [KTK:239] Polluted Delta
+1 [MM3:244] Scalding Tarn
+1 [WWK:141] Raging Ravine
+1 [JOU:163] Mana Confluence
+1 [MH1:249] Waterlogged Grove
+5 [UNH:137] Island
+4 [UNH:139] Mountain
+SB: 1 [MH1:233] Talisman of Hierarchy
+SB: 1 [MM3:215] Azorius Signet
+SB: 1 [ICE:214] Pyroclasm
+SB: 1 [UDS:139] Thran Dynamo
+SB: 1 [USG:318] Worn Powerstone
+SB: 1 [MH1:214] Soulherder
+SB: 1 [KLD:199] Bomat Courier
+SB: 1 [MH1:232] Talisman of Curiosity
+SB: 1 [KTK:81] Murderous Cut
+SB: 1 [RIX:60] Warkite Marauder
+SB: 1 [GK1:28] Char
+SB: 1 [MM2:51] Mulldrifter
+SB: 1 [ORI:157] Pia and Kiran Nalaar
+SB: 1 [MM2:79] Dismember
+LAYOUT MAIN:(1,9)(CMC,false,44)|([UNH:137],[UNH:137],[UNH:137],[UNH:137],[UNH:137],[UNH:139],[UNH:139],[UNH:139],[UNH:139])([MM3:229],[GTC:240],[JOU:163],[KTK:239],[WWK:141],[MM3:244],[GRN:257],[MH1:249])([MMQ:61],[MM2:109])([HOU:83],[VIS:34],[RTR:172],[TSP:66],[ULG:36],[MM2:55],[MH1:231],[EMA:155],[ELD:281],[TSP:73])([CNS:187],[EMN:130a],[A25:76])([APC:128],[NPH:42],[BBD:131])([CHK:175],[BBD:122],[MM3:116])([KLD:67])([UMA:50])
+LAYOUT SIDEBOARD:(1,5)(CMC,false,50)|([KLD:199],[MM2:79])([MH1:233],[MM3:215],[ICE:214],[MH1:232],[RIX:60])([USG:318],[MH1:214],[GK1:28])([UDS:139],[ORI:157])([KTK:81],[MM2:51])

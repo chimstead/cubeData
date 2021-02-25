@@ -1,0 +1,49 @@
+1 [AVR:32] Restoration Angel
+1 [DDQ:1] Geist of Saint Traft
+1 [MH1:13] Giver of Runes
+1 [VMA:316] Strip Mine
+1 [ELD:335] Charming Prince
+1 [DTK:36] Secure the Wastes
+1 [TPR:58] Mana Leak
+1 [DKA:24] Thalia, Guardian of Thraben
+1 [EMN:46] Thalia, Heretic Cathar
+1 [VMA:322] Tundra
+1 [WWK:133] Celestial Colonnade
+1 [RAV:63] Remand
+1 [A25:35] Swords to Plowshares
+1 [PLC:25] Mana Tithe
+1 [MH1:244] Prismatic Vista
+1 [MH1:37] Winds of Abandon
+1 [ZEN:223] Scalding Tarn
+1 [NPH:4] Blade Splicer
+1 [10E:335] Mind Stone
+1 [C17:37] Fractured Identity
+1 [EMN:189] Spell Queller
+1 [ELD:281] Brazen Borrower
+1 [V17:13] Kytheon, Hero of Akros
+1 [CHK:19] Isamaru, Hound of Konda
+1 [V17:1] Archangel Avacyn
+1 [M21:34] Seasoned Hallowblade
+1 [M19:34] Resplendent Angel
+1 [AKH:1] Angel of Sanctions
+4 [UST:213] Island
+7 [UST:212] Plains
+1 [CMD:17] Journey to Nowhere
+SB: 1 [ZEN:168] Lotus Cobra
+SB: 1 [IKO:227] Lutri, the Spellchaser
+SB: 1 [M21:179] Elder Gargaroth
+SB: 1 [SOI:92] Thing in the Ice
+SB: 1 [DOM:81] Cast Down
+SB: 1 [V14:15] Wrath of God
+SB: 1 [V17:12] Jace, Vryn's Prodigy
+SB: 1 [EMA:9] Enlightened Tutor
+SB: 1 [PD3:14] Entomb
+SB: 1 [ELD:59] Opt
+SB: 1 [HOU:31] Champion of Wits
+SB: 1 [HOU:49] Supreme Will
+SB: 1 [MH1:52] Force of Negation
+SB: 1 [EMA:42] Control Magic
+SB: 1 [EMA:57] Jace, the Mind Sculptor
+SB: 1 [MBS:122] Phyrexian Revoker
+LAYOUT MAIN:(1,6)(CMC,false,71)|([VMA:316],[VMA:322],[WWK:133],[MH1:244],[ZEN:223],[UST:213],[UST:213],[UST:213],[UST:213],[UST:212],[UST:212],[UST:212],[UST:212],[UST:212],[UST:212],[UST:212])([MH1:13],[DTK:36],[A25:35],[PLC:25],[V17:13],[CHK:19])([ELD:335],[TPR:58],[DKA:24],[RAV:63],[MH1:37],[10E:335],[M21:34],[CMD:17])([DDQ:1],[EMN:46],[NPH:4],[EMN:189],[M19:34])([AVR:32])([C17:37],[ELD:281],[V17:1],[AKH:1])
+LAYOUT SIDEBOARD:(1,6)(COLOR,false,100)|([MBS:122])([DOM:81],[PD3:14])([SOI:92],[V17:12],[ELD:59],[HOU:31],[HOU:49],[MH1:52],[EMA:42],[EMA:57])([ZEN:168],[M21:179])([V14:15],[EMA:9])([IKO:227])

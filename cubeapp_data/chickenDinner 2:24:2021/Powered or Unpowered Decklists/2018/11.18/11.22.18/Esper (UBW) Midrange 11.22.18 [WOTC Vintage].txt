@@ -1,0 +1,55 @@
+1 [EVE:22] Glen Elendra Archmage
+1 [MBS:21] Consecrated Sphinx
+1 [OGW:86] Kalitas, Traitor of Ghet
+1 [BBD:122] Mystic Confluence
+1 [XLN:74] Search for Azcanta
+1 [M13:241] Swamp
+1 [3ED:289] Tundra
+1 [ZEN:229] Verdant Catacombs
+1 [DIS:159] Azorius Signet
+1 [ZEN:223] Scalding Tarn
+1 [EMA:108] Toxic Deluge
+1 [M14:96] Doom Blade
+1 [INV:57] Fact or Fiction
+1 [DKA:12] Lingering Souls
+1 [E01:80] Baleful Strix
+1 [RIX:82] Ravenous Chupacabra
+1 [M12:72] Phantasmal Image
+1 [2ED:233] Black Lotus
+1 [AVR:32] Restoration Angel
+1 [RAV:40] Compulsive Research
+1 [AER:57] Fatal Push
+1 [WWK:133] Celestial Colonnade
+1 [LRW:76] Mulldrifter
+1 [C13:84] Ophiomancer
+2 [M13:239] Swamp
+1 [KTK:239] Polluted Delta
+1 [M13:237] Island
+1 [M13:236] Island
+1 [M13:234] Island
+1 [M13:112] Vampire Nighthawk
+1 [M13:233] Plains
+1 [3ED:286] Scrubland
+1 [ROE:53] Wall of Omens
+1 [M13:230] Plains
+1 [CN2:41] Custodi Lich
+1 [M13:240] Swamp
+1 [VMA:20] Council's Judgment
+1 [M13:22] Oblivion Ring
+1 [GRN:259] Watery Grave
+SB: 1 [FRF:18] Mardu Woe-Reaper
+SB: 1 [MMQ:324] Rishadan Port
+SB: 1 [KLD:183] Kambal, Consul of Allocation
+SB: 1 [JR:97] Ravages of War
+SB: 1 [RTR:73] Pack Rat
+SB: 1 [KLD:110] Chandra, Torch of Defiance
+SB: 1 [ZEN:83] Bloodghast
+SB: 1 [XLN:110] Kitesail Freebooter
+SB: 1 [DIS:165] Rakdos Signet
+SB: 1 [EVE:139] Figure of Destiny
+SB: 1 [MPS-AKH:3] Containment Priest
+SB: 1 [AKH:136] Hazoret the Fervent
+SB: 1 [BFZ:126] Zulaport Cutthroat
+SB: 1 [DIS:107] Coiling Oracle
+LAYOUT MAIN:(1,7)(CMC,false,50)|([2ED:233],[WWK:133],[GRN:259],[3ED:286],[3ED:289],[ZEN:223],[ZEN:229],[KTK:239],[M13:236],[M13:234],[M13:237],[M13:230],[M13:233],[M13:239],[M13:240],[M13:241],[M13:239])([AER:57])([ROE:53],[M12:72],[XLN:74],[M14:96],[E01:80],[DIS:159])([M13:22],[VMA:20],[EMA:108],[RAV:40],[DKA:12],[C13:84],[M13:112])([RIX:82],[OGW:86],[EVE:22],[AVR:32],[INV:57])([LRW:76],[BBD:122],[CN2:41])([MBS:21])
+LAYOUT SIDEBOARD:(1,5)(COLOR,false,50)|([MMQ:324],[DIS:165])([ZEN:83],[BFZ:126],[RTR:73],[XLN:110])([KLD:110],[AKH:136])([JR:97],[FRF:18],[MPS-AKH:3])([DIS:107],[EVE:139],[KLD:183])

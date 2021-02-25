@@ -1,0 +1,35 @@
+6 Mountain
+1 Plains
+1 Savannah
+1 Karakas
+1 Temple Garden
+1 Horizon Canopy
+1 Arid Mesa
+1 Needle Spires
+1 Plateau
+1 Battlefield Forge
+1 Raging Ravine
+1 Rakdos Cackler
+1 Mardu Woe-Reaper
+1 Grim Lavamancer
+1 Chain Lightning
+1 Burst Lightning
+1 Student of Warfare
+1 Experiment One
+1 Wild Nacatl
+1 Bonesplitter
+1 Stoneforge Mystic
+1 Lightning Helix
+1 Journey to Nowhere
+1 Young Pyromancer
+1 Stormblood Berserker
+1 Soltari Trooper
+1 Incinerate
+1 Arc Trail
+1 Boros Charm
+1 Harsh Mentor
+1 Sword of Light and Shadow
+1 Sword of Fire and Ice
+1 Wheel of Fortune
+1 Banishing Light
+1 Thundermaw Hellkite

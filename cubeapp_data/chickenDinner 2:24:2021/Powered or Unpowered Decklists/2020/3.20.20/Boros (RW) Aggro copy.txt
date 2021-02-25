@@ -1,0 +1,49 @@
+1 [XLN:1] Adanto Vanguard
+1 [SOI:155] Falkenrath Gorger
+1 [SOM:94] Koth of the Hammer
+1 [A25:141] Lightning Bolt
+1 [HOU:90] Earthshaker Khenra
+1 [MM3:98] Hellrider
+1 [EMA:234] Winter Orb
+1 [5DN:126] Grafted Wargear
+1 [AER:87] Kari Zev, Skyship Raider
+1 [KLD:235] Smuggler's Copter
+1 [M14:22] Imposing Sovereign
+1 [M15:145] Goblin Rabblemaster
+1 [EVE:139] Figure of Destiny
+1 [ZEN:126] Goblin Guide
+1 [NPH:19] Porcelain Legionnaire
+1 [RIX:21] Skymarcher Aspirant
+1 [THB:236] Shadowspear
+1 [FRF:20] Monastery Mentor
+1 [SOM:81] Arc Trail
+1 [ROE:166] Staggershock
+1 [MH1:238] Fiery Islet
+1 [EXP:14] Sacred Foundry
+1 [ZEN:223] Scalding Tarn
+1 [MH1:247] Sunbaked Canyon
+8 [THB:253] Mountain
+5 [THB:250] Plains
+1 [WAR:234] Saheeli, Sublime Artificer
+1 [RNA:29] Unbreakable Formation
+1 [GTC:148] Boros Charm
+SB: 1 [BNG:5] Brimaz, King of Oreskos
+SB: 1 [DIS:174] Hallowed Fountain
+SB: 1 [DDJ:14] Force Spike
+SB: 1 [CN2:121] Show and Tell
+SB: 1 [SOI:245] The Gitrog Monster
+SB: 1 [C19:76] Sun Titan
+SB: 1 [FUT:177] Horizon Canopy
+SB: 1 [AER:129] Hidden Stockpile
+SB: 1 [RNA:122] Biogenic Ooze
+SB: 1 [EXO:72] Recurring Nightmare
+SB: 1 [FRF:18] Mardu Woe-Reaper
+SB: 1 [BFZ:239] Lumbering Falls
+SB: 1 [DKA:131] Vorapede
+SB: 1 [DKA:64] Gravecrawler
+SB: 1 [GRN:113] Risk Factor
+SB: 1 [NPH:130] Batterskull
+SB: 1 [XLN:154] Rampaging Ferocidon
+SB: 1 [RIX:111] Rekindling Phoenix
+LAYOUT MAIN:(2,4)(CMC,false,61)|([THB:253],[THB:253],[THB:253],[THB:253],[THB:253],[THB:253],[THB:253],[THB:253])([THB:250],[THB:250],[THB:250],[THB:250],[THB:250],[MH1:238],[EXP:14],[ZEN:223],[MH1:247])([SOI:155],[A25:141],[EVE:139],[ZEN:126],[RIX:21],[THB:236])([5DN:126],[M15:145],[FRF:20],[ROE:166],[WAR:234],[RNA:29])()()([XLN:1],[HOU:90],[EMA:234],[AER:87],[KLD:235],[M14:22],[SOM:81],[NPH:19],[GTC:148])([SOM:94],[MM3:98])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([BNG:5],[DIS:174],[DDJ:14],[CN2:121],[SOI:245],[C19:76],[FUT:177],[AER:129],[RNA:122],[EXO:72],[FRF:18],[BFZ:239],[DKA:131],[DKA:64],[GRN:113],[XLN:154],[RIX:111],[NPH:130])

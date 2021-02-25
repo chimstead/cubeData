@@ -1,0 +1,48 @@
+1 [MH1:81] Carrion Feeder
+1 [THS:107] Thoughtseize
+1 [M20:97] Duress
+1 [M20:105] Knight of the Ebon Legion
+1 [EMA:81] Blood Artist
+1 [UMA:93] Demonic Tutor
+1 [EMA:78] Animate Dead
+1 [LRW:133] Oona's Prowler
+1 [AER:62] Glint-Sleeve Siphoner
+1 [IMA:82] Bloodghast
+1 [EMA:92] Hymn to Tourach
+1 [SOI:116] Heir of Falkenrath
+1 [KLD:231] Scrapheap Scrounger
+1 [THB:123] Woe Strider
+1 [MH1:100] Plague Engineer
+1 [V17:14a] Liliana, Heretical Healer
+1 [C14:22] Flesh Carver
+1 [KLD:214] Fleetwheel Cruiser
+1 [MH1:116] Yawgmoth, Thran Physician
+1 [OGW:86] Kalitas, Traitor of Ghet
+1 [C15:23] Wretched Confluence
+1 [GRN:69] Doom Whisperer
+1 [M12:98] Grave Titan
+1 [ELD:287] Murderous Rider
+1 [A25:242] Mishra's Factory
+1 [ELD:241] Castle Locthwain
+14 [UGL:86] Swamp
+SB: 1 [C19:58] Scroll of Fate
+SB: 1 [GTC:242] Godless Shrine
+SB: 1 [UMA:50] Dig Through Time
+SB: 1 [ELD:239] Castle Embereth
+SB: 1 [WAR:248] Karn's Bastion
+SB: 1 [WAR:160] Finale of Devastation
+SB: 1 [C18:20] Emissary of Grudges
+SB: 1 [A25:219] Vindicate
+SB: 1 [M12:39] Sun Titan
+SB: 1 [V09:11] Serendib Efreet
+SB: 1 [DKA:93] Hellrider
+SB: 1 [RNA:157] Bedevil
+SB: 1 [PD2:1] Grim Lavamancer
+SB: 1 [ELD:235] Stonecoil Serpent
+SB: 1 [C18:57] Retrofitter Foundry
+SB: 1 [MH1:75] Urza, Lord High Artificer
+SB: 1 [IMA:18] Elesh Norn, Grand Cenobite
+SB: 1 [ELD:138] Robber of the Rich
+SB: 1 [EMN:130a] Hanweir Garrison
+LAYOUT MAIN:(1,7)(CMC,false,50)|([A25:242],[ELD:241],[UGL:86],[UGL:86],[UGL:86],[UGL:86],[UGL:86],[UGL:86],[UGL:86],[UGL:86],[UGL:86],[UGL:86],[UGL:86],[UGL:86],[UGL:86],[UGL:86])([MH1:81],[THS:107],[M20:97],[M20:105])([EMA:81],[UMA:93],[EMA:78],[LRW:133],[AER:62],[IMA:82],[EMA:92],[SOI:116],[KLD:231])([THB:123],[MH1:100],[V17:14a],[C14:22])([KLD:214],[MH1:116],[OGW:86])([C15:23],[GRN:69])([M12:98],[ELD:287])
+LAYOUT SIDEBOARD:(1,8)(CMC,false,50)|([GTC:242],[ELD:239],[WAR:248])([PD2:1],[C18:57],[ELD:235])([WAR:160],[ELD:138])([C19:58],[A25:219],[V09:11],[RNA:157],[EMN:130a])([DKA:93],[MH1:75])([C18:20],[M12:39])([IMA:18])([UMA:50])

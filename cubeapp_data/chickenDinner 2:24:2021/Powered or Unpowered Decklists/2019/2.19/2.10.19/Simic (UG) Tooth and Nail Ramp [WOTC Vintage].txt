@@ -1,0 +1,50 @@
+1 [2ED:262] Mox Emerald
+1 [UDS:118] Rofellos, Llanowar Emissary
+1 [ICE:244] Fyndhorn Elves
+1 [M12:217] Solemn Simulacrum
+10 [UNH:140] Forest
+1 [TSP:216] Search for Tomorrow
+1 [M15:173] Elvish Mystic
+1 [BBD:122] Mystic Confluence
+1 [ROE:176] Awakening Zone
+1 [M13:193] Thragtusk
+1 [ISD:181] Garruk Relentless
+1 [3ED:288] Tropical Island
+1 [M15:225] Phyrexian Revoker
+1 [USG:103] Time Spiral
+1 [USG:321] Gaea's Cradle
+1 [DIS:133] Trygon Predator
+2 [UNH:137] Island
+1 [BFZ:239] Lumbering Falls
+1 [AVR:172] Craterhoof Behemoth
+1 [KLD:172] Verdurous Gearhulk
+1 [WWK:115] Terastodon
+1 [M13:159] Acidic Slime
+1 [2ED:85] Timetwister
+1 [M19:314] Llanowar Elves
+1 [M10:191] Master of the Wild Hunt
+1 [ULG:129] Memory Jar
+1 [MRD:134] Tooth and Nail
+1 [CHK:239] Sakura-Tribe Elder
+1 [ULG:126] Grim Monolith
+1 [UDS:124] Yavimaya Elder
+SB: 1 [EVE:22] Glen Elendra Archmage
+SB: 1 [XLN:248] Sorcerous Spyglass
+SB: 1 [MBS:43] Go for the Throat
+SB: 1 [3ED:290] Underground Sea
+SB: 1 [6ED:161] Vampiric Tutor
+SB: 1 [UNH:140] Forest
+SB: 1 [DOM:46] Blink of an Eye
+SB: 1 [MMQ:82] Gush
+SB: 1 [NEM:139] Tangle Wire
+SB: 1 [M12:145] Grim Lavamancer
+SB: 1 [TSP:73] Riftwing Cloudskate
+SB: 1 [M13:112] Vampire Nighthawk
+SB: 1 [WWK:108] Nature's Claim
+SB: 1 [USG:309] Smokestack
+SB: 1 [AKH:149] Sweltering Suns
+SB: 1 [PCA:104] Shardless Agent
+SB: 1 [NEM:30] Daze
+SB: 1 [M12:12] Day of Judgment
+LAYOUT MAIN:(1,9)(CMC,false,51)|([BFZ:239],[2ED:262],[3ED:288],[USG:321],[UNH:140],[UNH:140],[UNH:140],[UNH:140],[UNH:140],[UNH:140],[UNH:140],[UNH:140],[UNH:140],[UNH:140],[UNH:137],[UNH:137])([M15:173],[M19:314],[ICE:244])([CHK:239],[UDS:118],[ULG:126],[M15:225])([2ED:85],[TSP:216],[UDS:124],[ROE:176],[DIS:133])([M12:217],[M10:191],[ISD:181])([BBD:122],[ULG:129],[KLD:172],[M13:193],[M13:159])([USG:103])([MRD:134])([AVR:172],[WWK:115])
+LAYOUT SIDEBOARD:(1,6)(CMC,false,50)|([3ED:290],[UNH:140])([6ED:161],[WWK:108],[M12:145])([NEM:30],[XLN:248],[DOM:46],[MBS:43])([AKH:149],[M13:112],[NEM:139],[PCA:104])([USG:309],[M12:12],[EVE:22])([MMQ:82],[TSP:73])

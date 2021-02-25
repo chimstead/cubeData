@@ -1,0 +1,52 @@
+1 [TOR:69] Mesmeric Fiend
+1 [AER:181] Walking Ballista
+1 [NPH:130] Batterskull
+1 [NPH:42] Phyrexian Metamorph
+1 [KTK:59] Treasure Cruise
+1 [5ED:388] Mana Vault
+1 [UDS:135] Metalworker
+1 [DIS:159] Azorius Signet
+1 [HOU:145] The Scarab God
+1 [NEM:139] Tangle Wire
+1 [3ED:235] Basalt Monolith
+1 [ELD:197] Oko, Thief of Crowns
+1 [M12:72] Phantasmal Image
+1 [4ED:147] Mind Twist
+1 [M12:55] Frost Titan
+1 [2ED:85] Timetwister
+1 [LRW:76] Mulldrifter
+1 [WAR:61] Narset, Parter of Veils
+1 [DST:146] Sundering Titan
+1 [5ED:408] Winter Orb
+1 [RAV:270] Selesnya Signet
+1 [M21:239] Solemn Simulacrum
+1 [THS:107] Thoughtseize
+1 [STH:138] Mox Diamond
+1 [KLD:243] Blooming Marsh
+1 [KLD:244] Botanical Sanctum
+1 [3ED:288] Tropical Island
+1 [ZEN:220] Misty Rainforest
+1 [2ED:264] Mox Pearl
+1 [ATQ:81] Mishra's Workshop
+1 [BFZ:239] Lumbering Falls
+1 [NPH:174] Forest
+3 [NPH:168] Island
+3 [NPH:169] Island
+1 [NPH:170] Swamp
+1 [NPH:171] Swamp
+SB: 1 [HOU:83] Abrade
+SB: 1 [GRN:257] Steam Vents
+SB: 1 [TSB:55] Avalanche Riders
+SB: 1 [RIX:77] Mastermind's Acquisition
+SB: 1 [ROE:6] Kozilek, Butcher of Truth
+SB: 1 [ODY:132] Entomb
+SB: 1 [M13:150] Thundermaw Hellkite
+SB: 1 [SOM:228] Razorverge Thicket
+SB: 1 [M19:130] Banefire
+SB: 1 [THS:172] Polukranos, World Eater
+SB: 1 [THS:90] Hero's Downfall
+SB: 1 [KLD:199] Bomat Courier
+SB: 1 [NPH:161] Sword of War and Peace
+SB: 1 [ELD:342] Emry, Lurker of the Loch
+LAYOUT MAIN:(1,8)(CMC,false,69)|([AER:181],[STH:138],[KLD:243],[KLD:244],[3ED:288],[ZEN:220],[2ED:264],[ATQ:81],[BFZ:239],[NPH:174],[NPH:168],[NPH:169],[NPH:169],[NPH:169],[NPH:168],[NPH:168],[NPH:170],[NPH:171])([5ED:388],[4ED:147],[THS:107])([TOR:69],[DIS:159],[M12:72],[5ED:408],[RAV:270])([UDS:135],[NEM:139],[3ED:235],[ELD:197],[2ED:85],[WAR:61])([NPH:42],[M21:239])([NPH:130],[HOU:145],[LRW:76])([M12:55])([KTK:59],[DST:146])
+LAYOUT SIDEBOARD:(1,7)(CMC,false,58)|([GRN:257],[SOM:228])([ODY:132],[M19:130],[KLD:199])([HOU:83])([THS:90],[NPH:161],[ELD:342])([TSB:55],[RIX:77],[THS:172])([M13:150])([ROE:6])

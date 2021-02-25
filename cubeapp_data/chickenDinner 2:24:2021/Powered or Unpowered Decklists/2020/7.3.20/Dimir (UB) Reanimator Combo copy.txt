@@ -1,0 +1,54 @@
+1 [PD3:14] Entomb
+1 [LRW:139] Shriekmaw
+1 [V17:14a] Liliana, Heretical Healer
+1 [PD3:17] Exhume
+1 [AKH:97] Liliana, Death's Majesty
+1 [UMA:239] Creeping Tar Pit
+1 [XLN:223] Hostage Taker
+1 [NPH:42] Phyrexian Metamorph
+1 [M12:72] Phantasmal Image
+1 [C19:281] Terramorphic Expanse
+1 [C13:84] Ophiomancer
+1 [LRW:133] Oona's Prowler
+1 [ELD:101] Rankle, Master of Pranks
+1 [M12:98] Grave Titan
+1 [UMA:93] Demonic Tutor
+1 [AVR:106] Griselbrand
+1 [EMA:78] Animate Dead
+1 [EMA:112] Vampiric Tutor
+1 [ELD:287] Murderous Rider
+1 [VMA:323] Underground Sea
+1 [MM2:75] Dark Confidant
+1 [HOU:31] Champion of Wits
+1 [C13:177] Baleful Strix
+1 [LRW:76] Mulldrifter
+1 [LRW:88] Sower of Temptation
+1 [M15:256] Island
+3 [M15:255] Island
+1 [M15:257] Island
+1 [PD3:30] Swamp
+3 [PD3:27] Swamp
+3 [PD3:28] Swamp
+1 [PD3:29] Swamp
+1 [MH1:100] Plague Engineer
+1 [EMA:108] Toxic Deluge
+SB: 1 [LEG:303] Karakas
+SB: 1 [KLD:4] Angel of Invention
+SB: 1 [V14:1] Armageddon
+SB: 1 [V14:13] Upheaval
+SB: 1 [CM1:17] Sylvan Library
+SB: 1 [A25:212] Pernicious Deed
+SB: 1 [HOP:69] Briarhorn
+SB: 1 [KLD:96] Noxious Gearhulk
+SB: 1 [SOM:33] Grand Architect
+SB: 1 [WAR:248] Karn's Bastion
+SB: 1 [A25:187] Regrowth
+SB: 1 [MH1:145] Seasoned Pyromancer
+SB: 1 [V10:13] Sundering Titan
+SB: 1 [M20:200] Voracious Hydra
+SB: 1 [ROE:66] Enclave Cryptologist
+SB: 1 [THB:305] Nadir Kraken
+SB: 1 [MH1:199] Fallen Shinobi
+SB: 1 [THS:107] Thoughtseize
+LAYOUT MAIN:(1,8)(CMC,false,100)|([UMA:239],[C19:281],[VMA:323],[M15:256],[M15:255],[M15:255],[M15:257],[M15:255],[PD3:30],[PD3:27],[PD3:28],[PD3:29],[PD3:27],[PD3:27],[PD3:28],[PD3:28])([PD3:14],[EMA:112])([PD3:17],[M12:72],[LRW:133],[UMA:93],[EMA:78],[MM2:75],[C13:177])([V17:14a],[C13:84],[HOU:31],[MH1:100],[EMA:108])([XLN:223],[NPH:42],[ELD:101],[LRW:88])([LRW:139],[AKH:97],[LRW:76])([M12:98],[ELD:287])([AVR:106])
+LAYOUT SIDEBOARD:(1,3)(NONE,false,89)|([LEG:303],[KLD:4],[V14:1],[V14:13],[CM1:17],[A25:212],[HOP:69],[KLD:96],[SOM:33],[WAR:248],[A25:187],[MH1:145],[V10:13],[M20:200],[ROE:66],[THB:305])([MH1:199])([THS:107])

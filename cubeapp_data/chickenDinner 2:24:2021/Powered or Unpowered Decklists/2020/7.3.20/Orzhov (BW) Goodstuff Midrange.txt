@@ -1,0 +1,54 @@
+1 [PTK:78] Imperial Seal
+1 [DTK:36] Secure the Wastes
+1 [RTR:213] Deathrite Shaman
+1 [4ED:34] Land Tax
+1 [FEM:38a] Hymn to Tourach
+1 [BOK:163] Umezawa's Jitte
+1 [MM2:71] Bitterblossom
+1 [MBS:43] Go for the Throat
+1 [NPH:57] Dismember
+1 [DKA:12] Lingering Souls
+1 [THS:90] Hero's Downfall
+1 [ISD:105] Liliana of the Veil
+1 [MH1:26] Serra the Benevolent
+1 [GNT:31] Languish
+1 [DKA:142] Sorin, Lord of Innistrad
+1 [SOI:5] Archangel Avacyn
+1 [CN2:41] Custodi Lich
+1 [ELD:287] Murderous Rider
+1 [DDD:53] Snuff Out
+1 [LRW:139] Shriekmaw
+1 [NPH:4] Blade Splicer
+1 [AVR:32] Restoration Angel
+1 [OGW:86] Kalitas, Traitor of Ghet
+1 [FUT:177] Horizon Canopy
+1 [LEG:303] Karakas
+1 [2ED:281] Savannah
+1 [4ED:363] Strip Mine
+4 [UGL:84] Plains
+9 [UGL:86] Swamp
+SB: 1 [DST:148] Sword of Fire and Ice
+SB: 1 [KTK:66] Bloodsoaked Champion
+SB: 1 [EMN:46] Thalia, Heretic Cathar
+SB: 1 [NPH:19] Porcelain Legionnaire
+SB: 1 [6ED:4] Armageddon
+SB: 1 [AKH:175] Manglehorn
+SB: 1 [STH:143] Volrath's Stronghold
+SB: 1 [AER:62] Glint-Sleeve Siphoner
+SB: 1 [ZEN:83] Bloodghast
+SB: 1 [HOU:145] The Scarab God
+SB: 1 [FRF:87] Tasigur, the Golden Fang
+SB: 1 [XLN:248] Sorcerous Spyglass
+SB: 1 [GRN:183] Knight of Autumn
+SB: 1 [CN2:74] Daretti, Ingenious Iconoclast
+SB: 1 [RAV:81] Dark Confidant
+SB: 1 [AKH:88] Dread Wanderer
+SB: 1 [ELD:101] Rankle, Master of Pranks
+SB: 1 [MH1:100] Plague Engineer
+SB: 3 [PTK:172] Swamp
+SB: 2 [PTK:173] Swamp
+SB: 4 [PTK:174] Swamp
+SB: 3 [PTK:166] Plains
+SB: 1 [PTK:168] Plains
+LAYOUT MAIN:(1,7)(CMC,false,50)|([FUT:177],[LEG:303],[2ED:281],[4ED:363],[UGL:84],[UGL:84],[UGL:84],[UGL:84],[UGL:86],[UGL:86],[UGL:86],[UGL:86],[UGL:86],[UGL:86],[UGL:86],[UGL:86],[UGL:86])([PTK:78],[DTK:36],[RTR:213],[4ED:34])([FEM:38a],[BOK:163],[MM2:71],[MBS:43])([NPH:57],[DKA:12],[THS:90],[ISD:105],[NPH:4])([MH1:26],[GNT:31],[DKA:142],[DDD:53],[AVR:32],[OGW:86])([SOI:5],[CN2:41],[LRW:139])([ELD:287])
+LAYOUT SIDEBOARD:(1,7)(CMC,false,50)|([STH:143],[PTK:172],[PTK:172],[PTK:173],[PTK:173],[PTK:174],[PTK:174],[PTK:174],[PTK:174],[PTK:166],[PTK:172],[PTK:168],[PTK:166],[PTK:166])([KTK:66],[AKH:88])([AER:62],[ZEN:83],[XLN:248],[RAV:81])([DST:148],[EMN:46],[NPH:19],[AKH:175],[GRN:183],[CN2:74],[MH1:100])([6ED:4],[ELD:101])([HOU:145])([FRF:87])

@@ -1,0 +1,50 @@
+1 [LRW:78] Pestermite
+1 [NPH:4] Blade Splicer
+1 [LRW:76] Mulldrifter
+1 [AVR:32] Restoration Angel
+1 [M11:7] Baneslayer Angel
+1 [DIS:166] Simic Signet
+1 [2ED:48] Ancestral Recall
+1 [ODY:113] Upheaval
+1 [RAV:260] Dimir Signet
+1 [CON:15] Path to Exile
+1 [ROE:165] Splinter Twin
+1 [VIS:34] Impulse
+1 [M12:73] Ponder
+1 [EMN:40] Selfless Spirit
+1 [AER:31] Disallow
+1 [3ED:274] Sol Ring
+1 [NEM:17] Parallax Wave
+1 [4ED:6] Balance
+1 [M13:22] Oblivion Ring
+1 [SOM:208] Sword of Body and Mind
+1 [8ED:64] Bribery
+1 [VMA:266] Coercive Portal
+1 [NPH:33] Deceiver Exarch
+1 [3ED:284] Plateau
+1 [GRN:254] Sacred Foundry
+1 [2ED:264] Mox Pearl
+1 [KTK:233] Flooded Strand
+7 [GUR:2] Island
+1 [GUR:3] Mountain
+5 [GUR:4] Plains
+SB: 1 [MOR:22] Reveillark
+SB: 1 [DOM:143] Siege-Gang Commander
+SB: 1 [NPH:19] Porcelain Legionnaire
+SB: 1 [AVR:166] Zealous Conscripts
+SB: 1 [APC:128] Fire // Ice
+SB: 1 [DIS:133] Trygon Predator
+SB: 1 [DGM:135] Wear // Tear
+SB: 1 [RIX:99] Dire Fleet Daredevil
+SB: 1 [ODY:193] Firebolt
+SB: 1 [APC:126] Vindicate
+SB: 1 [ULG:49] Bone Shredder
+SB: 1 [RNA:47] Pteramander
+SB: 1 [MOR:55] Vendilion Clique
+SB: 1 [AKH:136] Hazoret the Fervent
+SB: 1 [TSP:152] Empty the Warrens
+SB: 1 [KTK:239] Polluted Delta
+SB: 1 [PLS:60] Flametongue Kavu
+SB: 1 [GRN:208] Trostani Discordant
+LAYOUT MAIN:(1,7)(CMC,false,50)|([3ED:284],[GRN:254],[2ED:264],[KTK:233],[GUR:2],[GUR:2],[GUR:2],[GUR:2],[GUR:2],[GUR:2],[GUR:2],[GUR:3],[GUR:4],[GUR:4],[GUR:4],[GUR:4],[GUR:4])([2ED:48],[CON:15],[M12:73],[3ED:274])([DIS:166],[RAV:260],[VIS:34],[EMN:40],[4ED:6])([LRW:78],[NPH:4],[AER:31],[M13:22],[SOM:208],[NPH:33])([AVR:32],[ROE:165],[NEM:17],[VMA:266])([LRW:76],[M11:7],[8ED:64])([ODY:113])
+LAYOUT SIDEBOARD:(1,4)(NONE,false,50)|([MOR:22],[DOM:143],[NPH:19],[AVR:166],[APC:128],[DIS:133],[DGM:135],[RIX:99],[ODY:193],[APC:126],[ULG:49],[RNA:47],[MOR:55],[AKH:136],[TSP:152])([KTK:239])([PLS:60])([GRN:208])

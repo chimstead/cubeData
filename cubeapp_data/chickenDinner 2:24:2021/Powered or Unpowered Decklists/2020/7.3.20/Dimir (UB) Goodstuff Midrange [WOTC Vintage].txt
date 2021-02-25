@@ -1,0 +1,49 @@
+1 [MB1:1395] Baleful Strix
+1 [BOK:163] Umezawa's Jitte
+1 [MOR:55] Vendilion Clique
+1 [FUT:46] Venser, Shaper Savant
+1 [TSP:66] Looter il-Kor
+1 [WWK:31] Jace, the Mind Sculptor
+1 [KTK:36] Dig Through Time
+1 [4ED:147] Mind Twist
+1 [M12:73] Ponder
+1 [5ED:140] Animate Dead
+1 [LRW:76] Mulldrifter
+1 [2ED:84] Time Walk
+1 [ISD:78] Snapcaster Mage
+1 [LEG:65] Mana Drain
+1 [VIS:64] Necromancy
+1 [GRN:205] Thief of Sanity
+1 [KLD:84] Gonti, Lord of Luxury
+1 [MH1:52] Force of Negation
+1 [ALL:28] Force of Will
+1 [ISD:105] Liliana of the Veil
+1 [BBD:41] Spellseeker
+1 [MB1:440] Mystic Confluence
+1 [STH:138] Mox Diamond
+1 [3ED:290] Underground Sea
+1 [KTK:239] Polluted Delta
+1 [GRN:259] Watery Grave
+8 [UNH:137] Island
+6 [UNH:138] Swamp
+SB: 1 [WAR:98] Liliana's Triumph
+SB: 1 [WAR:207] Nicol Bolas, Dragon-God
+SB: 1 [THS:187] Ashen Rider
+SB: 1 [DKA:87] Faithless Looting
+SB: 1 [10E:163] Nekrataal
+SB: 1 [XLN:179] Carnage Tyrant
+SB: 1 [RNA:149] Wilderness Reclamation
+SB: 1 [ELD:110] Wishclaw Talisman
+SB: 1 [PLC:85] Damnation
+SB: 1 [RNA:186] Kaya, Orzhov Usurper
+SB: 1 [ARN:70] Bazaar of Baghdad
+SB: 1 [RNA:251] Hallowed Fountain
+SB: 1 [OGW:175] Needle Spires
+SB: 1 [RIX:82] Ravenous Chupacabra
+SB: 1 [DKA:12] Lingering Souls
+SB: 1 [DOM:207] Teferi, Hero of Dominaria
+SB: 1 [LRW:133] Oona's Prowler
+SB: 1 [XLN:48] Chart a Course
+SB: 1 [LRW:139] Shriekmaw
+LAYOUT MAIN:(1,8)(CMC,false,44)|([UNH:137],[UNH:137],[UNH:137],[UNH:137],[UNH:137],[UNH:137],[UNH:137],[UNH:137],[UNH:138],[UNH:138],[UNH:138],[UNH:138],[UNH:138],[UNH:138])([KTK:239],[3ED:290],[GRN:259],[STH:138])([4ED:147],[M12:73])([5ED:140],[MB1:1395],[TSP:66],[LEG:65],[ISD:78],[2ED:84],[BOK:163])([MH1:52],[ISD:105],[VIS:64],[BBD:41],[GRN:205],[MOR:55])([KLD:84],[WWK:31],[FUT:46])([ALL:28],[LRW:76],[MB1:440])([KTK:36])
+LAYOUT SIDEBOARD:(1,8)(CMC,false,50)|([DKA:87])([WAR:98],[ELD:110],[LRW:133],[XLN:48],[LRW:139])([RNA:186],[DKA:12])([10E:163],[RNA:149],[PLC:85],[RIX:82])([WAR:207])([XLN:179],[DOM:207])([THS:187])([ARN:70],[RNA:251],[OGW:175])

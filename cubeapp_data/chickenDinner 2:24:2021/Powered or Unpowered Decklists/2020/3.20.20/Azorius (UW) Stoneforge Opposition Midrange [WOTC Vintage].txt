@@ -1,0 +1,49 @@
+1 [CMA:27] Unexpectedly Absent
+1 [M12:39] Sun Titan
+1 [UMA:11] Containment Priest
+1 [FRF:20] Monastery Mentor
+1 [TSP:48] Ancestral Vision
+1 [SHM:23] Spectral Procession
+1 [THS:9] Elspeth, Sun's Champion
+1 [CHK:268] Sensei's Divining Top
+1 [VMA:20] Council's Judgment
+1 [M12:23] Honor of the Pure
+1 [NPH:9] Elesh Norn, Grand Cenobite
+1 [NPH:130] Batterskull
+1 [MBS:8] Hero of Bladehold
+1 [ISD:213] Geist of Saint Traft
+1 [WAR:13] Gideon Blackblade
+1 [7ED:92] Opposition
+1 [MRD:152] Chrome Mox
+1 [CON:15] Path to Exile
+1 [BFZ:29] Gideon, Ally of Zendikar
+1 [NPH:19] Porcelain Legionnaire
+1 [NEM:139] Tangle Wire
+1 [WWK:20] Stoneforge Mystic
+1 [KLD:4] Angel of Invention
+1 [LRW:88] Sower of Temptation
+1 [2ED:266] Mox Sapphire
+1 [2ED:262] Mox Emerald
+1 [TMP:315] Ancient Tomb
+1 [3ED:289] Tundra
+3 [THB:251] Island
+9 [THB:250] Plains
+SB: 1 [USG:96] Show and Tell
+SB: 1 [CHK:62] Gifts Ungiven
+SB: 1 [LRW:139] Shriekmaw
+SB: 1 [GRN:152] Assassin's Trophy
+SB: 1 [GRN:259] Watery Grave
+SB: 1 [WAR:185] Angrath's Rampage
+SB: 1 [RTR:200] Sphinx's Revelation
+SB: 1 [WWK:139] Lavaclaw Reaches
+SB: 1 [BFZ:244] Shambling Vent
+SB: 1 [RNA:248] Godless Shrine
+SB: 1 [LEG:185] Eureka
+SB: 1 [MBS:43] Go for the Throat
+SB: 1 [SOI:242] Anguished Unmaking
+SB: 1 [TOR:69] Mesmeric Fiend
+SB: 1 [DTK:169] Zurgo Bellstriker
+SB: 1 [HOU:145] The Scarab God
+SB: 1 [3ED:105] Demonic Tutor
+LAYOUT MAIN:(1,5)(CMC,false,69)|([TSP:48],[MRD:152],[2ED:266],[2ED:262],[TMP:315],[3ED:289],[THB:251],[THB:251],[THB:251],[THB:250],[THB:250],[THB:250],[THB:250],[THB:250],[THB:250],[THB:250],[THB:250],[THB:250])([CHK:268],[CON:15])([CMA:27],[UMA:11],[M12:23],[WWK:20])([FRF:20],[VMA:20],[ISD:213],[WAR:13],[NPH:19],[NEM:139])([MBS:8],[7ED:92],[BFZ:29],[LRW:88],[M12:39],[SHM:23],[THS:9],[NPH:9],[NPH:130],[KLD:4])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([USG:96],[CHK:62],[LRW:139],[GRN:152],[GRN:259],[WAR:185],[RTR:200],[WWK:139],[BFZ:244],[RNA:248],[LEG:185],[MBS:43],[SOI:242],[TOR:69],[DTK:169],[HOU:145],[3ED:105])

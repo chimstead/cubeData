@@ -1,0 +1,52 @@
+1 [LRW:139] Shriekmaw
+1 [AVR:32] Restoration Angel
+1 [NEM:17] Parallax Wave
+1 [M20:97] Duress
+1 [ICE:54] Swords to Plowshares
+1 [DST:140] Skullclamp
+1 [4ED:34] Land Tax
+1 [MOR:58] Bitterblossom
+1 [FEM:38a] Hymn to Tourach
+1 [3ED:105] Demonic Tutor
+1 [XLN:110] Kitesail Freebooter
+1 [ALA:202] Tidehollow Sculler
+1 [GRN:152] Assassin's Trophy
+1 [XLN:1] Adanto Vanguard
+1 [LRW:133] Oona's Prowler
+1 [DTK:181] Den Protector
+1 [M10:100] Hypnotic Specter
+1 [ARB:92] Maelstrom Pulse
+1 [MBS:138] Sword of Feast and Famine
+1 [NPH:57] Dismember
+1 [AKH:14] Gideon of the Trials
+1 [M19:196] Reclamation Sage
+1 [DKA:12] Lingering Souls
+1 [C13:84] Ophiomancer
+1 [ARN:76] Library of Alexandria
+1 [RNA:248] Godless Shrine
+1 [LEG:303] Karakas
+1 [3ED:286] Scrubland
+1 [ZEN:229] Verdant Catacombs
+1 [GRN:253] Overgrown Tomb
+1 [2ED:264] Mox Pearl
+1 [KTK:248] Windswept Heath
+1 [BFZ:244] Shambling Vent
+1 [3ED:285] Savannah
+1 [3ED:305] Forest
+1 [3ED:294] Plains
+1 [3ED:292] Plains
+1 [3ED:298] Swamp
+2 [3ED:300] Swamp
+SB: 1 [M12:63] Mana Leak
+SB: 1 [VIS:79] Fireblast
+SB: 1 [TSB:97] Mystic Snake
+SB: 1 [MRD:53] Thirst for Knowledge
+SB: 1 [DGM:135] Wear // Tear
+SB: 1 [6ED:19] Enlightened Tutor
+SB: 1 [DTK:216] Dragonlord Atarka
+SB: 1 [DTK:169] Zurgo Bellstriker
+SB: 1 [KTK:118] Monastery Swiftspear
+SB: 1 [M15:173] Elvish Mystic
+SB: 1 [WWK:134] Creeping Tar Pit
+LAYOUT MAIN:(1,6)(CMC,false,50)|([ARN:76],[RNA:248],[LEG:303],[3ED:286],[ZEN:229],[GRN:253],[2ED:264],[KTK:248],[BFZ:244],[3ED:285],[3ED:305],[3ED:294],[3ED:292],[3ED:298],[3ED:300],[3ED:300])([M20:97],[ICE:54],[DST:140],[4ED:34])([MOR:58],[FEM:38a],[3ED:105],[XLN:110],[ALA:202],[GRN:152],[XLN:1],[LRW:133],[DTK:181])([M10:100],[ARB:92],[MBS:138],[NPH:57],[AKH:14],[M19:196],[DKA:12],[C13:84])([AVR:32],[NEM:17])([LRW:139])
+LAYOUT SIDEBOARD:(1,7)(CMC,false,50)|([WWK:134])([6ED:19],[DTK:169],[KTK:118],[M15:173])([M12:63])([MRD:53],[DGM:135])([TSB:97])([VIS:79])([DTK:216])

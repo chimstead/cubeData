@@ -1,0 +1,50 @@
+1 [NPH:1] Karn Liberated
+1 [CHK:193] Through the Breach
+1 [DOM:46] Blink of an Eye
+1 [CON:121] Progenitus
+1 [PLC:149] Harmonize
+1 [ROE:12] Ulamog, the Infinite Gyre
+1 [AVR:129] Bonfire of the Damned
+1 [WWK:115] Terastodon
+1 [FRF:1] Ugin, the Spirit Dragon
+1 [ROE:6] Kozilek, Butcher of Truth
+1 [USG:96] Show and Tell
+1 [EXO:115] Oath of Druids
+1 [CHK:62] Gifts Ungiven
+1 [OGW:104] Chandra, Flamecaller
+1 [M11:154] Pyroclasm
+1 [LEG:185] Eureka
+1 [6ED:83] Mystical Tutor
+1 [KTK:59] Treasure Cruise
+1 [TSP:259] Lotus Bloom
+1 [KLD:249] Spirebluff Canal
+1 [SOM:225] Copperline Gorge
+1 [3ED:287] Taiga
+1 [KTK:248] Windswept Heath
+1 [CHK:239] Sakura-Tribe Elder
+1 [M12:147] Inferno Titan
+4 [UNH:140] Forest
+4 [UNH:137] Island
+5 [UNH:139] Mountain
+1 [LRW:233] Primal Command
+1 [GRN:224] Expansion // Explosion
+SB: 1 [RIX:111] Rekindling Phoenix
+SB: 1 [DKA:93] Hellrider
+SB: 1 [APC:126] Vindicate
+SB: 1 [MBS:46] Massacre Wurm
+SB: 1 [THS:122] Firedrinker Satyr
+SB: 1 [AVR:166] Zealous Conscripts
+SB: 1 [M14:195] Scavenging Ooze
+SB: 1 [XLN:110] Kitesail Freebooter
+SB: 1 [M10:100] Hypnotic Specter
+SB: 1 [M11:188] Obstinate Baloth
+SB: 1 [M12:145] Grim Lavamancer
+SB: 1 [THS:90] Hero's Downfall
+SB: 1 [KLD:4] Angel of Invention
+SB: 1 [WWK:96] Avenger of Zendikar
+SB: 1 [GRN:183] Knight of Autumn
+SB: 1 [ULG:101] Deranged Hermit
+SB: 1 [AKH:134] Glorybringer
+SB: 1 [DKA:140] Huntmaster of the Fells
+LAYOUT MAIN:(1,6)(CMC,true,69)|([TSP:259],[KLD:249],[SOM:225],[3ED:287],[KTK:248],[UNH:140],[UNH:140],[UNH:140],[UNH:140],[UNH:137],[UNH:137],[UNH:137],[UNH:137],[UNH:139],[UNH:139],[UNH:139],[UNH:139],[UNH:139])([CHK:239],[DOM:46],[AVR:129],[EXO:115],[M11:154],[6ED:83])([USG:96])([PLC:149],[CHK:62],[LEG:185])([CHK:193],[LRW:233])([M12:147],[WWK:115],[CON:121],[ROE:6],[ROE:12],[NPH:1],[FRF:1],[OGW:104],[KTK:59],[GRN:224])
+LAYOUT SIDEBOARD:(1,1)(COLOR,false,50)|([RIX:111],[DKA:93],[APC:126],[MBS:46],[THS:122],[AVR:166],[M14:195],[XLN:110],[M10:100],[M11:188],[M12:145],[THS:90],[KLD:4],[WWK:96],[GRN:183],[ULG:101],[AKH:134],[DKA:140])

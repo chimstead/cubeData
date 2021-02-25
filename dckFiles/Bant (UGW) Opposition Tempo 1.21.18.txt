@@ -1,3 +1,6 @@
+2018
+1.18
+1.21.18
 1 Walking Ballista
 1 Savannah
 1 Breeding Pool
@@ -15,11 +18,11 @@
 1 Kytheon, Hero of Akros
 1 Arbor Elf
 1 Mana Leak
-1 Jace, Vryn’s Prodigy
+1 Jace, Vryn's Prodigy
 1 Phantasmal Image
 1 Talisman of Dominance
 1 Glory-Bound Initiate
-1 Smuggler’s Copter
+1 Smuggler's Copter
 1 Chart a Course
 1 Censor
 1 Spell Queller

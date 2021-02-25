@@ -1,53 +1,53 @@
-1 [DOM:46] Blink of an Eye
-1 [XLN:81] Spell Pierce
-1 [ISD:78] Snapcaster Mage
-1 [WAR:41] Augur of Bolas
-1 [WAR:221] Teferi, Time Raveler
-1 [GRN:54] Sinister Sabotage
-1 [MH1:58] Mist-Syndicate Naga
-1 [KLD:67] Torrential Gearhulk
-1 [DOM:207] Teferi, Hero of Dominaria
-1 [TSP:83] Teferi, Mage of Zhalfir
-1 [LRW:56] Cryptic Command
-1 [AVR:79] Tamiyo, the Moon Sage
-1 [MH1:214] Soulherder
-1 [AER:31] Disallow
-1 [INV:57] Fact or Fiction
-1 [DOM:60] Opt
-1 [9ED:99] Sleight of Hand
-1 [TSP:66] Looter il-Kor
-1 [VIS:37] Man-o'-War
-1 [CON:15] Path to Exile
-1 [GPT:155] Orzhov Signet
-1 [HOU:49] Supreme Will
-1 [MH1:37] Winds of Abandon
-1 [AKH:245] Irrigated Farmland
-1 [SOM:229] Seachrome Coast
-1 [LRW:272] Shelldock Isle
-1 [WWK:133] Celestial Colonnade
-1 [BFZ:259] Island
-3 [BFZ:255] Island
-3 [BFZ:258] Island
-1 [BFZ:257] Island
-2 [BFZ:254] Plains
-3 [BFZ:251] Plains
-SB: 1 [MH1:249] Waterlogged Grove
-SB: 1 [AKH:210] Dusk // Dawn
-SB: 1 [10E:116] Tidings
-SB: 1 [ONS:320] Lonely Sandbar
-SB: 1 [RIX:60] Warkite Marauder
-SB: 1 [RNA:99] Electrodominance
-SB: 1 [AKH:16] Glory-Bound Initiate
-SB: 1 [9ED:228] Wildfire
-SB: 1 [AKH:212] Never // Return
-SB: 1 [DOM:68] Tempest Djinn
-SB: 1 [DGM:11] Aetherling
-SB: 1 [THS:199] Prophet of Kruphix
-SB: 1 [ROE:112] Guul Draz Assassin
-SB: 1 [XLN:34] Settle the Wreckage
-SB: 1 [LRW:76] Mulldrifter
-SB: 1 [M20:76] Spectral Sailor
-SB: 1 [AKH:46] Censor
-SB: 1 [EMN:189] Spell Queller
-LAYOUT MAIN:(1,7)(CMC,false,50)|([AKH:245],[SOM:229],[LRW:272],[WWK:133],[BFZ:259],[BFZ:255],[BFZ:258],[BFZ:255],[BFZ:258],[BFZ:258],[BFZ:255],[BFZ:257],[BFZ:254],[BFZ:251],[BFZ:251],[BFZ:254],[BFZ:251])([XLN:81],[DOM:60],[9ED:99],[CON:15])([DOM:46],[ISD:78],[WAR:41],[TSP:66],[GPT:155],[MH1:37])([WAR:221],[GRN:54],[MH1:58],[MH1:214],[AER:31],[VIS:37],[HOU:49])([LRW:56],[INV:57])([DOM:207],[TSP:83],[AVR:79])([KLD:67])
-LAYOUT SIDEBOARD:(1,6)(COLOR,false,50)|([MH1:249],[ONS:320])([AKH:212],[ROE:112])([10E:116],[RIX:60],[DOM:68],[DGM:11],[LRW:76],[M20:76],[AKH:46])([RNA:99],[9ED:228])([AKH:210],[AKH:16],[XLN:34])([THS:199],[EMN:189])
+2021
+1.31.21
+1 [2XM:11] Council's Judgment
+1 [M12:39] Sun Titan
+1 [RTR:200] Sphinx's Revelation
+1 [THB:4] Banishing Light
+1 [M13:22] Oblivion Ring
+1 [PLC:25] Mana Tithe
+1 [FRF:20] Monastery Mentor
+1 [DIS:159] Azorius Signet
+1 [M21:17] Faith's Fetters
+1 [ALA:9] Elspeth, Knight-Errant
+1 [GPT:32] Repeal
+1 [10E:61] Wrath of God
+1 [SOI:44] Thraben Inspector
+1 [M12:16] Gideon Jura
+1 [RAV:63] Remand
+1 [4ED:64] Control Magic
+1 [KTK:36] Dig Through Time
+1 [WAR:221*] Teferi, Time Raveler
+1 [PZ2:65681] Fractured Identity
+1 [7ED:67] Counterspell
+1 [ELD:281] Brazen Borrower
+1 [MOR:55] Vendilion Clique
+1 [M12:72] Phantasmal Image
+1 [MH1:244] Prismatic Vista
+1 [KTK:233] Flooded Strand
+1 [SUM:289] Tundra
+4 [2XM:375] Island
+3 [2XM:376] Island
+4 [2XM:374] Plains
+3 [2XM:373] Plains
+SB: 1 [APC:128] Fire // Ice
+SB: 1 [NEM:17] Parallax Wave
+SB: 1 [6ED:19] Enlightened Tutor
+SB: 1 [ELD:287] Murderous Rider
+SB: 1 [FRF:87] Tasigur, the Golden Fang
+SB: 1 [SOI:5] Archangel Avacyn
+SB: 1 [IKO:232] Yorion, Sky Nomad
+SB: 1 [NEM:139] Tangle Wire
+SB: 1 [SOM:169] Kuldotha Forgemaster
+SB: 1 [DKA:93] Hellrider
+SB: 1 [AVR:166] Zealous Conscripts
+SB: 1 [HOU:83] Abrade
+SB: 1 [KLD:4] Angel of Invention
+SB: 1 [RAV:213] Lightning Helix
+SB: 1 [JUD:139] Mirari's Wake
+SB: 1 [SUM:284] Plateau
+SB: 1 [6ED:83] Mystical Tutor
+SB: 1 [XLN:1] Adanto Vanguard
+SB: 1 [M12:12] Day of Judgment
+LAYOUT MAIN:(1,7)(CMC,false,50)|([2XM:375],[2XM:375],[2XM:375],[2XM:375],[2XM:376],[2XM:376],[2XM:376],[2XM:374],[2XM:374],[2XM:373],[2XM:374],[2XM:373],[2XM:373],[2XM:374],[MH1:244],[KTK:233],[SUM:289])([PLC:25],[SOI:44])([DIS:159],[RAV:63],[7ED:67],[M12:72],[ELD:281])([2XM:11],[THB:4],[M13:22],[FRF:20],[WAR:221*],[MOR:55])([M21:17],[ALA:9],[10E:61],[4ED:64],[GPT:32])([M12:16],[PZ2:65681])([M12:39],[RTR:200],[KTK:36])
+LAYOUT SIDEBOARD:(1,7)(COLOR,false,50)|([NEM:139],[SOM:169],[6ED:19])([ELD:287],[FRF:87])([DKA:93],[AVR:166],[HOU:83])([NEM:17],[SOI:5],[KLD:4],[XLN:1])([APC:128],[IKO:232],[RAV:213],[M12:12])([6ED:83])([SUM:284])

@@ -1,0 +1,50 @@
+1 [M11:175] Garruk Wildspeaker
+1 [ISD:170] Avacyn's Pilgrim
+1 [ZNR:215] Turntimber Symbiosis
+1 [VIS:114] Natural Order
+1 [UDS:124] Yavimaya Elder
+1 [SUM:194] Fastbond
+1 [THB:229] Uro, Titan of Nature's Wrath
+1 [CON:113] Knight of the Reliquary
+1 [ZNR:16] Felidar Retreat
+1 [ZNR:322] Skyclave Apparition
+1 [5ED:329] Sylvan Library
+1 [CON:87] Noble Hierarch
+1 [M11:172] Fauna Shaman
+1 [ZEN:172] Oracle of Mul Daya
+1 [M13:159] Acidic Slime
+1 [LRW:233] Primal Command
+1 [SHM:135] Woodfall Primus
+1 [ZNR:193] Lotus Cobra
+1 [BNG:119] Courser of Kruphix
+1 [ICE:244] Fyndhorn Elves
+1 [RNA:183] Hydroid Krasis
+1 [8ED:272] Plow Under
+1 [M12:188] Primeval Titan
+1 [4ED:363] Strip Mine
+1 [SUM:288] Tropical Island
+1 [TMP:330] Wasteland
+1 [TMP:315] Ancient Tomb
+1 [SUM:285] Savannah
+1 [LEG:303] Karakas
+1 [ODY:113] Upheaval
+7 [UNH:140] Forest
+2 [UNH:137] Island
+1 [UNH:136] Plains
+SB: 1 [JOU:94] Eidolon of the Great Revel
+SB: 1 [RAV:213] Lightning Helix
+SB: 1 [ORI:229] Hangarback Walker
+SB: 1 [WAR:208] Niv-Mizzet Reborn
+SB: 1 [M11:153] Pyretic Ritual
+SB: 1 [THB:123] Woe Strider
+SB: 1 [MH1:13] Giver of Runes
+SB: 1 [NPH:153] Shrine of Burning Rage
+SB: 1 [KTK:230] Bloodstained Mire
+SB: 1 [M14:163] Young Pyromancer
+SB: 1 [MH1:217] Wrenn and Six
+SB: 1 [AKH:211] Commit // Memory
+SB: 1 [WWK:20] Stoneforge Mystic
+SB: 1 [MBS:138] Sword of Feast and Famine
+SB: 1 [M21:204] Scavenging Ooze
+LAYOUT MAIN:(1,9)(CMC,false,50)|([4ED:363],[SUM:288],[TMP:330],[TMP:315],[SUM:285],[LEG:303],[UNH:140],[UNH:140],[UNH:140],[UNH:140],[UNH:140],[UNH:140],[UNH:140],[UNH:137],[UNH:137],[UNH:136])([ISD:170],[SUM:194],[CON:87],[ICE:244])([5ED:329],[M11:172],[ZNR:193],[RNA:183])([UDS:124],[THB:229],[CON:113],[ZNR:322],[BNG:119])([M11:175],[VIS:114],[ZNR:16],[ZEN:172])([M13:159],[LRW:233],[8ED:272])([M12:188],[ODY:113])([ZNR:215])([SHM:135])
+LAYOUT SIDEBOARD:(1,7)(COLOR,false,50)|([ORI:229],[NPH:153],[KTK:230],[MBS:138])([THB:123])([AKH:211])([M21:204])([JOU:94],[M11:153],[M14:163])([MH1:13],[WWK:20])([RAV:213],[WAR:208],[MH1:217])

@@ -1,0 +1,49 @@
+1 [USG:134] Exhume
+1 [AVR:106] Griselbrand
+1 [MIR:80] Mystical Tutor
+1 [XLN:110] Kitesail Freebooter
+1 [ZEN:13] Iona, Shield of Emeria
+1 [XLN:223] Hostage Taker
+1 [LEB:105] Demonic Tutor
+1 [XLN:48] Chart a Course
+1 [LEB:99] Dark Ritual
+1 [SHM:135] Woodfall Primus
+1 [5DN:36] Serum Visions
+1 [VIS:72] Vampiric Tutor
+1 [VIS:64] Necromancy
+1 [USG:132] Duress
+1 [EMN:6] Emrakul, the Promised End
+1 [ONS:321] Polluted Delta
+1 [MIR:141] Shallow Grave
+1 [ODY:132] Entomb
+1 [DST:146] Sundering Titan
+1 [TOR:77] Putrid Imp
+1 [WWK:134] Creeping Tar Pit
+1 [LEB:93] Animate Dead
+1 [NPH:35] Gitaxian Probe
+1 [MBS:46] Massacre Wurm
+1 [TMP:151] Reanimate
+1 [C13:96] Toxic Deluge
+1 [C16:56] Ash Barrens
+4 [UST:213] Island
+9 [UST:214] Swamp
+SB: 1 [MRD:245] Solemn Simulacrum
+SB: 1 [ME3:110] Rolling Earthquake
+SB: 1 [SCG:59] Carrion Feeder
+SB: 1 [MMQ:324] Rishadan Port
+SB: 1 [MIR:307] Lion's Eye Diamond
+SB: 1 [MH1:46] Echo of Eons
+SB: 1 [EXO:72] Recurring Nightmare
+SB: 1 [USG:105] Turnabout
+SB: 1 [THB:161] Underworld Breach
+SB: 1 [EXO:129] Survival of the Fittest
+SB: 1 [LEB:163] Mana Flare
+SB: 1 [DOM:21] History of Benalia
+SB: 1 [ZEN:220] Misty Rainforest
+SB: 1 [E01:91] Talisman of Indulgence
+SB: 1 [ALA:218] Relic of Progenitus
+SB: 1 [AKH:125] Combat Celebrant
+SB: 1 [SOK:158] Pithing Needle
+SB: 1 [BBD:33] Arcane Artisan
+LAYOUT MAIN:(1,6)(CMC,false,71)|([ONS:321],[WWK:134],[C16:56],[UST:213],[UST:213],[UST:213],[UST:213],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214])([MIR:80],[5DN:36],[NPH:35],[TMP:151],[TOR:77],[ODY:132],[USG:132],[VIS:72],[LEB:99])([USG:134],[XLN:110],[LEB:105],[MIR:141],[LEB:93],[XLN:48])([VIS:64],[C13:96])([XLN:223])([SHM:135],[AVR:106],[ZEN:13],[MBS:46],[EMN:6],[DST:146])
+LAYOUT SIDEBOARD:(1,5)(COLOR,false,100)|([MIR:307],[ZEN:220],[SOK:158],[ALA:218],[MMQ:324],[MRD:245],[E01:91])([SCG:59],[EXO:72])([BBD:33],[MH1:46],[USG:105])([EXO:129])([AKH:125],[LEB:163],[ME3:110],[THB:161],[DOM:21])

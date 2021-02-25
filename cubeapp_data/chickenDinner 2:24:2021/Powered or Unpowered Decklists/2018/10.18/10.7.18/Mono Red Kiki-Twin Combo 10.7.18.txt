@@ -1,0 +1,51 @@
+1 [MMQ:316] Dust Bowl
+1 [C14:33] Daretti, Scrap Savant
+1 [OGW:104] Chandra, Flamecaller
+1 [C18:57] Retrofitter Foundry
+1 [PTK:122] Rolling Earthquake
+2 [USG:346] Mountain
+4 [USG:344] Mountain
+2 [USG:345] Mountain
+5 [USG:343] Mountain
+1 [AVR:166] Zealous Conscripts
+1 [KLD:124] Pia Nalaar
+1 [PLS:60] Flametongue Kavu
+1 [MRD:245] Solemn Simulacrum
+1 [GRN:103] Goblin Cratermaker
+1 [LEA:161] Lightning Bolt
+1 [FUT:161] Coalition Relic
+1 [AER:181] Walking Ballista
+1 [MOR:148] Mutavault
+1 [MMQ:324] Rishadan Port
+1 [CHK:175] Kiki-Jiki, Mirror Breaker
+1 [MRD:152] Chrome Mox
+1 [C15:26] Fiery Confluence
+1 [USG:218] Sneak Attack
+1 [ROE:165] Splinter Twin
+1 [DDF:57] Triskelion
+1 [MIR:184] Incinerate
+1 [LEG:137] Chain Lightning
+1 [AKH:125] Combat Celebrant
+1 [SOM:223] Wurmcoil Engine
+1 [MBS:122] Phyrexian Revoker
+1 [ULG:126] Grim Monolith
+SB: 1 [BFZ:239] Lumbering Falls
+SB: 1 [POR:124] Earthquake
+SB: 1 [RAV:213] Lightning Helix
+SB: 1 [CMD:159] Hornet Queen
+SB: 1 [USG:6] Catastrophe
+SB: 1 [TOR:100] Grim Lavamancer
+SB: 1 [EXO:53] Carnophage
+SB: 1 [C14:35] Feldon of the Third Path
+SB: 1 [CN2:41] Custodi Lich
+SB: 1 [USG:228] Wildfire
+SB: 1 [ODY:292] Psychatog
+SB: 1 [APC:139] Battlefield Forge
+SB: 1 [CN2:22] Recruiter of the Guard
+SB: 1 [EMN:130] Hanweir Garrison
+SB: 1 [AKH:135] Harsh Mentor
+SB: 1 [EVE:139] Figure of Destiny
+SB: 1 [DKA:140] Huntmaster of the Fells
+SB: 1 [CN2:58] Subterranean Tremors
+LAYOUT MAIN:(2,8)(CMC,true,56)|([AER:181])()([MBS:122],[GRN:103])([KLD:124],[AKH:125])([MRD:245],[PLS:60])([CHK:175],[AVR:166])([SOM:223],[DDF:57])()([USG:343],[USG:344],[USG:344],[USG:343],[USG:343],[USG:346],[USG:343],[USG:344],[USG:344],[USG:345],[USG:343],[USG:346],[USG:345])([LEG:137],[PTK:122],[LEA:161],[C18:57])([MIR:184],[ULG:126])([FUT:161])([USG:218],[ROE:165],[C15:26],[C14:33])()([OGW:104])([MRD:152],[MOR:148],[MMQ:324],[MMQ:316])
+LAYOUT SIDEBOARD:(1,8)(COLOR_IDENTITY,false,50)|([CMD:159])([EMN:130],[USG:228],[CN2:58],[POR:124],[EVE:139],[C14:35],[TOR:100],[AKH:135])([DKA:140])([CN2:41],[EXO:53])([BFZ:239])([ODY:292])([USG:6],[CN2:22])([APC:139],[RAV:213])

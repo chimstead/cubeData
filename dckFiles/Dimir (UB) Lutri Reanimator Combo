@@ -1,0 +1,57 @@
+2021
+1.31.21
+1 [5DN:27] Condescend
+1 [PD3:14] Entomb
+1 [M11:70] Preordain
+1 [PD3:15] Reanimate
+1 [C18:57] Retrofitter Foundry
+1 [EMA:112] Vampiric Tutor
+1 [LRW:133] Oona's Prowler
+1 [TPR:58] Mana Leak
+1 [IKO:366] Heartless Act
+1 [PD3:17] Exhume
+1 [UMA:93] Demonic Tutor
+1 [DD2:23] Daze
+1 [EMA:78] Animate Dead
+1 [SHM:135] Woodfall Primus
+1 [DST:146] Sundering Titan
+1 [AVR:106] Griselbrand
+1 [ELD:281] Brazen Borrower
+1 [MM2:67] Vendilion Clique
+1 [HOU:49] Supreme Will
+1 [HOU:31] Champion of Wits
+1 [EMA:42] Control Magic
+1 [CMR:141] Opposition Agent
+1 [MRD:152] Chrome Mox
+1 [ZNR:106] Hagra Mauling
+3 [M15:255] Island
+2 [M15:257] Island
+1 [M15:256] Island
+1 [PD3:30] Swamp
+4 [PD3:29] Swamp
+1 [PD3:27] Swamp
+1 [VMA:323] Underground Sea
+1 [KTK:233] Flooded Strand
+1 [VMA:316] Strip Mine
+1 [ORI:83] Whirler Rogue
+SB: 1 [C15:26] Fiery Confluence
+SB: 1 [IKO:227] Lutri, the Spellchaser
+SB: 1 [VMA:324] Volcanic Island
+SB: 1 [RNA:122] Biogenic Ooze
+SB: 1 [HOP:54] Flametongue Kavu
+SB: 1 [XLN:1] Adanto Vanguard
+SB: 1 [DKA:24] Thalia, Guardian of Thraben
+SB: 1 [CMR:260] Sweet-Gum Recluse
+SB: 1 [C19:55] Idol of Oblivion
+SB: 1 [ELD:182] Wildborn Preserver
+SB: 1 [THB:305] Nadir Kraken
+SB: 1 [UMA:164] Fauna Shaman
+SB: 1 [C13:84] Ophiomancer
+SB: 1 [AER:181] Walking Ballista
+SB: 1 [UMA:50] Dig Through Time
+SB: 1 [PD3:28] Swamp
+SB: 1 [M15:257] Island
+SB: 1 [IKO:319] Shark Typhoon
+SB: 1 [IMA:48] Cryptic Command
+LAYOUT MAIN:(1,6)(CMC,false,95)|([MRD:152],[KTK:233],[M15:255],[M15:257],[M15:256],[M15:257],[M15:255],[M15:255],[VMA:316],[PD3:30],[PD3:29],[PD3:29],[ZNR:106],[PD3:27],[PD3:29],[PD3:29],[VMA:323])([5DN:27],[PD3:14],[M11:70],[PD3:15],[C18:57],[EMA:112])([EMA:78],[DD2:23],[UMA:93],[PD3:17],[IKO:366],[TPR:58],[LRW:133])([HOU:31],[CMR:141],[HOU:49],[MM2:67],[ELD:281])([EMA:42],[ORI:83])([AVR:106],[DST:146],[SHM:135])
+LAYOUT SIDEBOARD:(1,7)(CMC,false,50)|([VMA:324],[AER:181],[PD3:28],[M15:257])([XLN:1],[UMA:164],[C19:55],[DKA:24],[ELD:182])([IKO:227],[THB:305],[C13:84])([C15:26],[HOP:54])([RNA:122],[IMA:48])([CMR:260])([UMA:50],[IKO:319])

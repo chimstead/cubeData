@@ -1,0 +1,51 @@
+1 [3ED:274] Sol Ring
+1 [INV:57] Fact or Fiction
+1 [MH1:52] Force of Negation
+1 [NPH:35] Gitaxian Probe
+1 [M12:63] Mana Leak
+1 [FUT:46] Venser, Shaper Savant
+1 [M11:70] Preordain
+1 [RAV:63] Remand
+1 [NPH:42] Phyrexian Metamorph
+1 [RAV:260] Dimir Signet
+1 [ODY:113] Upheaval
+1 [MEDM:RA6] Dack Fayden
+1 [M12:147] Inferno Titan
+1 [FUT:161] Coalition Relic
+1 [DIS:159] Azorius Signet
+1 [LRW:78] Pestermite
+1 [ROE:165] Splinter Twin
+1 [A25:136] Imperial Recruiter
+1 [ZEN:211] Arid Mesa
+1 [3ED:288] Tropical Island
+1 [PUMA:U22] Leovold, Emissary of Trest
+1 [3ED:289] Tundra
+1 [ZEN:223] Scalding Tarn
+1 [3ED:283] Bayou
+1 [ARN:76] Library of Alexandria
+1 [3ED:285] Savannah
+4 [3ED:297] Island
+1 [3ED:295] Island
+3 [3ED:296] Island
+2 [3ED:303] Mountain
+1 [GRN:224] Expansion // Explosion
+1 [KLD:67] Torrential Gearhulk
+1 [HOU:83] Abrade
+1 [GPT:32] Repeal
+SB: 1 [AVR:129] Bonfire of the Damned
+SB: 1 [DST:148] Sword of Fire and Ice
+SB: 1 [RTR:200] Sphinx's Revelation
+SB: 1 [EMA:108] Toxic Deluge
+SB: 1 [WWK:123] Everflowing Chalice
+SB: 1 [ULG:80] Goblin Welder
+SB: 1 [ISD:170] Avacyn's Pilgrim
+SB: 1 [UMA:11] Containment Priest
+SB: 1 [LRW:88] Sower of Temptation
+SB: 1 [GRN:205] Thief of Sanity
+SB: 1 [KLD:110] Chandra, Torch of Defiance
+SB: 1 [8ED:64] Bribery
+SB: 1 [UDS:50] Treachery
+SB: 1 [M20:226] Golos, Tireless Pilgrim
+SB: 1 [2ED:85] Timetwister
+LAYOUT MAIN:(2,6)(CMC,true,62)|()()()([LRW:78],[A25:136],[PUMA:U22])([FUT:46],[NPH:42])([M12:147],[KLD:67])([ZEN:211],[3ED:288],[3ED:289],[ZEN:223],[3ED:283],[ARN:76],[3ED:285],[3ED:297],[3ED:295],[3ED:296],[3ED:297],[3ED:296],[3ED:296],[3ED:297],[3ED:297],[3ED:303],[3ED:303])([3ED:274],[NPH:35],[M11:70],[GPT:32])([M12:63],[RAV:63],[RAV:260],[DIS:159],[HOU:83])([MH1:52],[MEDM:RA6],[FUT:161])([INV:57],[ROE:165])([ODY:113],[GRN:224])
+LAYOUT SIDEBOARD:(1,7)(COLOR,false,51)|([DST:148],[WWK:123],[M20:226])([EMA:108])([LRW:88],[8ED:64],[UDS:50],[2ED:85])([ISD:170])([AVR:129],[ULG:80],[KLD:110])([UMA:11])([RTR:200],[GRN:205])

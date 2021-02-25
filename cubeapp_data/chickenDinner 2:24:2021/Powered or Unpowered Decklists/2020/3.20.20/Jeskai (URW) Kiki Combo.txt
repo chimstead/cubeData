@@ -1,0 +1,52 @@
+1 [CHK:175] Kiki-Jiki, Mirror Breaker
+1 [C15:14] Mystic Confluence
+1 [C17:37] Fractured Identity
+1 [AVR:32] Restoration Angel
+1 [AKH:125] Combat Celebrant
+1 [CN2:22] Recruiter of the Guard
+1 [LRW:34] Oblivion Ring
+1 [ISD:78] Snapcaster Mage
+1 [MMQ:69] Counterspell
+1 [ROE:53] Wall of Omens
+1 [RAV:63] Remand
+1 [SOM:81] Arc Trail
+1 [HOU:83] Abrade
+1 [STH:36] Mana Leak
+1 [NEM:30] Daze
+1 [CN2:58] Subterranean Tremors
+1 [M10:68] Ponder
+1 [5DN:27] Condescend
+1 [LEG:58] Force Spike
+1 [5DN:36] Serum Visions
+1 [INV:64] Opt
+1 [ZEN:67] Spell Pierce
+1 [MOR:22] Reveillark
+1 [KTK:59] Treasure Cruise
+1 [OGW:175] Needle Spires
+1 [MH1:244] Prismatic Vista
+1 [ZEN:211] Arid Mesa
+1 [ONS:330] Wooded Foothills
+1 [RAV:280] Sacred Foundry
+1 [LEB:284] Tropical Island
+1 [ZEN:220] Misty Rainforest
+1 [C16:56] Ash Barrens
+1 [LEB:287] Volcanic Island
+2 [3ED:295] Island
+2 [3ED:296] Island
+1 [3ED:302] Mountain
+1 [3ED:301] Mountain
+1 [3ED:294] Plains
+SB: 1 [SHM:23] Spectral Procession
+SB: 1 [FRF:18] Mardu Woe-Reaper
+SB: 1 [KTK:119] Sarkhan, the Dragonspeaker
+SB: 1 [M19:33] Remorseful Cleric
+SB: 1 [AER:62] Glint-Sleeve Siphoner
+SB: 1 [THB:157] Storm's Wrath
+SB: 1 [THS:32] Soldier of the Pantheon
+SB: 1 [RAV:213] Lightning Helix
+SB: 1 [GPT:165] Stomping Ground
+SB: 1 [WWK:144] Stirring Wildwood
+SB: 1 [AKH:16] Glory-Bound Initiate
+SB: 1 [MIR:74] Memory Lapse
+LAYOUT MAIN:(1,7)(CMC,false,50)|([OGW:175],[MH1:244],[ZEN:211],[ONS:330],[RAV:280],[LEB:284],[ZEN:220],[C16:56],[LEB:287],[3ED:295],[3ED:296],[3ED:296],[3ED:295],[3ED:302],[3ED:301],[3ED:294])([CN2:58],[M10:68],[5DN:27],[LEG:58],[5DN:36],[INV:64],[ZEN:67])([ISD:78],[MMQ:69],[ROE:53],[RAV:63],[SOM:81],[HOU:83],[STH:36],[NEM:30])([AKH:125],[CN2:22],[LRW:34])([AVR:32])([CHK:175],[C15:14],[C17:37],[MOR:22])([KTK:59])
+LAYOUT SIDEBOARD:(1,6)(CMC,false,50)|([GPT:165],[WWK:144])([FRF:18],[THS:32])([M19:33],[AER:62],[RAV:213],[AKH:16],[MIR:74])([THB:157])([KTK:119])([SHM:23])

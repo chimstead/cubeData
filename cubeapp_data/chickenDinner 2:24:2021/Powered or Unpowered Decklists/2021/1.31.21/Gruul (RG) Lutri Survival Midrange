@@ -1,0 +1,54 @@
+1 [10E:252*] Birds of Paradise
+1 [UMA:174] Noble Hierarch
+1 [M19:314] Llanowar Elves
+1 [JVC:49] Firebolt
+1 [A25:141] Lightning Bolt
+1 [M21:150] Heartfire Immolator
+1 [SOM:81] Arc Trail
+1 [AER:87] Kari Zev, Skyship Raider
+1 [WAR:137] Krenko, Tin Street Kingpin
+1 [RIX:136] Jadelight Ranger
+1 [BNG:119] Courser of Kruphix
+1 [THB:148] Phoenix of Ash
+1 [VMA:235] Sylvan Library
+1 [TPR:199] Survival of the Fittest
+1 [M12:147] Inferno Titan
+1 [DTK:216] Dragonlord Atarka
+1 [MH1:161] Deep Forest Hermit
+1 [AKH:134] Glorybringer
+1 [EMA:177] Natural Order
+1 [ELD:171] Questing Beast
+1 [IKO:175] Vivien, Monsters' Advocate
+1 [ORI:157] Pia and Kiran Nalaar
+1 [MRD:254] Talisman of Impulse
+1 [RNA:259] Stomping Ground
+1 [ZEN:223] Scalding Tarn
+1 [C16:299] Grand Coliseum
+1 [ELD:244] Fabled Passage
+1 [10E:383] Forest
+4 [10E:380] Forest
+1 [10E:381] Forest
+1 [10E:382] Forest
+3 [10E:379] Mountain
+2 [10E:378] Mountain
+1 [10E:377] Mountain
+SB: 1 [KTK:233] Flooded Strand
+SB: 1 [SOM:223] Wurmcoil Engine
+SB: 1 [EMA:78] Animate Dead
+SB: 1 [VMA:324] Volcanic Island
+SB: 1 [A25:104] Ravenous Chupacabra
+SB: 1 [C13:84] Ophiomancer
+SB: 1 [IKO:366] Heartless Act
+SB: 1 [HOU:49] Supreme Will
+SB: 1 [DST:146] Sundering Titan
+SB: 1 [MH1:81] Carrion Feeder
+SB: 1 [AVR:32] Restoration Angel
+SB: 1 [IKO:227] Lutri, the Spellchaser
+SB: 1 [V14:10] Rolling Earthquake
+SB: 1 [IKO:176] Wilt
+SB: 1 [VMA:291] Badlands
+SB: 1 [KLD:235] Smuggler's Copter
+SB: 1 [MMA:26] Reveillark
+SB: 1 [DTK:210] Surrak, the Hunt Caller
+LAYOUT MAIN:(1,8)(CMC,false,86)|([10E:383],[10E:380],[10E:380],[10E:380],[10E:380],[10E:381],[10E:382],[10E:379],[10E:378],[10E:377],[10E:379],[10E:379],[10E:378],[RNA:259],[ZEN:223],[C16:299],[ELD:244])([10E:252*],[UMA:174],[M19:314],[JVC:49],[A25:141])([M21:150],[SOM:81],[AER:87],[VMA:235],[TPR:199],[MRD:254])([WAR:137],[RIX:136],[BNG:119],[THB:148])([EMA:177],[ELD:171],[ORI:157])([MH1:161],[AKH:134],[IKO:175])([M12:147])([DTK:216])
+LAYOUT SIDEBOARD:(1,8)(CMC,false,88)|([KTK:233],[VMA:291])([MH1:81],[V14:10],[VMA:324])([EMA:78],[IKO:366],[KLD:235],[IKO:176])([IKO:227],[C13:84],[HOU:49])([A25:104],[AVR:32],[DTK:210])([MMA:26])([SOM:223])([DST:146])

@@ -1,0 +1,52 @@
+1 [ISD:164] Stromkirk Noble
+1 [DST:140] Skullclamp
+1 [IMA:140] Monastery Swiftspear
+1 [A25:141] Lightning Bolt
+1 [PD2:1] Grim Lavamancer
+1 [ZEN:126] Goblin Guide
+1 [SOI:155] Falkenrath Gorger
+1 [MM2:109] Burst Lightning
+1 [UMA:155] Young Pyromancer
+1 [KLD:235] Smuggler's Copter
+1 [NPH:19] Porcelain Legionnaire
+1 [EMA:150] Sulfuric Vortex
+1 [M15:145] Goblin Rabblemaster
+1 [THB:148] Phoenix of Ash
+1 [EMN:130a] Hanweir Garrison
+1 [GRN:103] Goblin Cratermaker
+1 [MM3:100] Magma Jet
+1 [ELD:138] Robber of the Rich
+1 [AER:87] Kari Zev, Skyship Raider
+1 [C15:26] Fiery Confluence
+1 [ARB:50] Bloodbraid Elf
+1 [DD3JVC:42] Flametongue Kavu
+1 [RAV:117] Char
+1 [ZEN:211] Arid Mesa
+1 [ELD:239] Castle Embereth
+1 [VMA:8] Mox Ruby
+1 [SOM:81] Arc Trail
+2 [ISD:261] Mountain
+3 [ISD:259] Mountain
+5 [ISD:260] Mountain
+1 [RNA:259] Stomping Ground
+1 [MMA:221] City of Brass
+1 [JOU:163] Mana Confluence
+SB: 1 [FRF:28] Valorous Stance
+SB: 1 [THB:157] Storm's Wrath
+SB: 1 [THB:151] Purphoros's Intervention
+SB: 1 [V17:10a] Gisela, the Broken Blade
+SB: 1 [XLN:203] Ripjaw Raptor
+SB: 1 [DTK:36] Secure the Wastes
+SB: 1 [DTK:162] Thunderbreak Regent
+SB: 1 [RAV:280] Sacred Foundry
+SB: 1 [VMA:308] Plateau
+SB: 1 [MM3:101] Mizzium Mortars
+SB: 1 [VMA:37] Parallax Wave
+SB: 1 [CHK:19] Isamaru, Hound of Konda
+SB: 1 [V17:13a] Kytheon, Hero of Akros
+SB: 1 [RNA:107] Light Up the Stage
+SB: 2 [ISD:259] Mountain
+SB: 1 [ISD:261] Mountain
+SB: 1 [FRF:90] Alesha, Who Smiles at Death
+LAYOUT MAIN:(1,5)(CMC,false,69)|([ZEN:211],[ELD:239],[MMA:221],[JOU:163],[ISD:261],[ISD:259],[ISD:260],[ISD:259],[ISD:259],[ISD:260],[ISD:261],[ISD:260],[ISD:260],[ISD:260],[VMA:8],[RNA:259])([MM2:109],[SOI:155],[ZEN:126],[PD2:1],[A25:141],[IMA:140],[DST:140],[ISD:164])([SOM:81],[GRN:103],[AER:87],[MM3:100],[ELD:138],[KLD:235],[UMA:155],[NPH:19])([RAV:117],[M15:145],[EMN:130a],[THB:148],[EMA:150])([ARB:50],[C15:26],[DD3JVC:42])
+LAYOUT SIDEBOARD:(1,4)(COLOR,false,71)|([ISD:259],[ISD:259],[ISD:261],[VMA:308],[RAV:280])([XLN:203])([RNA:107],[MM3:101],[FRF:90],[THB:151],[THB:157],[DTK:162])([V17:10a],[CHK:19],[V17:13a],[VMA:37],[DTK:36],[FRF:28])

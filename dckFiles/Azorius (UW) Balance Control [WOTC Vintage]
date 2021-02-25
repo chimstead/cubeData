@@ -1,0 +1,56 @@
+2021
+1.31.21
+1 [M12:12] Day of Judgment
+1 [ROE:53] Wall of Omens
+1 [FRF:20] Monastery Mentor
+1 [WAR:61*] Narset, Parter of Veils
+1 [STH:138] Mox Diamond
+1 [C20:106] Unexpectedly Absent
+1 [BFZ:29] Gideon, Ally of Zendikar
+1 [WAR:221*] Teferi, Time Raveler
+1 [4ED:34] Land Tax
+1 [M11:58] Jace Beleren
+1 [DOM:207] Teferi, Hero of Dominaria
+1 [NPH:1] Karn Liberated
+1 [2XM:11] Council's Judgment
+1 [M12:55] Frost Titan
+1 [ORI:229] Hangarback Walker
+1 [PLC:25] Mana Tithe
+1 [J20:3] Spellseeker
+1 [ULG:126] Grim Monolith
+1 [7ED:92] Opposition
+1 [WAR:13*] Gideon Blackblade
+1 [4ED:6] Balance
+1 [2ED:48] Ancestral Recall
+1 [THB:14] Elspeth, Sun's Nemesis
+1 [SOM:229] Seachrome Coast
+1 [KTK:248] Windswept Heath
+1 [KTK:239] Polluted Delta
+1 [ZEN:220] Misty Rainforest
+1 [ARN:76] Library of Alexandria
+1 [4ED:361] Mishra's Factory
+2 [M12:235] Island
+1 [M12:237] Island
+1 [M12:236] Island
+1 [M12:234] Island
+3 [M12:232] Plains
+2 [M12:233] Plains
+1 [M12:231] Plains
+SB: 1 [NEM:139] Tangle Wire
+SB: 1 [CHK:175] Kiki-Jiki, Mirror Breaker
+SB: 1 [AVR:172] Craterhoof Behemoth
+SB: 1 [M13:159] Acidic Slime
+SB: 1 [MBS:138] Sword of Feast and Famine
+SB: 1 [GRN:213] Vraska, Golgari Queen
+SB: 1 [M19:208] Vivien Reid
+SB: 1 [ULG:38] Palinchron
+SB: 1 [SOM:169] Kuldotha Forgemaster
+SB: 1 [AVR:166] Zealous Conscripts
+SB: 1 [UMA:202] Leovold, Emissary of Trest
+SB: 1 [EVE:6] Flickerwisp
+SB: 1 [M12:39] Sun Titan
+SB: 1 [KLD:4] Angel of Invention
+SB: 1 [BBD:25] Brightling
+SB: 1 [EMN:40] Selfless Spirit
+LAYOUT MAIN:(1,8)(CMC,false,56)|([STH:138],[ORI:229],[SOM:229],[KTK:248],[KTK:239],[ZEN:220],[ARN:76],[4ED:361],[M12:235],[M12:237],[M12:236],[M12:234],[M12:235],[M12:232],[M12:232],[M12:233],[M12:232],[M12:233],[M12:231])([4ED:34],[PLC:25],[2ED:48])([ROE:53],[C20:106],[ULG:126],[4ED:6])([FRF:20],[WAR:61*],[WAR:221*],[M11:58],[2XM:11],[J20:3],[WAR:13*])([M12:12],[BFZ:29],[7ED:92],[THB:14])([DOM:207])([M12:55])([NPH:1])
+LAYOUT SIDEBOARD:(1,7)(CMC,false,58)|([EMN:40])([NEM:139],[MBS:138],[UMA:202],[EVE:6],[BBD:25])([GRN:213])([CHK:175],[M13:159],[M19:208],[SOM:169],[AVR:166],[KLD:4])([M12:39])([ULG:38])([AVR:172])

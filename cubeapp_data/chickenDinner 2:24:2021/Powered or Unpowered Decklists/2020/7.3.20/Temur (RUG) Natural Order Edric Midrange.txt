@@ -1,0 +1,53 @@
+1 [SHM:229] Kitchen Finks
+1 [MM3:143] Thragtusk
+1 [RNA:122] Biogenic Ooze
+1 [CM2:132] Acidic Slime
+1 [MMA:47] Glen Elendra Archmage
+1 [ELD:171] Questing Beast
+1 [C16:157] Managorger Hydra
+1 [IMA:183] Primeval Titan
+1 [V13:9] Fact or Fiction
+1 [UDS:118] Rofellos, Llanowar Emissary
+1 [EMA:57] Jace, the Mind Sculptor
+1 [5ED:280] Birds of Paradise
+1 [CNS:187] Edric, Spymaster of Trest
+1 [XLN:48] Chart a Course
+1 [MM3:122] Craterhoof Behemoth
+1 [M15:178] Hornet Queen
+1 [DTK:210] Surrak, the Hunt Caller
+1 [EMA:177] Natural Order
+1 [LRW:76] Mulldrifter
+1 [EMA:59] Man-o'-War
+1 [V13:4] Fyndhorn Elves
+1 [MM3:240] Misty Rainforest
+1 [ZEN:223] Scalding Tarn
+1 [GTC:240] Breeding Pool
+1 [ONS:316] Flooded Strand
+1 [VMA:311] Savannah
+1 [VMA:317] Taiga
+4 [2ED:301] Forest
+3 [2ED:300] Forest
+1 [2ED:302] Forest
+1 [GPT:111] Electrolyze
+1 [VMA:324] Volcanic Island
+1 [GPT:164] Steam Vents
+1 [2ED:293] Island
+1 [MM3:100] Magma Jet
+SB: 1 [EMN:40] Selfless Spirit
+SB: 1 [KLD:110] Chandra, Torch of Defiance
+SB: 1 [LEG:303] Karakas
+SB: 1 [EMA:81] Blood Artist
+SB: 1 [EMA:33] Unexpectedly Absent
+SB: 1 [UMA:155] Young Pyromancer
+SB: 1 [ELD:335] Charming Prince
+SB: 1 [C13:177] Baleful Strix
+SB: 1 [ELD:241] Castle Locthwain
+SB: 1 [M12:156] Stormblood Berserker
+SB: 1 [DTK:216] Dragonlord Atarka
+SB: 1 [WAR:160] Finale of Devastation
+SB: 1 [2ED:291] Island
+SB: 1 [XLN:203] Ripjaw Raptor
+SB: 1 [2ED:302] Forest
+SB: 1 [M19:196] Reclamation Sage
+LAYOUT MAIN:(1,8)(CMC,false,51)|([MM3:240],[ZEN:223],[GTC:240],[ONS:316],[VMA:311],[VMA:317],[2ED:301],[2ED:301],[2ED:300],[2ED:302],[2ED:300],[2ED:301],[2ED:301],[2ED:300],[VMA:324],[GPT:164],[2ED:293])([5ED:280],[V13:4])([UDS:118],[XLN:48],[MM3:100])([SHM:229],[C16:157],[CNS:187],[EMA:59],[GPT:111])([MMA:47],[ELD:171],[V13:9],[EMA:57],[DTK:210],[EMA:177])([MM3:143],[RNA:122],[CM2:132],[LRW:76])([IMA:183])([MM3:122],[M15:178])
+LAYOUT SIDEBOARD:(1,6)(CMC,false,49)|([ELD:241])([EMN:40],[EMA:81],[EMA:33],[UMA:155],[ELD:335],[C13:177],[M12:156],[2ED:291],[2ED:302])([KLD:110])([DTK:216])([XLN:203],[M19:196],[WAR:160])([LEG:303])

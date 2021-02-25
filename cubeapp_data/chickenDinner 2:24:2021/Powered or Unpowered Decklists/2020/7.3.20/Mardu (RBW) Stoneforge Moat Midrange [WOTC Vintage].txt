@@ -1,0 +1,49 @@
+1 [BFZ:29] Gideon, Ally of Zendikar
+1 [WWK:123] Everflowing Chalice
+1 [THS:9] Elspeth, Sun's Champion
+1 [GPT:155] Orzhov Signet
+1 [SHM:23] Spectral Procession
+1 [BOK:163] Umezawa's Jitte
+1 [FRF:20] Monastery Mentor
+1 [LEG:28] Moat
+1 [CON:15] Path to Exile
+1 [DOM:26] Lyra Dawnbringer
+1 [M20:97] Duress
+1 [5ED:140] Animate Dead
+1 [DST:140] Skullclamp
+1 [THS:107] Thoughtseize
+1 [NPH:9] Elesh Norn, Grand Cenobite
+1 [THB:221] Kroxa, Titan of Death's Hunger
+1 [M13:22] Oblivion Ring
+1 [WWK:20] Stoneforge Mystic
+1 [3ED:105] Demonic Tutor
+1 [MOR:22] Reveillark
+1 [KLD:235] Smuggler's Copter
+1 [ELD:287] Murderous Rider
+1 [DKA:12] Lingering Souls
+1 [KLD:245] Concealed Courtyard
+1 [3ED:284] Plateau
+1 [SOM:224] Blackcleave Cliffs
+1 [WWK:139] Lavaclaw Reaches
+8 [UST:212] Plains
+5 [UST:214] Swamp
+SB: 1 [LRW:124] Makeshift Mannequin
+SB: 1 [DTK:124] Ultimate Price
+SB: 1 [WAR:125] Dreadhorde Arcanist
+SB: 1 [TOR:69] Mesmeric Fiend
+SB: 1 [CHK:268] Sensei's Divining Top
+SB: 1 [THS:90] Hero's Downfall
+SB: 1 [ORI:157] Pia and Kiran Nalaar
+SB: 1 [GRN:183] Knight of Autumn
+SB: 1 [AVR:129] Bonfire of the Damned
+SB: 1 [M11:154] Pyroclasm
+SB: 1 [NEM:17] Parallax Wave
+SB: 1 [OGW:110] Goblin Dark-Dwellers
+SB: 1 [ROE:165] Splinter Twin
+SB: 1 [JR:97] Ravages of War
+SB: 1 [7ED:92] Opposition
+SB: 1 [KLD:110] Chandra, Torch of Defiance
+SB: 1 [PLC:25] Mana Tithe
+SB: 1 [MM2:75] Dark Confidant
+LAYOUT MAIN:(2,5)(CMC,false,40)|([WWK:123],[UST:212],[UST:212],[UST:212],[UST:212],[UST:212],[UST:212],[UST:212],[UST:212],[KLD:245])([CON:15],[M20:97],[DST:140],[THS:107])([FRF:20],[M13:22],[DKA:12],[ELD:287])([DOM:26],[MOR:22])([NPH:9])([3ED:284],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[WWK:139],[SOM:224])([GPT:155],[BOK:163],[5ED:140],[THB:221],[WWK:20],[3ED:105],[KLD:235])([BFZ:29],[LEG:28])([THS:9],[SHM:23])()
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([AVR:129],[KLD:110],[MM2:75],[WAR:125],[OGW:110],[THS:90],[GRN:183],[LRW:124],[PLC:25],[TOR:69],[7ED:92],[NEM:17],[ORI:157],[M11:154],[JR:97],[CHK:268],[ROE:165],[DTK:124])

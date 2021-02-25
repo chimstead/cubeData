@@ -1,3 +1,6 @@
+2017
+12.17
+12.3.17
 4 Mountain
 1 Forest
 1 Swamp
@@ -35,4 +38,3 @@
 1 Fiery Confluence
 1 Flametongue Kavu
 1 Koth of the Hammer
-

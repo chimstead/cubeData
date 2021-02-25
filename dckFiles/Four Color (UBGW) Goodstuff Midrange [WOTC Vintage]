@@ -1,0 +1,52 @@
+2021
+1.31.21
+1 [2ED:266] Mox Sapphire
+1 [SUM:288] Tropical Island
+1 [ZEN:229] Verdant Catacombs
+1 [OGW:171] Hissing Quagmire
+1 [2ED:233] Black Lotus
+1 [KTK:230] Bloodstained Mire
+1 [SUM:286] Scrubland
+1 [KTK:249] Wooded Foothills
+1 [WWK:133] Celestial Colonnade
+1 [SOM:229] Seachrome Coast
+1 [KTK:248] Windswept Heath
+1 [ORI:229] Hangarback Walker
+1 [WWK:144] Stirring Wildwood
+1 [ROE:115] Inquisition of Kozilek
+1 [RAV:161] Elves of Deep Shadow
+1 [DST:140] Skullclamp
+1 [WWK:108] Nature's Claim
+1 [THS:107] Thoughtseize
+1 [MOR:58] Bitterblossom
+1 [RTR:73] Pack Rat
+1 [RNA:27] Tithe Taker
+1 [GRN:152] Assassin's Trophy
+1 [ISD:78] Snapcaster Mage
+1 [FEM:38a] Hymn to Tourach
+1 [RAV:81] Dark Confidant
+1 [TOR:69] Mesmeric Fiend
+1 [KLD:13] Fairgrounds Warden
+1 [THS:188] Ashiok, Nightmare Weaver
+1 [SOI:242] Anguished Unmaking
+1 [GRN:205] Thief of Sanity
+1 [2XM:110] Toxic Deluge
+1 [SHM:229] Kitchen Finks
+1 [GRN:213] Vraska, Golgari Queen
+1 [ELD:287] Murderous Rider
+1 [APC:114] Pernicious Deed
+1 [THB:254] Forest
+1 [THB:250] Plains
+3 [THB:252] Swamp
+SB: 1 [RIX:99] Dire Fleet Daredevil
+SB: 1 [ARB:50] Bloodbraid Elf
+SB: 1 [LRW:133] Oona's Prowler
+SB: 1 [FRF:145] Whisperwood Elemental
+SB: 1 [NEM:30] Daze
+SB: 1 [WAR:125] Dreadhorde Arcanist
+SB: 1 [VIS:34] Impulse
+SB: 1 [M10:100] Hypnotic Specter
+SB: 1 [M21:107] Kitesail Freebooter
+SB: 1 [ALA:202] Tidehollow Sculler
+LAYOUT MAIN:(1,11)(COLOR_IDENTITY,false,62)|([2ED:233],[KTK:230],[ORI:229],[DST:140],[ZEN:229],[KTK:248],[KTK:249])([WWK:108],[THB:254])([MOR:58],[RAV:81],[FEM:38a],[ROE:115],[TOR:69],[ELD:287],[RTR:73],[THS:107],[2XM:110],[THB:252],[THB:252],[THB:252])([GRN:152],[RAV:161],[OGW:171],[APC:114],[GRN:213])([2ED:266],[ISD:78])([SUM:288])([THS:188],[GRN:205])([KLD:13],[RNA:27],[THB:250])([SHM:229],[WWK:144])([SOI:242],[SUM:286])([WWK:133],[SOM:229])
+LAYOUT SIDEBOARD:(1,4)(CMC,false,60)|([RIX:99],[LRW:133],[NEM:30],[WAR:125],[VIS:34],[M21:107],[ALA:202])([M10:100])([ARB:50])([FRF:145])

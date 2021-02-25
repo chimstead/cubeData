@@ -1,0 +1,52 @@
+1 [THB:83] Agonizing Remorse
+1 [WAR:101] Ob Nixilis's Cruelty
+1 [KTK:81] Murderous Cut
+1 [E02:18] Doom Blade
+1 [EMN:56] Docent of Perfection
+1 [ELD:74] Witching Well
+1 [GNT:25] Whirler Rogue
+1 [GRN:52] Radical Idea
+1 [AKH:57] Hieroglyphic Illumination
+1 [GRN:45] Murmuring Mystic
+1 [XLN:118] Ruin Raider
+1 [XLN:110] Kitesail Freebooter
+1 [AER:62] Glint-Sleeve Siphoner
+1 [WAR:90] Eternal Taskmaster
+1 [AKH:78] Archfiend of Ifnir
+1 [BFZ:58] Eldrazi Skyspawner
+1 [A25:235] Treasure Keeper
+1 [GRN:205] Thief of Sanity
+1 [M19:104] Isareth the Awakener
+1 [GRN:77] Midnight Reaper
+1 [GRN:259] Watery Grave
+5 [THB:280] Island
+2 [THB:251] Island
+2 [THB:282] Swamp
+5 [THB:283] Swamp
+2 [THB:252] Swamp
+1 [C18:219] Scuttling Doom Engine
+1 [AER:142] Aethersphere Harvester
+1 [GRN:48] Nightveil Sprite
+SB: 1 [GRN:253] Overgrown Tomb
+SB: 1 [KLD:172] Verdurous Gearhulk
+SB: 1 [ORI:248] Llanowar Wastes
+SB: 1 [DGM:11] Aetherling
+SB: 1 [IMA:163] Genesis Hydra
+SB: 1 [ELD:115] Bonecrusher Giant
+SB: 1 [M15:115] Soul of Innistrad
+SB: 1 [RIX:99] Dire Fleet Daredevil
+SB: 1 [GNT:46] Llanowar Elves
+SB: 1 [KTK:54] Set Adrift
+SB: 1 [DGM:104] Sire of Insanity
+SB: 1 [WAR:12] Finale of Glory
+SB: 1 [KLD:2] Aerial Responder
+SB: 1 [CM2:16] Angel of Serenity
+SB: 1 [THB:247] Temple of Malice
+SB: 1 [C19:214] Hedron Archive
+SB: 1 [M20:105] Knight of the Ebon Legion
+SB: 1 [WAR:98] Liliana's Triumph
+SB: 1 [EMN:79] Unsubstantiate
+SB: 1 [KLD:230] Renegade Freighter
+SB: 1 [KLD:231] Scrapheap Scrounger
+LAYOUT MAIN:(1,7)(CMC,false,74)|([THB:280],[THB:280],[THB:280],[THB:251],[THB:280],[THB:280],[THB:251],[THB:282],[THB:283],[THB:252],[THB:282],[THB:252],[THB:283],[THB:283],[THB:283],[THB:283],[GRN:259])([ELD:74])([THB:83],[E02:18],[WAR:90],[AER:62],[XLN:110],[GRN:52],[GRN:48])([BFZ:58],[M19:104],[WAR:101],[XLN:118],[GRN:205],[AER:142],[GRN:77])([AKH:57],[GRN:45],[A25:235],[GNT:25])([AKH:78],[EMN:56],[KTK:81])([C18:219])
+LAYOUT SIDEBOARD:(1,7)(COLOR,false,50)|([C19:214],[ORI:248],[GRN:253],[THB:247])([M15:115],[WAR:98])([DGM:11],[KTK:54],[EMN:79],[M20:105])([IMA:163],[GNT:46],[KLD:172],[KLD:231])([ELD:115],[RIX:99],[KLD:230])([KLD:2],[CM2:16],[WAR:12])([DGM:104])

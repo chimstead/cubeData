@@ -1,0 +1,51 @@
+1 [KLD:249] Spirebluff Canal
+1 [M12:147] Inferno Titan
+1 [ZEN:223] Scalding Tarn
+1 [M12:63] Mana Leak
+1 [KTK:59] Treasure Cruise
+1 [MEDM:RA6] Dack Fayden
+1 [8ED:64] Bribery
+1 [ZEN:211] Arid Mesa
+1 [ULG:126] Grim Monolith
+1 [10E:61] Wrath of God
+1 [CMA:27] Unexpectedly Absent
+1 [FRF:20] Monastery Mentor
+1 [RAV:63] Remand
+1 [THS:9] Elspeth, Sun's Champion
+1 [KLD:110] Chandra, Torch of Defiance
+1 [2ED:84] Time Walk
+1 [DGM:135] Wear // Tear
+1 [ALL:28] Force of Will
+1 [M12:16] Gideon Jura
+1 [GPT:152] Izzet Signet
+1 [OGW:182] Wandering Fumarole
+1 [3ED:289] Tundra
+1 [C17:37] Fractured Identity
+1 [OGW:175] Needle Spires
+1 [LEG:303] Karakas
+1 [USG:318] Worn Powerstone
+1 [KTK:248] Windswept Heath
+1 [DOM:26] Lyra Dawnbringer
+1 [ALA:154] Ajani Vengeant
+1 [SOM:229] Seachrome Coast
+1 [4ED:34] Land Tax
+1 [4ED:6] Balance
+2 [KLD:254] Island
+2 [KLD:260] Mountain
+2 [KLD:252] Plains
+2 [KLD:251] Plains
+SB: 1 [3ED:285] Savannah
+SB: 1 [KLD:84] Gonti, Lord of Luxury
+SB: 1 [BBD:25] Brightling
+SB: 1 [ORI:127] Abbot of Keral Keep
+SB: 1 [ULG:14] Mother of Runes
+SB: 1 [WAR:79] Bolas's Citadel
+SB: 1 [DST:146] Sundering Titan
+SB: 1 [KLD:13] Fairgrounds Warden
+SB: 1 [RTR:1] Angel of Serenity
+SB: 1 [WAR:244] Blast Zone
+SB: 1 [SOM:94] Koth of the Hammer
+SB: 1 [RNA:248] Godless Shrine
+SB: 1 [DTK:224] Kolaghan's Command
+LAYOUT MAIN:(1,5)(COLOR,false,50)|([KLD:249],[ZEN:223],[ZEN:211],[ULG:126],[GPT:152],[OGW:182],[3ED:289],[OGW:175],[LEG:303],[USG:318],[KTK:248],[SOM:229],[KLD:254],[KLD:254],[KLD:260],[KLD:260],[KLD:252],[KLD:251],[KLD:252],[KLD:251])([M12:63],[KTK:59],[8ED:64],[RAV:63],[2ED:84],[ALL:28])([M12:147],[KLD:110])([10E:61],[CMA:27],[FRF:20],[THS:9],[M12:16],[DOM:26],[4ED:34],[4ED:6])([MEDM:RA6],[DGM:135],[C17:37],[ALA:154])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([3ED:285],[KLD:84],[BBD:25],[ORI:127],[ULG:14],[WAR:79],[DST:146],[KLD:13],[RTR:1],[WAR:244],[SOM:94],[RNA:248],[DTK:224])

@@ -1,3 +1,6 @@
+2018
+6.18
+6.10.18
 1 Battlefield Forge
 1 Chrome Mox
 1 City of Brass
@@ -13,7 +16,7 @@
 1 Jackal Pup
 1 Monastery Swiftspear
 1 Zurgo Bellstriker
-1 Abbot of the Keral Keep
+1 Abbot of Keral Keep
 1 Earthshaker Khenra
 1 Harsh Mentor
 1 Kari Zev, Skyship Raider

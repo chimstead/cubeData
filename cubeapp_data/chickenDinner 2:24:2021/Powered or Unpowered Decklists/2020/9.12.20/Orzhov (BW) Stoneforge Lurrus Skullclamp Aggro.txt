@@ -1,0 +1,49 @@
+1 [LEB:116] Mind Twist
+1 [TMP:154] Sarcomancy
+1 [ISD:97] Diregraf Ghoul
+1 [LRW:145] Thoughtseize
+1 [MH1:13] Giver of Runes
+1 [CHK:19] Isamaru, Hound of Konda
+1 [DST:140] Skullclamp
+1 [THS:32] Soldier of the Pantheon
+1 [WWK:20] Stoneforge Mystic
+1 [BOK:163] Umezawa's Jitte
+1 [IKO:366] Heartless Act
+1 [RAV:81] Dark Confidant
+1 [MOR:58] Bitterblossom
+1 [KLD:231] Scrapheap Scrounger
+1 [DKA:12] Lingering Souls
+1 [THS:90] Hero's Downfall
+1 [BNG:5] Brimaz, King of Oreskos
+1 [IKO:226] Lurrus of the Dream-Den
+1 [APC:126] Vindicate
+1 [BFZ:29] Gideon, Ally of Zendikar
+1 [NEM:17] Parallax Wave
+1 [NPH:19] Porcelain Legionnaire
+1 [ALA:9] Elspeth, Knight-Errant
+1 [GPT:157] Godless Shrine
+1 [ARN:71] City of Brass
+1 [LEG:303] Karakas
+1 [ZEN:211] Arid Mesa
+1 [MH1:246] Silent Clearing
+6 [PGRU:1] Plains
+5 [PGRU:3] Swamp
+1 [LRW:139] Shriekmaw
+SB: 1 [NPH:130] Batterskull
+SB: 1 [VIS:66] Nekrataal
+SB: 1 [TSB:6] Disenchant
+SB: 1 [ZEN:83] Bloodghast
+SB: 1 [CON:30] Inkwell Leviathan
+SB: 1 [LEA:92] Animate Dead
+SB: 1 [OGW:86] Kalitas, Traitor of Ghet
+SB: 1 [BFZ:109] Drana, Liberator of Malakir
+SB: 1 [CHK:193] Through the Breach
+SB: 1 [MBS:138] Sword of Feast and Famine
+SB: 1 [M14:22] Imposing Sovereign
+SB: 1 [KLD:4] Angel of Invention
+SB: 1 [TMP:308] Scroll Rack
+SB: 1 [EXO:115] Oath of Druids
+SB: 1 [C13:25] Unexpectedly Absent
+SB: 1 [EXO:72] Recurring Nightmare
+LAYOUT MAIN:(1,7)(CMC,false,90)|([PGRU:1],[PGRU:1],[PGRU:1],[PGRU:1],[PGRU:1],[PGRU:1],[PGRU:3],[PGRU:3],[PGRU:3],[PGRU:3],[PGRU:3])([ZEN:211],[ARN:71],[GPT:157],[LEG:303],[MH1:246])([ISD:97],[MH1:13],[CHK:19],[LEB:116],[TMP:154],[DST:140],[THS:32],[LRW:145])([MOR:58],[RAV:81],[IKO:366],[KLD:231],[WWK:20],[BOK:163])([BNG:5],[THS:90],[DKA:12],[IKO:226],[NPH:19],[APC:126])([ALA:9],[BFZ:29],[NEM:17])([LRW:139])
+LAYOUT SIDEBOARD:(1,5)(CMC,false,73)|([TSB:6],[ZEN:83],[LEA:92],[M14:22],[TMP:308],[EXO:115],[C13:25])([BFZ:109],[MBS:138],[EXO:72])([VIS:66],[OGW:86])([NPH:130],[CHK:193],[KLD:4])([CON:30])

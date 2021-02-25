@@ -1,0 +1,52 @@
+1 [EMN:85] Collective Brutality
+1 [ARB:46] Terminate
+1 [CM2:4] Daretti, Scrap Savant
+1 [MEDM:GR3] Daretti, Ingenious Iconoclast
+1 [ISD:127] Ancient Grudge
+1 [ZEN:229] Verdant Catacombs
+1 [TOR:69] Mesmeric Fiend
+1 [AVR:166] Zealous Conscripts
+1 [M12:98] Grave Titan
+1 [JOU:94] Eidolon of the Great Revel
+1 [KLD:199] Bomat Courier
+1 [3ED:287] Taiga
+1 [SOM:94] Koth of the Hammer
+1 [M12:145] Grim Lavamancer
+1 [2ED:262] Mox Emerald
+1 [AKH:134] Glorybringer
+1 [DIS:165] Rakdos Signet
+1 [M13:150] Thundermaw Hellkite
+1 [ZEN:126] Goblin Guide
+1 [3ED:105] Demonic Tutor
+1 [LEG:137] Chain Lightning
+1 [ULG:49] Bone Shredder
+1 [RTR:188] Rakdos's Return
+1 [KTK:118] Monastery Swiftspear
+1 [ARN:76] Library of Alexandria
+1 [GRN:253] Overgrown Tomb
+1 [TMP:315] Ancient Tomb
+1 [TMP:183] Jackal Pup
+1 [4ED:363] Strip Mine
+1 [SOM:180] Myr Battlesphere
+3 [3ED:301] Mountain
+3 [3ED:303] Mountain
+1 [3ED:302] Mountain
+2 [3ED:298] Swamp
+1 [3ED:299] Swamp
+SB: 1 [SOI:5] Archangel Avacyn
+SB: 1 [BNG:119] Courser of Kruphix
+SB: 1 [5ED:408] Winter Orb
+SB: 1 [4ED:361] Mishra's Factory
+SB: 1 [VIS:34] Impulse
+SB: 1 [TMP:151] Reanimate
+SB: 1 [WAR:244] Blast Zone
+SB: 1 [EXO:72] Recurring Nightmare
+SB: 1 [XLN:1] Adanto Vanguard
+SB: 1 [ROE:53] Wall of Omens
+SB: 1 [9ED:228] Wildfire
+SB: 1 [EMA:108] Toxic Deluge
+SB: 1 [ELD:110] Wishclaw Talisman
+SB: 1 [LRW:133] Oona's Prowler
+SB: 1 [WAR:125] Dreadhorde Arcanist
+LAYOUT MAIN:(2,8)(CMC,true,71)|()([KLD:199],[M12:145],[ZEN:126],[KTK:118],[TMP:183])([TOR:69],[JOU:94])([ULG:49])()([AVR:166],[AKH:134],[M13:150])([M12:98])([SOM:180])([ZEN:229],[3ED:287],[2ED:262],[ARN:76],[GRN:253],[TMP:315],[4ED:363],[3ED:301],[3ED:303],[3ED:302],[3ED:303],[3ED:301],[3ED:301],[3ED:303],[3ED:298],[3ED:298],[3ED:299])([LEG:137])([EMN:85],[ARB:46],[ISD:127],[DIS:165],[3ED:105],[RTR:188])([MEDM:GR3])([CM2:4],[SOM:94])()()()
+LAYOUT SIDEBOARD:(2,6)(CMC,true,51)|()()([XLN:1],[ROE:53],[LRW:133],[WAR:125])([BNG:119])([SOI:5])()([4ED:361],[WAR:244])([TMP:151])([5ED:408],[VIS:34],[ELD:110])([EXO:72],[EMA:108])()([9ED:228])

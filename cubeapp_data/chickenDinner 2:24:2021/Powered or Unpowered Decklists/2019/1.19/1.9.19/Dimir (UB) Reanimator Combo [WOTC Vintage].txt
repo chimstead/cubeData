@@ -1,0 +1,54 @@
+1 [ODY:118] Buried Alive
+1 [DOM:86] Demonlord Belzenlok
+1 [THS:241] Swamp
+1 [M12:217] Solemn Simulacrum
+1 [THS:188] Ashiok, Nightmare Weaver
+1 [AKH:97] Liliana, Death's Majesty
+1 [XLN:74] Search for Azcanta
+1 [BBD:122] Mystic Confluence
+1 [PLC:85] Damnation
+1 [TOR:77] Putrid Imp
+1 [EMA:108] Toxic Deluge
+1 [ODY:132] Entomb
+1 [INV:57] Fact or Fiction
+4 [THS:240] Swamp
+1 [CHK:129] Nezumi Graverobber
+1 [VIS:64] Necromancy
+1 [TMP:142] Living Death
+4 [THS:235] Island
+1 [THS:236] Island
+1 [THS:237] Island
+1 [KLD:96] Noxious Gearhulk
+1 [CON:30] Inkwell Leviathan
+1 [M10:100] Hypnotic Specter
+3 [THS:238] Swamp
+3 [THS:239] Swamp
+1 [MOR:58] Bitterblossom
+1 [ZEN:13] Iona, Shield of Emeria
+1 [KLD:84] Gonti, Lord of Luxury
+1 [LRW:133] Oona's Prowler
+1 [ULG:32] Frantic Search
+SB: 1 [XLN:22] Legion's Landing
+SB: 1 [ICE:244] Fyndhorn Elves
+SB: 1 [ALA:202] Tidehollow Sculler
+SB: 1 [C13:84] Ophiomancer
+SB: 1 [SHM:135] Woodfall Primus
+SB: 1 [RTR:1] Angel of Serenity
+SB: 1 [CMA:27] Unexpectedly Absent
+SB: 1 [WWK:115] Terastodon
+SB: 1 [ARN:70] Bazaar of Baghdad
+SB: 1 [STH:125] Wall of Blossoms
+SB: 1 [KTK:233] Flooded Strand
+SB: 1 [DTK:216] Dragonlord Atarka
+SB: 1 [DOM:129] Goblin Chainwhirler
+SB: 1 [RTR:201] Supreme Verdict
+SB: 1 [M15:134] Chandra, Pyromaster
+SB: 1 [ISD:122] Unburial Rites
+SB: 1 [TOR:51] Cabal Ritual
+SB: 1 [SOM:228] Razorverge Thicket
+SB: 1 [CON:121] Progenitus
+SB: 1 [SOM:224] Blackcleave Cliffs
+SB: 1 [NPH:19] Porcelain Legionnaire
+SB: 1 [TOR:69] Mesmeric Fiend
+LAYOUT MAIN:(1,8)(CMC,false,50)|([THS:235],[THS:236],[THS:235],[THS:235],[THS:237],[THS:235],[THS:238],[THS:239],[THS:239],[THS:240],[THS:240],[THS:239],[THS:238],[THS:241],[THS:240],[THS:240],[THS:238])([ODY:132],[TOR:77])([CHK:129],[XLN:74],[LRW:133],[MOR:58])([ODY:118],[THS:188],[ULG:32],[EMA:108],[M10:100],[VIS:64])([PLC:85],[KLD:84],[M12:217],[INV:57])([AKH:97],[BBD:122],[TMP:142])([KLD:96],[DOM:86])([CON:30],[ZEN:13])
+LAYOUT SIDEBOARD:(1,6)(COLOR,false,50)|([SOM:228],[KTK:233],[SOM:224],[ARN:70])([C13:84],[TOR:51],[TOR:69],[ISD:122])([STH:125],[SHM:135],[WWK:115],[ICE:244])([M15:134],[DOM:129])([NPH:19],[CMA:27],[RTR:1],[XLN:22])([ALA:202],[DTK:216],[CON:121],[RTR:201])

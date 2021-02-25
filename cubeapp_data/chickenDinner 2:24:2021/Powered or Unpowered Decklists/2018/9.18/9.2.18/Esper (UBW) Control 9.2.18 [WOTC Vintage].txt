@@ -1,0 +1,34 @@
+5 Island
+3 Swamp
+1 Plains
+1 Ash Barrens
+1 Caves of Koilos
+1 City of Brass
+1 Flooded Strand
+1 Hallowed Fountain
+1 Marsh Flats
+1 Shambling Vent
+1 Mox Diamond
+1 Mox Emerald
+1 Ancestral Recall
+1 Condescend
+1 Land Tax
+1 Mystical Tutor
+1 Thoughtseize
+1 Arcane Denial
+1 Go for the Throat
+1 Snapcaster Mage
+1 Banishing Light
+1 Dismember
+1 Exclusion Mage
+1 Hero's Downfall
+1 Monastery Mentor
+1 True-Name Nemesis
+1 Vendilion Clique
+1 Cryptic Command
+1 Hostage Taker
+1 Nekrataal
+1 Elspeth, Knight-Errant
+1 Custodi Lich
+1 Meloku the Clouded Mirror
+1 Teferi, Hero of Dominaria

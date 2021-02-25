@@ -1,0 +1,51 @@
+1 [DTK:169] Zurgo Bellstriker
+1 [AKH:148] Soul-Scar Mage
+1 [KTK:118] Monastery Swiftspear
+1 [SOI:155] Falkenrath Gorger
+1 [ORI:127] Abbot of Keral Keep
+1 [RIX:99] Dire Fleet Daredevil
+1 [AER:87] Kari Zev, Skyship Raider
+1 [M19:152] Lightning Strike
+1 [THS:128] Magma Jet
+1 [ZEN:119] Burst Lightning
+1 [LEG:137] Chain Lightning
+1 [SCG:106] Sulfuric Vortex
+1 [NPH:19] Porcelain Legionnaire
+1 [THB:148] Phoenix of Ash
+1 [WAR:137] Krenko, Tin Street Kingpin
+1 [EMN:130a] Hanweir Garrison
+1 [ELD:115] Bonecrusher Giant
+1 [CM2:98] Fiery Confluence
+1 [DKA:93] Hellrider
+1 [SOM:81] Arc Trail
+1 [5ED:408] Winter Orb
+1 [KLD:235] Smuggler's Copter
+1 [BOK:163] Umezawa's Jitte
+1 [M14:163] Young Pyromancer
+1 [MH1:247] Sunbaked Canyon
+2 [DTK:260] Mountain
+5 [DTK:259] Mountain
+7 [DTK:261] Mountain
+1 [HOU:83] Abrade
+SB: 1 [M12:12] Day of Judgment
+SB: 1 [M12:16] Gideon Jura
+SB: 1 [OGW:138] Nissa, Voice of Zendikar
+SB: 1 [SHM:23] Spectral Procession
+SB: 1 [FUT:46] Venser, Shaper Savant
+SB: 1 [THB:197] Return to Nature
+SB: 1 [NEM:17] Parallax Wave
+SB: 1 [ELD:122] Embereth Shieldbreaker
+SB: 1 [XLN:110] Kitesail Freebooter
+SB: 1 [EVE:6] Flickerwisp
+SB: 1 [FRF:20] Monastery Mentor
+SB: 1 [KTK:233] Flooded Strand
+SB: 1 [ZEN:211] Arid Mesa
+SB: 1 [FUT:177] Horizon Canopy
+SB: 1 [6ED:4] Armageddon
+SB: 1 [ZEN:14] Journey to Nowhere
+SB: 1 [RIX:21] Skymarcher Aspirant
+SB: 1 [CON:15] Path to Exile
+SB: 1 [ORI:143] Exquisite Firecraft
+SB: 1 [DTK:259] Mountain
+LAYOUT MAIN:(1,5)(CMC,false,68)|([DTK:260],[DTK:259],[DTK:259],[DTK:261],[DTK:259],[DTK:260],[DTK:261],[DTK:261],[DTK:261],[DTK:261],[DTK:261],[DTK:259],[DTK:259],[DTK:261],[MH1:247])([DTK:169],[AKH:148],[KTK:118],[SOI:155],[ZEN:119],[LEG:137])([ORI:127],[RIX:99],[AER:87],[M19:152],[THS:128],[NPH:19],[ELD:115],[SOM:81],[5ED:408],[KLD:235],[M14:163],[HOU:83])([SCG:106],[THB:148],[WAR:137],[EMN:130a])([CM2:98],[DKA:93],[BOK:163])
+LAYOUT SIDEBOARD:(1,6)(CMC,false,50)|([ZEN:211],[KTK:233],[FUT:177],[RIX:21])([XLN:110],[THB:197],[DTK:259])([ELD:122],[EVE:6],[FRF:20],[OGW:138],[ORI:143])([6ED:4],[NEM:17],[FUT:46])([M12:16],[SHM:23])([CON:15],[M12:12],[ZEN:14])

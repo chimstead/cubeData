@@ -1,0 +1,51 @@
+2021
+1.31.21
+1 [A25:35] Swords to Plowshares
+1 [V17:13] Kytheon, Hero of Akros
+1 [MH1:13] Giver of Runes
+1 [CHK:19] Isamaru, Hound of Konda
+1 [EMA:112] Vampiric Tutor
+1 [RIX:21] Skymarcher Aspirant
+1 [CON:15] Path to Exile
+1 [DOM:14] Dauntless Bodyguard
+1 [THS:107] Thoughtseize
+1 [KTK:66] Bloodsoaked Champion
+1 [MM2:75] Dark Confidant
+1 [KLD:231] Scrapheap Scrounger
+1 [EMN:40] Selfless Spirit
+1 [CMD:17] Journey to Nowhere
+1 [DKA:12] Lingering Souls
+1 [V13:8] Tangle Wire
+1 [ZNR:39] Skyclave Apparition
+1 [CNS:16] Council's Judgment
+1 [VMA:37] Parallax Wave
+1 [MB1:192] Palace Jailer
+1 [DDF:1] Elspeth, Knight-Errant
+1 [V14:1] Armageddon
+1 [EMA:82] Braids, Cabal Minion
+1 [ZNR:90] Agadeem's Awakening
+1 [MRD:152] Chrome Mox
+1 [MM3:239] Marsh Flats
+1 [MH1:244] Prismatic Vista
+1 [VMA:313] Scrubland
+1 [UMA:244] Karakas
+1 [KTK:230] Bloodstained Mire
+1 [GTC:242] Godless Shrine
+5 [PGRU:1] Plains
+3 [PGRU:3] Swamp
+1 [ELD:287] Murderous Rider
+SB: 1 [MBS:8] Hero of Bladehold
+SB: 1 [RAV:280] Sacred Foundry
+SB: 1 [EMA:81] Blood Artist
+SB: 1 [ELD:335] Charming Prince
+SB: 1 [DKA:24] Thalia, Guardian of Thraben
+SB: 1 [AKH:97] Liliana, Death's Majesty
+SB: 1 [PD3:15] Reanimate
+SB: 1 [ORI:229] Hangarback Walker
+SB: 1 [MH1:116] Yawgmoth, Thran Physician
+SB: 1 [SHM:229] Kitchen Finks
+SB: 1 [DDO:1] Elspeth, Sun's Champion
+SB: 1 [V17:1] Archangel Avacyn
+SB: 1 [MH1:100] Plague Engineer
+LAYOUT MAIN:(1,6)(CMC,false,89)|([PGRU:1],[PGRU:1],[PGRU:1],[PGRU:1],[PGRU:1],[PGRU:3],[PGRU:3],[PGRU:3])([KTK:230],[GTC:242],[UMA:244],[MM3:239],[MH1:244],[VMA:313])([MRD:152],[KTK:66],[DOM:14],[MH1:13],[CHK:19],[V17:13],[CON:15],[RIX:21],[A25:35],[THS:107],[EMA:112])([MM2:75],[CMD:17],[KLD:231],[EMN:40])([ZNR:90],[CNS:16],[DKA:12],[ZNR:39],[V13:8],[ELD:287])([V14:1],[EMA:82],[DDF:1],[MB1:192],[VMA:37])
+LAYOUT SIDEBOARD:(1,7)(CMC,false,70)|([RAV:280],[ORI:229])([PD3:15])([EMA:81],[ELD:335],[DKA:24])([SHM:229],[MH1:100])([MBS:8],[MH1:116])([AKH:97],[V17:1])([DDO:1])

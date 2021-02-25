@@ -1,3 +1,6 @@
+2017
+12.17
+12.3.17
 4 Swamp
 3 Forest
 3 Island
@@ -18,17 +21,16 @@
 1 Demonic Tutor
 1 Looter il-Kor
 1 Noose Constrictor
-1 Oona’s Prowler
+1 Oona's Prowler
 1 Phantasmal Image
 1 Sylvan Caryatid
 1 Eternal Witness
-1 Man-o’-War
+1 Man-o'-War
 1 Necromancy
 1 Sower of Temptation
 1 Glen Elendra Archmage
 1 Mystic Confluence
-1 Liliana, Death’s Majesty
-1 Hornet Queen	
+1 Liliana, Death's Majesty
+1 Hornet Queen
 1 Griselbrand
 1 Sphinx of the Steel Wind
-

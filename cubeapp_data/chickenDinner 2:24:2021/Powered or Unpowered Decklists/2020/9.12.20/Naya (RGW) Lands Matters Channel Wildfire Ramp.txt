@@ -1,0 +1,51 @@
+1 [MH1:230] Talisman of Conviction
+1 [FUT:177] Horizon Canopy
+1 [V12:10] Maze of Ith
+1 [PTK:153] Three Visits
+1 [RAV:280] Sacred Foundry
+1 [LEB:281] Savannah
+1 [RAV:284] Temple Garden
+1 [CSP:136] Coldsteel Heart
+1 [BFZ:15] Ulamog, the Ceaseless Hunger
+1 [LEA:3] Balance
+1 [BFZ:223] Hedron Archive
+1 [USG:228] Wildfire
+1 [SOI:247] Nahiri, the Harbinger
+1 [MRD:255] Talisman of Indulgence
+1 [THB:14] Elspeth, Sun's Nemesis
+1 [PTK:104] Burning of Xinye
+1 [LEA:214] Regrowth
+1 [ONS:330] Wooded Foothills
+1 [MH1:26] Serra the Benevolent
+1 [LEB:283] Taiga
+1 [LEA:188] Channel
+1 [NPH:1] Karn Liberated
+1 [MH1:217] Wrenn and Six
+1 [5DN:114] Crucible of Worlds
+1 [LEB:193] Fastbond
+1 [C15:26] Fiery Confluence
+1 [ONS:328] Windswept Heath
+1 [OGW:175] Needle Spires
+1 [DOM:1] Karn, Scion of Urza
+1 [C18:53] Ancient Stone Idol
+1 [UDS:139] Thran Dynamo
+1 [PLC:25] Mana Tithe
+3 [UST:216] Forest
+3 [UST:215] Mountain
+2 [UST:212] Plains
+SB: 1 [ROE:165] Splinter Twin
+SB: 1 [DOM:207] Teferi, Hero of Dominaria
+SB: 1 [MMQ:61] Brainstorm
+SB: 1 [ODY:132] Entomb
+SB: 1 [EMN:85] Collective Brutality
+SB: 1 [WWK:95] Arbor Elf
+SB: 1 [FRF:87] Tasigur, the Golden Fang
+SB: 1 [MH1:116] Yawgmoth, Thran Physician
+SB: 1 [ROE:190] Joraga Treespeaker
+SB: 1 [MMA:180] Maelstrom Pulse
+SB: 1 [GTC:148] Boros Charm
+SB: 1 [DTK:248] Evolving Wilds
+SB: 1 [ISD:97] Diregraf Ghoul
+SB: 1 [UST:212] Plains
+LAYOUT MAIN:(1,8)(CMC,false,71)|([FUT:177],[V12:10],[RAV:280],[LEB:281],[RAV:284],[ONS:330],[LEB:283],[ONS:328],[OGW:175],[UST:216],[UST:216],[UST:215],[UST:215],[UST:215],[UST:212],[UST:212],[UST:216])([LEB:193],[PLC:25])([MH1:230],[PTK:153],[CSP:136],[LEA:3],[MRD:255],[LEA:214],[LEA:188],[MH1:217])([5DN:114])([BFZ:223],[SOI:247],[THB:14],[MH1:26],[C15:26],[DOM:1],[UDS:139])([USG:228],[PTK:104])([NPH:1])([BFZ:15],[C18:53])
+LAYOUT SIDEBOARD:(1,6)(COLOR,false,82)|([DTK:248],[UST:212])([ODY:132],[EMN:85],[FRF:87],[MH1:116],[ISD:97])([MMQ:61])([WWK:95],[ROE:190])([ROE:165])([DOM:207],[MMA:180],[GTC:148])

@@ -1,0 +1,37 @@
+4 Mountain
+1 Forest
+1 Swamp
+1 Blood Crypt
+1 Gemstone Mine
+1 Llanowar Wastes
+1 Marsh Flats
+1 Rishadan Port
+1 Tendo Ice Bridge
+1 Undiscovered Paradise
+1 Verdant Catacombs
+1 Wasteland
+1 Wooded Foothills
+1 Diregraf Ghoul
+1 Dread Wanderer
+1 Firedrinker Satyr
+1 Goblin Guide
+1 Jackal Pup
+1 Thoughtseize
+1 Vampiric Tutor
+1 Abrade
+1 Asylum Visitor
+1 Bitterblossom
+1 Dark Confidant
+1 Kari Zev, Skyship Raider
+1 Pack Rat
+1 Phyrexian Revoker
+1 Sylvan Advocate
+1 Winter Orb
+1 Goblin Rabblemaster
+1 Hanweir Garrison
+1 Tangle Wire
+1 Wheel of Fortune
+1 Avalanche Riders
+1 Fiery Confluence
+1 Flametongue Kavu
+1 Koth of the Hammer

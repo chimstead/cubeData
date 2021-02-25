@@ -1,0 +1,48 @@
+1 [EVE:139] Figure of Destiny
+1 [TMP:183] Jackal Pup
+1 [MRD:146] Bonesplitter
+1 [THB:151] Purphoros's Intervention
+1 [THS:122] Firedrinker Satyr
+1 [SOI:155] Falkenrath Gorger
+1 [TOR:100] Grim Lavamancer
+1 [KLD:235] Smuggler's Copter
+1 [HOU:90] Earthshaker Khenra
+1 [GRN:103] Goblin Cratermaker
+1 [AKH:135] Harsh Mentor
+1 [GRN:109] Legion Warboss
+1 [ELD:122] Embereth Shieldbreaker
+1 [THB:148] Phoenix of Ash
+1 [M20:126] Chandra, Acolyte of Flame
+1 [RAV:117] Char
+1 [C15:26] Fiery Confluence
+1 [VIS:79] Fireblast
+1 [DKA:93] Hellrider
+1 [AKH:136] Hazoret the Fervent
+1 [ELD:115] Bonecrusher Giant
+1 [SCG:103] Siege-Gang Commander
+1 [M14:163] Young Pyromancer
+1 [NPH:35] Gitaxian Probe
+1 [ZEN:211] Arid Mesa
+1 [MH1:247] Sunbaked Canyon
+1 [MRD:152] Chrome Mox
+1 [MOR:148] Mutavault
+12 [UGL:87] Mountain
+SB: 1 [FEM:38a] Hymn to Tourach
+SB: 1 [MH1:161] Deep Forest Hermit
+SB: 1 [5DN:118] Engineered Explosives
+SB: 1 [CMD:170] Scavenging Ooze
+SB: 1 [DKA:142] Sorin, Lord of Innistrad
+SB: 1 [ROE:12] Ulamog, the Infinite Gyre
+SB: 1 [ELD:171] Questing Beast
+SB: 1 [ELD:169] Once Upon a Time
+SB: 1 [M10:191] Master of the Wild Hunt
+SB: 1 [SOI:116] Heir of Falkenrath
+SB: 1 [NPH:33] Deceiver Exarch
+SB: 1 [C18:57] Retrofitter Foundry
+SB: 1 [USG:218] Sneak Attack
+SB: 1 [DST:149] Sword of Light and Shadow
+SB: 1 [SOM:175] Mimic Vat
+SB: 1 [THB:302] Shatter the Sky
+SB: 1 [DGM:11] Aetherling
+LAYOUT MAIN:(1,7)(CMC,false,50)|([ZEN:211],[MH1:247],[MRD:152],[MOR:148],[UGL:87],[UGL:87],[UGL:87],[UGL:87],[UGL:87],[UGL:87],[UGL:87],[UGL:87],[UGL:87],[UGL:87],[UGL:87],[UGL:87])([EVE:139],[TMP:183],[MRD:146],[THB:151],[THS:122],[SOI:155],[TOR:100],[NPH:35])([KLD:235],[HOU:90],[GRN:103],[AKH:135],[M14:163])([GRN:109],[ELD:122],[THB:148],[M20:126],[RAV:117])([C15:26],[DKA:93],[AKH:136])([ELD:115],[SCG:103])([VIS:79])
+LAYOUT SIDEBOARD:(1,8)(CMC,false,50)|([5DN:118])([C18:57])([FEM:38a],[CMD:170],[ELD:169],[SOI:116])([NPH:33],[DST:149],[SOM:175])([DKA:142],[ELD:171],[M10:191],[USG:218],[THB:302])([MH1:161])([DGM:11])([ROE:12])

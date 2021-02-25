@@ -1,0 +1,58 @@
+1 [CON:87] Noble Hierarch
+1 [M12:165] Birds of Paradise
+1 [MBS:81] Green Sun's Zenith
+1 [4ED:34] Land Tax
+1 [BOK:163] Umezawa's Jitte
+1 [UDS:118] Rofellos, Llanowar Emissary
+1 [5ED:329] Sylvan Library
+1 [WWK:20] Stoneforge Mystic
+1 [C20:106] Unexpectedly Absent
+1 [EXO:129] Survival of the Fittest
+1 [2ED:84] Time Walk
+1 [M21:204] Scavenging Ooze
+1 [GRN:183] Knight of Autumn
+1 [DST:148] Sword of Fire and Ice
+1 [NPH:4] Blade Splicer
+1 [5DN:86] Eternal Witness
+1 [ELD:171] Questing Beast
+1 [NEM:17] Parallax Wave
+1 [BFZ:29] Gideon, Ally of Zendikar
+1 [VIS:114] Natural Order
+1 [ISD:181] Garruk Relentless
+1 [SHM:135] Woodfall Primus
+1 [XLN:179] Carnage Tyrant
+1 [SUM:285] Savannah
+1 [GRN:258] Temple Garden
+1 [RNA:246] Breeding Pool
+1 [BFZ:239] Lumbering Falls
+1 [SUM:288] Tropical Island
+3 [INV:350] Forest
+1 [INV:347] Forest
+1 [INV:349] Forest
+1 [INV:336] Island
+2 [INV:332] Plains
+1 [INV:331] Plains
+2 [INV:333] Plains
+1 [INV:334] Plains
+SB: 1 [5ED:408] Winter Orb
+SB: 1 [AER:181] Walking Ballista
+SB: 1 [ORI:105] Languish
+SB: 1 [SOM:225] Copperline Gorge
+SB: 1 [KLD:243] Blooming Marsh
+SB: 1 [LEG:28] Moat
+SB: 1 [FRF:145] Whisperwood Elemental
+SB: 1 [6ED:4] Armageddon
+SB: 1 [BBD:25] Brightling
+SB: 1 [M21:179] Elder Gargaroth
+SB: 1 [CHK:212] Heartbeat of Spring
+SB: 1 [SOM:228] Razorverge Thicket
+SB: 1 [NEM:139] Tangle Wire
+SB: 1 [IKO:220] Fiend Artisan
+SB: 1 [ARN:70] Bazaar of Baghdad
+SB: 1 [WAR:13*] Gideon Blackblade
+SB: 1 [SOI:5] Archangel Avacyn
+SB: 11 [PGRU:5] Forest
+SB: 2 [PGRU:2] Island
+SB: 11 [PGRU:1] Plains
+LAYOUT MAIN:(1,8)(CMC,false,80)|([INV:350],[INV:350],[INV:350],[INV:347],[INV:349],[INV:336],[INV:332],[INV:332],[INV:331],[INV:333],[INV:334],[INV:333])([RNA:246],[BFZ:239],[SUM:285],[GRN:258],[SUM:288])([M12:165],[MBS:81],[4ED:34],[CON:87])([UDS:118],[M21:204],[WWK:20],[EXO:129],[5ED:329],[2ED:84],[BOK:163],[C20:106])([NPH:4],[5DN:86],[GRN:183],[DST:148])([ISD:181],[BFZ:29],[VIS:114],[NEM:17],[ELD:171])([XLN:179])([SHM:135])
+LAYOUT SIDEBOARD:(1,6)(CMC,false,74)|([PGRU:5],[PGRU:5],[PGRU:5],[PGRU:5],[PGRU:5],[PGRU:5],[PGRU:5],[PGRU:5],[PGRU:2],[PGRU:1],[PGRU:1],[PGRU:1],[PGRU:1],[PGRU:1],[PGRU:1],[PGRU:5],[PGRU:5],[PGRU:5],[PGRU:2],[PGRU:1],[PGRU:1],[PGRU:1],[PGRU:1],[PGRU:1])([AER:181],[SOM:225],[KLD:243],[SOM:228],[ARN:70])([5ED:408],[IKO:220])([BBD:25],[CHK:212],[NEM:139],[WAR:13*])([ORI:105],[LEG:28],[6ED:4])([FRF:145],[M21:179],[SOI:5])

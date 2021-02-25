@@ -1,0 +1,27 @@
+5 Plains
+10 Swamp
+1 Godless Shrine
+1 Mox Diamond
+1 Entomb
+1 Thoughtseize
+1 Reanimate
+1 Fatal Push
+1 Mother of Runes
+1 Mesmeric Fiend
+1 Animate Dead
+1 Brain Maggot
+1 Collective Brutality
+1 Selesnya Signet
+1 Smuggler's Copter
+1 Liliana of the Veil
+1 Recurring Nightmare
+1 Toxic Deluge
+1 Necromancy
+1 Lingering Souls
+1 Timely Reinforcements
+1 Palace Jailer
+1 Ravenous Chupacabra
+1 Angel of Invention
+1 Grave Titan
+1 Elesh Norn, Grand Cenobite
+1 Avacyn, Angel of Hope

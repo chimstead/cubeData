@@ -1,11 +1,14 @@
+2017
+12.17
+12.3.17
 1 Evolving Wilds
 1 Savannah
 1 Taiga
 1 Strip Mine
 1 Horizon Canopy
-1 Gaea’s Cradle
-5 Forest 
-4 Mountain 
+1 Gaea's Cradle
+5 Forest
+4 Mountain
 2 Plains
 1 Arbor Elf
 1 Noble Hierarch
@@ -31,5 +34,3 @@
 1 Sarkhan Vol
 1 Wickerbough Elder
 1 Myr Battlesphere
-
-

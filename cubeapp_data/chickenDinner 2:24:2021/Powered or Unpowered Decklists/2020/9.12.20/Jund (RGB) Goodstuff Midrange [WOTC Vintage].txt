@@ -1,0 +1,50 @@
+1 [4ED:363] Strip Mine
+1 [MOR:58] Bitterblossom
+1 [SUM:274] Sol Ring
+1 [DTK:224] Kolaghan's Command
+1 [ELD:287] Murderous Rider
+1 [DKA:87] Faithless Looting
+1 [SUM:105] Demonic Tutor
+1 [THS:107] Thoughtseize
+1 [M12:98] Grave Titan
+1 [TOR:69] Mesmeric Fiend
+1 [M21:96] Duress
+1 [WWK:108] Nature's Claim
+1 [M14:163] Young Pyromancer
+1 [ZEN:229] Verdant Catacombs
+1 [ARB:50] Bloodbraid Elf
+1 [OGW:171] Hissing Quagmire
+1 [WWK:141] Raging Ravine
+1 [5DN:55] Night's Whisper
+1 [WAR:185] Angrath's Rampage
+1 [ISD:105] Liliana of the Veil
+1 [ISD:181] Garruk Relentless
+1 [M13:193] Thragtusk
+1 [SUM:287] Taiga
+1 [RNA:245] Blood Crypt
+1 [SS3:3] Fiery Confluence
+1 [RNA:259] Stomping Ground
+1 [LRW:139] Shriekmaw
+1 [GRN:213] Vraska, Golgari Queen
+1 [KTK:230] Bloodstained Mire
+1 [SOM:225] Copperline Gorge
+1 [FEM:38a] Hymn to Tourach
+1 [UST:216] Forest
+2 [UST:215] Mountain
+5 [UST:214] Swamp
+1 [THB:221] Kroxa, Titan of Death's Hunger
+SB: 1 [ELD:281] Brazen Borrower
+SB: 1 [XLN:48] Chart a Course
+SB: 1 [TOR:51] Cabal Ritual
+SB: 1 [M12:73] Ponder
+SB: 1 [OGW:182] Wandering Fumarole
+SB: 1 [LRW:133] Oona's Prowler
+SB: 1 [CHK:163] Desperate Ritual
+SB: 1 [IKO:232] Yorion, Sky Nomad
+SB: 1 [ZEN:13] Iona, Shield of Emeria
+SB: 1 [APC:126] Vindicate
+SB: 1 [TSP:152] Empty the Warrens
+SB: 1 [RIX:77] Mastermind's Acquisition
+SB: 1 [WAR:125] Dreadhorde Arcanist
+LAYOUT MAIN:(1,7)(CMC,false,71)|([4ED:363],[ZEN:229],[OGW:171],[WWK:141],[SUM:287],[RNA:245],[RNA:259],[KTK:230],[SOM:225],[UST:216],[UST:215],[UST:215],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214])([SUM:274],[DKA:87],[THS:107],[M21:96],[WWK:108])([MOR:58],[SUM:105],[TOR:69],[M14:163],[5DN:55],[WAR:185],[FEM:38a],[THB:221])([DTK:224],[ISD:105])([ARB:50],[ISD:181],[SS3:3],[GRN:213])([M13:193],[LRW:139])([ELD:287],[M12:98])
+LAYOUT SIDEBOARD:(1,6)(COLOR,false,82)|([OGW:182])([TOR:51],[LRW:133],[RIX:77])([ELD:281],[XLN:48],[M12:73])([CHK:163],[TSP:152],[WAR:125])([ZEN:13])([IKO:232],[APC:126])

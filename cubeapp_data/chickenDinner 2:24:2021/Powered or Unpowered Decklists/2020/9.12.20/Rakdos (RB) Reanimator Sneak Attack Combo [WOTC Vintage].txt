@@ -1,0 +1,50 @@
+1 [2ED:263] Mox Jet
+1 [MIR:141] Shallow Grave
+1 [ROE:12] Ulamog, the Infinite Gyre
+1 [NPH:35] Gitaxian Probe
+1 [DST:146] Sundering Titan
+1 [AVR:106] Griselbrand
+1 [ELD:287] Murderous Rider
+1 [LRW:133] Oona's Prowler
+1 [EMN:6] Emrakul, the Promised End
+1 [ZEN:211] Arid Mesa
+1 [USG:134] Exhume
+1 [3ED:282] Badlands
+1 [3ED:105] Demonic Tutor
+1 [2ED:266] Mox Sapphire
+1 [USG:218] Sneak Attack
+1 [5ED:140] Animate Dead
+1 [ROE:115] Inquisition of Kozilek
+1 [DTK:224] Kolaghan's Command
+1 [VIS:64] Necromancy
+1 [EMA:108] Toxic Deluge
+1 [ODY:132] Entomb
+1 [SOM:224] Blackcleave Cliffs
+1 [MEDM:GR3] Daretti, Ingenious Iconoclast
+1 [ZEN:119] Burst Lightning
+4 [UST:215] Mountain
+8 [UST:214] Swamp
+1 [M20:111] Rotting Regisaur
+1 [MBS:46] Massacre Wurm
+1 [TOR:51] Cabal Ritual
+1 [TOR:69] Mesmeric Fiend
+1 [MH1:199] Fallen Shinobi
+1 [MEDM:RA6] Dack Fayden
+2 [UST:213] Island
+1 [OGW:182] Wandering Fumarole
+1 [WAR:98] Liliana's Triumph
+SB: 1 [KLD:199] Bomat Courier
+SB: 1 [WAR:125] Dreadhorde Arcanist
+SB: 1 [NPH:33] Deceiver Exarch
+SB: 1 [M11:154] Pyroclasm
+SB: 1 [SOM:48] Trinket Mage
+SB: 1 [RTR:101] Mizzium Mortars
+SB: 1 [FUT:46] Venser, Shaper Savant
+SB: 1 [GRN:224] Expansion // Explosion
+SB: 1 [BFZ:244] Shambling Vent
+SB: 1 [SOI:92] Thing in the Ice
+SB: 1 [ELD:110] Wishclaw Talisman
+SB: 1 [CHK:193] Through the Breach
+SB: 1 [CON:121] Progenitus
+LAYOUT MAIN:(2,7)(CMC,false,67)|([2ED:263],[2ED:266],[ZEN:211],[3ED:282],[SOM:224],[UST:215],[UST:215],[UST:215],[UST:215],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214])([NPH:35],[ROE:115],[ODY:132],[ZEN:119])([MIR:141],[LRW:133],[USG:134],[3ED:105],[5ED:140],[TOR:51],[TOR:69])([DTK:224],[VIS:64],[EMA:108],[MEDM:GR3],[M20:111],[ELD:287])([USG:218])([DST:146],[AVR:106],[ROE:12],[EMN:6],[MBS:46])()()()()()()()([MH1:199],[MEDM:RA6],[UST:213],[UST:213],[OGW:182],[WAR:98])
+LAYOUT SIDEBOARD:(1,5)(COLOR,false,79)|([KLD:199],[BFZ:244])([ELD:110])([NPH:33],[SOM:48],[FUT:46],[SOI:92])([WAR:125],[M11:154],[RTR:101],[CHK:193])([GRN:224],[CON:121])

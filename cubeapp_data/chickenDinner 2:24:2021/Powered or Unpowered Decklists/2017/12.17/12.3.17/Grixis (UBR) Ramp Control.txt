@@ -1,0 +1,31 @@
+6 Island
+1 Mountain
+5 Swamp
+1 Wandering Fumarole
+1 Ash Barrens
+1 Polluted Delta
+1 Tolarian Academy
+1 Watery Grave
+1 Walking Ballista
+1 Sensei's Divining Top
+1 Thoughtseize
+1 Talisman of Impulse
+1 Orzhov Signet
+1 Izzet Signet
+1 Baleful Strix
+1 Demonic Tutor
+1 Hymn to Tourach
+1 Search for Azcanta
+1 Chart a Course
+1 Trinket Mage
+1 Wheel of Fortune
+1 Supreme Verdict
+1 Forbid
+1 Damnation
+1 Tezzeret, Agent of Bolas
+1 Cryptic Command
+1 Custodi Lich
+1 Mystic Confluence
+1 Consecrated Sphinx
+1 Ugin, the Spirit Dragon
+1 Ulamog, the Ceaseless Hunger

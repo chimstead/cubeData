@@ -1,4 +1,7 @@
-5 plains
+2018
+1.18
+1.25.18
+5 Plains
 7 Swamp
 1 Bloodstained Mire
 1 Mana Confluence
@@ -10,7 +13,7 @@
 1 Gravecrawler
 1 Isamaru, Hound of Konda
 1 Land Tax
-1 Mardu Woe- Reaper
+1 Mardu Woe-Reaper
 1 Mind Twist
 1 Path to Exile
 1 Sarcomancy
@@ -20,7 +23,7 @@
 1 Glint-Sleeve Siphoner
 1 Hymn to Tourach
 1 Sinkhole
-1 Umezawa’s Jitte
+1 Umezawa's Jitte
 1 Winter Orb
 1 Dismember
 1 Vindicate

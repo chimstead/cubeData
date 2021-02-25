@@ -1,3 +1,6 @@
+2018
+6.18
+6.2.18
 4 Island
 2 Mountain
 2 Swamp
@@ -13,7 +16,7 @@
 1 Mystical Tutor
 1 Ponder
 1 Preordain
-1 Sensei’s Divining Top
+1 Sensei's Divining Top
 1 Abrade
 1 Arc Trail
 1 Boros Signet
@@ -21,7 +24,7 @@
 1 Young Pyromancer
 1 Dack Fayden
 1 Jace Beleren
-1 Kolaghan’s Command
+1 Kolaghan's Command
 1 Shadowmage Infiltrator
 1 Cryptic Command
 1 Damnation

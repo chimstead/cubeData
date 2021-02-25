@@ -1,0 +1,50 @@
+1 [CN2:176] Birds of Paradise
+1 [MM2:151] Noble Hierarch
+1 [ROE:190] Joraga Treespeaker
+1 [RTR:213] Deathrite Shaman
+1 [M13:170] Farseek
+1 [M11:172] Fauna Shaman
+1 [THS:180] Sylvan Caryatid
+1 [THS:128] Magma Jet
+1 [DDN:23] Arc Trail
+1 [C14:250] Mind Stone
+1 [AER:122] Rishkar, Peema Renegade
+1 [C15:183] Eternal Witness
+1 [GRN:183] Knight of Autumn
+1 [BNG:119] Courser of Kruphix
+1 [ISD:181] Garruk Relentless
+1 [KLD:110] Chandra, Torch of Defiance
+1 [MH1:161] Deep Forest Hermit
+1 [GRN:208] Trostani Discordant
+1 [WAR:169] Nissa, Who Shakes the World
+1 [SOM:223] Wurmcoil Engine
+1 [ORI:229] Hangarback Walker
+1 [MH1:217] Wrenn and Six
+1 [ELD:169] Once Upon a Time
+1 [GTC:247] Stomping Ground
+1 [ORI:244] Battlefield Forge
+1 [AKH:248] Sheltered Thicket
+1 [KTK:248] Windswept Heath
+1 [KTK:249] Wooded Foothills
+1 [WWK:144] Stirring Wildwood
+1 [GTC:245] Sacred Foundry
+1 [RTR:248] Temple Garden
+6 [GUR:1] Forest
+2 [GUR:3] Mountain
+1 [GUR:4] Plains
+SB: 1 [WAR:53] God-Eternal Kefnet
+SB: 1 [MM3:55] Venser, Shaper Savant
+SB: 1 [KLD:249] Spirebluff Canal
+SB: 1 [MMA:179] Lightning Helix
+SB: 1 [OGW:171] Hissing Quagmire
+SB: 1 [BFZ:239] Lumbering Falls
+SB: 1 [AKH:243] Fetid Pools
+SB: 1 [GTC:123] Gyre Sage
+SB: 1 [C15:137] Shriekmaw
+SB: 1 [MPS:53] Vedalken Shackles
+SB: 1 [C13:135] Avenger of Zendikar
+SB: 1 [MIR:255] Worldly Tutor
+SB: 1 [BFZ:244] Shambling Vent
+SB: 1 [C17:181] Mirari's Wake
+LAYOUT MAIN:(1,8)(CMC,false,81)|([GUR:1],[GUR:1],[GUR:1],[GUR:1],[GUR:1],[GUR:1],[GUR:3],[GUR:3],[GUR:4])([ORI:244],[GTC:245],[AKH:248],[WWK:144],[GTC:247],[RTR:248],[KTK:248],[KTK:249])([CN2:176],[RTR:213],[ROE:190],[MM2:151])([DDN:23],[M13:170],[M11:172],[THS:128],[C14:250],[ELD:169],[THS:180],[MH1:217],[ORI:229])([BNG:119],[C15:183],[GRN:183],[AER:122])([KLD:110],[ISD:181])([MH1:161],[WAR:169],[GRN:208])([SOM:223])
+LAYOUT SIDEBOARD:(1,7)(CMC,false,70)|([KLD:249],[OGW:171],[BFZ:239],[AKH:243],[BFZ:244])([MIR:255])([MMA:179],[GTC:123])([MPS:53])([WAR:53],[MM3:55])([C15:137],[C17:181])([C13:135])

@@ -1,0 +1,47 @@
+1 [ONS:313] Bloodstained Mire
+1 [ZEN:220] Misty Rainforest
+1 [RTR:172] Izzet Charm
+1 [M11:70] Preordain
+1 [USG:96] Show and Tell
+1 [CN2:71] Selvala's Stampede
+1 [AVR:106] Griselbrand
+1 [TMP:308] Scroll Rack
+1 [ONS:321] Polluted Delta
+1 [M11:97] Grave Titan
+1 [VIS:64] Necromancy
+1 [ROE:12] Ulamog, the Infinite Gyre
+1 [SOM:175] Mimic Vat
+1 [EXO:115] Oath of Druids
+1 [ULG:36] Miscalculation
+1 [ULG:130] Quicksilver Amulet
+1 [ONS:328] Windswept Heath
+1 [WWK:134] Creeping Tar Pit
+1 [MRD:152] Chrome Mox
+1 [WWK:115] Terastodon
+1 [STH:143] Volrath's Stronghold
+1 [RAV:284] Temple Garden
+1 [ICE:118] Dance of the Dead
+1 [WTH:164] Gemstone Mine
+1 [GPT:165] Stomping Ground
+1 [LEB:105] Demonic Tutor
+1 [USG:134] Exhume
+1 [DKA:87] Faithless Looting
+1 [BFZ:15] Ulamog, the Ceaseless Hunger
+1 [JOU:163] Mana Confluence
+1 [SOM:223] Wurmcoil Engine
+1 [AKH:243] Fetid Pools
+1 [LEB:184] Wheel of Fortune
+SB: 1 [KLD:67] Torrential Gearhulk
+SB: 1 [ROE:66] Enclave Cryptologist
+SB: 1 [ODY:193] Firebolt
+SB: 1 [ODY:292] Psychatog
+SB: 1 [FRF:143] Warden of the First Tree
+SB: 1 [V12:10] Maze of Ith
+SB: 1 [LRW:10] Cloudgoat Ranger
+SB: 1 [AKH:204] Nissa, Steward of Elements
+SB: 1 [MIR:14] Enlightened Tutor
+SB: 1 [ORI:157] Pia and Kiran Nalaar
+SB: 1 [CMD:159] Hornet Queen
+SB: 1 [PLC:102] Keldon Marauders
+LAYOUT MAIN:(1,9)(CMC,false,50)|([STH:143],[JOU:163],[MRD:152],[ONS:313],[ONS:321],[ONS:328],[ZEN:220],[GPT:165],[AKH:243],[WWK:134],[WTH:164],[RAV:284])([DKA:87],[M11:70])([RTR:172],[USG:134],[EXO:115],[LEB:105],[TMP:308],[ICE:118],[ULG:36])([LEB:184],[USG:96],[VIS:64],[SOM:175])([ULG:130])([CN2:71],[M11:97],[SOM:223])([AVR:106],[WWK:115])([BFZ:15])([ROE:12])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([ODY:193],[ORI:157],[ODY:292],[FRF:143],[KLD:67],[LRW:10],[PLC:102],[MIR:14],[ROE:66],[AKH:204],[CMD:159],[V12:10])

@@ -1,0 +1,49 @@
+1 [GRN:205] Thief of Sanity
+1 [6ED:83] Mystical Tutor
+1 [DOM:207] Teferi, Hero of Dominaria
+1 [WWK:31] Jace, the Mind Sculptor
+1 [ORI:60] Jace, Vryn's Prodigy
+1 [4ED:6] Balance
+1 [M11:58] Jace Beleren
+1 [M12:55] Frost Titan
+1 [M13:22] Oblivion Ring
+1 [LRW:56] Cryptic Command
+1 [NEM:30] Daze
+1 [MOR:55] Vendilion Clique
+1 [KLD:67] Torrential Gearhulk
+1 [MH1:37] Winds of Abandon
+1 [RTR:200] Sphinx's Revelation
+1 [ALA:9] Elspeth, Knight-Errant
+1 [STH:138] Mox Diamond
+1 [TSP:48] Ancestral Vision
+1 [2ED:84] Time Walk
+1 [PLC:25] Mana Tithe
+1 [BBD:122] Mystic Confluence
+1 [BFZ:29] Gideon, Ally of Zendikar
+1 [MH1:52] Force of Negation
+1 [MH1:244] Prismatic Vista
+1 [RNA:251] Hallowed Fountain
+1 [RNA:248] Godless Shrine
+1 [ZEN:219] Marsh Flats
+1 [MRD:152] Chrome Mox
+7 [UNH:137] Island
+5 [UNH:136] Plains
+SB: 1 [THS:180] Sylvan Caryatid
+SB: 1 [6ED:19] Enlightened Tutor
+SB: 1 [EXO:129] Survival of the Fittest
+SB: 1 [NPH:73] Sheoldred, Whispering One
+SB: 1 [DOM:26] Lyra Dawnbringer
+SB: 1 [M11:7] Baneslayer Angel
+SB: 1 [MH1:199] Fallen Shinobi
+SB: 1 [XLN:110] Kitesail Freebooter
+SB: 1 [RNA:47] Pteramander
+SB: 1 [KTK:249] Wooded Foothills
+SB: 1 [3ED:291] Volcanic Island
+SB: 1 [KLD:246] Inspiring Vantage
+SB: 1 [3ED:284] Plateau
+SB: 1 [RNA:246] Breeding Pool
+SB: 1 [BBD:25] Brightling
+SB: 1 [RNA:27] Tithe Taker
+SB: 1 [SOI:92] Thing in the Ice
+LAYOUT MAIN:(1,8)(CMC,false,44)|([UNH:137],[UNH:137],[UNH:137],[UNH:137],[UNH:137],[UNH:137],[UNH:137],[UNH:136],[UNH:136],[UNH:136],[UNH:136],[UNH:136])([RNA:251],[RNA:248],[ZEN:219],[MH1:244],[MRD:152],[STH:138])([PLC:25],[6ED:83],[TSP:48])([4ED:6],[NEM:30],[ORI:60],[2ED:84],[MH1:37])([MH1:52],[M11:58],[M13:22],[RTR:200],[GRN:205],[MOR:55])([LRW:56],[ALA:9],[BFZ:29],[WWK:31])([BBD:122],[DOM:207])([M12:55],[KLD:67])
+LAYOUT SIDEBOARD:(1,6)(CMC,false,50)|([6ED:19],[RNA:47])([THS:180],[EXO:129],[XLN:110],[RNA:27],[SOI:92])([BBD:25])([DOM:26],[M11:7],[MH1:199])([NPH:73])([KTK:249],[3ED:291],[KLD:246],[3ED:284],[RNA:246])

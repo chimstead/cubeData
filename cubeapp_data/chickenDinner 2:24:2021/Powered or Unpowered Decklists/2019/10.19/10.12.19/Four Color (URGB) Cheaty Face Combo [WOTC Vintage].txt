@@ -1,0 +1,41 @@
+1 [6ED:161] Vampiric Tutor
+1 [3ED:3] Balance
+1 [ULG:32] Frantic Search
+1 [MM2:3] Emrakul, the Aeons Torn
+1 [EMN:6] Emrakul, the Promised End
+1 [C16:263] Myr Battlesphere
+1 [SOM:176] Mindslaver
+1 [ME3:43] Mana Drain
+1 [STH:36] Mana Leak
+1 [V14:2] Burning of Xinye
+1 [INV:57] Fact or Fiction
+1 [MM3:46] Phantasmal Image
+1 [TSP:66] Looter il-Kor
+1 [MMA:59] Pestermite
+1 [DOM:215] Gilded Lotus
+1 [C14:277] Thran Dynamo
+1 [ARC:114] Rakdos Signet
+1 [HOU:145] The Scarab God
+1 [M12:55] Frost Titan
+1 [C15:26] Fiery Confluence
+1 [GK2:72] Rakdos's Return
+1 [ZEN:67] Spell Pierce
+1 [CHK:193] Through the Breach
+1 [2ED:262] Mox Emerald
+1 [2ED:265] Mox Ruby
+1 [STH:138] Mox Diamond
+1 [GPT:157] Godless Shrine
+1 [RTR:238] Blood Crypt
+1 [2ED:278] Badlands
+1 [KTK:248] Windswept Heath
+1 [RAV:286] Watery Grave
+1 [LRW:272] Shelldock Isle
+1 [TSP:269] Academy Ruins
+1 [UMA:239] Creeping Tar Pit
+1 [KTK:239] Polluted Delta
+2 [3ED:296] Island
+1 [3ED:297] Island
+2 [3ED:302] Mountain
+SB: 1 [EMA:240] Karakas
+LAYOUT MAIN:(2,10)(CMC,true,58)|([3ED:296],[3ED:297],[3ED:296])([3ED:302],[3ED:302])([TSP:66],[MM3:46])([MMA:59])()([HOU:145])([M12:55])([C16:263])([EMN:6])([MM2:3])([TSP:269],[2ED:278],[RTR:238],[UMA:239],[GPT:157],[STH:138],[2ED:262],[2ED:265],[KTK:239],[LRW:272],[RAV:286],[KTK:248])([ZEN:67],[6ED:161])([3ED:3],[ME3:43],[STH:36],[ARC:114],[GK2:72])([ULG:32])([INV:57],[C15:26],[C14:277])([DOM:215],[CHK:193])([V14:2],[SOM:176])()()()
+LAYOUT SIDEBOARD:(1,1)(CMC,true,64)|([EMA:240])

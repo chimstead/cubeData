@@ -1,0 +1,48 @@
+1 [THS:127] Lightning Strike
+1 [ZEN:126] Goblin Guide
+1 [KTK:118] Monastery Swiftspear
+1 [RTR:220] Rakdos Cackler
+1 [KLD:214] Fleetwheel Cruiser
+1 [LEA:161] Lightning Bolt
+1 [M13:147] Searing Spear
+1 [ODY:193] Firebolt
+1 [DKA:93] Hellrider
+1 [PLC:102] Keldon Marauders
+1 [DTK:169] Zurgo Bellstriker
+1 [M15:145] Goblin Rabblemaster
+1 [M13:150] Thundermaw Hellkite
+1 [M13:132] Flames of the Firebrand
+1 [WAR:137] Krenko, Tin Street Kingpin
+1 [5DN:73] Magma Jet
+1 [MIR:184] Incinerate
+1 [C15:26] Fiery Confluence
+1 [SOI:155] Falkenrath Gorger
+1 [RAV:117] Char
+1 [AKH:148] Soul-Scar Mage
+1 [CON:65] Hellspark Elemental
+1 [BBD:62] Najeela, the Blade-Blossom
+1 [ZEN:119] Burst Lightning
+16 [UNH:139] Mountain
+SB: 1 [OGW:104] Chandra, Flamecaller
+SB: 1 [CHK:193] Through the Breach
+SB: 1 [LEB:280] Plateau
+SB: 1 [ONS:319] Grand Coliseum
+SB: 1 [ONS:313] Bloodstained Mire
+SB: 1 [ULG:14] Mother of Runes
+SB: 1 [ELD:35] Venerable Knight
+SB: 1 [DTK:10] Dragon Hunter
+SB: 1 [ORI:23] Kytheon, Hero of Akros
+SB: 1 [C13:25] Unexpectedly Absent
+SB: 1 [RAV:213] Lightning Helix
+SB: 1 [GTC:148] Boros Charm
+SB: 1 [TSB:6] Disenchant
+SB: 1 [EMN:46] Thalia, Heretic Cathar
+SB: 1 [DTK:224] Kolaghan's Command
+SB: 1 [ORI:157] Pia and Kiran Nalaar
+SB: 1 [RIX:111] Rekindling Phoenix
+SB: 1 [ALA:154] Ajani Vengeant
+SB: 1 [HOU:83] Abrade
+SB: 1 [USG:174] Arc Lightning
+SB: 1 [M14:163] Young Pyromancer
+LAYOUT MAIN:(1,6)(CMC,false,51)|([UNH:139],[UNH:139],[UNH:139],[UNH:139],[UNH:139],[UNH:139],[UNH:139],[UNH:139],[UNH:139],[UNH:139],[UNH:139],[UNH:139],[UNH:139],[UNH:139],[UNH:139],[UNH:139])([ZEN:126],[KTK:118],[RTR:220],[LEA:161],[ODY:193],[DTK:169],[SOI:155],[AKH:148],[ZEN:119])([THS:127],[M13:147],[PLC:102],[5DN:73],[MIR:184],[CON:65])([M15:145],[M13:132],[WAR:137],[RAV:117],[BBD:62])([KLD:214],[DKA:93],[C15:26])([M13:150])
+LAYOUT SIDEBOARD:(1,7)(CMC,false,50)|([LEB:280],[ONS:319],[ONS:313])([ULG:14],[ELD:35],[DTK:10],[ORI:23])([C13:25],[RAV:213],[GTC:148],[TSB:6],[HOU:83],[M14:163])([EMN:46],[DTK:224],[USG:174])([ORI:157],[RIX:111],[ALA:154])([CHK:193])([OGW:104])

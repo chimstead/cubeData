@@ -1,0 +1,49 @@
+1 [SOI:233] Tireless Tracker
+1 [DST:140] Skullclamp
+1 [5DN:86] Eternal Witness
+1 [ISD:170] Avacyn's Pilgrim
+1 [M14:195] Scavenging Ooze
+1 [CHK:193] Through the Breach
+1 [ROE:12] Ulamog, the Infinite Gyre
+1 [UDS:118] Rofellos, Llanowar Emissary
+1 [M19:314] Llanowar Elves
+1 [ULG:101] Deranged Hermit
+1 [M15:173] Elvish Mystic
+1 [M11:175] Garruk Wildspeaker
+1 [CHK:239] Sakura-Tribe Elder
+1 [SHM:135] Woodfall Primus
+1 [ICE:244] Fyndhorn Elves
+1 [M12:165] Birds of Paradise
+1 [WAR:169] Nissa, Who Shakes the World
+1 [ROE:190] Joraga Treespeaker
+1 [MBS:81] Green Sun's Zenith
+1 [MRD:134] Tooth and Nail
+1 [M13:160] Arbor Elf
+1 [SOM:223] Wurmcoil Engine
+1 [ZEN:220] Misty Rainforest
+1 [WWK:141] Raging Ravine
+1 [SOM:225] Copperline Gorge
+1 [2ED:262] Mox Emerald
+1 [RNA:259] Stomping Ground
+9 [THB:254] Forest
+2 [THB:253] Mountain
+1 [ARB:50] Bloodbraid Elf
+1 [M19:208] Vivien Reid
+SB: 1 [TSB:89] Wall of Roots
+SB: 1 [RAV:117] Char
+SB: 1 [NEM:17] Parallax Wave
+SB: 1 [WAR:180] Vivien, Champion of the Wilds
+SB: 1 [DTK:181] Den Protector
+SB: 1 [GRN:183] Knight of Autumn
+SB: 1 [JOU:94] Eidolon of the Great Revel
+SB: 1 [OGW:110] Goblin Dark-Dwellers
+SB: 1 [ALA:218] Relic of Progenitus
+SB: 1 [RIX:111] Rekindling Phoenix
+SB: 1 [STH:125] Wall of Blossoms
+SB: 1 [MBS:43] Go for the Throat
+SB: 1 [3ED:282] Badlands
+SB: 1 [TMP:183] Jackal Pup
+SB: 1 [AKH:134] Glorybringer
+SB: 1 [9ED:216] Seething Song
+LAYOUT MAIN:(1,5)(CMC,false,69)|([ZEN:220],[WWK:141],[SOM:225],[2ED:262],[RNA:259],[THB:254],[THB:254],[THB:254],[THB:254],[THB:254],[THB:254],[THB:254],[THB:254],[THB:254],[THB:253],[THB:253])([DST:140],[ISD:170],[M19:314],[M15:173],[ICE:244],[M12:165],[ROE:190],[MBS:81],[M13:160])([M14:195],[UDS:118],[CHK:239])([SOI:233],[5DN:86],[M11:175],[ARB:50],[CHK:193],[ULG:101],[WAR:169],[M19:208])([SOM:223],[ROE:12],[SHM:135],[MRD:134])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([TSB:89],[RAV:117],[NEM:17],[WAR:180],[DTK:181],[GRN:183],[JOU:94],[OGW:110],[ALA:218],[RIX:111],[STH:125],[MBS:43],[3ED:282],[TMP:183],[AKH:134],[9ED:216])

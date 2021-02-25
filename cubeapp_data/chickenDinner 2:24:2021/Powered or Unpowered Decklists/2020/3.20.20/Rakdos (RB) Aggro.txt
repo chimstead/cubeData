@@ -1,0 +1,54 @@
+1 [GRN:77] Midnight Reaper
+1 [ELD:138] Robber of the Rich
+1 [ROE:115] Inquisition of Kozilek
+1 [MM2:130] Stormblood Berserker
+1 [HOU:90] Earthshaker Khenra
+1 [MH1:145] Seasoned Pyromancer
+1 [THB:83] Agonizing Remorse
+1 [RIX:82] Ravenous Chupacabra
+1 [FEM:38a] Hymn to Tourach
+1 [XLN:110] Kitesail Freebooter
+1 [KTK:81] Murderous Cut
+1 [M15:145] Goblin Rabblemaster
+1 [VIS:79] Fireblast
+1 [KTK:66] Bloodsoaked Champion
+1 [C14:22] Flesh Carver
+1 [DTK:169] Zurgo Bellstriker
+1 [DST:140] Skullclamp
+1 [EMA:100] Night's Whisper
+1 [BBD:171] Chain Lightning
+1 [THS:122] Firedrinker Satyr
+1 [THS:128] Magma Jet
+1 [NPH:19] Porcelain Legionnaire
+1 [RTR:220] Rakdos Cackler
+1 [E01:50] Grim Lavamancer
+1 [RNA:245] Blood Crypt
+1 [ICE:360] Sulfurous Springs
+1 [KTK:239] Polluted Delta
+1 [KTK:230] Bloodstained Mire
+1 [MH1:238] Fiery Islet
+1 [EMA:242] Mishra's Factory
+2 [BFZ:265] Mountain
+2 [BFZ:267] Mountain
+1 [BFZ:269] Mountain
+2 [BFZ:262] Swamp
+1 [BFZ:264] Swamp
+1 [BFZ:263] Swamp
+1 [BFZ:261] Swamp
+SB: 1 [UMA:113] Shriekmaw
+SB: 1 [GRN:258] Temple Garden
+SB: 1 [M11:120] Viscera Seer
+SB: 1 [NEM:17] Parallax Wave
+SB: 1 [FRF:87] Tasigur, the Golden Fang
+SB: 1 [XLN:34] Settle the Wreckage
+SB: 1 [ICE:214] Pyroclasm
+SB: 1 [C13:84] Ophiomancer
+SB: 1 [NPH:153] Shrine of Burning Rage
+SB: 1 [LRW:133] Oona's Prowler
+SB: 1 [CMD:88] Living Death
+SB: 1 [M20:126] Chandra, Acolyte of Flame
+SB: 1 [M19:152] Lightning Strike
+SB: 1 [MMQ:162] Snuff Out
+SB: 1 [KTK:118] Monastery Swiftspear
+LAYOUT MAIN:(1,8)(CMC,false,50)|([BFZ:265],[BFZ:267],[BFZ:265],[BFZ:269],[BFZ:267],[BFZ:262],[BFZ:264],[BFZ:263],[BFZ:261],[BFZ:262])([ROE:115],[KTK:66],[DTK:169],[DST:140],[BBD:171],[THS:122],[RTR:220],[E01:50])([ELD:138],[MM2:130],[HOU:90],[THB:83],[FEM:38a],[XLN:110],[EMA:100],[THS:128],[NPH:19])([GRN:77],[MH1:145],[M15:145],[C14:22])([RIX:82])([KTK:81])([VIS:79])([RNA:245],[ICE:360],[KTK:239],[KTK:230],[MH1:238],[EMA:242])
+LAYOUT SIDEBOARD:(1,7)(CMC,false,50)|([GRN:258])([M11:120],[KTK:118])([ICE:214],[NPH:153],[LRW:133],[M19:152])([C13:84],[M20:126])([NEM:17],[XLN:34],[MMQ:162])([UMA:113],[CMD:88])([FRF:87])

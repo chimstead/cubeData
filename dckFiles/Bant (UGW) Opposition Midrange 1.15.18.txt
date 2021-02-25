@@ -1,3 +1,6 @@
+2018
+1.18
+1.15.18
 1 Bayou
 1 Misty Rainforest
 1 Hallowed Fountain
@@ -12,13 +15,13 @@
 1 Noble Hierarch
 1 Joraga Treespeaker
 1 Path to Exile
-1 Nissa, Stewart of Elements
-1 Wall of Omen
+1 Nissa, Steward of Elements
+1 Wall of Omens
 1 Simic Signet
 1 Sylvan Caryatid
 1 Coldsteel Heart
 1 Walking Ballista
-1 NIssa, Voice of Zendikar
+1 Nissa, Voice of Zendikar
 1 Thirst for Knowledge
 1 Recruiter of the Guard
 1 Courser of Kruphix
@@ -28,7 +31,7 @@
 1 Opposition
 1 Fact or Fiction
 1 Phyrexian Metamorph
-1 MIrari’s Wake
+1 Mirari's Wake
 1 Verdurous Gearhulk
 1 Torrential Gearhulk
 1 Hornet Queen

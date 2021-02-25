@@ -1,0 +1,30 @@
+7 Island
+5 Plains
+1 Forest
+1 City of Brass
+1 Gemstone Mine
+1 Temple Garden
+1 Savannah
+1 Condescend
+1 Path to Exile
+1 Baral, Chief of Compliance
+1 Jace, Vryn's Prodigy
+1 Counterspell
+1 Grim Monolith
+1 Mana Leak
+1 Miscalculation
+1 Unexpectedly Absent
+1 Monastery Mentor
+1 Spell Queller
+1 True-Name Nemesis
+1 Cultivate
+1 Forbid
+1 Oblivion Ring
+1 Palace Jailer
+1 Gideon, Ally of Zendikar
+1 Tamiyo, Field Researcher
+1 Thalia's Lancers
+1 Force of Will
+1 Fractured Identity
+1 Gideon Jura
+1 Mystic Confluence

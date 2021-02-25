@@ -1,0 +1,53 @@
+1 [LRW:88] Sower of Temptation
+1 [BBD:33] Arcane Artisan
+1 [RAV:255] Boros Signet
+1 [ULG:126] Grim Monolith
+1 [CHK:193] Through the Breach
+1 [DOM:215] Gilded Lotus
+1 [USG:218] Sneak Attack
+1 [ORI:157] Pia and Kiran Nalaar
+1 [LRW:78] Pestermite
+1 [M12:63] Mana Leak
+1 [APC:128] Fire // Ice
+1 [NPH:33] Deceiver Exarch
+1 [CHK:175] Kiki-Jiki, Mirror Breaker
+1 [ISD:127] Ancient Grudge
+1 [CM2:98] Fiery Confluence
+1 [ROE:12] Ulamog, the Infinite Gyre
+1 [M12:147] Inferno Titan
+1 [M15:225] Phyrexian Revoker
+1 [ROE:4] Emrakul, the Aeons Torn
+1 [AKH:149] Sweltering Suns
+1 [TSP:48] Ancestral Vision
+1 [M12:217] Solemn Simulacrum
+1 [ODY:193] Firebolt
+1 [ZEN:220] Misty Rainforest
+1 [GRN:257] Steam Vents
+1 [KTK:249] Wooded Foothills
+1 [LRW:272] Shelldock Isle
+1 [3ED:287] Taiga
+1 [2ED:265] Mox Ruby
+2 [LRW:289] Island
+2 [LRW:287] Island
+2 [LRW:295] Mountain
+1 [LRW:296] Mountain
+1 [LRW:297] Mountain
+3 [LRW:294] Mountain
+SB: 1 [5ED:249] Mana Flare
+SB: 1 [XLN:22] Legion's Landing
+SB: 1 [NEM:17] Parallax Wave
+SB: 1 [MOR:22] Reveillark
+SB: 1 [THS:172] Polukranos, World Eater
+SB: 1 [V14:2] Burning of Xinye
+SB: 1 [RTR:188] Rakdos's Return
+SB: 1 [DTK:224] Kolaghan's Command
+SB: 1 [FRF:27] Soulfire Grand Master
+SB: 1 [TMP:330] Wasteland
+SB: 1 [GRN:258] Temple Garden
+SB: 1 [SOI:247] Nahiri, the Harbinger
+SB: 1 [NEM:30] Daze
+SB: 1 [CON:30] Inkwell Leviathan
+SB: 1 [GRN:224] Expansion // Explosion
+SB: 1 [RIX:99] Dire Fleet Daredevil
+LAYOUT MAIN:(1,9)(CMC,false,50)|([TSP:48],[ZEN:220],[GRN:257],[KTK:249],[LRW:272],[3ED:287],[2ED:265],[LRW:289],[LRW:287],[LRW:287],[LRW:289],[LRW:295],[LRW:296],[LRW:297],[LRW:294],[LRW:294],[LRW:295],[LRW:294])([ODY:193])([RAV:255],[ULG:126],[M12:63],[ISD:127],[M15:225],[APC:128])([BBD:33],[LRW:78],[NPH:33],[AKH:149])([LRW:88],[USG:218],[ORI:157],[CM2:98],[M12:217])([CHK:193],[DOM:215],[CHK:175])([M12:147])([ROE:12])([ROE:4])
+LAYOUT SIDEBOARD:(1,10)(COLOR,false,50)|([THS:172])([5ED:249],[V14:2])([XLN:22],[NEM:17],[MOR:22],[FRF:27])([RTR:188],[DTK:224])([TMP:330])([GRN:258])([SOI:247])([NEM:30],[RIX:99])([CON:30])([GRN:224])

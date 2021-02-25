@@ -1,0 +1,52 @@
+1 [KLD:110] Chandra, Torch of Defiance
+1 [NPH:19] Porcelain Legionnaire
+1 [DTK:169] Zurgo Bellstriker
+1 [ORI:127] Abbot of Keral Keep
+1 [JOU:94] Eidolon of the Great Revel
+1 [RIX:99] Dire Fleet Daredevil
+1 [VIS:79] Fireblast
+1 [5ED:408] Winter Orb
+1 [NPH:153] Shrine of Burning Rage
+1 [KLD:235] Smuggler's Copter
+1 [M19:152] Lightning Strike
+1 [ZEN:126] Goblin Guide
+1 [ODY:193] Firebolt
+1 [ORI:157] Pia and Kiran Nalaar
+1 [M13:150] Thundermaw Hellkite
+1 [EVE:139] Figure of Destiny
+1 [RNA:107] Light Up the Stage
+1 [KTK:118] Monastery Swiftspear
+1 [M15:145] Goblin Rabblemaster
+1 [M12:145] Grim Lavamancer
+1 [GRN:115] Runaway Steam-Kin
+1 [JR:97] Ravages of War
+1 [BOK:163] Umezawa's Jitte
+1 [ICE:54] Swords to Plowshares
+1 [KLD:246] Inspiring Vantage
+1 [3ED:284] Plateau
+1 [KTK:249] Wooded Foothills
+1 [MPS:16] Mana Crypt
+1 [TMP:330] Wasteland
+1 [2ED:262] Mox Emerald
+1 [M14:228] Mutavault
+4 [BFZ:266] Mountain
+2 [BFZ:265] Mountain
+1 [BFZ:267] Mountain
+1 [BFZ:269] Mountain
+1 [BFZ:254] Plains
+SB: 1 [RAV:81] Dark Confidant
+SB: 1 [RNA:47] Pteramander
+SB: 1 [ULG:101] Deranged Hermit
+SB: 1 [UMA:11] Containment Priest
+SB: 1 [OGW:110] Goblin Dark-Dwellers
+SB: 1 [7ED:92] Opposition
+SB: 1 [DTK:181] Den Protector
+SB: 1 [M20:14] Disenchant
+SB: 1 [SHM:229] Kitchen Finks
+SB: 1 [ORI:229] Hangarback Walker
+SB: 1 [FUT:101] Magus of the Moon
+SB: 1 [5ED:249] Mana Flare
+SB: 1 [ULG:49] Bone Shredder
+SB: 1 [RTR:101] Mizzium Mortars
+LAYOUT MAIN:(2,7)(CMC,true,50)|([KLD:246],[3ED:284],[KTK:249],[MPS:16],[TMP:330],[2ED:262],[M14:228])([DTK:169],[ZEN:126],[EVE:139],[KTK:118],[M12:145])([ORI:127],[JOU:94],[RIX:99],[GRN:115])([NPH:19],[M15:145])([ORI:157])([M13:150])()([BFZ:266],[BFZ:265],[BFZ:267],[BFZ:269],[BFZ:266],[BFZ:266],[BFZ:266],[BFZ:265],[BFZ:254])([ODY:193],[ICE:54])([5ED:408],[NPH:153],[KLD:235],[M19:152],[BOK:163])([RNA:107])([KLD:110],[JR:97])()([VIS:79])
+LAYOUT SIDEBOARD:(1,7)(COLOR,false,50)|([ORI:229])([RAV:81],[ULG:49])([RNA:47],[7ED:92])([ULG:101],[DTK:181])([OGW:110],[FUT:101],[5ED:249],[RTR:101])([UMA:11],[M20:14])([SHM:229])

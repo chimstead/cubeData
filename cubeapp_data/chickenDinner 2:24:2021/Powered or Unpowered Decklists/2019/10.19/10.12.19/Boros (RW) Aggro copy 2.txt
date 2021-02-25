@@ -1,0 +1,57 @@
+1 [ROE:47] Student of Warfare
+1 [V14:1] Armageddon
+1 [DDQ:4] Champion of the Parish
+1 [WAR:20] Law-Rune Enforcer
+1 [M12:23] Honor of the Pure
+1 [M14:22] Imposing Sovereign
+1 [KLD:235] Smuggler's Copter
+1 [CMD:21] Mother of Runes
+1 [DTK:2] Anafenza, Kin-Tree Spirit
+1 [EMN:46] Thalia, Heretic Cathar
+1 [EMA:33] Unexpectedly Absent
+1 [M15:240] Battlefield Forge
+1 [AER:153] Heart of Kiran
+1 [C14:71] Flickerwisp
+1 [DTK:36] Secure the Wastes
+1 [NEM:17] Parallax Wave
+1 [FRF:18] Mardu Woe-Reaper
+1 [KLD:214] Fleetwheel Cruiser
+1 [DOM:6] Benalish Marshal
+1 [DOM:14] Dauntless Bodyguard
+1 [M13:22] Oblivion Ring
+1 [DDL:3] Figure of Destiny
+1 [EMN:130a] Hanweir Garrison
+1 [XLN:154] Rampaging Ferocidon
+1 [M19:33] Remorseful Cleric
+1 [BFZ:269a] Mountain
+1 [BFZ:266] Mountain
+1 [BFZ:268] Mountain
+3 [BFZ:250] Plains
+1 [BFZ:252a] Plains
+3 [BFZ:253] Plains
+1 [BFZ:254a] Plains
+1 [BFZ:252] Plains
+2 [BFZ:251] Plains
+1 [BFZ:250a] Plains
+SB: 1 [M11:70] Preordain
+SB: 1 [MH1:58] Mist-Syndicate Naga
+SB: 1 [UNH:51] Booster Tutor
+SB: 1 [BBD:74] Archon of Valor's Reach
+SB: 1 [SOM:78] Skinrender
+SB: 1 [ORI:114] Read the Bones
+SB: 1 [M19:247] Transmogrifying Wand
+SB: 1 [MM3:244] Scalding Tarn
+SB: 1 [ISD:164] Stromkirk Noble
+SB: 1 [PCA:39] Arc Trail
+SB: 1 [KLD:199] Bomat Courier
+SB: 1 [SOI:155] Falkenrath Gorger
+SB: 1 [THS:122] Firedrinker Satyr
+SB: 1 [MM2:109] Burst Lightning
+SB: 1 [EMA:155] Young Pyromancer
+SB: 1 [AER:76] Aether Chaser
+SB: 1 [TOR:69] Mesmeric Fiend
+SB: 1 [KLD:234] Skysovereign, Consul Flagship
+SB: 1 [C19:241] Evolving Wilds
+SB: 1 [AER:87] Kari Zev, Skyship Raider
+LAYOUT MAIN:(2,5)(CMC,true,50)|()([DDQ:4],[DOM:14],[DDL:3],[WAR:20],[FRF:18],[CMD:21],[ROE:47])([DTK:2],[M14:22],[M19:33],[AER:153],[KLD:235])([DOM:6],[C14:71],[EMN:130a],[XLN:154],[EMN:46])([KLD:214])([M15:240],[BFZ:269a],[BFZ:266],[BFZ:268],[BFZ:250],[BFZ:252a],[BFZ:253],[BFZ:254a],[BFZ:252],[BFZ:250],[BFZ:251],[BFZ:253],[BFZ:250],[BFZ:250a],[BFZ:253],[BFZ:251])([DTK:36])([M12:23],[EMA:33])([M13:22])([V14:1],[NEM:17])
+LAYOUT SIDEBOARD:(1,5)(COLOR,false,50)|([M19:247],[MM3:244],[KLD:199],[KLD:234],[C19:241])([UNH:51],[SOM:78],[ORI:114],[TOR:69])([M11:70],[MH1:58])([ISD:164],[PCA:39],[SOI:155],[THS:122],[MM2:109],[EMA:155],[AER:76],[AER:87])([BBD:74])

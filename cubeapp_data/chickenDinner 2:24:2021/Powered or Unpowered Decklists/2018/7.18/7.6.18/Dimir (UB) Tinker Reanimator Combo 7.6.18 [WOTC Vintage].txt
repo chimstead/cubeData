@@ -1,0 +1,52 @@
+1 [ULG:45] Tinker
+1 [2ED:263] Mox Jet
+1 [2ED:264] Mox Pearl
+1 [M11:58] Jace Beleren
+1 [RTR:73] Pack Rat
+1 [JR:109] Imperial Seal
+1 [XLN:253] Drowned Catacomb
+1 [TMP:151] Reanimate
+1 [EMN:86] Cryptbreaker
+1 [AVR:106] Griselbrand
+1 [MPS:16] Mana Crypt
+1 [DTK:220] Dragonlord Silumgar
+1 [E01:80] Baleful Strix
+1 [M12:72] Phantasmal Image
+1 [TOR:36] Deep Analysis
+1 [ISD:105] Liliana of the Veil
+1 [VIS:64] Necromancy
+1 [MMQ:129] Dark Ritual
+1 [LEG:65] Mana Drain
+1 [ULG:36] Miscalculation
+1 [6ED:161] Vampiric Tutor
+1 [RAV:63] Remand
+1 [ZEN:178] Rampaging Baloths
+1 [DST:146] Sundering Titan
+1 [ICE:118] Dance of the Dead
+2 [AVR:236] Swamp
+2 [AVR:237] Swamp
+2 [AVR:238] Swamp
+1 [USG:134] Exhume
+1 [THS:90] Hero's Downfall
+1 [TMP:315] Ancient Tomb
+2 [AVR:233] Island
+3 [AVR:234] Island
+1 [MRD:53] Thirst for Knowledge
+SB: 1 [SOM:78] Skinrender
+SB: 1 [ORI:105] Languish
+SB: 1 [ODY:117] Braids, Cabal Minion
+SB: 1 [C13:84] Ophiomancer
+SB: 1 [C17:16] Curse of Disturbance
+SB: 1 [TMP:183] Jackal Pup
+SB: 1 [SOI:5] Archangel Avacyn
+SB: 1 [EXO:53] Carnophage
+SB: 1 [M12:151] Manic Vandal
+SB: 1 [7ED:76] Force Spike
+SB: 1 [ULG:129] Memory Jar
+SB: 1 [RTR:238] Blood Crypt
+SB: 1 [EMN:164] Noose Constrictor
+SB: 1 [NEM:17] Parallax Wave
+SB: 1 [ORI:245] Caves of Koilos
+SB: 1 [AER:62] Glint-Sleeve Siphoner
+LAYOUT MAIN:(1,7)(CMC,false,50)|([XLN:253],[2ED:264],[2ED:263],[TMP:315],[MPS:16],[AVR:234],[AVR:234],[AVR:234],[AVR:233],[AVR:233],[AVR:238],[AVR:236],[AVR:237],[AVR:237],[AVR:236],[AVR:238])([TMP:151],[JR:109],[6ED:161],[EMN:86],[MMQ:129])([ICE:118],[USG:134],[E01:80],[RAV:63],[LEG:65],[ULG:36],[M12:72],[RTR:73])([VIS:64],[ISD:105],[ULG:45],[MRD:53],[THS:90],[M11:58])([TOR:36])([DTK:220],[ZEN:178])([AVR:106],[DST:146])
+LAYOUT SIDEBOARD:(1,6)(COLOR,false,50)|([ORI:245],[RTR:238],[ULG:129])([SOM:78],[C17:16],[ORI:105],[AER:62],[C13:84],[ODY:117],[EXO:53])([7ED:76])([EMN:164])([TMP:183],[M12:151])([NEM:17],[SOI:5])

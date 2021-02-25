@@ -1,3 +1,6 @@
+2017
+12.17
+12.3.17
 7 Forest
 7 Mountain
 1 Engineered Explosives
@@ -20,11 +23,9 @@
 1 Memory Jar
 1 Nissa, Worldwaker
 1 Inferno Titan
-1 Selvala’s Stampede
+1 Selvala's Stampede
 1 Dragonlord Atarka
 1 Griselbrand
 1 Hellkite Overlord
 1 Greater Gargadon
 1 Ulamog, the Ceaseless Hunger
-
-

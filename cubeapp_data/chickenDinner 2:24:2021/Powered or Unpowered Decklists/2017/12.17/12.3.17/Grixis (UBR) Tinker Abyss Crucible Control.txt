@@ -1,0 +1,33 @@
+4 Island
+3 Mountain
+3 Swamp
+1 Academy Ruins
+1 Ash Barrens
+1 Mishra's Workshop
+1 Polluted Delta
+1 Strip Mine
+1 Tolarian Academy
+1 Wasteland
+1 Wooded Foothills
+1 Mox Diamond
+1 Thoughtseize
+1 Baleful Strix
+1 Golgari Signet
+1 Magma Jet
+1 Phyrexian Revoker
+1 Simic Signet
+1 Talisman of Indulgence
+1 Thought Vessel
+1 Arc Lightning
+1 Basalt Monolith
+1 Crucible of Worlds
+1 Tinker
+1 Fiery Confluence
+1 Phyrexian Metamorph
+1 Ral Zarek
+1 Tezzeret, Agent of Bolas
+1 The Abyss
+1 Batterskull
+1 Treachery
+1 Sundering Titan
+1 Wurmcoil Engine

@@ -1,0 +1,58 @@
+1 [USG:174] Arc Lightning
+1 [ELD:115] Bonecrusher Giant
+1 [AKH:125] Combat Celebrant
+1 [HOU:90] Earthshaker Khenra
+1 [SOM:91] Galvanic Blast
+1 [ZEN:126] Goblin Guide
+1 [TMP:183] Jackal Pup
+1 [CHK:175] Kiki-Jiki, Mirror Breaker
+1 [GRN:109] Legion Warboss
+1 [AVR:144] Lightning Mauler
+1 [KTK:118] Monastery Swiftspear
+1 [BBD:62] Najeela, the Blade-Blossom
+1 [M13:147] Searing Spear
+1 [ONS:227] Shock
+1 [AKH:148] Soul-Scar Mage
+1 [LRW:194] Tarfire
+1 [POR:154] Volcanic Hammer
+1 [FRF:118] Wild Slash
+1 [M14:163] Young Pyromancer
+1 [AVR:166] Zealous Conscripts
+1 [LEB:278] Badlands
+1 [ONS:313] Bloodstained Mire
+1 [WWK:139] Lavaclaw Reaches
+1 [ATQ:80a] Mishra's Factory
+1 [MH1:246] Silent Clearing
+1 [DST:140] Skullclamp
+1 [ELD:235] Stonecoil Serpent
+1 [BOK:163] Umezawa's Jitte
+1 [HOP:162] Mountain
+1 [7ED:339] Mountain
+1 [SHM:294] Mountain
+1 [EURO:3] Mountain
+1 [DD3JVC:61] Mountain
+1 [C17:305] Mountain
+1 [TSP:295] Mountain
+1 [EVG:62] Mountain
+1 [AKH:264] Mountain
+1 [MIR:345] Mountain
+1 [DD3EVG:61] Mountain
+1 [BOK:165] Tendo Ice Bridge
+SB: 1 [AKH:14] Gideon of the Trials
+SB: 1 [PLC:25] Mana Tithe
+SB: 1 [HOP:77] Search for Tomorrow
+SB: 1 [ICE:118] Dance of the Dead
+SB: 1 [GRN:213] Vraska, Golgari Queen
+SB: 1 [EMA:177] Natural Order
+SB: 1 [MH1:100] Plague Engineer
+SB: 1 [ISD:97] Diregraf Ghoul
+SB: 1 [THB:14] Elspeth, Sun's Nemesis
+SB: 1 [WWK:141] Raging Ravine
+SB: 1 [OGW:175] Needle Spires
+SB: 1 [C16:18] Frenzied Fugue
+SB: 1 [5DN:143] Pentad Prism
+SB: 1 [MBS:122] Phyrexian Revoker
+SB: 1 [CMD:243] Boros Signet
+SB: 1 [V14:10] Rolling Earthquake
+LAYOUT MAIN:(1,5)(CMC,false,89)|([LEB:278],[ONS:313],[WWK:139],[ATQ:80a],[MH1:246],[BOK:165],[HOP:162],[7ED:339],[SHM:294],[EURO:3],[DD3JVC:61],[C17:305],[TSP:295],[EVG:62],[AKH:264],[MIR:345],[DD3EVG:61])([SOM:91],[ZEN:126],[TMP:183],[KTK:118],[ONS:227],[DST:140],[AKH:148],[LRW:194],[FRF:118])([HOU:90],[AVR:144],[M13:147],[BOK:163],[POR:154],[M14:163],[ELD:115])([USG:174],[AKH:125],[GRN:109],[BBD:62])([CHK:175],[AVR:166],[ELD:235])
+LAYOUT SIDEBOARD:(1,5)(COLOR,false,65)|([ICE:118],[ISD:97],[MH1:100])([EMA:177],[HOP:77])([THB:14],[AKH:14],[PLC:25])([GRN:213])([WWK:141],[OGW:175],[C16:18],[5DN:143],[MBS:122],[CMD:243],[V14:10])

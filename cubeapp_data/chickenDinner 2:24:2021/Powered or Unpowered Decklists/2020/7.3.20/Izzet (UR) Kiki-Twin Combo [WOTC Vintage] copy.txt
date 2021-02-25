@@ -1,0 +1,53 @@
+1 [SOI:92] Thing in the Ice
+1 [NPH:33] Deceiver Exarch
+1 [WWK:31] Jace, the Mind Sculptor
+1 [M12:63] Mana Leak
+1 [M11:70] Preordain
+1 [HOU:83] Abrade
+1 [APC:128] Fire // Ice
+1 [MMQ:61] Brainstorm
+1 [GPT:32] Repeal
+1 [M11:58] Jace Beleren
+1 [ROE:145] Flame Slash
+1 [A25:136] Imperial Recruiter
+1 [ALL:28] Force of Will
+1 [ZEN:119] Burst Lightning
+1 [ROE:165] Splinter Twin
+1 [MH1:52] Force of Negation
+1 [XLN:74] Search for Azcanta
+1 [CHK:175] Kiki-Jiki, Mirror Breaker
+1 [KLD:110] Chandra, Torch of Defiance
+1 [M14:163] Young Pyromancer
+1 [DKA:87] Faithless Looting
+1 [M12:73] Ponder
+1 [LRW:78] Pestermite
+1 [MRD:152] Chrome Mox
+1 [ARN:76] Library of Alexandria
+1 [OGW:182] Wandering Fumarole
+1 [ZEN:223] Scalding Tarn
+1 [KLD:249] Spirebluff Canal
+1 [SOI:288] Island
+4 [SOI:287] Island
+2 [SOI:286] Island
+3 [SOI:294] Mountain
+1 [SOI:293] Mountain
+1 [SOI:292] Mountain
+SB: 1 [ELD:171] Questing Beast
+SB: 1 [THB:13] Elspeth Conquers Death
+SB: 1 [RTR:188] Rakdos's Return
+SB: 1 [AVR:129] Bonfire of the Damned
+SB: 1 [3ED:286] Scrubland
+SB: 1 [RAV:270] Selesnya Signet
+SB: 1 [USG:330] Tolarian Academy
+SB: 1 [CHK:163] Desperate Ritual
+SB: 1 [DIS:159] Azorius Signet
+SB: 1 [PLC:85] Damnation
+SB: 1 [SCG:29] Brain Freeze
+SB: 1 [THB:242] Field of Ruin
+SB: 1 [SOM:228] Razorverge Thicket
+SB: 1 [ALA:218] Relic of Progenitus
+SB: 1 [MH1:145] Seasoned Pyromancer
+SB: 1 [AER:28] Baral, Chief of Compliance
+SB: 1 [CHK:62] Gifts Ungiven
+LAYOUT MAIN:(1,6)(CMC,false,69)|([MRD:152],[ARN:76],[OGW:182],[ZEN:223],[KLD:249],[SOI:288],[SOI:287],[SOI:286],[SOI:287],[SOI:287],[SOI:287],[SOI:286],[SOI:294],[SOI:294],[SOI:294],[SOI:293],[SOI:292])([M11:70],[MMQ:61],[GPT:32],[ROE:145],[ZEN:119],[DKA:87],[M12:73])([SOI:92],[M12:63],[HOU:83],[XLN:74],[M14:163],[APC:128])([NPH:33],[M11:58],[A25:136],[MH1:52],[LRW:78])([WWK:31],[ROE:165],[KLD:110])([ALL:28],[CHK:175])
+LAYOUT SIDEBOARD:(1,6)(CMC,false,58)|([3ED:286],[USG:330],[THB:242],[SOM:228])([AVR:129],[ALA:218])([RTR:188],[RAV:270],[CHK:163],[DIS:159],[SCG:29],[AER:28])([MH1:145])([ELD:171],[PLC:85],[CHK:62])([THB:13])

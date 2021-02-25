@@ -1,0 +1,55 @@
+NAME:aggro
+1 [DOM:14] Dauntless Bodyguard
+1 [MH1:13] Giver of Runes
+1 [CHK:19] Isamaru, Hound of Konda
+1 [ULG:14] Mother of Runes
+1 [MMA:25] Path to Exile
+1 [ELD:35] Venerable Knight
+1 [XLN:1] Adanto Vanguard
+1 [RAV:81] Dark Confidant
+1 [UMA:93] Demonic Tutor
+1 [MBS:43] Go for the Throat
+1 [ZEN:14] Journey to Nowhere
+1 [M19:33] Remorseful Cleric
+1 [EMN:40] Selfless Spirit
+1 [KLD:235] Smuggler's Copter
+1 [BOK:163] Umezawa's Jitte
+1 [VMA:20] Council's Judgment
+1 [NEM:139] Tangle Wire
+1 [DKA:12] Lingering Souls
+1 [M20:22] Hanged Executioner
+1 [NPH:4] Blade Splicer
+1 [CN2:18] Palace Jailer
+1 [NEM:17] Parallax Wave
+1 [VIS:72] Vampiric Tutor
+1 [KLD:231] Scrapheap Scrounger
+1 [KTK:230] Bloodstained Mire
+1 [GTC:242] Godless Shrine
+1 [4ED:363] Strip Mine
+1 [TMP:330] Wasteland
+1 [DOM:251] Plains
+2 [DOM:252] Plains
+3 [DOM:253] Plains
+2 [DOM:250] Plains
+2 [DOM:259] Swamp
+2 [DOM:260] Swamp
+SB: 1 [CMA:99] Curse of Predation
+SB: 1 [GTC:247] Stomping Ground
+SB: 1 [MH1:116] Yawgmoth, Thran Physician
+SB: 1 [ROE:190] Joraga Treespeaker
+SB: 1 [VIS:64] Necromancy
+SB: 1 [RTR:201] Supreme Verdict
+SB: 1 [EXO:115] Oath of Druids
+SB: 1 [4ED:6] Balance
+SB: 1 [STH:143] Volrath's Stronghold
+SB: 1 [2ED:281] Savannah
+SB: 1 [EXO:53] Carnophage
+SB: 1 [IMA:157] Channel
+SB: 1 [10E:360] Terramorphic Expanse
+SB: 1 [ELD:8] Charming Prince
+SB: 1 [KLD:4] Angel of Invention
+SB: 1 [ICE:289] Fire Covenant
+SB: 1 [EMA:106] Sinkhole
+SB: 1 [DOM:258] Swamp
+LAYOUT MAIN:(1,5)(CMC,false,52)|([KTK:230],[GTC:242],[4ED:363],[TMP:330],[DOM:251],[DOM:252],[DOM:253],[DOM:253],[DOM:252],[DOM:250],[DOM:250],[DOM:253],[DOM:259],[DOM:259],[DOM:260],[DOM:260])([DOM:14],[MH1:13],[CHK:19],[ULG:14],[MMA:25],[VIS:72],[ELD:35])([XLN:1],[RAV:81],[UMA:93],[MBS:43],[ZEN:14],[M19:33],[KLD:231],[EMN:40],[KLD:235],[BOK:163])([NPH:4],[VMA:20],[M20:22],[DKA:12],[NEM:139])([CN2:18],[NEM:17])
+LAYOUT SIDEBOARD:(1,5)(COLOR,false,63)|([2ED:281],[GTC:247],[10E:360],[STH:143],[DOM:258])([EXO:53],[VIS:64],[EMA:106],[MH1:116])([IMA:157],[CMA:99],[ROE:190],[EXO:115])([KLD:4],[4ED:6],[ELD:8])([ICE:289],[RTR:201])

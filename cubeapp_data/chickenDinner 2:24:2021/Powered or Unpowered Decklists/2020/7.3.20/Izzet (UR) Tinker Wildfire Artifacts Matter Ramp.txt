@@ -1,0 +1,49 @@
+1 [CON:30] Inkwell Leviathan
+1 [FUT:161] Coalition Relic
+1 [KTK:59] Treasure Cruise
+1 [MH1:231] Talisman of Creativity
+1 [FRF:1] Ugin, the Spirit Dragon
+1 [VIS:37] Man-o'-War
+1 [PTK:122] Rolling Earthquake
+1 [M19:79] Tezzeret, Artifice Master
+1 [SOM:180] Myr Battlesphere
+1 [USG:228] Wildfire
+1 [DOM:1] Karn, Scion of Urza
+1 [XLN:48] Chart a Course
+1 [USG:103] Time Spiral
+1 [WTH:153] Mind Stone
+1 [AER:181] Walking Ballista
+1 [5DN:36] Serum Visions
+1 [MH1:75] Urza, Lord High Artificer
+1 [ULG:45] Tinker
+1 [MRD:256] Talisman of Progress
+1 [UDS:139] Thran Dynamo
+1 [ORI:83] Whirler Rogue
+1 [IMA:48] Cryptic Command
+1 [ORI:157] Pia and Kiran Nalaar
+1 [MRD:152] Chrome Mox
+1 [2ED:287] Volcanic Island
+1 [ZEN:211] Arid Mesa
+1 [LRW:272] Shelldock Isle
+1 [TMP:315] Ancient Tomb
+7 [UNH:137] Island
+5 [UNH:139] Mountain
+SB: 1 [THB:14] Elspeth, Sun's Nemesis
+SB: 1 [UDS:117] Plow Under
+SB: 1 [ARB:75] Qasali Pridemage
+SB: 1 [M11:146] Inferno Titan
+SB: 1 [OGW:140] Oath of Nissa
+SB: 1 [ICE:289] Fire Covenant
+SB: 1 [GRN:213] Vraska, Golgari Queen
+SB: 1 [TOR:100] Grim Lavamancer
+SB: 1 [FUT:177] Horizon Canopy
+SB: 1 [OGW:175] Needle Spires
+SB: 1 [USG:330] Tolarian Academy
+SB: 1 [GTC:247] Stomping Ground
+SB: 1 [CN2:74] Daretti, Ingenious Iconoclast
+SB: 1 [BFZ:15] Ulamog, the Ceaseless Hunger
+SB: 1 [SCG:103] Siege-Gang Commander
+SB: 1 [DDQ:59] Gravecrawler
+SB: 1 [USG:96] Show and Tell
+LAYOUT MAIN:(1,9)(CMC,false,44)|([UNH:137],[UNH:137],[UNH:137],[UNH:137],[UNH:137],[UNH:137],[UNH:137],[UNH:139],[UNH:139],[UNH:139],[UNH:139],[UNH:139])([TMP:315],[ZEN:211],[2ED:287],[LRW:272],[MRD:152])([PTK:122],[5DN:36])([XLN:48],[WTH:153],[MH1:231],[MRD:256])([FUT:161],[VIS:37],[ULG:45])([IMA:48],[DOM:1],[ORI:157],[UDS:139],[MH1:75],[ORI:83])([M19:79])([USG:103],[USG:228])([SOM:180],[CON:30],[KTK:59],[FRF:1],[AER:181])
+LAYOUT SIDEBOARD:(1,7)(CMC,false,50)|([OGW:140],[TOR:100],[DDQ:59])([ARB:75])([ICE:289],[CN2:74],[USG:96])([THB:14],[GRN:213])([UDS:117],[SCG:103])([M11:146],[BFZ:15])([FUT:177],[OGW:175],[USG:330],[GTC:247])

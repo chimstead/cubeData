@@ -1,0 +1,48 @@
+1 [ARB:92] Maelstrom Pulse
+1 [MH1:116] Yawgmoth, Thran Physician
+1 [RNA:245] Blood Crypt
+1 [BOK:163] Umezawa's Jitte
+1 [M20:111] Rotting Regisaur
+1 [USG:318] Worn Powerstone
+1 [WAR:185] Angrath's Rampage
+1 [ELD:171] Questing Beast
+1 [3ED:283] Bayou
+1 [M12:217] Solemn Simulacrum
+1 [ROE:115] Inquisition of Kozilek
+1 [ARB:46] Terminate
+1 [DTK:216] Dragonlord Atarka
+1 [KLD:243] Blooming Marsh
+1 [RAV:161] Elves of Deep Shadow
+1 [ELD:191] Garruk, Cursed Huntsman
+1 [UDS:118] Rofellos, Llanowar Emissary
+1 [M19:314] Llanowar Elves
+1 [RNA:259] Stomping Ground
+1 [DKA:140] Huntmaster of the Fells
+1 [2ED:262] Mox Emerald
+1 [M19:208] Vivien Reid
+1 [M13:160] Arbor Elf
+1 [ELD:97] Murderous Rider
+1 [M12:98] Grave Titan
+1 [2ED:266] Mox Sapphire
+1 [GRN:213] Vraska, Golgari Queen
+1 [ISD:181] Garruk Relentless
+1 [M15:145] Goblin Rabblemaster
+5 [RNA:264] Forest
+2 [RNA:263] Mountain
+3 [RNA:262] Swamp
+1 [TOR:69] Mesmeric Fiend
+SB: 1 [MH1:217] Wrenn and Six
+SB: 1 [RIX:111] Rekindling Phoenix
+SB: 1 [KTK:118] Monastery Swiftspear
+SB: 1 [GRN:82] Plaguecrafter
+SB: 1 [M11:153] Pyretic Ritual
+SB: 1 [PLS:60] Flametongue Kavu
+SB: 1 [MBS:46] Massacre Wurm
+SB: 1 [AKH:149] Sweltering Suns
+SB: 1 [THS:172] Polukranos, World Eater
+SB: 1 [ALA:218] Relic of Progenitus
+SB: 1 [AVR:129] Bonfire of the Damned
+SB: 1 [NPH:103] Beast Within
+SB: 1 [BOK:71] Ink-Eyes, Servant of Oni
+SB: 1 [CHK:163] Desperate Ritual
+SB: 1 [ODY:193] Firebolt

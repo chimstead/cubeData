@@ -1,49 +1,57 @@
-1 [LEG:137] Chain Lightning
-1 [KLD:199] Bomat Courier
-1 [GPT:32] Repeal
-1 [ODY:193] Firebolt
-1 [M12:145] Grim Lavamancer
-1 [ZEN:126] Goblin Guide
-1 [KTK:118] Monastery Swiftspear
-1 [XLN:81] Spell Pierce
-1 [2ED:84] Time Walk
-1 [HOU:83] Abrade
-1 [SOI:92] Thing in the Ice
-1 [RIX:44] Negate
-1 [GPT:152] Izzet Signet
-1 [M14:163] Young Pyromancer
-1 [ULG:36] Miscalculation
-1 [MEDM:RA6] Dack Fayden
-1 [BBD:41] Spellseeker
-1 [ALL:28] Force of Will
-1 [LRW:76] Mulldrifter
-1 [CM2:98] Fiery Confluence
-1 [SCG:106] Sulfuric Vortex
-1 [KTK:59] Treasure Cruise
-1 [OGW:110] Goblin Dark-Dwellers
-1 [GRN:257] Steam Vents
-1 [KTK:233] Flooded Strand
-1 [OGW:182] Wandering Fumarole
-6 [UGL:85] Island
-8 [UGL:87] Mountain
-SB: 1 [AKH:149] Sweltering Suns
-SB: 1 [PCA:104] Shardless Agent
-SB: 1 [GRN:207] Thousand-Year Storm
-SB: 1 [ULG:80] Goblin Welder
-SB: 1 [TSB:55] Avalanche Riders
-SB: 1 [KLD:67] Torrential Gearhulk
-SB: 1 [M11:58] Jace Beleren
-SB: 1 [ORI:229] Hangarback Walker
-SB: 1 [FRF:145] Whisperwood Elemental
-SB: 1 [NEM:17] Parallax Wave
-SB: 1 [THS:187] Ashen Rider
-SB: 1 [WWK:127] Lodestone Golem
-SB: 1 [KLD:235] Smuggler's Copter
-SB: 1 [ZEN:168] Lotus Cobra
-SB: 1 [M12:151] Manic Vandal
-SB: 1 [M13:193] Thragtusk
-SB: 1 [AVR:38] Terminus
-SB: 1 [10E:163] Nekrataal
-SB: 1 [ROE:165] Splinter Twin
-LAYOUT MAIN:(1,7)(CMC,false,52)|([GRN:257],[KTK:233],[OGW:182],[UGL:85],[UGL:85],[UGL:85],[UGL:85],[UGL:85],[UGL:85],[UGL:87],[UGL:87],[UGL:87],[UGL:87],[UGL:87],[UGL:87],[UGL:87],[UGL:87])([LEG:137],[KLD:199],[GPT:32],[ODY:193],[M12:145],[ZEN:126],[KTK:118],[XLN:81])([2ED:84],[HOU:83],[SOI:92],[RIX:44],[GPT:152],[M14:163],[ULG:36])([MEDM:RA6],[BBD:41],[SCG:106])([CM2:98])([ALL:28],[LRW:76],[OGW:110])([KTK:59])
-LAYOUT SIDEBOARD:(1,8)(CMC,false,52)|([ORI:229])([ULG:80])([ZEN:168],[KLD:235])([AKH:149],[PCA:104],[M11:58],[M12:151])([TSB:55],[NEM:17],[WWK:127],[10E:163],[ROE:165])([FRF:145],[M13:193])([GRN:207],[KLD:67],[AVR:38])([THS:187])
+2021
+1.31.21
+1 [UMA:128] Faithless Looting
+1 [BBD:171] Chain Lightning
+1 [IMA:46] Condescend
+1 [LRW:79] Ponder
+1 [RTR:172] Izzet Charm
+1 [ORI:60] Jace, Vryn's Prodigy
+1 [TSP:66] Looter il-Kor
+1 [HOU:90] Earthshaker Khenra
+1 [AER:87] Kari Zev, Skyship Raider
+1 [DD2:52] Magma Jet
+1 [EMA:44] Daze
+1 [THB:305] Nadir Kraken
+1 [DD2:8] Man-o'-War
+1 [EMN:130a] Hanweir Garrison
+1 [WAR:137] Krenko, Tin Street Kingpin
+1 [IKO:319] Shark Typhoon
+1 [ELD:115] Bonecrusher Giant
+1 [ELD:281] Brazen Borrower
+1 [ORI:83] Whirler Rogue
+1 [ORI:157] Pia and Kiran Nalaar
+1 [THB:148] Phoenix of Ash
+1 [DTK:169] Zurgo Bellstriker
+1 [THS:122] Firedrinker Satyr
+1 [FUT:46] Venser, Shaper Savant
+1 [ELD:244] Fabled Passage
+1 [GPT:164] Steam Vents
+1 [KTK:230] Bloodstained Mire
+1 [ZEN:237] Island
+3 [ZEN:236] Island
+2 [ZEN:235] Island
+1 [ZEN:234] Island
+3 [ZEN:244] Mountain
+1 [ZEN:242] Mountain
+1 [ZEN:243] Mountain
+1 [ZEN:245] Mountain
+SB: 1 [PSOM:223] Wurmcoil Engine
+SB: 1 [HOU:145] The Scarab God
+SB: 1 [RAV:284] Temple Garden
+SB: 1 [SOI:245] The Gitrog Monster
+SB: 1 [WAR:244] Blast Zone
+SB: 1 [EMA:177] Natural Order
+SB: 1 [MH1:161] Deep Forest Hermit
+SB: 1 [A25:242] Mishra's Factory
+SB: 1 [KTK:248] Windswept Heath
+SB: 1 [ZNR:281] Jace, Mirror Mage
+SB: 1 [C13:96] Toxic Deluge
+SB: 1 [DDC:46] Duress
+SB: 1 [7ED:92] Opposition
+SB: 1 [PWAR:234s] Saheeli, Sublime Artificer
+SB: 1 [UMA:155] Young Pyromancer
+SB: 1 [NPH:35] Gitaxian Probe
+SB: 1 [A25:62] Jace, the Mind Sculptor
+SB: 1 [EXP:14] Sacred Foundry
+LAYOUT MAIN:(2,7)(CMC,false,75)|([ELD:244],[GPT:164],[KTK:230])([ZEN:237],[ZEN:236],[ZEN:235],[ZEN:234],[ZEN:235],[ZEN:236],[ZEN:236])([ZEN:244],[ZEN:244],[ZEN:242],[ZEN:244],[ZEN:243],[ZEN:245])([DTK:169],[THS:122])([ORI:60],[TSP:66],[HOU:90],[AER:87])([THB:305],[DD2:8],[EMN:130a],[WAR:137],[THB:148])([ORI:83],[ORI:157],[FUT:46])()()()([LRW:79],[UMA:128],[BBD:171])([ELD:115],[ELD:281],[EMA:44],[DD2:52],[RTR:172],[IMA:46])([IKO:319])()
+LAYOUT SIDEBOARD:(1,7)(CMC,false,90)|([RAV:284],[WAR:244],[A25:242],[KTK:248],[EXP:14])([DDC:46],[NPH:35])([UMA:155])([ZNR:281],[C13:96],[PWAR:234s])([EMA:177],[7ED:92],[A25:62])([HOU:145],[SOI:245],[MH1:161])([PSOM:223])

@@ -1,0 +1,51 @@
+1 [STH:138] Mox Diamond
+1 [ICE:326] Jeweled Amulet
+1 [5DN:27] Condescend
+1 [PTK:122] Rolling Earthquake
+1 [USG:132] Duress
+1 [LEB:116] Mind Twist
+1 [MIR:80] Mystical Tutor
+1 [EXO:115] Oath of Druids
+1 [MH1:232] Talisman of Curiosity
+1 [ALL:22a] Arcane Denial
+1 [RTR:157] Dreadbore
+1 [ULG:126] Grim Monolith
+1 [USG:96] Show and Tell
+1 [WAR:61] Narset, Parter of Veils
+1 [INV:57] Fact or Fiction
+1 [ULG:130] Quicksilver Amulet
+1 [UDS:50] Treachery
+1 [ROE:4] Emrakul, the Aeons Torn
+1 [ROE:12] Ulamog, the Infinite Gyre
+1 [MBS:99] Blightsteel Colossus
+1 [AVR:106] Griselbrand
+1 [DTK:216] Dragonlord Atarka
+1 [ARB:110] Sphinx of the Steel Wind
+1 [ONS:319] Grand Coliseum
+1 [DIS:171] Blood Crypt
+1 [ONS:330] Wooded Foothills
+1 [GPT:164] Steam Vents
+1 [AKH:243] Fetid Pools
+1 [DIS:172] Breeding Pool
+1 [ONS:321] Polluted Delta
+3 [GUR:1] Forest
+4 [GUR:2] Island
+1 [GUR:3] Mountain
+2 [GUR:5] Swamp
+SB: 1 [MH1:145] Seasoned Pyromancer
+SB: 1 [ELD:335] Charming Prince
+SB: 1 [DGM:11] Aetherling
+SB: 1 [ZEN:119] Burst Lightning
+SB: 1 [VIS:167] Undiscovered Paradise
+SB: 1 [MIR:14] Enlightened Tutor
+SB: 1 [M20:185] Nightpack Ambusher
+SB: 1 [M11:97] Grave Titan
+SB: 1 [LRW:76] Mulldrifter
+SB: 1 [C18:44] Saheeli, the Gifted
+SB: 1 [OGW:104] Chandra, Flamecaller
+SB: 1 [ROE:115] Inquisition of Kozilek
+SB: 1 [RAV:117] Char
+SB: 1 [WAR:98] Liliana's Triumph
+SB: 1 [UDS:139] Thran Dynamo
+LAYOUT MAIN:(1,10)(CMC,false,65)|([GUR:1],[GUR:1],[GUR:1],[GUR:2],[GUR:2],[GUR:2],[GUR:2],[GUR:3],[GUR:5],[GUR:5])([DIS:171],[DIS:172],[AKH:243],[ONS:319],[ONS:321],[GPT:164],[ONS:330])([ICE:326],[STH:138],[5DN:27],[USG:132],[LEB:116],[MIR:80],[PTK:122])([ALL:22a],[RTR:157],[ULG:126],[EXO:115],[MH1:232])([WAR:61],[USG:96])([INV:57],[ULG:130])([UDS:50])([DTK:216])([AVR:106],[ARB:110])([ROE:12],[MBS:99],[ROE:4])
+LAYOUT SIDEBOARD:(1,7)(CMC,false,73)|([VIS:167])([ZEN:119],[MIR:14],[ROE:115])([ELD:335],[WAR:98])([MH1:145],[RAV:117])([M20:185],[C18:44],[UDS:139])([LRW:76])([DGM:11],[M11:97],[OGW:104])

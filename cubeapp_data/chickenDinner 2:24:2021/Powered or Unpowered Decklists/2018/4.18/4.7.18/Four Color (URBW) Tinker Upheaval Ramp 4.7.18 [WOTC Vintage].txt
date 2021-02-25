@@ -1,0 +1,35 @@
+1 Tolarian Academy
+1 Caves of Koilos
+1 City of Brass
+1 Grand Coliseum
+4 Island
+3 Mountain
+1 Plains
+1 Swamp
+1 Windswept Heath
+1 Breeding Pool
+1 Island
+1 Serum Visions
+1 Rolling Earthquake
+1 Sol Ring
+1 Faithless Looting
+1 Mana Crypt
+1 Remand
+1 Dimir Signet
+1 Into the Roil
+1 Everflowing Chalice
+1 Abrade
+1 Orzhov Signet
+1 Izzet Signet
+1 Compulsive Research
+1 Tinker
+1 Daretti, Ingenious Iconoclast
+1 Engineered Explosives
+1 Tezzeret, Agent of Bolas
+1 Fractured Identity
+1 Through the Breach
+1 Treachery
+1 Upheaval
+1 Blightsteel Colossus
+1 Sundering Titan
+1 Ulamog, the Ceaseless Hunger

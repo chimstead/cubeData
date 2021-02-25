@@ -1,3 +1,6 @@
+2017
+12.17
+12.3.17
 8 Swamp
 5 Plains
 1 Aether Hub
@@ -21,10 +24,9 @@
 1 Banishing Light
 1 Lingering Souls
 1 Ophiomancer
-1 Porcelain Legionnaire 
+1 Porcelain Legionnaire
 1 Sword of Fire and Ice
 1 Tangle Wire
 1 Braids, Cabal Minion
 1 Snuff Out
 1 Sorin, Lord of Innistrad
-

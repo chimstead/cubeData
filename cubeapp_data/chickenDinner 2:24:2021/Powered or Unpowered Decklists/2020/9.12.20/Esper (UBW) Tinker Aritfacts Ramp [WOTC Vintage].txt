@@ -1,0 +1,58 @@
+1 [2ED:48] Ancestral Recall
+1 [MH1:52] Force of Negation
+1 [JR:97] Ravages of War
+1 [RAV:255] Boros Signet
+1 [6ED:19] Enlightened Tutor
+1 [M12:55] Frost Titan
+1 [RAV:270] Selesnya Signet
+1 [CON:15] Path to Exile
+1 [5ED:408] Winter Orb
+1 [ULG:126] Grim Monolith
+1 [ISD:213] Geist of Saint Traft
+1 [DOM:207] Teferi, Hero of Dominaria
+1 [ARB:110] Sphinx of the Steel Wind
+1 [DOM:1] Karn, Scion of Urza
+1 [GPT:150] Gruul Signet
+1 [THS:188] Ashiok, Nightmare Weaver
+1 [M13:22] Oblivion Ring
+1 [M10:75] Time Warp
+1 [KLD:235] Smuggler's Copter
+1 [ULG:45] Tinker
+1 [NPH:42] Phyrexian Metamorph
+1 [FUT:161] Coalition Relic
+1 [SOM:208] Sword of Body and Mind
+1 [MRD:152] Chrome Mox
+1 [USG:330] Tolarian Academy
+1 [SOM:226] Darkslick Shores
+1 [2ED:264] Mox Pearl
+1 [4ED:361] Mishra's Factory
+1 [3ED:289] Tundra
+1 [RTR:200] Sphinx's Revelation
+3 [2ED:291] Island
+2 [2ED:293] Island
+1 [2ED:292] Island
+2 [2ED:288] Plains
+1 [2ED:289] Plains
+1 [2ED:296] Swamp
+SB: 1 [BFZ:239] Lumbering Falls
+SB: 1 [NPH:153] Shrine of Burning Rage
+SB: 1 [SCG:41] Mind's Desire
+SB: 1 [DKA:140] Huntmaster of the Fells
+SB: 1 [JUD:139] Mirari's Wake
+SB: 1 [KLD:249] Spirebluff Canal
+SB: 1 [ELD:110] Wishclaw Talisman
+SB: 1 [ROE:53] Wall of Omens
+SB: 1 [MOR:22] Reveillark
+SB: 1 [RIX:111] Rekindling Phoenix
+SB: 1 [M11:154] Pyroclasm
+SB: 1 [MRD:199] Lightning Greaves
+SB: 1 [TOR:69] Mesmeric Fiend
+SB: 1 [MH1:37] Winds of Abandon
+SB: 1 [2ED:291] Island
+SB: 3 [2ED:293] Island
+SB: 2 [2ED:292] Island
+SB: 3 [2ED:288] Plains
+SB: 1 [2ED:296] Swamp
+SB: 1 [KLD:13] Fairgrounds Warden
+LAYOUT MAIN:(1,8)(CMC,false,69)|([MRD:152],[USG:330],[SOM:226],[2ED:264],[4ED:361],[3ED:289],[2ED:291],[2ED:293],[2ED:292],[2ED:291],[2ED:291],[2ED:293],[2ED:288],[2ED:288],[2ED:289],[2ED:296])([2ED:48],[6ED:19],[CON:15])([RAV:255],[RAV:270],[5ED:408],[ULG:126],[GPT:150],[KLD:235])([MH1:52],[ISD:213],[THS:188],[M13:22],[ULG:45],[FUT:161],[SOM:208],[RTR:200])([JR:97],[DOM:1],[NPH:42])([DOM:207],[M10:75])([M12:55])([ARB:110])
+LAYOUT SIDEBOARD:(1,6)(CMC,false,58)|([BFZ:239],[KLD:249],[2ED:291],[2ED:293],[2ED:292],[2ED:292],[2ED:293],[2ED:293],[2ED:288],[2ED:288],[2ED:288],[2ED:296])([NPH:153],[ELD:110],[ROE:53],[M11:154],[MRD:199],[TOR:69],[MH1:37])([KLD:13])([DKA:140],[RIX:111])([JUD:139],[MOR:22])([SCG:41])

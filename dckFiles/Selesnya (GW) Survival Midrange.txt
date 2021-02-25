@@ -1,3 +1,6 @@
+2017
+12.17
+12.3.17
 8 Forest
 6 Plains
 1 Savannah
@@ -10,13 +13,13 @@
 1 Survival of the Fittest
 1 Sylvan Library
 2 Everflowing Chalice
-1 Council’s Judgment
+1 Council's Judgment
 1 Cultivate
 1 Eternal Witness
 1 Flickerwisp
 1 Gideon of the Trials
 1 Kitchen Finks
-1 Kodama’s Reach
+1 Kodama's Reach
 1 Oblivion Ring
 1 Sword of Light and Shadow
 1 Solemn Simulacrum
@@ -25,4 +28,3 @@
 1 Gideon of the Trials
 1 Sun Titan
 1 Elesh Norn, Grand Cenobite
-

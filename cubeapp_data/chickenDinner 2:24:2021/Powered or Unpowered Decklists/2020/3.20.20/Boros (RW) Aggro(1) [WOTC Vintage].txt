@@ -1,0 +1,53 @@
+1 [ZEN:219] Marsh Flats
+1 [KTK:249] Wooded Foothills
+1 [3ED:284] Plateau
+1 [4ED:363] Strip Mine
+1 [OGW:175] Needle Spires
+1 [M11:149] Lightning Bolt
+1 [PLC:25] Mana Tithe
+1 [TMP:183] Jackal Pup
+1 [KLD:199] Bomat Courier
+1 [ZEN:126] Goblin Guide
+1 [XLN:22] Legion's Landing
+1 [DTK:169] Zurgo Bellstriker
+1 [ORI:23] Kytheon, Hero of Akros
+1 [ODY:193] Firebolt
+1 [MH1:13] Giver of Runes
+1 [WWK:20] Stoneforge Mystic
+1 [XLN:1] Adanto Vanguard
+1 [5ED:408] Winter Orb
+1 [RAV:213] Lightning Helix
+1 [NPH:19] Porcelain Legionnaire
+1 [NPH:161] Sword of War and Peace
+1 [NEM:139] Tangle Wire
+1 [MBS:8] Hero of Bladehold
+1 [6ED:4] Armageddon
+1 [NPH:130] Batterskull
+1 [HOU:83] Abrade
+1 [ALA:9] Elspeth, Knight-Errant
+1 [RAV:117] Char
+1 [RAV:302] Mountain
+2 [RAV:299] Mountain
+2 [RAV:301] Mountain
+1 [RAV:300] Mountain
+4 [RAV:289] Plains
+2 [RAV:290] Plains
+SB: 1 [MEDM:RA6] Dack Fayden
+SB: 1 [DST:149] Sword of Light and Shadow
+SB: 1 [M13:112] Vampire Nighthawk
+SB: 1 [AKH:1] Angel of Sanctions
+SB: 1 [ARB:110] Sphinx of the Steel Wind
+SB: 1 [M12:23] Honor of the Pure
+SB: 1 [DTK:181] Den Protector
+SB: 1 [GRN:183] Knight of Autumn
+SB: 1 [JOU:94] Eidolon of the Great Revel
+SB: 1 [RIX:111] Rekindling Phoenix
+SB: 1 [AKH:149] Sweltering Suns
+SB: 1 [MBS:10] Leonin Relic-Warder
+SB: 1 [M11:7] Baneslayer Angel
+SB: 1 [M19:229] Crucible of Worlds
+SB: 1 [NPH:153] Shrine of Burning Rage
+SB: 1 [2ED:48] Ancestral Recall
+SB: 1 [ALA:154] Ajani Vengeant
+LAYOUT MAIN:(1,6)(CMC,false,50)|([ZEN:219],[KTK:249],[3ED:284],[4ED:363],[OGW:175],[RAV:302],[RAV:299],[RAV:301],[RAV:299],[RAV:300],[RAV:301],[RAV:289],[RAV:289],[RAV:290],[RAV:289],[RAV:290],[RAV:289])([M11:149],[PLC:25],[TMP:183],[KLD:199],[ZEN:126],[XLN:22],[DTK:169],[ORI:23],[ODY:193],[MH1:13])([WWK:20],[XLN:1],[5ED:408],[RAV:213],[NPH:19],[HOU:83])([NPH:161],[NEM:139],[RAV:117])([MBS:8],[6ED:4],[ALA:9])([NPH:130])
+LAYOUT SIDEBOARD:(1,6)(CMC,false,50)|([2ED:48])([M12:23],[DTK:181],[JOU:94],[MBS:10],[NPH:153])([MEDM:RA6],[DST:149],[M13:112],[GRN:183],[AKH:149],[M19:229])([RIX:111],[ALA:154])([AKH:1],[M11:7])([ARB:110])

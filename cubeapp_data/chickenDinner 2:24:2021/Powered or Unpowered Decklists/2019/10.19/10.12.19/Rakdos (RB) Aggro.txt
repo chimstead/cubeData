@@ -1,0 +1,49 @@
+1 [M14:163] Young Pyromancer
+1 [TMP:183] Jackal Pup
+1 [AVR:166] Zealous Conscripts
+1 [5DN:73] Magma Jet
+1 [ODY:193] Firebolt
+1 [AKH:136] Hazoret the Fervent
+1 [TOR:100] Grim Lavamancer
+1 [C15:26] Fiery Confluence
+1 [M13:147] Searing Spear
+1 [DTK:169] Zurgo Bellstriker
+1 [THS:122] Firedrinker Satyr
+1 [WAR:137] Krenko, Tin Street Kingpin
+1 [HOU:90] Earthshaker Khenra
+1 [ZEN:126] Goblin Guide
+1 [M15:145] Goblin Rabblemaster
+1 [DKA:93] Hellrider
+1 [M13:150] Thundermaw Hellkite
+1 [SOM:94] Koth of the Hammer
+1 [SCG:106] Sulfuric Vortex
+1 [RAV:117] Char
+1 [EVE:139] Figure of Destiny
+1 [RAV:81] Dark Confidant
+1 [DTK:224] Kolaghan's Command
+1 [RTR:157] Dreadbore
+1 [LEB:278] Badlands
+1 [DIS:171] Blood Crypt
+10 [UST:215] Mountain
+4 [UST:214] Swamp
+SB: 1 [WTH:153] Mind Stone
+SB: 1 [MRD:254] Talisman of Impulse
+SB: 1 [ZEN:83] Bloodghast
+SB: 1 [FUT:177] Horizon Canopy
+SB: 1 [CN2:18] Palace Jailer
+SB: 1 [FRF:18] Mardu Woe-Reaper
+SB: 1 [PLC:25] Mana Tithe
+SB: 1 [ROE:47] Student of Warfare
+SB: 1 [RNA:76] Gutterbones
+SB: 1 [PTK:78] Imperial Seal
+SB: 1 [ODY:117] Braids, Cabal Minion
+SB: 1 [NEM:139] Tangle Wire
+SB: 1 [RIX:82] Ravenous Chupacabra
+SB: 1 [CN2:41] Custodi Lich
+SB: 1 [OGW:104] Chandra, Flamecaller
+SB: 1 [PTK:113] Imperial Recruiter
+SB: 1 [RIX:99] Dire Fleet Daredevil
+SB: 1 [MMQ:324] Rishadan Port
+SB: 1 [EXO:53] Carnophage
+LAYOUT MAIN:(1,7)(CMC,false,73)|([UST:215],[UST:215],[UST:215],[UST:215],[UST:215],[UST:215],[UST:215],[UST:215],[UST:215],[UST:215],[UST:214],[UST:214],[UST:214],[UST:214])([LEB:278],[DIS:171])([TMP:183],[ODY:193],[TOR:100],[DTK:169],[THS:122],[ZEN:126],[EVE:139])([M14:163],[5DN:73],[M13:147],[HOU:90],[RAV:81],[RTR:157])([WAR:137],[M15:145],[SCG:106],[RAV:117],[DTK:224])([AKH:136],[C15:26],[DKA:93],[SOM:94])([AVR:166],[M13:150])
+LAYOUT SIDEBOARD:(1,7)(CMC,false,90)|([FUT:177],[MMQ:324])([FRF:18],[PLC:25],[ROE:47],[RNA:76],[PTK:78],[EXO:53])([WTH:153],[MRD:254],[ZEN:83],[RIX:99])([NEM:139],[PTK:113])([CN2:18],[ODY:117],[RIX:82])([CN2:41])([OGW:104])

@@ -1,0 +1,55 @@
+1 [THS:122] Firedrinker Satyr
+1 [ISD:164] Stromkirk Noble
+1 [DKA:87] Faithless Looting
+1 [EVE:139] Figure of Destiny
+1 [M12:63] Mana Leak
+1 [RTR:172] Izzet Charm
+1 [RIX:60] Warkite Marauder
+1 [OGW:44] Dimensional Infiltrator
+1 [TSP:66] Looter il-Kor
+1 [THS:128] Magma Jet
+1 [ULG:36] Miscalculation
+1 [RAV:63] Remand
+1 [EMN:130a] Hanweir Garrison
+1 [MH1:58] Mist-Syndicate Naga
+1 [NPH:33] Deceiver Exarch
+1 [LRW:78] Pestermite
+1 [LRW:88] Sower of Temptation
+1 [ROE:165] Splinter Twin
+1 [WWK:31] Jace, the Mind Sculptor
+1 [M13:150] Thundermaw Hellkite
+1 [AVR:166] Zealous Conscripts
+1 [KTK:59] Treasure Cruise
+1 [GRN:103] Goblin Cratermaker
+1 [GPT:152] Izzet Signet
+1 [KTK:233] Flooded Strand
+1 [OGW:182] Wandering Fumarole
+1 [4ED:363] Strip Mine
+1 [GRN:257] Steam Vents
+3 [ZEN:235] Island
+1 [ZEN:236] Island
+1 [ZEN:234] Island
+1 [ZEN:237] Island
+2 [ZEN:245] Mountain
+1 [ZEN:242] Mountain
+2 [ZEN:243] Mountain
+1 [ZEN:244] Mountain
+SB: 1 [WWK:123] Everflowing Chalice
+SB: 1 [BBD:33] Arcane Artisan
+SB: 1 [7ED:92] Opposition
+SB: 1 [WAR:53] God-Eternal Kefnet
+SB: 1 [MH1:247] Sunbaked Canyon
+SB: 1 [5DN:128] Guardian Idol
+SB: 1 [RIX:99] Dire Fleet Daredevil
+SB: 1 [MH1:100] Plague Engineer
+SB: 1 [C18:44] Saheeli, the Gifted
+SB: 1 [CN2:18] Palace Jailer
+SB: 1 [WAR:98] Liliana's Triumph
+SB: 1 [SOM:81] Arc Trail
+SB: 1 [WWK:134] Creeping Tar Pit
+SB: 1 [SHM:229] Kitchen Finks
+SB: 1 [BFZ:239] Lumbering Falls
+SB: 1 [WAR:234] Saheeli, Sublime Artificer
+SB: 1 [LRW:56] Cryptic Command
+LAYOUT MAIN:(1,8)(CMC,false,73)|([ZEN:235],[ZEN:235],[ZEN:236],[ZEN:234],[ZEN:235],[ZEN:237],[ZEN:245],[ZEN:242],[ZEN:243],[ZEN:244],[ZEN:245],[ZEN:243])([KTK:233],[GRN:257],[4ED:363],[OGW:182])([DKA:87],[EVE:139],[THS:122],[ISD:164])([OGW:44],[GRN:103],[RTR:172],[GPT:152],[TSP:66],[THS:128],[M12:63],[ULG:36],[RAV:63],[RIX:60])([NPH:33],[EMN:130a],[MH1:58],[LRW:78])([WWK:31],[LRW:88],[ROE:165])([M13:150],[AVR:166])([KTK:59])
+LAYOUT SIDEBOARD:(1,4)(CMC,false,90)|([WWK:123],[MH1:247],[WWK:134],[BFZ:239])([5DN:128],[RIX:99],[WAR:98],[SOM:81])([BBD:33],[MH1:100],[SHM:229],[WAR:234])([7ED:92],[WAR:53],[C18:44],[CN2:18],[LRW:56])

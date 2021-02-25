@@ -1,0 +1,49 @@
+1 [ISD:170] Avacyn's Pilgrim
+1 [M13:160] Arbor Elf
+1 [ICE:244] Fyndhorn Elves
+1 [MH1:13] Giver of Runes
+1 [CON:15] Path to Exile
+1 [WWK:20] Stoneforge Mystic
+1 [EXO:129] Survival of the Fittest
+1 [5ED:329] Sylvan Library
+1 [SHM:211] Manamorphose
+1 [M11:172] Fauna Shaman
+1 [5DN:86] Eternal Witness
+1 [DST:148] Sword of Fire and Ice
+1 [THB:4] Banishing Light
+1 [M19:196] Reclamation Sage
+1 [SHM:110] Devoted Druid
+1 [M11:175] Garruk Wildspeaker
+1 [ISD:181] Garruk Relentless
+1 [AVR:32] Restoration Angel
+1 [NEM:17] Parallax Wave
+1 [ELD:171] Questing Beast
+1 [BFZ:29] Gideon, Ally of Zendikar
+1 [M12:16] Gideon Jura
+1 [IKO:175] Vivien, Monsters' Advocate
+1 [2ED:266] Mox Sapphire
+1 [LEG:303] Karakas
+1 [KTK:248] Windswept Heath
+1 [ARN:76] Library of Alexandria
+1 [SOM:228] Razorverge Thicket
+7 [PGRU:5] Forest
+5 [PGRU:1] Plains
+SB: 1 [KLD:243] Blooming Marsh
+SB: 1 [ATQ:81] Mishra's Workshop
+SB: 1 [IKO:232] Yorion, Sky Nomad
+SB: 1 [NPH:153] Shrine of Burning Rage
+SB: 1 [SOM:225] Copperline Gorge
+SB: 1 [SS3:3] Fiery Confluence
+SB: 1 [RAV:161] Elves of Deep Shadow
+SB: 1 [ZEN:13] Iona, Shield of Emeria
+SB: 1 [10E:163*] Nekrataal
+SB: 1 [RIX:77] Mastermind's Acquisition
+SB: 1 [M12:98] Grave Titan
+SB: 1 [M12:39] Sun Titan
+SB: 1 [SHM:23] Spectral Procession
+SB: 1 [DOM:26] Lyra Dawnbringer
+SB: 1 [C14:8] Hallowed Spiritkeeper
+SB: 1 [ROE:53] Wall of Omens
+SB: 1 [THB:13] Elspeth Conquers Death
+LAYOUT MAIN:(1,7)(CMC,false,87)|([PGRU:5],[PGRU:5],[PGRU:5],[PGRU:5],[PGRU:5],[PGRU:5],[PGRU:5],[PGRU:1],[PGRU:1],[PGRU:1],[PGRU:1],[PGRU:1])([LEG:303],[ARN:76],[SOM:228],[KTK:248])([2ED:266],[M13:160],[ISD:170],[ICE:244],[MH1:13],[CON:15])([SHM:110],[M11:172],[SHM:211],[WWK:20],[EXO:129],[5ED:329])([THB:4],[5DN:86],[M19:196],[DST:148])([ISD:181],[M11:175],[BFZ:29],[NEM:17],[ELD:171],[AVR:32])([M12:16],[IKO:175])
+LAYOUT SIDEBOARD:(1,8)(CMC,false,75)|([KLD:243],[ATQ:81],[SOM:225])([RAV:161])([NPH:153],[ROE:53])([C14:8])([SS3:3],[10E:163*],[RIX:77])([IKO:232],[DOM:26],[THB:13])([M12:98],[M12:39],[SHM:23])([ZEN:13])

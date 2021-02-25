@@ -1,0 +1,50 @@
+1 [2ED:85] Timetwister
+1 [TSP:152] Empty the Warrens
+1 [ORI:60] Jace, Vryn's Prodigy
+1 [VIS:34] Impulse
+1 [SOM:94] Koth of the Hammer
+1 [AER:28] Baral, Chief of Compliance
+1 [KLD:110] Chandra, Torch of Defiance
+1 [ORI:127] Abbot of Keral Keep
+1 [SHM:211] Manamorphose
+1 [DKA:87] Faithless Looting
+1 [5ED:249] Mana Flare
+1 [M12:73] Ponder
+1 [SOM:48] Trinket Mage
+1 [MMQ:82] Gush
+1 [NPH:57] Dismember
+1 [ODY:193] Firebolt
+1 [3ED:185] Wheel of Fortune
+1 [GPT:32] Repeal
+1 [INV:57] Fact or Fiction
+1 [AKH:149] Sweltering Suns
+1 [M14:163] Young Pyromancer
+1 [MEDM:RA6] Dack Fayden
+1 [TMP:315] Ancient Tomb
+1 [ZEN:220] Misty Rainforest
+1 [GRN:259] Watery Grave
+1 [KTK:239] Polluted Delta
+1 [RNA:259] Stomping Ground
+1 [MIR:307] Lion's Eye Diamond
+1 [OGW:182] Wandering Fumarole
+1 [2ED:262] Mox Emerald
+1 [2ED:265] Mox Ruby
+1 [TMP:294] Lotus Petal
+2 [UST:213] Island
+5 [UST:215] Mountain
+1 [RAV:117] Char
+SB: 1 [ROE:190] Joraga Treespeaker
+SB: 1 [USG:309] Smokestack
+SB: 1 [TMP:183] Jackal Pup
+SB: 1 [ARB:50] Bloodbraid Elf
+SB: 1 [JUD:139] Mirari's Wake
+SB: 1 [ISD:181] Garruk Relentless
+SB: 1 [SCG:41] Mind's Desire
+SB: 1 [KLD:124] Pia Nalaar
+SB: 1 [SCG:106] Sulfuric Vortex
+SB: 1 [M11:58] Jace Beleren
+SB: 1 [OGW:171] Hissing Quagmire
+SB: 1 [UST:215] Mountain
+SB: 1 [M11:153] Pyretic Ritual
+LAYOUT MAIN:(2,7)(CMC,true,75)|()()()()([ORI:60],[AER:28],[ORI:127],[M14:163])([SOM:48])()([TMP:315],[ZEN:220],[GRN:259],[KTK:239],[RNA:259],[MIR:307],[OGW:182],[2ED:262],[2ED:265],[TMP:294],[UST:213],[UST:213],[UST:215],[UST:215],[UST:215],[UST:215],[UST:215])([MEDM:RA6])([MMQ:82],[GPT:32])([DKA:87],[M12:73],[ODY:193],[NPH:57])([VIS:34],[SHM:211],[RAV:117])([2ED:85],[5ED:249],[3ED:185],[AKH:149])([TSP:152],[SOM:94],[KLD:110],[INV:57])
+LAYOUT SIDEBOARD:(1,6)(CMC,false,31)|([OGW:171],[UST:215])([ROE:190],[TMP:183])([KLD:124],[SCG:106],[M11:58],[M11:153])([USG:309],[ARB:50],[ISD:181])([JUD:139])([SCG:41])

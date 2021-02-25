@@ -1,0 +1,50 @@
+1 [3ED:274] Sol Ring
+1 [DST:148] Sword of Fire and Ice
+1 [2ED:48] Ancestral Recall
+1 [WAR:13] Gideon Blackblade
+1 [ULG:14] Mother of Runes
+1 [RNA:27] Tithe Taker
+1 [NPH:4] Blade Splicer
+1 [SOM:208] Sword of Body and Mind
+1 [M12:23] Honor of the Pure
+1 [4ED:34] Land Tax
+1 [SOM:229] Seachrome Coast
+1 [MOR:22] Reveillark
+1 [AVR:36] Silverblade Paladin
+1 [M13:22] Oblivion Ring
+1 [SOM:228] Razorverge Thicket
+1 [M12:39] Sun Titan
+1 [M20:14] Disenchant
+1 [STH:138] Mox Diamond
+1 [WWK:133] Celestial Colonnade
+1 [ALA:9] Elspeth, Knight-Errant
+1 [BFZ:29] Gideon, Ally of Zendikar
+1 [DOM:21] History of Benalia
+1 [3ED:285] Savannah
+1 [WWK:20] Stoneforge Mystic
+1 [BNG:5] Brimaz, King of Oreskos
+1 [MBS:8] Hero of Bladehold
+1 [DIS:159] Azorius Signet
+1 [SHM:23] Spectral Procession
+1 [GRN:208] Trostani Discordant
+5 [3ED:293] Plains
+5 [3ED:294] Plains
+1 [3ED:292] Plains
+SB: 1 [M11:153] Pyretic Ritual
+SB: 1 [VIS:114] Natural Order
+SB: 1 [MIR:307] Lion's Eye Diamond
+SB: 1 [4ED:361] Mishra's Factory
+SB: 1 [TSP:66] Looter il-Kor
+SB: 1 [SOM:48] Trinket Mage
+SB: 1 [ROE:33] Linvala, Keeper of Silence
+SB: 1 [RAV:16] Faith's Fetters
+SB: 1 [DST:149] Sword of Light and Shadow
+SB: 1 [KLD:13] Fairgrounds Warden
+SB: 1 [ZEN:11] Emeria Angel
+SB: 1 [FRF:20] Monastery Mentor
+SB: 1 [SHM:229] Kitchen Finks
+SB: 1 [DST:140] Skullclamp
+SB: 1 [GRN:183] Knight of Autumn
+SB: 1 [M11:11] Condemn
+LAYOUT MAIN:(1,7)(CMC,false,50)|([SOM:229],[SOM:228],[STH:138],[WWK:133],[3ED:285],[3ED:293],[3ED:294],[3ED:294],[3ED:294],[3ED:294],[3ED:293],[3ED:293],[3ED:293],[3ED:294],[3ED:292],[3ED:293])([3ED:274],[2ED:48],[ULG:14],[4ED:34])([RNA:27],[M12:23],[M20:14],[WWK:20],[DIS:159])([DST:148],[WAR:13],[NPH:4],[SOM:208],[AVR:36],[M13:22],[DOM:21],[BNG:5])([ALA:9],[BFZ:29],[MBS:8])([MOR:22],[GRN:208])([M12:39],[SHM:23])
+LAYOUT SIDEBOARD:(1,5)(CMC,false,50)|([MIR:307],[4ED:361])([DST:140],[M11:11])([M11:153],[TSP:66])([SOM:48],[DST:149],[KLD:13],[FRF:20],[SHM:229],[GRN:183])([VIS:114],[ROE:33],[RAV:16],[ZEN:11])

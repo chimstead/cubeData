@@ -1,3 +1,6 @@
+2018
+4.18
+4.4.18
 1 Ancient Tomb
 1 Tendo Ice Bridge
 1 Evolving Wilds
@@ -21,7 +24,7 @@
 1 Umezawa's Jitte
 1 Abrade
 1 True-Name Nemesis
-1 Deck Fayden
+1 Dack Fayden
 1 Reflector Mage
 1 Geist of Saint Traft
 1 Control Magic

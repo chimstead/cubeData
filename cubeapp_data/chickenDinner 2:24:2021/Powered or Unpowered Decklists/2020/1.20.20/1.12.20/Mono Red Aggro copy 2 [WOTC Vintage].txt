@@ -1,0 +1,51 @@
+1 [KLD:124] Pia Nalaar
+1 [OGW:110] Goblin Dark-Dwellers
+1 [KLD:199] Bomat Courier
+1 [RAV:117] Char
+1 [ZEN:119] Burst Lightning
+1 [SOM:94] Koth of the Hammer
+1 [ORI:157] Pia and Kiran Nalaar
+1 [SCG:106] Sulfuric Vortex
+1 [M12:146] Incinerate
+1 [AKH:136] Hazoret the Fervent
+1 [RIX:111] Rekindling Phoenix
+1 [M12:151] Manic Vandal
+1 [HOU:83] Abrade
+1 [JOU:94] Eidolon of the Great Revel
+1 [M11:149] Lightning Bolt
+1 [GRN:115] Runaway Steam-Kin
+1 [NPH:153] Shrine of Burning Rage
+1 [ZEN:126] Goblin Guide
+1 [RIX:99] Dire Fleet Daredevil
+1 [ODY:193] Firebolt
+1 [VIS:79] Fireblast
+1 [DST:140] Skullclamp
+1 [2ED:266] Mox Sapphire
+1 [TMP:315] Ancient Tomb
+1 [ARN:76] Library of Alexandria
+7 [KLD:261] Mountain
+1 [KLD:260] Mountain
+5 [KLD:259] Mountain
+1 [AKH:149] Sweltering Suns
+1 [NPH:19] Porcelain Legionnaire
+SB: 1 [M14:195] Scavenging Ooze
+SB: 1 [MBS:10] Leonin Relic-Warder
+SB: 1 [GRN:258] Temple Garden
+SB: 1 [ROE:53] Wall of Omens
+SB: 1 [LRW:233] Primal Command
+SB: 1 [LEG:303] Karakas
+SB: 1 [THS:223] Nykthos, Shrine to Nyx
+SB: 1 [LRW:272] Shelldock Isle
+SB: 1 [GPT:32] Repeal
+SB: 1 [ROE:115] Inquisition of Kozilek
+SB: 1 [EVE:139] Figure of Destiny
+SB: 1 [UDS:50] Treachery
+SB: 1 [TSP:73] Riftwing Cloudskate
+SB: 1 [NEM:139] Tangle Wire
+SB: 1 [ISD:127] Ancient Grudge
+SB: 1 [KLD:264] Forest
+SB: 1 [SOM:225] Copperline Gorge
+SB: 1 [KTK:249] Wooded Foothills
+SB: 1 [M14:163] Young Pyromancer
+LAYOUT MAIN:(1,7)(CMC,false,50)|([2ED:266],[TMP:315],[ARN:76],[KLD:261],[KLD:261],[KLD:261],[KLD:261],[KLD:260],[KLD:261],[KLD:259],[KLD:261],[KLD:259],[KLD:259],[KLD:259],[KLD:259],[KLD:261])([KLD:199],[ZEN:119],[M11:149],[ZEN:126],[ODY:193],[DST:140])([M12:146],[HOU:83],[JOU:94],[GRN:115],[NPH:153],[RIX:99])([KLD:124],[RAV:117],[SCG:106],[M12:151],[AKH:149],[NPH:19])([SOM:94],[ORI:157],[AKH:136],[RIX:111])([OGW:110])([VIS:79])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([M14:195],[MBS:10],[GRN:258],[ROE:53],[LRW:233],[LEG:303],[THS:223],[LRW:272],[GPT:32],[ROE:115],[EVE:139],[UDS:50],[TSP:73],[NEM:139],[ISD:127],[KLD:264],[SOM:225],[KTK:249],[M14:163])

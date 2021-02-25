@@ -1,0 +1,52 @@
+1 [ZEN:211] Arid Mesa
+1 [FUT:177] Horizon Canopy
+1 [ZEN:229] Verdant Catacombs
+1 [MBS:81] Green Sun's Zenith
+1 [WAR:171] Paradise Druid
+1 [5ED:329] Sylvan Library
+1 [M15:173] Elvish Mystic
+1 [RNA:122] Biogenic Ooze
+1 [ICE:244] Fyndhorn Elves
+1 [JR:97] Ravages of War
+1 [IKO:175] Vivien, Monsters' Advocate
+1 [XLN:179] Carnage Tyrant
+1 [M20:200] Voracious Hydra
+1 [MH1:168] Hexdrinker
+1 [GN2:5] Earthshaker Giant
+1 [MH1:217] Wrenn and Six
+1 [ELD:171] Questing Beast
+1 [ZEN:220] Misty Rainforest
+1 [M20:185] Nightpack Ambusher
+1 [M19:314] Llanowar Elves
+1 [RNA:259] Stomping Ground
+1 [10E:354] Karplusan Forest
+1 [GRN:258] Temple Garden
+1 [NPH:103] Beast Within
+1 [ROE:190] Joraga Treespeaker
+1 [CON:87] Noble Hierarch
+1 [WAR:169] Nissa, Who Shakes the World
+1 [ARB:50] Bloodbraid Elf
+1 [M20:199] Vivien, Arkbow Ranger
+1 [THS:180] Sylvan Caryatid
+1 [KTK:249] Wooded Foothills
+1 [EXO:129] Survival of the Fittest
+3 [LEB:302] Forest
+2 [LEB:301] Forest
+1 [LEB:300] Forest
+1 [LEB:299] Mountain
+1 [LEB:290] Plains
+SB: 1 [DIS:99] Utopia Sprawl
+SB: 1 [TSB:74] Call of the Herd
+SB: 1 [10E:163] Nekrataal
+SB: 1 [WAR:155] Bond of Flourishing
+SB: 1 [MBS:92] Thrun, the Last Troll
+SB: 1 [M20:197] Thrashing Brontodon
+SB: 1 [M13:193] Thragtusk
+SB: 1 [M13:22] Oblivion Ring
+SB: 1 [GRN:183] Knight of Autumn
+SB: 1 [NPH:4] Blade Splicer
+SB: 1 [PLS:60] Flametongue Kavu
+SB: 1 [THB:158] Tectonic Giant
+SB: 1 [ELD:165] Lovestruck Beast
+LAYOUT MAIN:(1,7)(CMC,false,76)|([ZEN:211],[FUT:177],[ZEN:229],[ZEN:220],[RNA:259],[10E:354],[GRN:258],[KTK:249],[LEB:302],[LEB:301],[LEB:301],[LEB:302],[LEB:302],[LEB:300],[LEB:299],[LEB:290])([M15:173],[ICE:244],[MH1:168],[M19:314],[ROE:190],[CON:87])([WAR:171],[5ED:329],[MH1:217],[THS:180],[EXO:129],[MBS:81])([NPH:103],[M20:200])([JR:97],[ELD:171],[M20:185],[ARB:50],[M20:199])([RNA:122],[IKO:175],[WAR:169])([XLN:179],[GN2:5])
+LAYOUT SIDEBOARD:(1,7)(COLOR,false,61)|([10E:163])([DIS:99],[TSB:74],[WAR:155])([PLS:60],[THB:158])([M13:22],[NPH:4])([M20:197],[ELD:165],[GRN:183])([MBS:92])([M13:193])

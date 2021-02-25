@@ -1,3 +1,6 @@
+2018
+6.18
+6.20.18
 1 Forest
 3 Island
 4 Mountain
@@ -33,4 +36,3 @@
 1 Sarkhan, the Dragonspeaker
 1 Zealous Conscripts
 1 Greater Gargadon
-

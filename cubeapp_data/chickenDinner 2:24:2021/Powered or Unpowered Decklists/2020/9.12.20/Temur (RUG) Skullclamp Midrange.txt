@@ -1,0 +1,50 @@
+1 [FUT:177] Horizon Canopy
+1 [ONS:330] Wooded Foothills
+1 [MH1:161] Deep Forest Hermit
+1 [AKH:134] Glorybringer
+1 [OGW:140] Oath of Nissa
+1 [M21:193] Llanowar Visionary
+1 [ISD:181] Garruk Relentless
+1 [MIR:184] Incinerate
+1 [WAR:137] Krenko, Tin Street Kingpin
+1 [DST:140] Skullclamp
+1 [JOU:163] Mana Confluence
+1 [HOU:129] Ramunap Excavator
+1 [MBS:122] Phyrexian Revoker
+1 [WAR:169] Nissa, Who Shakes the World
+1 [RAV:172] Life from the Loam
+1 [ATQ:82a] Strip Mine
+1 [ELD:197] Oko, Thief of Crowns
+1 [BNG:119] Courser of Kruphix
+1 [THB:220] Klothys, God of Destiny
+1 [MIR:253] Wall of Roots
+1 [GPT:165] Stomping Ground
+1 [M14:169] Elvish Mystic
+1 [6ED:217] Birds of Paradise
+1 [EMN:130a] Hanweir Garrison
+1 [M13:132] Flames of the Firebrand
+1 [ZEN:229] Verdant Catacombs
+1 [LEA:161] Lightning Bolt
+1 [RIX:99] Dire Fleet Daredevil
+6 [UST:216] Forest
+1 [UST:213] Island
+4 [UST:215] Mountain
+1 [MRD:255] Talisman of Indulgence
+SB: 1 [LEA:92] Animate Dead
+SB: 1 [EMN:6] Emrakul, the Promised End
+SB: 1 [RAV:279] Overgrown Tomb
+SB: 1 [NEM:30] Daze
+SB: 1 [LRW:78] Pestermite
+SB: 1 [TMP:154] Sarcomancy
+SB: 1 [PTK:104] Burning of Xinye
+SB: 1 [WWK:139] Lavaclaw Reaches
+SB: 1 [LEB:85] Timetwister
+SB: 1 [WAR:98] Liliana's Triumph
+SB: 1 [ALA:154] Ajani Vengeant
+SB: 1 [VIS:114] Natural Order
+SB: 1 [C17:37] Fractured Identity
+SB: 1 [MH1:233] Talisman of Hierarchy
+SB: 1 [WWK:123] Everflowing Chalice
+SB: 1 [NPH:130] Batterskull
+LAYOUT MAIN:(1,6)(CMC,false,71)|([FUT:177],[ONS:330],[JOU:163],[ATQ:82a],[GPT:165],[ZEN:229],[UST:216],[UST:216],[UST:216],[UST:216],[UST:216],[UST:216],[UST:213],[UST:215],[UST:215],[UST:215],[UST:215])([OGW:140],[DST:140],[M14:169],[6ED:217],[LEA:161])([MIR:184],[MBS:122],[RAV:172],[MIR:253],[RIX:99],[MRD:255])([M21:193],[WAR:137],[HOU:129],[ELD:197],[BNG:119],[THB:220],[EMN:130a],[M13:132])([ISD:181])([MH1:161],[AKH:134],[WAR:169])
+LAYOUT SIDEBOARD:(1,8)(CMC,false,93)|([RAV:279],[WWK:139],[WWK:123])([TMP:154])([LEA:92],[NEM:30],[WAR:98],[MH1:233])([LRW:78],[LEB:85])([ALA:154],[VIS:114])([C17:37],[NPH:130])([PTK:104])([EMN:6])

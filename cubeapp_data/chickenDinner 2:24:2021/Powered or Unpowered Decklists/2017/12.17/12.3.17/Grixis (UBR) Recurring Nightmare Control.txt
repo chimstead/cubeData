@@ -1,0 +1,33 @@
+5 Island
+4 Mountain
+1 Watery Grave
+1 City of Brass
+1 Bloodstained Mire
+1 Tendo Ice Bridge
+1 Undiscovered Paradise
+1 Volcanic Island
+1 Steam Vents
+1 Serum Visions
+1 Condescend
+1 Brainstorm
+1 Jace, Vryn's Prodigy
+1 Young Pyromancer
+1 Izzet Charm
+1 Lightning Strike
+1 Umezawa's Jitte
+1 Remand
+1 Mana Leak
+1 Smuggler's Copter
+1 Bitterblossom
+1 Man-o'-War
+1 Feldon of the Third Path
+1 Phyrexian Metamorph
+1 Recurring Nightmare
+1 Forbid
+1 Supreme Will
+1 Sower of Temptation
+1 Pia and Kiran Nalaar
+1 Whirler Rogue
+1 Cryptic Command
+1 Snuff Out
+1 Earthquake

@@ -1,0 +1,58 @@
+1 [AKH:1] Angel of Sanctions
+1 [OGW:157] Reflector Mage
+1 [AKH:8] Cast Out
+1 [ROE:53] Wall of Omens
+1 [LRW:88] Sower of Temptation
+1 [AER:29] Baral's Expertise
+1 [EMA:198] Brago, King Eternal
+1 [HOU:145] The Scarab God
+1 [XLN:223] Hostage Taker
+1 [SOI:12] Declaration in Stone
+1 [WAR:98] Liliana's Triumph
+1 [NPH:4] Blade Splicer
+1 [EVE:22] Glen Elendra Archmage
+1 [MBS:43] Go for the Throat
+1 [RTR:35] Cyclonic Rift
+1 [AVR:36] Silverblade Paladin
+1 [M19:55] Exclusion Mage
+1 [M12:55] Frost Titan
+1 [AKH:211] Commit // Memory
+1 [LRW:15] Galepowder Mage
+1 [AKH:5] Aven Mindcensor
+1 [SOM:135] Venser, the Sojourner
+1 [3ED:105] Demonic Tutor
+1 [ZEN:220] Misty Rainforest
+1 [SHM:278] Reflecting Pool
+1 [GRN:259] Watery Grave
+1 [AKH:251] Island
+3 [AKH:258] Island
+1 [AKH:259] Island
+1 [AKH:260] Island
+1 [AKH:250] Plains
+2 [AKH:257] Plains
+1 [AKH:255] Plains
+1 [AKH:256] Plains
+1 [AKH:261] Swamp
+1 [AKH:262] Swamp
+1 [AKH:263] Swamp
+SB: 1 [SOM:205] Steel Hellkite
+SB: 1 [GRN:258] Temple Garden
+SB: 1 [M15:242] Darksteel Citadel
+SB: 1 [CHK:74] Meloku the Clouded Mirror
+SB: 1 [GTC:97] Legion Loyalist
+SB: 1 [ARB:50] Bloodbraid Elf
+SB: 1 [OGW:138] Nissa, Voice of Zendikar
+SB: 1 [GTC:182] Obzedat, Ghost Council
+SB: 1 [ODY:117] Braids, Cabal Minion
+SB: 1 [ISD:105] Liliana of the Veil
+SB: 1 [M15:54] Ensoul Artifact
+SB: 1 [NPH:153] Shrine of Burning Rage
+SB: 1 [SOI:281] Westvale Abbey
+SB: 1 [TSP:39] Return to Dust
+SB: 1 [GTC:154] Dimir Charm
+SB: 1 [ALA:202] Tidehollow Sculler
+SB: 1 [ISD:78] Snapcaster Mage
+SB: 1 [ZEN:14] Journey to Nowhere
+SB: 1 [AKH:74] Vizier of Many Faces
+LAYOUT MAIN:(1,7)(CMC,false,45)|([ZEN:220],[SHM:278],[GRN:259],[AKH:251],[AKH:258],[AKH:259],[AKH:260],[AKH:258],[AKH:258],[AKH:250],[AKH:257],[AKH:255],[AKH:256],[AKH:257],[AKH:261],[AKH:262],[AKH:263])([ROE:53],[SOI:12],[WAR:98],[MBS:43],[RTR:35],[3ED:105])([OGW:157],[NPH:4],[AVR:36],[M19:55],[AKH:5])([AKH:8],[LRW:88],[EMA:198],[XLN:223],[EVE:22],[LRW:15])([AKH:1],[AER:29],[HOU:145],[SOM:135])([M12:55])([AKH:211])
+LAYOUT SIDEBOARD:(1,8)(CARD_TYPE,false,50)|([SOM:205],[ALA:202])([M15:242])([NPH:153])([CHK:74],[GTC:97],[ARB:50],[GTC:182],[ODY:117],[ISD:78],[AKH:74])([M15:54],[ZEN:14])([TSP:39],[GTC:154])([GRN:258],[SOI:281])([OGW:138],[ISD:105])

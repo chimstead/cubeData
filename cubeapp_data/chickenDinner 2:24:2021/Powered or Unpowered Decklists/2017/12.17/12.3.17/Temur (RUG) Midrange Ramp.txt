@@ -1,0 +1,33 @@
+7 Forest
+1 Island
+2 Mountain
+1 Lumbering Falls
+1 Ash Barrens
+1 Shivan Reef
+1 Raging Ravine
+1 Horizon Canopy
+1 Stomping Ground
+1 Yavimaya Coast
+1 Arbor Elf
+1 Elvish Mystic
+1 Fauna Shaman
+1 Tarmogoyf
+1 Survival of the Fittest
+1 Sylvan Caryatid
+1 Lotus Cobra
+1 Noose Constrictor
+1 Edric, Spymaster of Trest
+1 Yavimaya Elder
+1 Nissa, Vastwood Seer
+1 Feldon of the Third Path
+1 Eternal Witness
+1 Courser of Kruphix
+1 Bloodbraid Elf
+1 Natural Order
+1 Sarkhan Vol
+1 Oracle of Mul Daya
+1 Acidic Slime
+1 Nissa, Worldwaker
+1 Primeval Titan
+1 Dragonlord Atarka
+1 Woodfall Primus

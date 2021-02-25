@@ -1,0 +1,49 @@
+1 [V10:10] Mox Diamond
+1 [CMD:40] Brainstorm
+1 [C20:251] Skullclamp
+1 [VMA:209] Fastbond
+1 [M19:314] Llanowar Elves
+1 [LRW:79] Ponder
+1 [RNA:183] Hydroid Krasis
+1 [CHK:239] Sakura-Tribe Elder
+1 [ZEN:168] Lotus Cobra
+1 [UMA:164] Fauna Shaman
+1 [THB:229] Uro, Titan of Nature's Wrath
+1 [DDR:1] Nissa, Voice of Zendikar
+1 [M19:196] Reclamation Sage
+1 [CNS:187] Edric, Spymaster of Trest
+1 [BNG:119] Courser of Kruphix
+1 [ELD:171] Questing Beast
+1 [V13:9] Fact or Fiction
+1 [V13:15] Venser, Shaper Savant
+1 [ORI:83] Whirler Rogue
+1 [EMA:42] Control Magic
+1 [MB1:440] Mystic Confluence
+1 [MH1:161] Deep Forest Hermit
+1 [ELD:281] Brazen Borrower
+1 [MRD:152] Chrome Mox
+1 [VMA:321] Tropical Island
+1 [A25:236] Ash Barrens
+1 [KTK:233] Flooded Strand
+1 [MM3:240] Misty Rainforest
+6 [PGRU:5] Forest
+6 [PGRU:2] Island
+SB: 1 [M21:232] Mazemind Tome
+SB: 1 [C20:66] Slippery Bogbonder
+SB: 1 [RNA:259] Stomping Ground
+SB: 1 [M12:72] Phantasmal Image
+SB: 1 [WWK:133] Celestial Colonnade
+SB: 1 [MRD:256] Talisman of Progress
+SB: 1 [MRD:255] Talisman of Indulgence
+SB: 1 [ORI:229] Hangarback Walker
+SB: 1 [EMA:33] Unexpectedly Absent
+SB: 1 [ELD:235] Stonecoil Serpent
+SB: 1 [VMA:317] Taiga
+SB: 1 [AER:122] Rishkar, Peema Renegade
+SB: 1 [M13:170] Farseek
+SB: 1 [SHM:229] Kitchen Finks
+SB: 1 [MM3:143] Thragtusk
+SB: 1 [MRD:253] Talisman of Dominance
+SB: 1 [XLN:48] Chart a Course
+LAYOUT MAIN:(1,7)(CMC,false,88)|([PGRU:5],[PGRU:5],[PGRU:5],[PGRU:5],[PGRU:5],[PGRU:5],[PGRU:2],[PGRU:2],[PGRU:2],[PGRU:2],[PGRU:2],[PGRU:2])([A25:236],[KTK:233],[MM3:240],[VMA:321])([MRD:152],[V10:10],[CMD:40],[VMA:209],[M19:314],[LRW:79],[C20:251])([UMA:164],[RNA:183],[ZEN:168],[CHK:239])([BNG:119],[CNS:187],[DDR:1],[M19:196],[THB:229],[ELD:281])([EMA:42],[V13:9],[ELD:171],[V13:15],[ORI:83])([MH1:161],[MB1:440])
+LAYOUT SIDEBOARD:(1,5)(CMC,false,50)|([RNA:259],[WWK:133],[ORI:229],[ELD:235],[VMA:317])([M21:232],[M12:72],[MRD:256],[MRD:255],[XLN:48],[EMA:33],[M13:170],[MRD:253])([AER:122],[SHM:229])([C20:66])([MM3:143])

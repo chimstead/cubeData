@@ -1,0 +1,55 @@
+1 [USG:321] Gaea's Cradle
+1 [STH:125] Wall of Blossoms
+1 [ULG:143] Treetop Village
+1 [SOI:233] Tireless Tracker
+1 [RTR:140] Worldspine Wurm
+1 [M12:174] Garruk, Primal Hunter
+1 [WWK:95] Arbor Elf
+1 [IKO:220] Fiend Artisan
+1 [AVR:172] Craterhoof Behemoth
+1 [MBS:81] Green Sun's Zenith
+1 [THB:170] The First Iroan Games
+1 [ELD:165] Lovestruck Beast
+1 [VIS:114] Natural Order
+1 [MH1:168] Hexdrinker
+1 [FUT:161] Coalition Relic
+1 [CON:87] Noble Hierarch
+1 [LEB:187] Birds of Paradise
+1 [CSP:105] Boreal Druid
+1 [WAR:169*] Nissa, Who Shakes the World
+1 [MH1:161] Deep Forest Hermit
+1 [LEB:211] Llanowar Elves
+1 [ICE:244] Fyndhorn Elves
+1 [UDS:118] Rofellos, Llanowar Emissary
+1 [MMA:174] Woodfall Primus
+1 [ELD:171] Questing Beast
+6 [USG:348] Forest
+3 [USG:349] Forest
+3 [USG:350] Forest
+3 [USG:347] Forest
+SB: 1 [ELD:287] Murderous Rider
+SB: 1 [NPH:19] Porcelain Legionnaire
+SB: 1 [KLD:199] Bomat Courier
+SB: 1 [APC:139] Battlefield Forge
+SB: 1 [THB:220] Klothys, God of Destiny
+SB: 1 [DKA:142] Sorin, Lord of Innistrad
+SB: 1 [C17:29] Territorial Hellkite
+SB: 1 [SOI:12] Declaration in Stone
+SB: 1 [C17:37] Fractured Identity
+SB: 1 [DDF:23] Journey to Nowhere
+SB: 1 [NEM:17] Parallax Wave
+SB: 1 [MH1:246] Silent Clearing
+SB: 1 [SHM:110] Devoted Druid
+SB: 1 [USG:318] Worn Powerstone
+SB: 1 [M21:395] Eliminate
+SB: 1 [GRN:152] Assassin's Trophy
+SB: 1 [GRN:213] Vraska, Golgari Queen
+SB: 1 [MH1:243] Nurturing Peatland
+SB: 1 [OGW:171] Hissing Quagmire
+SB: 2 [USG:342] Swamp
+SB: 2 [USG:341] Swamp
+SB: 1 [USG:339] Swamp
+SB: 2 [USG:340] Swamp
+SB: 1 [LEG:185] Eureka
+LAYOUT MAIN:(1,8)(CMC,false,67)|([USG:321],[ULG:143],[USG:348],[USG:348],[USG:349],[USG:350],[USG:349],[USG:347],[USG:350],[USG:348],[USG:350],[USG:348],[USG:349],[USG:348],[USG:347],[USG:347],[USG:348])([WWK:95],[MBS:81],[MH1:168],[CON:87],[LEB:187],[CSP:105],[LEB:211],[ICE:244])([STH:125],[IKO:220],[UDS:118])([SOI:233],[THB:170],[FUT:161],[ELD:165])([VIS:114],[ELD:171])([M12:174],[WAR:169*],[MH1:161])([AVR:172],[MMA:174])([RTR:140])
+LAYOUT SIDEBOARD:(1,6)(COLOR,false,50)|([KLD:199],[APC:139],[MH1:246],[USG:318],[MH1:243],[OGW:171],[USG:342],[USG:342],[USG:341],[USG:339],[USG:341],[USG:340],[USG:340])([ELD:287],[M21:395])([SHM:110],[LEG:185])([C17:29])([NPH:19],[SOI:12],[DDF:23],[NEM:17])([THB:220],[DKA:142],[C17:37],[GRN:152],[GRN:213])

@@ -1,0 +1,50 @@
+1 [RNA:124] End-Raze Forerunners
+1 [GRN:6] Conclave Tribunal
+1 [DDO:1] Elspeth, Sun's Champion
+1 [ARC:73] Wall of Roots
+1 [10E:252] Birds of Paradise
+1 [C19:33] Ohran Frostfang
+1 [MB1:1552] Bonesplitter
+1 [ROE:190] Joraga Treespeaker
+1 [MM2:156] Primeval Titan
+1 [XLN:197] Merfolk Branchwalker
+1 [VMA:266] Coercive Portal
+1 [RNA:183] Hydroid Krasis
+1 [M10:189] Llanowar Elves
+1 [DIS:99] Utopia Sprawl
+1 [OGW:144] Sylvan Advocate
+1 [VMA:210] Fyndhorn Elves
+1 [ZEN:168] Lotus Cobra
+1 [RNA:122] Biogenic Ooze
+1 [MEDM:RA1] Karn, Scion of Urza
+1 [MH1:160] Crashing Footfalls
+1 [E01:62] Cultivate
+1 [XLN:179] Carnage Tyrant
+1 [MH1:161] Deep Forest Hermit
+1 [C16:157] Managorger Hydra
+1 [THS:223] Nykthos, Shrine to Nyx
+1 [AKH:245] Irrigated Farmland
+10 [THB:254] Forest
+1 [THB:251] Island
+3 [THB:250] Plains
+SB: 1 [BBD:65] Bramble Sovereign
+SB: 1 [SOI:234] Traverse the Ulvenwald
+SB: 1 [EMN:162] Ishkanah, Grafwidow
+SB: 1 [NPH:19] Porcelain Legionnaire
+SB: 1 [DOM:6] Benalish Marshal
+SB: 1 [PM20:122p] Vilis, Broker of Blood
+SB: 1 [LRW:88] Sower of Temptation
+SB: 1 [DDD:21] Harmonize
+SB: 1 [MM3:171] Izzet Charm
+SB: 1 [ELD:122] Embereth Shieldbreaker
+SB: 1 [C16:225] Terminate
+SB: 1 [AKH:183] Sandwurm Convergence
+SB: 1 [PUMA:U4] Ulamog, the Infinite Gyre
+SB: 1 [MH1:48] Exclude
+SB: 1 [MB1:24] Approach of the Second Sun
+SB: 1 [MH1:52] Force of Negation
+SB: 1 [KTK:73] Grim Haruspex
+SB: 1 [GRN:99] Experimental Frenzy
+SB: 1 [SOI:237] Vessel of Nascency
+LAYOUT MAIN:(2,5)(CMC,false,57)|([THB:254],[THB:254],[THB:254],[THB:254],[THB:254],[THB:254],[THB:254],[THB:254],[THB:254],[THB:254])([10E:252],[MB1:1552],[ROE:190],[M10:189],[DIS:99],[VMA:210],[MH1:160])([E01:62],[C16:157])([C19:33],[RNA:122],[MH1:161])([RNA:124])([THS:223],[AKH:245],[THB:251],[THB:250],[THB:250],[THB:250])([ARC:73],[XLN:197],[RNA:183],[OGW:144],[ZEN:168])([GRN:6],[VMA:266],[MEDM:RA1])([DDO:1],[MM2:156],[XLN:179])()
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([BBD:65],[SOI:234],[EMN:162],[NPH:19],[DOM:6],[PM20:122p],[LRW:88],[DDD:21],[MM3:171],[ELD:122],[C16:225],[AKH:183],[PUMA:U4],[MH1:48],[MB1:24],[MH1:52],[KTK:73],[GRN:99],[SOI:237])

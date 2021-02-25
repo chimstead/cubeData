@@ -1,0 +1,58 @@
+1 [LRW:272] Shelldock Isle
+1 [LRW:88] Sower of Temptation
+1 [3ED:294] Plains
+4 [3ED:293] Plains
+1 [C17:37] Fractured Identity
+1 [3ED:292] Plains
+1 [C15:14] Mystic Confluence
+3 [3ED:297] Island
+1 [5DN:27] Condescend
+1 [3ED:296] Island
+1 [ROE:21] Gideon Jura
+4 [3ED:295] Island
+1 [RTR:201] Supreme Verdict
+1 [GPT:155] Orzhov Signet
+1 [DOM:207] Teferi, Hero of Dominaria
+1 [STH:36] Mana Leak
+1 [INV:57] Fact or Fiction
+1 [ULG:139] Faerie Conclave
+1 [FUT:161] Coalition Relic
+1 [ULG:36] Miscalculation
+1 [FUT:46] Venser, Shaper Savant
+1 [RAV:63] Remand
+1 [EXO:35] Forbid
+1 [KTK:36] Dig Through Time
+1 [ROE:53] Wall of Omens
+1 [CHK:74] Meloku the Clouded Mirror
+1 [BBD:1] Will Kenrith
+1 [MOR:55] Vendilion Clique
+1 [NEM:141] Kor Haven
+1 [LEG:28] Moat
+1 [VIS:34] Impulse
+1 [CSP:136] Coldsteel Heart
+SB: 1 [VIS:64] Necromancy
+SB: 1 [UDS:136] Powder Keg
+SB: 1 [TMP:142] Living Death
+SB: 1 [DOM:87] Divest
+SB: 1 [VIS:72] Vampiric Tutor
+SB: 1 [ULG:130] Quicksilver Amulet
+SB: 1 [C13:84] Ophiomancer
+SB: 2 [C17:296] Plains
+SB: 3 [C17:297] Plains
+SB: 3 [C17:298] Island
+SB: 4 [C17:299] Island
+SB: 1 [APC:142] Shivan Reef
+SB: 2 [C17:300] Island
+SB: 1 [NEM:139] Tangle Wire
+SB: 1 [USG:309] Smokestack
+SB: 1 [MMQ:61] Brainstorm
+SB: 1 [ARN:71] City of Brass
+SB: 1 [C18:44] Saheeli, the Gifted
+SB: 1 [ODY:292] Psychatog
+SB: 1 [ISD:97] Diregraf Ghoul
+SB: 1 [TSB:6] Disenchant
+SB: 1 [LEB:282] Scrubland
+SB: 1 [ULG:110] Rancor
+SB: 1 [BFZ:244] Shambling Vent
+LAYOUT MAIN:(1,8)(CMC,false,50)|([LRW:272],[NEM:141],[ULG:139],[3ED:297],[3ED:295],[3ED:296],[3ED:295],[3ED:297],[3ED:295],[3ED:295],[3ED:297],[3ED:292],[3ED:293],[3ED:293],[3ED:293],[3ED:293],[3ED:294])([5DN:27])([ULG:36],[RAV:63],[VIS:34],[STH:36],[GPT:155],[CSP:136],[ROE:53])([FUT:161],[MOR:55],[EXO:35])([FUT:46],[LRW:88],[LEG:28],[RTR:201],[INV:57])([C17:37],[C15:14],[DOM:207],[ROE:21],[CHK:74])([BBD:1])([KTK:36])
+LAYOUT SIDEBOARD:(1,6)(CMC,false,50)|([LEB:282],[BFZ:244],[APC:142],[ARN:71],[C17:300],[C17:298],[C17:299],[C17:298],[C17:299],[C17:299],[C17:300],[C17:298],[C17:299],[C17:296],[C17:297],[C17:296],[C17:297],[C17:297])([VIS:72],[DOM:87],[MMQ:61],[ULG:110],[ISD:97])([TSB:6],[UDS:136])([C13:84],[ODY:292],[NEM:139],[VIS:64])([USG:309],[ULG:130],[C18:44])([TMP:142])

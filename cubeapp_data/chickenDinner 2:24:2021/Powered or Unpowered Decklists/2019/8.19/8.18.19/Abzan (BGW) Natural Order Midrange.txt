@@ -1,0 +1,49 @@
+1 [M15:178] Hornet Queen
+1 [RAV:163] Farseek
+1 [THS:9] Elspeth, Sun's Champion
+1 [MH1:37] Winds of Abandon
+1 [TSB:89] Wall of Roots
+1 [GRN:183] Knight of Autumn
+1 [JOU:163] Mana Confluence
+1 [3ED:285] Savannah
+1 [ZEN:168] Lotus Cobra
+1 [M12:16] Gideon Jura
+1 [ISD:181] Garruk Relentless
+1 [2ED:193] Fastbond
+1 [KTK:248] Windswept Heath
+1 [5DN:86] Eternal Witness
+1 [SOI:233] Tireless Tracker
+1 [3ED:283] Bayou
+1 [ONS:319] Grand Coliseum
+1 [NPH:9] Elesh Norn, Grand Cenobite
+1 [ICE:244] Fyndhorn Elves
+1 [SHM:229] Kitchen Finks
+1 [M13:193] Thragtusk
+1 [ORI:189] Nissa, Vastwood Seer
+1 [5ED:280] Birds of Paradise
+1 [VIS:114] Natural Order
+1 [RTR:213] Deathrite Shaman
+1 [WAR:169] Nissa, Who Shakes the World
+8 [UNH:140] Forest
+2 [UNH:136] Plains
+1 [M20:200] Voracious Hydra
+1 [MH1:161] Deep Forest Hermit
+1 [RTR:231] Pithing Needle
+1 [M13:159] Acidic Slime
+SB: 1 [PTK:17] Ravages of War
+SB: 1 [M11:172] Fauna Shaman
+SB: 1 [XLN:1] Adanto Vanguard
+SB: 1 [M13:150] Thundermaw Hellkite
+SB: 1 [RIX:111] Rekindling Phoenix
+SB: 1 [OGW:104] Chandra, Flamecaller
+SB: 1 [DOM:14] Dauntless Bodyguard
+SB: 1 [GTC:240] Breeding Pool
+SB: 1 [MIR:14] Enlightened Tutor
+SB: 1 [THS:32] Soldier of the Pantheon
+SB: 1 [ULG:139] Faerie Conclave
+SB: 1 [KLD:235] Smuggler's Copter
+SB: 1 [WAR:13] Gideon Blackblade
+SB: 1 [HOU:129] Ramunap Excavator
+SB: 1 [CSP:136] Coldsteel Heart
+LAYOUT MAIN:(1,8)(CMC,false,100)|([JOU:163],[3ED:285],[KTK:248],[3ED:283],[ONS:319],[UNH:140],[UNH:140],[UNH:140],[UNH:140],[UNH:140],[UNH:140],[UNH:140],[UNH:140],[UNH:136],[UNH:136])([2ED:193],[ICE:244],[5ED:280],[RTR:213],[RTR:231])([RAV:163],[MH1:37],[TSB:89],[ZEN:168],[M20:200])([GRN:183],[5DN:86],[SOI:233],[SHM:229],[ORI:189])([ISD:181],[VIS:114])([M12:16],[M13:193],[WAR:169],[MH1:161],[M13:159])([THS:9])([M15:178],[NPH:9])
+LAYOUT SIDEBOARD:(1,4)(COLOR,false,100)|([GTC:240],[ULG:139],[KLD:235],[CSP:136])([M11:172],[HOU:129])([M13:150],[RIX:111],[OGW:104])([PTK:17],[XLN:1],[DOM:14],[MIR:14],[THS:32],[WAR:13])

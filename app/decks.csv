@@ -1,0 +1,901 @@
+deckID,colors,baseColors,splashes,sphere,archetype,deckName,date,cubeType
+1,red green blue black white,red blue black,green white,control,fivecolor,(WUBRG) 5 Color Control 11.6.18.txt,2018-11-06,Vintage Unpowered
+2,blue black white,blue white,black,control,-,3-0 Esper (UBW) Psychatog Control 4.15.18.txt,2018-04-15,Vintage Unpowered
+3,green black white,white,green black,aggro,-,Abzan (BGW) Aggro 6.16.18.txt,2018-06-16,Vintage Unpowered
+4,green white,white,green,aggro,-,Abzan (BGW) Aggro.txt,2019-10-12,Vintage Unpowered
+5,green black white,black white,green,aggro,-,Abzan (BGW) Attrition Aggro.txt,2017-12-03,Vintage Unpowered
+6,green black white,black white,green,midrange,pod,Abzan (BGW) Birthing Pod Midrange.txt,2019-02-17,Vintage Unpowered
+7,green black white,white,green black,midrange,-,Abzan (BGW) Jank Midrange 7.1.18.txt,2018-07-01,Vintage Unpowered
+8,green black white,green white,black,midrange,-,Abzan (BGW) Junk Midrange [WOTC Vintage].dck.txt,2020-09-12,WOTC Vintage
+9,green black white,green black white,-,midrange,-,Abzan (BGW) Junk Midrange [WOTC Vintage].txt,2020-09-12,WOTC Vintage
+10,green black white,black,green white,aggro,stax  crucible,Abzan (BGW) Loam Excavator Stax Aggro.txt,2017-12-03,Vintage Unpowered
+11,green black white,green black white,-,midrange,-,Abzan (BGW) Meren Midrange.txt,2021-01-31,Vintage Unpowered
+12,green black white,green white,black,midrange,-,Abzan (BGW) Midrange 2.txt,2017-12-03,Vintage Unpowered
+13,green black white,black white,green,midrange,-,Abzan (BGW) Midrange [WOTC Vintage].txt,2019-09-15,WOTC Vintage
+14,green black white,green white,black,midrange,-,Abzan (BGW) Midrange.txt,2019-09-03,Vintage Unpowered
+15,green white,green,white,midrange,naturalorder,Abzan (BGW) Natural Order Midrange.txt,2019-08-18,Vintage Unpowered
+16,green black white,green black white,-,midrange,skullclamp,Abzan (BGW) Ramunap Vraska Skullclamp Loam Midrange.txt,2019-10-12,Vintage Unpowered
+17,green black white,green black white,-,combo,reanimator,Abzan (BGW) Reanimator Combo [WOTC Vintage].txt,2020-07-03,WOTC Vintage
+18,green black white,green black,white,midrange,reanimator,Abzan (BGW) Recurring Nightmare Midrange 6.23.18.txt,2018-06-23,Vintage Unpowered
+19,green black white,green,black white,midrange,reanimator,Abzan (BGW) Recurring Nightmare Midrange.txt,2017-12-03,Vintage Unpowered
+20,green black white,green black white,-,midrange,reanimator  reveillark,Abzan (BGW) Recurring Nightmare Reveillark Midrange.txt,2019-04-12,Vintage Unpowered
+21,green black white,green black,white,midrange,reanimator  survival,Abzan (BGW) Recurring Nightmare Survival Midrange 9.15.18.txt,2018-09-15,Vintage Unpowered
+22,green black white,green black,white,midrange,reveillark  survival,Abzan (BGW) Recurring Survival Reveillark Midrange Shenanigans 3.28.18.txt,2018-03-25,Vintage Unpowered
+23,green black white,green white,black,midrange,reveillark,Abzan (BGW) Reveillark Goodstuff Midrange.txt,2020-03-20,Vintage Unpowered
+24,green black white,green white,black,midrange,reveillark,Abzan (BGW) Reveillark Midrange.txt,2019-04-12,Vintage Unpowered
+25,green black white,green black,white,midrange,reanimator  reveillark,Abzan (BGW) Reveillark Recurring Nightmare Midrange 10.27.18.txt,2018-10-27,Vintage Unpowered
+26,green black white,green white,black,midrange,reveillark  survival  blink,Abzan (BGW) Reveillark Survival Blink Midrange Shenanigans 3.25.18.txt,2018-03-25,Vintage Unpowered
+27,green black white,green black white,-,midrange,reveillark  survival,Abzan (BGW) Reveillark Survival Midrange 6.23.18.txt,2018-06-23,Vintage Unpowered
+28,green black white,black white,green,midrange,skullclamp,Abzan (BGW) Skullclamp Midrange [WOTC Vintage].txt,2020-09-12,WOTC Vintage
+29,green black white,black white,green,midrange,reanimator  skullclamp,Abzan (BGW) Skullclamp Recurring Nightmare Midrange.txt,2019-02-10,Vintage Unpowered
+30,green black white,green black,white,midrange,skullclamp  survival,Abzan (BGW) Skullclamp Recurring Survival Midrange 11.12.18 [WOTC Vintage].txt,2018-11-12,WOTC Vintage
+31,green black white,green black white,-,midrange,stoneforge,Abzan (BGW) Stoneforge Midrange [Vintage].txt,2020-07-03,Vintage Powered
+32,green black white,green black white,-,midrange,stoneforge,Abzan (BGW) Stoneforge Midrange.txt,2020-03-20,Vintage Unpowered
+33,green black white,black white,green,midrange,stoneforge  superfriends,Abzan (BGW) Stoneforge Superfriends Midrange.txt,2020-01-12,Vintage Unpowered
+34,green black white,green white,black,midrange,stoneforge  survival,Abzan (BGW) Stoneforge Survival Midrange.txt,2019-09-03,Vintage Unpowered
+35,green black white,green black white,-,midrange,survival,Abzan (BGW) The Rock Survival Midrange [WOTC Vintage].txt,2020-09-12,WOTC Vintage
+36,green black white,green white,black,midrange,tokens,Abzan (BGW) Tokens Midrange 10.28.18.txt,2018-10-28,Vintage Unpowered
+37,green black white,green white,black,midrange,tokens,Abzan (BGW) Tokens Midrange.txt,2020-09-12,Vintage Unpowered
+38,green black white,green black white,-,midrange,superfriends  tokens,Abzan (BGW) Tokens Superfriends Midrange.txt,2019-08-18,Vintage Unpowered
+39,green black white,green black,white,midrange,skullclamp,Abzan (BGW) Vraska Loam Skullclamp Midrange 10.14.18.txt,2018-10-14,Vintage Unpowered
+40,green black white,black white,green,midrange,skullclamp  tokens,Abzan (BGW) Yawgmoth Skullclamp Tokens Midrange.txt,2020-01-12,Vintage Unpowered
+41,blue white,white,blue,aggro,-,Azorius (UW) Aggro [WOTC Vintage].txt,2019-08-18,WOTC Vintage
+42,blue white,blue,white,ramp,artifacts  upheaval,Azorius (UW) Artifacts Matters Upheaval Ramp [WOTC Vintage],2021-01-31,WOTC Vintage
+43,blue white,blue white,-,control,balance,Azorius (UW) Balance Control [WOTC Vintage],2021-01-31,WOTC Vintage
+44,blue white,blue white,-,control,balance,Azorius (UW) Balance Control.txt,2019-10-12,Vintage Unpowered
+45,blue white,blue white,-,control,balance  moat,Azorius (UW) Balance Moat Control 8.26.18.txt,2018-08-26,Vintage Unpowered
+46,blue white,blue white,-,control,balance  moat,Azorius (UW) Balance Moat Control [WOTC Vintage].txt,2020-09-12,WOTC Vintage
+47,blue white,blue white,-,ramp,artifacts  balance,Azorius (UW) Balance Tinker Ramp [WOTC Vintage],2021-01-31,WOTC Vintage
+48,blue white,blue white,-,control,spellsmatter  balance  upheaval,Azorius (UW) Balance Upheaval Spells Matters Control [WOTC Vintage].txt,2018-12-09,WOTC Vintage
+49,blue white,blue white,-,control,-,Azorius (UW) Control,2021-01-31,Vintage Unpowered
+50,blue white,blue,white,control,-,Azorius (UW) Control .txt,2018-12-16,Vintage Unpowered
+51,blue white,blue white,-,control,-,Azorius (UW) Control 5.1.18.txt,2018-05-01,Vintage Unpowered
+52,blue white,blue white,-,control,-,Azorius (UW) Control 5.19.18 [WOTC Vintage].txt,2018-05-19,WOTC Vintage
+53,blue white,blue white,-,control,-,Azorius (UW) Control [WOTC Vintage].txt,2020-09-12,WOTC Vintage
+54,blue white,blue,white,control,-,Azorius (UW) Control copy,2021-01-31,Vintage Unpowered
+55,blue white,blue white,-,control,-,Azorius (UW) Control.txt,2019-09-15,Vintage Unpowered
+56,blue white,blue white,-,control,moat,Azorius (UW) Lutri Moat Control,2021-01-31,Vintage Unpowered
+57,blue white,blue white,-,aggro control,-,Azorius (UW) Lutri Tempo.txt,2020-09-12,Vintage Unpowered
+58,blue white,blue white,-,control,-,Azorius (UW) Mana Drain Control.txt,2020-04-25,Vintage Unpowered
+59,blue white,blue white,-,midrange,-,Azorius (UW) Midrange [WOTC Vintage].txt,2019-08-18,WOTC Vintage
+60,blue white,blue white,-,control,moat,Azorius (UW) Moat Control 10.1.18.txt,2018-10-01,Vintage Unpowered
+61,blue white,blue white,-,control,moat,Azorius (UW) Moat Control 9.2.18.txt,2018-09-02,Vintage Unpowered
+62,blue white,blue white,-,control,moat,Azorius (UW) Moat Control [WOTC Vintage].txt,2019-10-12,WOTC Vintage
+63,blue white,blue white,-,control,moat,Azorius (UW) Moat Control.txt,2019-04-28,Vintage Unpowered
+64,blue white,blue white,-,control,opposition,Azorius (UW) Opposition Control.txt,2019-09-15,Vintage Unpowered
+65,blue white,blue white,-,midrange,opposition  moat,Azorius (UW) Opposition Moat Midrange [WOTC Vintage].txt,2020-01-12,WOTC Vintage
+66,blue white,blue white,-,aggro control,opposition,Azorius (UW) Opposition Tempo [Vintage].txt,2020-07-03,Vintage Powered
+67,blue white,blue white,-,control,reveillark  balance,Azorius (UW) Reveillark Balance Control 4.7.18.txt,2018-04-07,Vintage Unpowered
+68,blue white,blue white,-,midrange,reveillark  blink,Azorius (UW) Reveillark Blink Midrange,2021-01-31,Vintage Unpowered
+69,blue white,white,blue,midrange,opposition  reveillark  tokens,Azorius (UW) Reveillark Opposition Tokens Midrange.txt,2018-12-07,Vintage Unpowered
+70,blue white,blue white,-,midrange,skullclamp  balance,Azorius (UW) Skullclamp Balance Midrange [WOTC Vintage].txt,2018-12-25,WOTC Vintage
+71,blue white,blue,white,control,spellsmatter,Azorius (UW) Spells Matters Control 12.26.17.txt,2018-12-26,Vintage Unpowered
+72,blue white,blue white,-,midrange,stoneforge,Azorius (UW) Stoneforge Midrange 10.29.18 [WOTC Vintage].txt,2018-10-29,WOTC Vintage
+73,blue white,blue white,-,midrange,stoneforge,Azorius (UW) Stoneforge Midrange [WOTC Vintage].txt,2019-08-18,WOTC Vintage
+74,blue white,white,blue,midrange,opposition  stoneforge,Azorius (UW) Stoneforge Opposition Midrange [WOTC Vintage].txt,2020-03-20,WOTC Vintage
+75,blue black white,blue white,black,midrange,opposition  stoneforge  moat,Azorius (UW) Stoneforge Opposition Moat Flyers Midrange [WOTC Vintage].txt,2020-03-20,WOTC Vintage
+76,blue white,blue white,-,midrange,opposition  stax  stoneforge,Azorius (UW) Stoneforge Stax Opposition Midrange,2021-01-31,Vintage Unpowered
+77,blue white,blue white,-,aggro control,-,Azorius (UW) Tempo 10.19.18 [WOTC Vintage].txt,2018-10-19,WOTC Vintage
+78,blue white,blue white,-,aggro control,-,Azorius (UW) Tempo 3.24.18 [WOTC Vintage].txt,2018-03-24,WOTC Vintage
+79,blue white,blue white,-,aggro control,-,Azorius (UW) Tempo 3.4.18.txt,2018-03-04,Vintage Unpowered
+80,blue white,blue white,-,aggro control,-,Azorius (UW) Tempo 4.16.18 [WOTC Vintage].txt,2018-04-16,WOTC Vintage
+81,blue white,blue white,-,aggro control,-,Azorius (UW) Tempo [WOTC Vintage].txt,2020-09-12,WOTC Vintage
+82,blue white,blue white,-,control,-,Azorius (UW) Tezzret Control [WOTC Vintage].txt,2019-08-18,WOTC Vintage
+83,blue white,blue white,-,control,artifacts,Azorius (UW) Tinker Control [WOTC Vintage].txt,2020-03-20,WOTC Vintage
+84,blue white,blue,white,control  ramp,artifacts  upheaval,Azorius (UW) Upheaval Artifacts Matters Ramp Control [WOTC Vintage].txt,2020-07-03,WOTC Vintage
+85,blue white,blue white,-,control,balance  moat  upheaval,Azorius (UW) Upheaval Balance Moat Control 8.4.18.txt,2018-08-04,Vintage Unpowered
+86,blue white,blue white,-,control,upheaval,Azorius (UW) Upheaval Control,2021-01-31,Vintage Unpowered
+87,blue white,blue white,-,midrange,reveillark  blink,Azorius(UW) Reveillark Blink Midrange.txt,2019-10-12,Vintage Unpowered
+88,green blue white,green blue,white,midrange,reveillark  pod,Bant (UGW)  Birthing Pod Reveillark Midrange 7.8.18.txt,2018-07-08,Vintage Unpowered
+89,green blue white,white,green blue,midrange,armageddon,Bant (UGW) Armageddon Midrange [WOTC Vintage].txt,2020-07-03,WOTC Vintage
+90,green blue white,green white,blue,midrange,armageddon,Bant (UGW) Armageddon Midrange.txt,2019-06-16,Vintage Unpowered
+91,green blue white,green blue white,-,midrange,reveillark  pod,Bant (UGW) Birthing Pod Reveillark Midrange 7.12.18.txt,2018-07-12,Vintage Unpowered
+92,green blue white,blue white,green,control,-,Bant (UGW) Control.txt,2020-07-03,Vintage Unpowered
+93,green blue white,green white,blue,midrange,edric  reveillark,Bant (UGW) Edric Reveillark Midrange 1.27.18.txt,2018-01-27,Vintage Unpowered
+94,green blue white,green white,blue,midrange,edric  reveillark,Bant (UGW) Edric Reveillark Midrange Shenanigans 1.1.18.txt,2018-01-01,Vintage Unpowered
+95,green blue white,green blue white,-,midrange,edric  superfriends  tokens,Bant (UGW) Edric Superfriends Tokens Midrange.txt,2020-07-03,Vintage Unpowered
+96,green blue white,green blue white,-,midrange,opposition  crucible,Bant (UGW) Excavator Opposition Midrange Shenanigans 3.11.18.txt,2018-03-11,Vintage Unpowered
+97,green blue white,green white,blue,midrange,superfriends,Bant (UGW) Gideon Tribal Superfriends Midrange 9.29.18.txt,2018-09-29,Vintage Unpowered
+98,green blue white,green blue white,-,midrange,-,Bant (UGW) Goodstuff Midrange 2.25.18.txt,2018-02-25,Vintage Unpowered
+99,green blue white,green,blue white,midrange,-,Bant (UGW) Goodstuff Midrange [WOTC Vintage].txt,2020-07-03,WOTC Vintage
+100,green blue white,green blue,white,midrange,-,Bant (UGW) Goodstuff Midrange.txt,2020-07-03,Vintage Unpowered
+101,green blue black white,green blue,black white,midrange,-,Bant (UGW) Lands Matters Midrange [WOTC Vintage].txt,2020-09-12,WOTC Vintage
+102,green blue white,green white,blue,midrange,-,Bant (UGW) Midrange 9.12.18 [WOTC Vintage].txt,2018-09-12,WOTC Vintage
+103,green blue white,green blue white,-,midrange,-,Bant (UGW) Midrange.txt,2019-06-16,Vintage Unpowered
+104,green blue white,green blue,white,ramp,naturalorder  channel,Bant (UGW) Natural Order Channel Ramp 7.29.18.txt,2018-07-29,Vintage Unpowered
+105,green blue white,green,blue white,ramp,naturalorder,Bant (UGW) Natural Order Ramp.txt,2020-01-12,Vintage Unpowered
+106,green blue white,green,blue white,midrange,naturalorder  reveillark  survival,Bant (UGW) Natural Order Reveillark Survival Midrange [WOTC Vintage].txt,2017-12-03,WOTC Vintage
+107,green blue white,green,blue white,ramp,naturalorder  upheaval,Bant (UGW) Natural Order Upheaval Ramp,2021-01-31,Vintage Unpowered
+108,green blue white,blue white,green,combo,oath,Bant (UGW) Oath Combo [WOTC Vintage].txt,2020-07-03,WOTC Vintage
+109,green blue white,green white,blue,midrange,opposition  armageddon,Bant (UGW) Opposition Armageddon Midrange 11.18.18.txt,2018-11-18,Vintage Unpowered
+110,green blue white,green blue,white,midrange,opposition,Bant (UGW) Opposition Midrange 1.15.18.txt,2018-01-15,Vintage Unpowered
+111,green blue white,green blue white,-,midrange,opposition,Bant (UGW) Opposition Midrange [WOTC Vintage].txt,2019-07-02,WOTC Vintage
+112,green blue white,green white,blue,midrange,opposition,Bant (UGW) Opposition Midrange.txt,2019-07-07,Vintage Unpowered
+113,green blue white,green,blue white,ramp,opposition  naturalorder  upheaval,Bant (UGW) Opposition Natural Order Upheaval Ramp [WOTC Vintage].txt,2020-07-03,WOTC Vintage
+114,green blue white,blue white,green,aggro control,opposition,Bant (UGW) Opposition Tempo 1.21.18.txt,2018-01-21,Vintage Unpowered
+115,green blue white,green,blue white,midrange,opposition  upheaval,Bant (UGW) Opposition Upheaval Midrange [WOTC Vintage].txt,2019-09-03,WOTC Vintage
+116,green blue white,green blue,white,ramp,-,Bant (UGW) Ramp [WOTC Vintage].txt,2019-09-15,WOTC Vintage
+117,green blue white,green,blue white,ramp,-,Bant (UGW) Ramp.txt,2020-07-03,Vintage Unpowered
+118,green blue white,blue white,green,midrange,reveillark  blink,Bant (UGW) Reveillark Blink Midrange.txt,2020-07-03,Vintage Unpowered
+119,green blue white,green white,blue,midrange,reveillark  tokens,Bant (UGW) Reveillark Tokens Midrange.txt,2019-07-28,Vintage Unpowered
+120,green blue white,green blue white,-,midrange,armageddon  skullclamp,Bant (UGW) Skullclamp Armageddon Midrange 9.27.18 [WOTC Vintage].txt,2018-09-27,WOTC Vintage
+121,green blue white,blue white,green,midrange,opposition  skullclamp  reveillark  pod,Bant (UGW) Skullclamp Birthing Pod Reveillark Opposition Midrange 6.13.18.txt,2018-06-13,Vintage Unpowered
+122,green blue white,blue white,green,midrange,opposition  skullclamp,Bant (UGW) Skullclamp Opposition Midrange 11.12.18.txt,2018-11-12,Vintage Unpowered
+123,green blue white,green blue,white,midrange,skullclamp  survival,Bant (UGW) Skullclamp Survival Midrange 7.26.18.txt,2018-07-26,Vintage Unpowered
+124,green blue white,green white,blue,midrange,stoneforge  naturalorder  survival,Bant (UGW) Stoneforge Natural Order Survival Midrange [WOTC Vintage].txt,2020-09-12,WOTC Vintage
+125,green blue white,white,green blue,midrange,stoneforge  tokens,Bant (UGW) Stoneforge Tokens Midrange [WOTC Vintage].txt,2020-01-12,WOTC Vintage
+126,green blue white,green blue white,-,midrange,superfriends,Bant (UGW) Superfriends Midrange 7.16.18.txt,2018-07-16,Vintage Unpowered
+127,green blue white,green white,blue,midrange,-,Bant (UGW) Time Walk Midrange Shenanigans 2.3.18 [WOTC Vintage].txt,2018-02-03,WOTC Vintage
+128,green blue white,green blue,white,ramp,armageddon  upheaval  survival,Bant (UGW) Upheaval Armageddon Survival Ramp,2021-01-31,Vintage Unpowered
+129,green blue white,green,blue white,ramp,-,Bant (UGW) Wake Ramp.txt,2019-01-02,Vintage Unpowered
+130,red white,red white,-,midrange,-,Boros (RW) Aggressive Midrange 9.10.18 [WOTC Vintage].txt,2018-09-10,WOTC Vintage
+131,red white,red white,-,aggro,-,Boros (RW) Aggro,2021-01-31,Vintage Unpowered
+132,red white,red white,-,aggro,-,Boros (RW) Aggro (1).txt,2019-06-08,Vintage Unpowered
+133,red white,red white,-,aggro,-,Boros (RW) Aggro 3.3.18.txt,2018-03-31,Vintage Unpowered
+134,red white,red,white,aggro,-,Boros (RW) Aggro 6.10.18.txt,2018-06-10,Vintage Unpowered
+135,red white,red white,-,aggro,-,Boros (RW) Aggro 6.22.18.txt,2018-06-22,Vintage Unpowered
+136,red white,red,white,aggro,-,Boros (RW) Aggro 6.30.18.txt,2018-06-30,Vintage Unpowered
+137,red white,red,white,aggro,-,Boros (RW) Aggro 6.9.18 [WOTC Vintage].txt,2018-06-09,WOTC Vintage
+138,red white,red white,-,aggro,burn,Boros (RW) Aggro Burn 12.23.17.txt,2017-12-23,Vintage Unpowered
+139,red white,red white,-,aggro,burn,Boros (RW) Aggro Burn 12.2517.txt,2017-12-25,Vintage Unpowered
+140,red white,red white,-,aggro,-,Boros (RW) Aggro [Vintage].txt,2020-09-12,Vintage Powered
+141,red white,white,red,aggro,-,Boros (RW) Aggro [WOTC VIntage],2021-01-31,NA
+142,red white,red white,-,aggro,-,Boros (RW) Aggro [WOTC Vintage].txt,2020-04-25,WOTC Vintage
+143,red white,red,white,aggro,-,Boros (RW) Aggro copy,2021-01-31,Vintage Unpowered
+144,red white,red white,-,aggro,-,Boros (RW) Aggro copy 2,2021-01-31,Vintage Unpowered
+145,red white,red white,-,aggro,-,Boros (RW) Aggro copy 2.txt,2020-04-25,Vintage Unpowered
+146,red white,red,white,aggro,-,Boros (RW) Aggro copy 3,2021-01-31,Vintage Unpowered
+147,red white,red white,-,aggro,-,Boros (RW) Aggro copy 3 [WOTC Vintage].txt,2020-03-20,WOTC Vintage
+148,red white,red white,-,aggro,-,Boros (RW) Aggro copy 3.txt,2020-04-25,Vintage Unpowered
+149,red white,red white,-,aggro,-,Boros (RW) Aggro copy 4,2021-01-31,Vintage Unpowered
+150,red white,red white,-,aggro,-,Boros (RW) Aggro copy 4.txt,2020-03-20,Vintage Unpowered
+151,red white,red,white,aggro,-,Boros (RW) Aggro copy [WOTC Vintage].txt,2020-01-12,WOTC Vintage
+152,red white,red white,-,aggro,-,Boros (RW) Aggro copy.txt,2020-09-12,Vintage Unpowered
+153,red white,red white,-,aggro,-,Boros (RW) Aggro(1) [WOTC Vintage].txt,2020-03-20,WOTC Vintage
+154,red white,red white,-,aggro,-,Boros (RW) Aggro.txt,2020-09-12,Vintage Unpowered
+155,red white,white,red,aggro,armageddon,Boros (RW) Armageddon Aggro 10.21.18.txt,2018-10-21,Vintage Unpowered
+156,red green black,black,red green,aggro,armageddon,Boros (RW) Armageddon Aggro 12.16.17.txt,2017-12-16,Vintage Unpowered
+157,red white,red white,-,aggro,armageddon,Boros (RW) Armageddon Aggro 12.29.17.txt,2017-12-29,Vintage Unpowered
+158,red white,red white,-,aggro,armageddon,Boros (RW) Armageddon Aggro 5.12.18.txt,2018-05-12,Vintage Unpowered
+159,red white,red white,-,aggro,armageddon,Boros (RW) Armageddon Aggro 6.8.18.txt,2018-06-08,Vintage Unpowered
+160,red white,red,white,aggro,armageddon,Boros (RW) Armageddon Aggro 7.19.18 [WOTC Vintage].txt,2018-07-19,WOTC Vintage
+161,red white,red,white,aggro,armageddon,Boros (RW) Armageddon Aggro [WOTC Vintage].txt,2020-01-12,WOTC Vintage
+162,red white,red white,-,aggro,armageddon,Boros (RW) Armageddon Aggro copy 2 [WOTC Vintage].txt,2020-01-12,WOTC Vintage
+163,red white,red,white,aggro,armageddon,Boros (RW) Armageddon Aggro copy.txt,2020-01-12,Vintage Unpowered
+164,red white,red white,-,aggro,armageddon,Boros (RW) Armageddon Aggro.txt,2020-03-20,Vintage Unpowered
+165,red white,red white,-,midrange,armageddon  crucible,Boros (RW) Armageddon Crucible Midrange.txt,2019-06-08,Vintage Unpowered
+166,red white,red white,-,midrange,twin,Boros (RW) Kiki-Jiki Midrange 1.5.18 [WOTC Vintage].txt,2018-01-05,WOTC Vintage
+167,red white,red white,-,aggro,-,Boros (RW) Lurrus Aggro,2021-01-31,Vintage Unpowered
+168,red white,red white,-,midrange,tokens,Boros (RW) Purphoros Sneak Attack Tokens Midrange Shenanigans 3.23.18.txt,2018-03-23,Vintage Unpowered
+169,red white,red white,-,midrange,tokens,Boros (RW) Purphoros Tokens Aggressive Midrange 4.14.18.txt,2018-04-14,Vintage Unpowered
+170,red white,white,red,midrange,tokens,Boros (RW) Purphoros Tokens Midrange.txt,2017-12-03,Vintage Unpowered
+171,red white,red white,-,aggro,stoneforge,Boros (RW) Stoneforge Aggro.txt,2020-09-12,Vintage Unpowered
+172,red blue white,red white,blue,aggro,burn  stoneforge  armageddon,Boros (RW) Stoneforge Armageddon Aggro Burn 1.4.18.txt,2018-01-04,Vintage Unpowered
+173,red white,red white,-,aggro,twin,Boros (RW) Twin Aggro [WOTC Vintage].txt,2020-09-12,WOTC Vintage
+174,red white,red,white,midrange,wildfire,Boros (RW) Wildfire Midrange,2021-01-31,Vintage Unpowered
+175,red white,red white,-,aggro,-,Boros Aggro.txt,2019-09-15,Vintage Unpowered
+176,blue black,black,blue,aggro,stax,Dimir (UB) Ancestral Stax Aggro 3.17.18 [WOTC Vintage].txt,2018-03-17,WOTC Vintage
+177,blue black,blue,black,control,-,Dimir (UB) As Foretold Control.txt,2017-12-03,Vintage Unpowered
+178,blue black,blue black,-,control,-,Dimir (UB) Control [Vintage].dck.txt,2020-09-12,Vintage Powered
+179,blue black,blue black,-,control,-,Dimir (UB) Control [Vintage].txt,2020-09-12,Vintage Powered
+180,blue black,blue black,-,control,-,Dimir (UB) Control.txt,2020-03-20,Vintage Unpowered
+181,blue black,blue black,-,midrange,-,Dimir (UB) Goodstuff Midrange [WOTC Vintage].txt,2020-07-03,WOTC Vintage
+182,blue black,blue black,-,midrange,-,Dimir (UB) Goodstuff Midrange.txt,2020-07-03,Vintage Unpowered
+183,blue black,blue black,-,combo,reanimator,Dimir (UB) Lutri Reanimator Combo,2021-01-31,Vintage Unpowered
+184,blue black,blue black,-,midrange,-,Dimir (UB) Midrange [WOTC Vintage].txt,2019-07-28,WOTC Vintage
+185,green blue black,blue black,green,combo,reanimator,Dimir (UB) Psychatog Reanimator Combo.txt,2020-09-12,Vintage Unpowered
+186,blue black,black,blue,combo,reanimator,Dimir (UB) Psychatog Recurring Nightmare Reanimator Combo copy.txt,2020-03-20,Vintage Unpowered
+187,blue black,blue black,-,combo,reanimator,Dimir (UB) Psychatog Recurring Nightmare Reanimator Combo.txt,2020-03-20,Vintage Unpowered
+188,blue black,blue black,-,ramp,-,Dimir (UB) Ramp [WOTC Vintage].txt,2019-01-01,WOTC Vintage
+189,green blue black,blue black,green,combo,reanimator,Dimir (UB) Reanimator Combo,2021-01-31,Vintage Unpowered
+190,blue black,blue black,-,combo,reanimator,Dimir (UB) Reanimator Combo 2 [WOTC Vintage].txt,2020-04-25,WOTC Vintage
+191,blue black,blue black,-,combo,reanimator,Dimir (UB) Reanimator Combo 2.11.18.txt,2018-02-11,Vintage Unpowered
+192,blue black,blue black,-,combo,reanimator,Dimir (UB) Reanimator Combo 2.5.18.txt,2018-02-05,Vintage Unpowered
+193,green blue black,blue black,green,combo,reanimator,Dimir (UB) Reanimator Combo 5.31.18.txt,2018-05-31,Vintage Unpowered
+194,red blue black,blue black,red,combo,reanimator,Dimir (UB) Reanimator Combo [Vintage] (2).txt,2020-09-12,Vintage Powered
+195,green blue black,black,green blue,combo,reanimator,Dimir (UB) Reanimator Combo [Vintage].txt,2020-09-12,Vintage Powered
+196,blue black,black,blue,combo,reanimator,Dimir (UB) Reanimator Combo [WOTC Vintage] copy 2.txt,2020-07-03,WOTC Vintage
+197,blue black,blue black,-,combo,reanimator,Dimir (UB) Reanimator Combo [WOTC Vintage] copy 3.txt,2020-07-03,WOTC Vintage
+198,blue black,blue black,-,combo,reanimator,Dimir (UB) Reanimator Combo [WOTC Vintage] copy 4.txt,2020-07-03,WOTC Vintage
+199,blue black,blue black,-,combo,reanimator,Dimir (UB) Reanimator Combo [WOTC Vintage] copy.txt,2020-07-03,WOTC Vintage
+200,blue black white,blue black,white,combo,reanimator,Dimir (UB) Reanimator Combo [WOTC Vintage].txt,2020-07-03,WOTC Vintage
+201,blue black,blue black,-,combo,reanimator,Dimir (UB) Reanimator Combo copy [WOTC Vintage].txt,2020-01-12,WOTC Vintage
+202,blue black,blue black,-,combo,reanimator,Dimir (UB) Reanimator Combo copy.txt,2020-07-03,Vintage Unpowered
+203,blue black,black,blue,combo,reanimator,Dimir (UB) Reanimator Combo.txt,2020-07-03,Vintage Unpowered
+204,blue black,blue black,-,combo,reanimator  artifacts,Dimir (UB) Reanimator Tinker Combo 7.14.18.txt,2018-07-14,Vintage Unpowered
+205,red blue black,blue black,red,midrange,reanimator,Dimir (UB) Recurring Nightmare Midrange [WOTC Vintage].txt,2020-09-12,WOTC Vintage
+206,blue black,blue black,-,midrange,reanimator,Dimir (UB) Recurring Nightmare Midrange.txt,2019-07-07,Vintage Unpowered
+207,blue black,blue black,-,control,spellsmatter,Dimir (UB) Spells Matters Control 4.2.18.txt,2018-04-02,Vintage Unpowered
+208,blue black,blue black,-,aggro control,-,Dimir (UB) Tempo 7.11.18.txt,2018-07-11,Vintage Unpowered
+209,blue black,blue black,-,aggro control,-,Dimir (UB) Tempo 9.8.18.txt,2018-09-08,Vintage Unpowered
+210,blue black,blue black,-,aggro control,-,Dimir (UB) Tempo.txt,2019-10-12,Vintage Unpowered
+211,blue black,blue,black,combo,reanimator  artifacts,Dimir (UB) The Antiquities War Reanimator Combo 5.19.18 [WOTC Vintage].txt,2018-05-19,WOTC Vintage
+212,blue black,blue,black,ramp,artifacts,Dimir (UB) Tinker Artifact Ramp 5.13.18.txt,2018-05-13,Vintage Unpowered
+213,green blue black,blue black,green,combo,reanimator  artifacts,Dimir (UB) Tinker Reanimator Combo 7.6.18 [WOTC Vintage].txt,2018-07-06,WOTC Vintage
+214,blue black,blue black,-,combo,reanimator  artifacts,Dimir (UB) Tinker Reanimator Combodck [WOTC Vintage].txt,2019-01-06,WOTC Vintage
+215,blue black,blue black,-,ramp,artifacts  upheaval,Dimir (UB) Tinker Upheaval Ramp 6.23.18 [WOTC Vintage].txt,2018-06-23,WOTC Vintage
+216,blue black,blue black,-,control,artifacts,Dimir (UB) Tinkerless Tinker Control [WOTC Vintage].txt,2020-03-20,WOTC Vintage
+217,blue black,blue black,-,control,upheaval,Dimir (UB) Upheaval Control [WOTC Vintage].txt,2018-12-05,WOTC Vintage
+218,blue black,blue,black,combo,artifacts,Dimir (UBW) Tinker Combo.txt,2019-07-02,Vintage Unpowered
+219,blue black,blue black,-,control,-,Dimir Control [WOTC Vintage],2021-01-31,WOTC Vintage
+220,blue black white,blue black,white,midrange,-,Esper (UBW) Aggressive Midrange 3.9.18.txt,2018-03-09,Vintage Unpowered
+221,blue black white,black white,blue,aggro,-,Esper (UBW) Aggro.txt,2019-07-02,Vintage Unpowered
+222,blue black white,black,blue white,ramp,artifacts,Esper (UBW) Artifact Ramp [WOTC Vintage].txt,2019-09-03,WOTC Vintage
+223,blue black white,blue white,black,control,balance,Esper (UBW) Balance Control .txt,2017-12-03,Vintage Unpowered
+224,blue black white,blue white,black,control,balance,Esper (UBW) Balance Control 6.13.18.txt,2018-06-13,Vintage Unpowered
+225,blue black white,blue black,white,control,balance,Esper (UBW) Balance Control 7.11.18.txt,2018-07-11,Vintage Unpowered
+226,blue black white,blue white,black,control,balance,Esper (UBW) Balance Control 8.15.18.txt,2018-08-05,Vintage Unpowered
+227,blue black white,blue black,white,control,balance,Esper (UBW) Balance Control 9.8.18.txt,2018-09-08,Vintage Unpowered
+228,blue black white,blue white,black,control,balance,Esper (UBW) Balance Control [WOTC Vintage].txt,2020-03-20,WOTC Vintage
+229,blue black white,blue black white,-,control,balance,Esper (UBW) Balance Control copy.txt,2019-09-03,Vintage Unpowered
+230,blue black white,blue white,black,control,balance,Esper (UBW) Balance Control.txt,2019-09-03,Vintage Unpowered
+231,blue black white,blue white,black,control,balance  moat,Esper (UBW) Balance Moat Control 6.16.18 [WOTC Vintage].txt,2018-06-16,WOTC Vintage
+232,blue black white,blue white,black,control,balance,Esper (UBW) Balance Psychatog Control 10.8.18.txt,2018-10-08,Vintage Unpowered
+233,blue black white,blue black white,-,control,spellsmatter  balance,Esper (UBW) Balance Spells Matters Control 2.9.18.txt,2018-02-09,Vintage Unpowered
+234,blue black white,blue black,white,combo,reanimator  artifacts  balance,Esper (UBW) Balance Tinker Reanimator Combo [WOTC Vintage].txt,2020-03-20,WOTC Vintage
+235,blue black white,blue black white,-,control,balance  upheaval,Esper (UBW) Balance Upheaval Control [WOTC Vintage].txt,2018-12-28,WOTC Vintage
+236,blue black white,blue black white,-,control,-,Esper (UBW) Control,2021-01-31,Vintage Unpowered
+237,blue black white,blue white,black,control,-,Esper (UBW) Control  [WOTC Vintage].txt,2018-12-28,WOTC Vintage
+238,blue black white,blue black white,-,control,-,Esper (UBW) Control 11.18.18.txt,2018-11-18,Vintage Unpowered
+239,blue black white,blue black white,-,control,-,Esper (UBW) Control 12.4.17.txt,2017-12-04,Vintage Unpowered
+240,blue black white,blue black white,-,control,-,Esper (UBW) Control 3.10.18.txt,2018-03-10,Vintage Unpowered
+241,blue black white,blue black white,-,control,-,Esper (UBW) Control 9.16.18.txt,2018-09-16,Vintage Unpowered
+242,blue black white,blue black white,-,control,-,Esper (UBW) Control 9.2.18 [WOTC Vintage].txt,2018-09-02,WOTC Vintage
+243,blue black white,blue black white,-,control,-,Esper (UBW) Control [WOTC VIntage],2021-01-31,NA
+244,blue black white,blue black white,-,control,-,Esper (UBW) Control [WOTC Vintage].txt,2019-08-18,WOTC Vintage
+245,blue black white,blue black white,-,control,-,Esper (UBW) Control.txt,2020-04-25,Vintage Unpowered
+246,blue black white,blue white,black,midrange,-,Esper (UBW) Goodstuff Midrange.txt,2020-07-03,Vintage Unpowered
+247,blue black white,blue white,black,control,-,Esper (UBW) Lutri Control,2021-01-31,Vintage Unpowered
+248,blue black white,black white,blue,midrange,-,Esper (UBW) Midrange 10.13.18.txt,2018-10-13,Vintage Unpowered
+249,blue black white,blue black white,-,midrange,-,Esper (UBW) Midrange 11.22.18 [WOTC Vintage].txt,2018-11-22,WOTC Vintage
+250,blue black white,blue black white,-,midrange,-,Esper (UBW) Midrange [WOTC Vintage].txt,2019-07-28,WOTC Vintage
+251,blue black white,blue black white,-,midrange,-,Esper (UBW) Midrange.txt,2019-07-02,Vintage Unpowered
+252,red blue black white,blue white,red black,control,moat,Esper (UBW) Moat Control,2021-01-31,Vintage Unpowered
+253,blue black white,blue white,black,control,moat,Esper (UBW) Moat Control 1.20.18.txt,2018-01-20,Vintage Unpowered
+254,blue white,blue white,-,control,moat,Esper (UBW) Moat Control 8.12.18 [WOTC Vintage].txt,2018-08-12,WOTC Vintage
+255,blue black white,blue black,white,control,moat,Esper (UBW) Moat Control.txt,2020-01-12,Vintage Unpowered
+256,blue black white,blue white,black,control,opposition  moat,Esper (UBW) Opposition Moat Control 8.30.18.txt,2018-08-30,Vintage Unpowered
+257,blue black white,blue white,black,aggro control,opposition,Esper (UBW) Opposition Tempo 9.15.18.txt,2018-09-15,Vintage Unpowered
+258,blue black white,blue white,black,control,mentor,Esper (UBW) Psychatog Mentor Control 9.10.18.txt,2018-09-10,Vintage Unpowered
+259,blue black white,blue black,white,combo,reanimator,Esper (UBW) Reanimator Combo 3.24.18.txt,2018-03-24,Vintage Unpowered
+260,red blue black white,blue black,red white,combo,reanimator,Esper (UBW) Reanimator Combo 7.4.18.txt,2018-07-04,Vintage Unpowered
+261,blue black white,blue black,white,combo,reanimator,Esper (UBW) Reanimator Combo [WOTC Vintage].txt,2020-07-03,WOTC Vintage
+262,blue black,black,blue,combo,reanimator,Esper (UBW) Reanimator Combo copy 2 [WOTC Vintage].txt,2020-01-12,WOTC Vintage
+263,blue black,black,blue,combo,reanimator,Esper (UBW) Reanimator Combo copy [WOTC Vintage].txt,2020-01-12,WOTC Vintage
+264,blue black white,blue black,white,combo,reanimator,Esper (UBW) Reanimator Combo.txt,2020-01-12,Vintage Unpowered
+265,green blue black white,blue black,green white,midrange,reanimator,Esper (UBW) Reanimator Midrange.txt,2019-07-02,Vintage Unpowered
+266,blue black white,blue black,white,midrange,reanimator,Esper (UBW) Recurring Nightmare Living Death Midrange 10.10.18.txt,2018-10-10,Vintage Unpowered
+267,blue black white,blue black,white,midrange,reanimator,Esper (UBW) Recurring Nightmare Midrange.txt,2020-09-12,Vintage Unpowered
+268,blue black white,black,blue white,combo,reanimator,Esper (UBW) Recurring Nightmare Reanimator Combo [WOTC Vintage].txt,2019-08-18,WOTC Vintage
+269,blue black white,blue white,black,midrange,skullclamp  tokens,Esper (UBW) Skullclamp Tokens Midrange 11.12.18.txt,2018-11-12,Vintage Unpowered
+270,blue white,white,blue,midrange,-,Esper (UBW) Stoneforege Midrange,2021-01-31,Vintage Unpowered
+271,blue black white,blue white,black,aggro control,stoneforge  reveillark,Esper (UBW) Stoneforge Reveillark Tempo 4.28.18 [WOTC Vintage].txt,2018-04-28,WOTC Vintage
+272,blue black white,black white,blue,aggro,stoneforge  skullclamp,Esper (UBW) Stoneforge Skullclamp Aggro [WOTC Vintage].txt,2020-09-12,WOTC Vintage
+273,blue black white,blue white,black,control,superfriends,Esper (UBW) Superfriends Control [WOTC Vintage].txt,2019-04-12,WOTC Vintage
+274,blue black white,blue white,black,control,superfriends,Esper (UBW) Superfriends Control.txt,2019-09-03,Vintage Unpowered
+275,blue black white,blue white,black,midrange,mentor  superfriends,Esper (UBW) Superfriends Mentor Midrange 6.3.18.txt,2018-06-03,Vintage Unpowered
+276,blue black white,blue black white,-,control,moat  superfriends,Esper (UBW) Superfriends Moat Control [WOTC Vintage].txt,2020-07-03,WOTC Vintage
+277,blue black white,black white,blue,control,-,Esper (UBW) Tapout Control [WOTC Vintage].txt,2019-01-02,WOTC Vintage
+278,blue black white,blue black white,-,aggro control,-,Esper (UBW) Tempo [WOTC Vintage].txt,2019-07-02,WOTC Vintage
+279,blue black white,blue white,black,ramp,artifacts,Esper (UBW) Tinker Aritfacts Ramp [WOTC Vintage].txt,2020-09-12,WOTC Vintage
+280,blue black white,blue black,white,ramp,artifacts  balance,Esper (UBW) Tinker Balance Ramp 9.1.18 [WOTC Vintage].txt,2018-09-01,WOTC Vintage
+281,blue black white,blue black white,-,control,artifacts  moat  upheaval,Esper (UBW) Tinker Moat Upheaval Control 7.1.18.txt,2018-07-01,Vintage Unpowered
+282,blue black white,blue white,black,control,artifacts  stoneforge,Esper (UBW) Tinker Stoneforge Control [WOTC Vintage].txt,2020-01-12,WOTC Vintage
+283,blue black white,blue black,white,control,-,Esper (UBW) Torrential Control 12.5.17.txt,2017-12-05,Vintage Unpowered
+284,blue black white,blue black,white,control,upheaval,Esper (UBW) Upheaval Control [WOTC Vintage].txt,2020-04-25,WOTC Vintage
+285,red green blue black white,green blue,red black white,midrange,balance  superfriends,Five Color (WUBRG) Balance Superfriends Midrange 4.22.18 [WOTC Vintage].txt,2018-04-22,WOTC Vintage
+286,red green blue black white,green,red blue black white,ramp,-,Five Color (WUBRG) Ramp 9.25.18 [WOTC Vintage].txt,2018-09-25,WOTC Vintage
+287,red green blue black white,red green,blue black white,aggro,skullclamp,Five Color (WUBRG) Skullclamp Aggro 3.17.18 [WOTC Vintage].txt,2018-03-17,WOTC Vintage
+288,red green black white,NA,red green black white,combo,cheat  channel,Five Color Channel Cheaty Face Combo [WOTC Vintage].txt,2019-08-18,WOTC Vintage
+289,red green blue black white,red blue white,green black,midrange,-,Five Color Goodstuff Midrange [WOTC Vintage].txt,2020-07-03,WOTC Vintage
+290,red green blue black white,green white,red blue black,midrange,-,Five Color Midrange.txt,2019-01-02,Vintage Unpowered
+291,red green blue black white,red green blue black white,-,midrange,-,Five Color Niv-Mizzet Midrange.txt,2021-01-31,Vintage Unpowered
+292,red green blue black white,green black,red blue white,midrange,reanimator  skullclamp,Five Color Skullclamp Recurring Nightmare Midrange.txt,2018-11-29,Vintage Unpowered
+293,red green black white,green white,red black,ramp,-,Four Color (BRGW) Ramp 9.30.18.txt,2018-09-30,Vintage Unpowered
+294,red green black white,green black white,red,midrange,balance,Four Color (RGBW) Balance Goodstuff Midrange 12.15.17.txt,2017-12-15,Vintage Unpowered
+295,red green black white,red black white,green,midrange,-,Four Color (RGBW) Goodstuff Midrange 6.11.18.txt,2018-06-11,Vintage Unpowered
+296,red green black white,green,red black white,midrange,-,Four Color (RGBW) Midrange.txt,2017-12-03,Vintage Unpowered
+297,red green blue black,red blue,green black,combo,twin,Four Color (UBGR) Splinter Twin Combo [WOTC Vintage].txt,2020-07-03,WOTC Vintage
+298,green blue black white,green blue black,white,midrange,-,Four Color (UBGW) Goodstuff Midrange 1.5.18 [WOTC Vintage].txt,2018-01-05,WOTC Vintage
+299,green blue black white,green black,blue white,midrange,-,Four Color (UBGW) Goodstuff Midrange [WOTC Vintage],2021-01-31,WOTC Vintage
+300,red green blue black,green blue black,red,midrange,opposition  reanimator,Four Color (UBRG) Recurring Nightmare Opposition Midrange 12.7.17.txt,2017-12-07,Vintage Unpowered
+301,green blue black white,blue black white,green,control,balance,Four Color (UGBW) Balance Control.txt,2020-07-03,Vintage Unpowered
+302,green blue black white,blue white,green black,control,-,Four Color (UGBW) Control.txt,2020-09-12,Vintage Unpowered
+303,green blue black white,green blue black,white,midrange,edric,Four Color (UGBW) Edric Midrange,2021-01-31,Vintage Unpowered
+304,green blue black white,green black white,blue,midrange,skullclamp  edric,Four Color (UGBW) Skullclamp Edric Midrange.txt,2020-03-20,Vintage Unpowered
+305,green blue black white,blue black white,green,midrange,stoneforge,Four Color (UGBW) Stoneforge Goodstuff Midrange [WOTC Vintage],2021-01-31,WOTC Vintage
+306,red green blue black,blue,red green black,combo,cheat,Four Color (URBG) Cheaty Face Combo 8.22.18.txt,2018-08-22,Vintage Unpowered
+307,red green blue black,red blue,green black,combo,cheat,Four Color (URBG) Cheaty Face Combo.txt,2019-06-16,Vintage Unpowered
+308,red green blue black,red green,blue black,midrange,-,Four Color (URBG) Goodstuff Midrange Colorless.txt,2018-05-26,Vintage Unpowered
+309,red green blue black,red green blue,black,midrange,-,Four Color (URBG) Goodstuff Midrange [WOTC Vintage].txt,2020-07-03,WOTC Vintage
+310,red green blue black,red green blue,black,combo,twin,Four Color (URBG) Kiki-Twin Combo 9.20.18 [WOTC Vintage].txt,2018-09-20,WOTC Vintage
+311,red green blue black,NA,red green blue black,combo,cheat  artifacts,Four Color (URBG) Tinker Cheaty Face Combo.txt,2019-07-02,Vintage Unpowered
+312,red green blue black,green,red blue black,ramp,upheaval,Four Color (URBG) Upheaval Ramp 4.22.18.txt,2018-04-22,Vintage Unpowered
+313,red green blue black,blue,red green black,ramp,wildfire,Four Color (URBG) Wildfire Ramp [WOTC Vintage].txt,2019-04-12,WOTC Vintage
+314,red blue black white,blue white,red black,control,balance,Four Color (URBW) Balance Control 4.22.18.txt,2018-04-22,Vintage Unpowered
+315,red green blue white,blue white,red green,control,balance,Four Color (URBW) Balance Control [WOTC Vintage].txt,2020-09-12,WOTC Vintage
+316,red blue black white,blue black,red white,control,balance  upheaval,Four Color (URBW) Balance Upheaval Control [WOTC Vintage].txt,2020-04-25,WOTC Vintage
+317,red blue black white,blue black white,red,ramp,balance  upheaval,Four Color (URBW) Balance Upheaval Ramp.txt,2017-12-03,Vintage Unpowered
+318,red blue black white,red blue white,black,control,wildfire  balance  superfriends,Four Color (URBW) Balance Wildfire Superfriends Control 8.11.18.txt,2018-08-11,Vintage Unpowered
+319,red blue black white,red blue,black white,combo,twin,Four Color (URBW) Kiki Combo.txt,2020-07-03,Vintage Unpowered
+320,red blue black white,red blue,black white,midrange,-,Four Color (URBW) Midrange.txt,2017-12-03,Vintage Unpowered
+321,red blue black white,red blue black white,-,midrange,opposition,Four Color (URBW) Opposition Midrange 9.1.18.txt,2018-09-01,Vintage Unpowered
+322,red blue black white,blue black,red white,midrange,opposition,Four Color (URBW) Opposition Midrange 9.26.18.txt,2018-09-26,Vintage Unpowered
+323,red blue black white,black,red blue white,combo,-,Four Color (URBW) Oracle Combo [WOTC Vintage].txt,2020-07-03,WOTC Vintage
+324,red blue black white,red blue,black white,ramp,artifacts  upheaval,Four Color (URBW) Tinker Upheaval Ramp 4.7.18 [WOTC Vintage].txt,2018-04-07,WOTC Vintage
+325,red blue black white,blue white,red black,ramp,upheaval,Four Color (URBW) Upheaval Ramp 6.9.18.txt,2018-06-09,Vintage Unpowered
+326,red green blue black,red,green blue black,combo,cheat  channel,Four Color (URGB) Channel Cheaty Face Combo.txt,2019-07-07,Vintage Unpowered
+327,red green blue black,NA,red green blue black,combo,cheat,Four Color (URGB) Cheaty Face Combo [WOTC Vintage].txt,2019-07-28,WOTC Vintage
+328,red green blue black,blue,red green black,combo,cheat,Four Color (URGB) Cheaty Face Combo copy.txt,2020-03-20,Vintage Unpowered
+329,red green blue black,blue black,red green,combo,cheat,Four Color (URGB) Cheaty Face Combo.txt,2020-03-20,Vintage Unpowered
+330,green blue white,green,blue white,midrange,naturalorder,Four Color (URGW)  Natural Order Midrange [WOTC Vintage].txt,2020-04-25,WOTC Vintage
+331,red green blue white,green blue,red white,midrange,armageddon  edric,Four Color (URGW) Edric Armageddon Midrange [WOTC Vintage].txt,2020-07-03,WOTC Vintage
+332,red green blue white,green white,red blue,midrange,-,Four Color (URGW) Goodstuff Midrange [WOTC Vintage].txt,2020-07-03,WOTC Vintage
+333,red green blue white,red blue,green white,combo,twin,Four Color (URGW) Kiki Combo 6.20.18.txt,2018-06-20,Vintage Unpowered
+334,red green blue white,red blue,green white,combo,twin  cheat  artifacts,Four Color (URGW) Kiki Twin Tinker Sneak Attack Cheaty Face Combo 9.1.18.txt,2018-09-01,Vintage Unpowered
+335,red green blue white,red green,blue white,midrange,-,Four Color (URGW) Lands Matters Midrange [WOTC Vintage].txt,2020-09-12,WOTC Vintage
+336,red green blue white,green,red blue white,midrange,skullclamp  naturalorder,Four Color (URGW) Natural Order Skullclamp Midrange [WOTC Vintage],2021-01-31,WOTC Vintage
+337,red green blue white,red green blue white,-,control,-,Four Color (URGW) Omnath Control,2021-01-31,Vintage Unpowered
+338,red green blue black white,red green white,blue black,midrange,-,Four Color (URGW) Omnath Midrange [WOTC Vintage],2021-01-31,WOTC Vintage
+339,red green blue white,blue white,red green,midrange,reveillark,Four Color (URGW) Reveillark Midrange 1.21.18.txt,2018-01-21,Vintage Unpowered
+340,red green blue white,red blue,green white,aggro control,spellsmatter,Four Color (URGW) Spells Matters Tempo,2021-01-31,Vintage Unpowered
+341,red green blue white,blue white,red green,combo,cheat  artifacts  oath,Four Color (WURG) Tinker Oath and Tell Cheaty Face Combo 4.21.18 [WOTC Vintage].txt,2018-04-21,WOTC Vintage
+342,red green blue black,green,red blue black,combo,cheat,Four-Color (URBG) Cheaty Face Combo 2.24.18.txt,2018-02-24,Vintage Unpowered
+343,green black,green,black,midrange,-,Golgari (BG) +1+1 Counters Matters Midrange.txt,2020-07-03,Vintage Unpowered
+344,green black,green black,-,aggro,-,Golgari (BG) Aggro.txt,2017-12-03,Vintage Unpowered
+345,green black,green black,-,midrange,-,Golgari (BG) Goodstuff Midrange [WOTC Vintage].txt,2020-07-03,WOTC Vintage
+346,green black,green black,-,midrange,-,Golgari (BG) Lands Matters Midrange.txt,2019-07-28,Vintage Unpowered
+347,green black,green black,-,midrange,stax,Golgari (BG) Midrange Stax 1.15.18 [WOTC Vintage].txt,2018-01-15,WOTC Vintage
+348,green black,green,black,midrange,naturalorder,Golgari (BG) Natural Order Midrange.txt,2020-07-03,Vintage Unpowered
+349,green black,green,black,ramp,naturalorder,Golgari (BG) Natural Order Ramp 8.12.18.txt,2018-08-12,Vintage Unpowered
+350,green black,green black,-,combo,cheat  naturalorder  survival,Golgari (BG) Natural Order Survival Cheaty Face Combo [WOTC Vintage].txt,2019-09-03,WOTC Vintage
+351,green black,green black,-,combo,reanimator,Golgari (BG) Reanimator Combo 3.24.18.txt,2018-03-24,Vintage Unpowered
+352,green black,green black,-,combo,reanimator,Golgari (BG) Reanimator Combo [WOTC Vintage].txt,2019-10-12,WOTC Vintage
+353,green black,green black,-,combo,reanimator,Golgari (BG) Reanimator Combo.txt,2020-04-25,Vintage Unpowered
+354,green black,green black,-,midrange,reanimator,Golgari (BG) Recurring Nightmare Midrange.txt,2020-01-12,Vintage Unpowered
+355,green black,green black,-,combo,reanimator,Golgari (BG) Recurring Nightmare Reanimator Combo.txt,2019-09-15,Vintage Unpowered
+356,green black,green black,-,combo,reanimator,Golgari (BG) Recurring Nightmare Reanimator Living Death Combo [WOTC Vintage].txt,2020-01-12,WOTC Vintage
+357,green black,green,black,ramp,skullclamp,Golgari (BG) Skullclamp Super Ramp 10.11.18.txt,2018-10-11,Vintage Unpowered
+358,green black,black,green,aggro,stax,Golgari (BG) Stax Aggro 3.17.18.txt,2018-03-17,Vintage Unpowered
+359,green black,green black,-,combo,reanimator  survival,Golgari (BG) Survival Reanimator Combo [WOTC Vintage].txt,2020-01-12,WOTC Vintage
+360,green black,green black,-,midrange,-,Golgari (BG) Vraska Midrange 10.13.18.txt,2018-10-13,Vintage Unpowered
+361,green black,green black,-,midrange,-,Golgari (BG) Vraska Midrange 10.5.18.txt,2018-10-05,Vintage Unpowered
+362,red blue black,red blue,black,midrange,artifacts,Grixis (UBR) Artifacts Matters Midrange,2021-01-31,Vintage Unpowered
+363,red blue black,blue black,red,control,-,Grixis (UBR) Bolas Control [WOTC Vintage].txt,2020-09-12,WOTC Vintage
+364,red blue black,red blue black,-,control,-,Grixis (UBR) Control 4.21.18 [WOTC Vintage].txt,2018-04-21,WOTC Vintage
+365,red blue black,red blue,black,control,-,Grixis (UBR) Control [WOTC Vintage].txt,2019-07-02,WOTC Vintage
+366,red blue black,red blue,black,control,-,Grixis (UBR) Control.txt,2020-09-12,Vintage Unpowered
+367,red blue black,black,red blue,combo,reanimator,Grixis (UBR) Gifts Reanimator Combo [WOTC Vintage].txt,2019-04-12,WOTC Vintage
+368,red blue black,red blue,black,combo,twin,Grixis (UBR) Kiki Combo [WOTC Vintage].txt,2020-07-03,WOTC Vintage
+369,red blue black,red blue black,-,midrange,twin,Grixis (UBR) Kiki-Jiki Goodstuff Midrange 11.24.18 [WOTC Vintage].txt,2018-11-24,WOTC Vintage
+370,red blue black,red blue,black,combo  midrange,twin  wildfire  upheaval,Grixis (UBR) Kiki-Twin Combo Upheaval Wildfire Midrange 10.14.18.txt,2018-10-14,Vintage Unpowered
+371,red blue black,red blue black,-,combo,twin,Grixis (UBR) Kiki-Twin Combo [WOTC Vintage].txt,2020-09-12,WOTC Vintage
+372,red blue black,red blue black,-,midrange,-,Grixis (UBR) Midrange,2021-01-31,Vintage Unpowered
+373,red blue black,red blue black,-,midrange,-,Grixis (UBR) Midrange 9.12.18 [WOTC Vintage].txt,2018-09-12,WOTC Vintage
+374,red green blue black,blue black,red green,combo,reanimator,Grixis (UBR) Psychatog Reanimator Combo.txt,2018-12-23,Vintage Unpowered
+375,red green blue black,blue black,red green,combo,reanimator,Grixis (UBR) Psychatog Reanimator Sneak Attack Combo.txt,2018-12-23,Vintage Unpowered
+376,red blue black,blue black,red,ramp,-,Grixis (UBR) Ramp 7.14.18.txt,2018-07-14,Vintage Unpowered
+377,red blue black white,blue black,red white,control  ramp,-,Grixis (UBR) Ramp Control.txt,2017-12-03,Vintage Unpowered
+378,red blue black,red blue black,-,combo,reanimator  cheat,Grixis (UBR) Reanimator Cheaty Face Combo [WOTC Vintage].txt,2020-01-12,WOTC Vintage
+379,red blue black,blue black,red,combo,reanimator,Grixis (UBR) Reanimator Combo 11.14.18.txt,2018-11-14,Vintage Unpowered
+380,red blue black,red blue black,-,combo,reanimator,Grixis (UBR) Reanimator Combo 6.4.18.txt,2018-06-04,Vintage Unpowered
+381,red blue black,blue black,red,combo,reanimator,Grixis (UBR) Reanimator Combo 7.6.18.txt,2018-07-06,Vintage Unpowered
+382,red blue black,blue black,red,combo,reanimator,Grixis (UBR) Reanimator Combo [WOTC Vintage].txt,2019-09-15,WOTC Vintage
+383,red blue black,blue black,red,combo,reanimator,Grixis (UBR) Reanimator Combo copy [WOTC Vintage].txt,2019-09-15,WOTC Vintage
+384,red blue black,blue black,red,combo,reanimator,Grixis (UBR) Reanimator Combo.txt,2019-04-28,Vintage Unpowered
+385,red blue black,red blue black,-,control,reanimator,Grixis (UBR) Reanimator Control.txt,2019-07-02,Vintage Unpowered
+386,red blue black,red black,blue,midrange,reanimator,Grixis (UBR) Reanimator Midrange.txt,2019-07-28,Vintage Unpowered
+387,red blue black,black,red blue,combo,reanimator,Grixis (UBR) Reanimator Sneak Attack Combo [WOTC Vintage].txt,2019-05-26,WOTC Vintage
+388,red blue black,red blue,black,control,reanimator,Grixis (UBR) Recurring Nightmare Control.txt,2017-12-03,Vintage Unpowered
+389,red blue black,blue black,red,midrange,opposition  reanimator,Grixis (UBR) Recurring Nightmare Opposition Midrange 8.18.18.txt,2018-08-18,Vintage Unpowered
+390,red blue black,blue black,red,midrange,skullclamp,Grixis (UBR) Skullclamp Midrange [WOTC Vintage].txt,2020-07-03,WOTC Vintage
+391,red blue black,red black,blue,combo,cheat,Grixis (UBR) Sneak Attack Cheaty Face Combo [WOTC Vintage].txt,2020-09-12,WOTC Vintage
+392,red blue black,red blue black,-,combo,reanimator,Grixis (UBR) Sneak Attack Reanimator Combo 7.9.18.txt,2018-07-09,Vintage Unpowered
+393,red green blue black,blue black,red green,combo,reanimator,Grixis (UBR) Sneak Attack Reanimator Combo.txt,2020-07-03,Vintage Unpowered
+394,red blue black,red blue,black,control,spellsmatter,Grixis (UBR) Spells Matters Control,2021-01-31,Vintage Unpowered
+395,red blue black,red blue black,-,control,spellsmatter,Grixis (UBR) Spells Matters Control 6.2.18.txt,2018-06-02,Vintage Unpowered
+396,red blue black,red blue black,-,combo,storm,Grixis (UBR) Storm Combo (Old Border Cube).txt,2020-09-12,Vintage Unpowered
+397,red blue black,blue,red black,combo,storm,Grixis (UBR) Storm Combo [WOTC Vintage].txt,2018-12-22,WOTC Vintage
+398,red blue black,red black,blue,aggro,-,Grixis (UBR) Time Walk Aggro 4.27.18 [WOTC Vintage].txt,2018-04-27,WOTC Vintage
+399,red blue black,blue,red black,control,artifacts  abyss  crucible,Grixis (UBR) Tinker Abyss Crucible Control.txt,2017-12-03,Vintage Unpowered
+400,red blue black,blue,red black,ramp,artifacts,Grixis (UBR) Tinker Artifact Ramp 9.29.18.txt,2018-09-29,Vintage Unpowered
+401,red blue black,red blue,black,ramp,artifacts,Grixis (UBR) Tinker Artifact Ramp.txt,2020-01-12,Vintage Unpowered
+402,red blue black,blue,red black,control,artifacts,Grixis (UBR) Tinker Control 4.1.18.txt,2018-04-01,Vintage Unpowered
+403,red blue black,red blue black,-,control,artifacts,Grixis (UBR) Tinker Control [WOTC Vintage].txt,2020-09-12,WOTC Vintage
+404,red blue black,blue black,red,ramp,artifacts,Grixis (UBR) Tinker Ramp.txt,2018-12-29,Vintage Unpowered
+405,red blue black,blue black,red,combo,cheat  artifacts,Grixis (UBR) Tinker Show and Tell Cheaty Face Combo 8.11.18.txt,2018-08-11,Vintage Unpowered
+406,red blue black,blue,red black,ramp,artifacts  upheaval,Grixis (UBR) Tinker Upheaval Ramp 10.4.18.txt,2018-10-04,Vintage Unpowered
+407,red blue black,blue black,red,ramp,artifacts  upheaval,Grixis (UBR) Tinker Upheaval Ramp.txt,2017-12-03,Vintage Unpowered
+408,red blue black,blue,red black,ramp,wildfire  artifacts  upheaval,Grixis (UBR) Tinker Wildfire Upheaval Ramp 9.21.18.txt,2018-09-21,Vintage Unpowered
+409,red blue black,red blue black,-,midrange,twin,Grixis (UBR) Twin Midrange [WOTC Vintage].txt,2019-01-09,WOTC Vintage
+410,red blue black,blue,red black,ramp,artifacts  upheaval,Grixis (UBR) Upheaval Artifacts Matters Ramp 9.9.18 [WOTC Vintage].txt,2018-09-09,WOTC Vintage
+411,red blue,red blue,-,control,upheaval,Grixis (UBR) Upheaval Control.txt,2018-12-11,Vintage Unpowered
+412,red blue black,red blue,black,ramp,wildfire  artifacts  upheaval,Grixis (UBR) Upheaval Wildfire Artifacts Matter Ramp.txt,2020-03-20,Vintage Unpowered
+413,red blue black,red blue,black,control,wildfire  upheaval,Grixis (UBR) Upheaval Wildfire Control.txt,2020-03-20,Vintage Unpowered
+414,red blue black,red black,blue,control,wildfire  upheaval  superfriends,Grixis (UBR) Upheaval Wildfire Superfriends Control.txt,2017-12-03,Vintage Unpowered
+415,red blue black,red blue,black,midrange,artifacts,Grixis (UBR) Urza Artifacts Midrange.txt,2020-09-12,Vintage Unpowered
+416,red blue black,red blue,black,ramp,wildfire,Grixis (UBR) Wildfire Ramp 11.24.18.txt,2018-11-24,Vintage Unpowered
+417,red blue black,red black,blue,midrange,-,Grixis (UBR) Yawgmoth Aggressive Midrange [WOTC Vintage].txt,2020-03-20,WOTC Vintage
+418,red blue black,blue black,red,ramp,reanimator  artifacts,Grixis (URB) Recurring Nightmare Reanimator Artifacts Matters Ramp 12.25.17.txt,2017-12-25,Vintage Unpowered
+419,red blue black,red blue black,-,combo,storm,Grixis (URB) Storm Combo [WOTC Vintage],2021-01-31,WOTC Vintage
+420,red blue black,red blue,black,aggro control,-,Grixis (URB) Tempo,2021-01-31,Vintage Unpowered
+421,red green,red green,-,midrange,-,Gruul (RG) Aggressive Midrange [WOTC Vintage].txt,2018-11-30,WOTC Vintage
+422,red green,red green,-,midrange,tokens,Gruul (RG) Aggressive Tokens Midrange.txt,2020-04-25,Vintage Unpowered
+423,red green,red green,-,midrange,twin,Gruul (RG) Aggressive Twin Midrange.txt,2020-04-25,Vintage Unpowered
+424,red green,red,green,aggro,-,Gruul (RG) Aggro [WOTC Vintage].txt,2020-04-25,WOTC Vintage
+425,red green,red,green,aggro,-,Gruul (RG) Aggro copy.txt,2019-06-16,Vintage Unpowered
+426,red green,red,green,aggro,-,Gruul (RG) Aggro.txt,2019-06-16,Vintage Unpowered
+427,red green,red green,-,ramp,channel,Gruul (RG) Channel Ramp.txt,2020-09-12,Vintage Unpowered
+428,red green,red green,-,midrange,-,Gruul (RG) Goodstuff Midrange 2 [WOTC Vintage].txt,2020-04-25,WOTC Vintage
+429,red green,red green,-,midrange,-,Gruul (RG) Goodstuff Midrange [WOTC Vintage].txt,2020-04-25,WOTC Vintage
+430,red green,red green,-,midrange,naturalorder,Gruul (RG) Lutri Natural Order Monarch Midrange,2021-01-31,Vintage Unpowered
+431,red green,red green,-,midrange,survival,Gruul (RG) Lutri Survival Midrange,2021-01-31,Vintage Unpowered
+432,red green,red green,-,midrange,-,Gruul (RG) Midrange,2021-01-31,Vintage Unpowered
+433,red green,red green,-,midrange,-,Gruul (RG) Midrange (1).txt,2020-09-12,Vintage Unpowered
+434,red green,red green,-,midrange,-,Gruul (RG) Midrange [WOTC Vintage].txt,2020-04-25,WOTC Vintage
+435,red green,red green,-,midrange,-,Gruul (RG) Midrange.txt,2020-09-12,Vintage Unpowered
+436,red green,red green,-,ramp,naturalorder,Gruul (RG) Natural Order Fires Ramp 11.8.18.txt,2018-11-08,Vintage Unpowered
+437,red green,red green,-,midrange  ramp,naturalorder,Gruul (RG) Natural Order Midrange Ramp.txt,2017-12-03,Vintage Unpowered
+438,red green,green,red,ramp,naturalorder,Gruul (RG) Natural Order Ramp [WOTC Vintage].txt,2019-01-06,WOTC Vintage
+439,red green,red green,-,ramp,naturalorder,Gruul (RG) Natural Order Rofellos Ramp [WOTC Vintage].txt,2020-03-20,WOTC Vintage
+440,green,green,-,ramp,naturalorder,Gruul (RG) Natural Order Rofellos Ramp copy.txt,2020-03-20,Vintage Unpowered
+441,red green,green,red,midrange,naturalorder  survival,Gruul (RG) Natural Order Survival Midrange 8.10.18.txt,2018-08-10,Vintage Unpowered
+442,red green,red,green,midrange  ramp,-,Gruul (RG) Ramp Midrange.txt,2017-12-03,Vintage Unpowered
+443,red green,red green,-,midrange,survival,Gruul (RG) Rancor Survival Aggressive Midrange 6.17.18.txt,2018-06-17,Vintage Unpowered
+444,red green,green,red,midrange,superfriends  survival,Gruul (RG) Survival Superfriends Midrange.txt,2020-09-12,Vintage Unpowered
+445,red green,green,red,ramp,-,Gruul (RG) Tooth and Nail Super Ramp [WOTC Vintage].txt,2020-03-20,WOTC Vintage
+446,red blue,red blue,-,combo  midrange,twin,Izzet (UR) Aggressive Twin Combo Midrange 6.8.18.txt,2018-06-08,Vintage Unpowered
+447,red blue,red,blue,aggro,-,Izzet (UR) Aggro [WOTC Vintage].txt,2020-07-03,WOTC Vintage
+448,red blue,blue,red,control,wildfire  artifacts,Izzet (UR) Artifacts Matter Wildfire Control.txt,2020-03-20,Vintage Unpowered
+449,red blue,red blue,-,combo,cheat,Izzet (UR) Cheaty Face Combo.txt,2019-08-18,Vintage Unpowered
+450,red green blue,red blue,green,combo,cheat  upheaval,Izzet (UR) Cheaty Face Upheaval Combo [WOTC Vintage].txt,2019-09-03,WOTC Vintage
+451,red blue,red blue,-,control,-,Izzet (UR) Control 5.19.18.txt,2018-05-19,Vintage Unpowered
+452,red blue,red blue,-,control,-,Izzet (UR) Control [WOTC Vintage].txt,2019-02-10,WOTC Vintage
+453,red blue,red blue,-,control,-,Izzet (UR) Control.txt,2020-07-03,Vintage Unpowered
+454,red blue,red blue,-,aggro control,burn,Izzet (UR) Counter Burn Tempo.txt,2019-10-12,Vintage Unpowered
+455,red blue,red blue,-,aggro,burn  counterburn,Izzet (UR) Counterburn Aggro.txt,2017-12-03,Vintage Unpowered
+456,red blue,red,blue,aggro control,burn  counterburn,Izzet (UR) Counterburn Tempo  [WOTC Vintage].txt,2018-12-28,WOTC Vintage
+457,red blue,red blue,-,aggro control,burn  counterburn,Izzet (UR) Counterburn Tempo 4.17.18.txt,2018-04-17,Vintage Unpowered
+458,red blue black,red blue,black,aggro control,burn  counterburn,Izzet (UR) Counterburn Tempo [WOTC Vintage].txt,2019-04-12,WOTC Vintage
+459,red blue,red blue,-,combo,twin,Izzet (UR) Kiki Combo.txt,2019-09-03,Vintage Unpowered
+460,red blue,red blue,-,combo,twin,Izzet (UR) Kiki-Twin Combo 3.10.18.txt,2018-03-10,Vintage Unpowered
+461,red blue,red blue,-,combo,twin,Izzet (UR) Kiki-Twin Combo [WOTC Vintage] copy.txt,2020-07-03,WOTC Vintage
+462,red blue,red blue,-,combo,twin,Izzet (UR) Kiki-Twin Combo [WOTC Vintage].txt,2020-09-12,WOTC Vintage
+463,red blue,red blue,-,combo,twin,Izzet (UR) Kiki-Twin Combo.txt,2020-04-25,Vintage Unpowered
+464,green black,green black,-,combo,twin  wildfire,Izzet (UR) Kiki-Twin Wildfire Combo.txt,2020-01-12,Vintage Unpowered
+465,red blue,red blue,-,midrange,-,Izzet (UR) Midrange 12.22.17.txt,2017-12-22,Vintage Unpowered
+466,red blue,red blue,-,midrange,-,Izzet (UR) Midrange 12.5.17.txt,2017-12-05,Vintage Unpowered
+467,red blue,red blue,-,midrange,-,Izzet (UR) Midrange [Pioneer].txt,2020-07-03,Pioneer
+468,red blue black,red blue,black,combo,-,Izzet (UR) Sneak Attack Combo [WOTC Vintage].txt,2020-01-12,WOTC Vintage
+469,red blue,red blue,-,combo,twin,Izzet (UR) Sneak Attack Kiki Combo [WOTC Vintage].txt,2019-10-12,WOTC Vintage
+470,red blue,red blue,-,control,spellsmatter,Izzet (UR) Spells Matters Control.txt,2019-04-12,Vintage Unpowered
+471,red blue,red blue,-,combo,storm  spellsmatter,Izzet (UR) Spells Matters Storm Combo [WOTC Vintage].txt,2019-09-03,WOTC Vintage
+472,red blue,red blue,-,aggro control,spellsmatter,Izzet (UR) Spells Matters Tempo [Vintage],2021-01-31,Vintage Powered
+473,red blue,blue,red,aggro control,spellsmatter,Izzet (UR) Spells Matters Tempo.txt,2020-07-03,Vintage Unpowered
+474,red blue,red blue,-,combo,twin  spellsmatter,Izzet (UR) Spells Matters Twin Combo [WOTC Vintage].txt,2020-03-20,WOTC Vintage
+475,red blue,red blue,-,combo,twin,Izzet (UR) Splinter Twin Combo [WOTC Vintage].txt,2020-07-03,WOTC Vintage
+476,red blue,red blue,-,combo,storm,Izzet (UR) Storm Combo [WOTC Vintage].txt,2020-09-12,WOTC Vintage
+477,red blue,red blue,-,aggro control,-,Izzet (UR) Tempo,2021-01-31,Vintage Unpowered
+478,red blue,red blue,-,aggro control,-,Izzet (UR) Tempo [WOTC Vintage].txt,2019-07-02,WOTC Vintage
+479,red blue,red blue,-,aggro control,-,Izzet (UR) Tempo.txt,2020-07-03,Vintage Unpowered
+480,red blue,blue,red,control,artifacts,Izzet (UR) Tinker Control [WOTC Vintage].txt,2020-09-12,WOTC Vintage
+481,red blue,red blue,-,ramp,wildfire  artifacts,Izzet (UR) Tinker Wildfire Artifact Ramp 5.26.18.txt,2018-05-26,Vintage Unpowered
+482,red blue,blue,red,ramp,wildfire  artifacts,Izzet (UR) Tinker Wildfire Artifacts Matter Ramp.txt,2020-07-03,Vintage Unpowered
+483,red blue,red blue,-,combo  midrange,twin,Izzet (UR) Twin Combo Midrange 8.31.18.txt,2018-08-31,Vintage Unpowered
+484,red blue,red blue,-,combo,twin,Izzet (UR) Twin Combo [WOTC Vintage].txt,2020-09-12,WOTC Vintage
+485,red blue,red blue,-,combo,twin,Izzet (UR) Twin Combo.txt,2020-01-12,Vintage Unpowered
+486,red blue,red blue,-,combo,twin  wildfire,Izzet (UR) Twin Wildfire Combo [WOTC Vintage].txt,2019-07-02,WOTC Vintage
+487,red blue,red blue,-,ramp,artifacts,Izzet (UR) Urza Artifact Ramp.txt,2019-09-03,Vintage Unpowered
+488,red blue,red,blue,combo,twin,Izzet (UR) Welder Kiki Combo [WOTC Vintage].txt,2019-07-07,WOTC Vintage
+489,red blue,red,blue,aggro,-,Izzet (UR)ed Aggro [WOTC Vintage].txt,2020-01-12,WOTC Vintage
+490,red blue white,red blue,white,combo,twin,Jesaki (URW) Kiki Sneak Attack Nahiri Combo [WOTC Vintage].txt,2020-01-12,WOTC Vintage
+491,red blue white,red white,blue,aggro,-,Jeskai (URW) Aggro 12.5.17 [WOTC Vintage].txt,2017-12-05,WOTC Vintage
+492,red blue white,red white,blue,aggro,armageddon,Jeskai (URW) Armageddon Aggro 11.5.18.txt,2018-11-05,Vintage Unpowered
+493,red blue white,blue white,red,control,balance,Jeskai (URW) Balance Control 4.4.18.txt,2018-04-04,Vintage Unpowered
+494,red blue white,red blue white,-,control,balance,Jeskai (URW) Balance Control [WOTC Vintage].txt,2020-03-20,WOTC Vintage
+495,red blue white,blue white,red,control,balance,Jeskai (URW) Balance Control.txt,2019-02-10,Vintage Unpowered
+496,red blue white,blue white,red,control,-,Jeskai (URW) Control [WOTC Vintage].txt,2019-06-08,WOTC Vintage
+497,red blue white,red blue white,-,control,-,Jeskai (URW) Control(1).txt,2020-01-12,Vintage Unpowered
+498,red blue white,blue white,red,control,-,Jeskai (URW) Control.txt,2020-07-03,Vintage Unpowered
+499,red blue white,red blue white,-,combo,twin,Jeskai (URW) Kiki Combo.txt,2020-03-20,Vintage Unpowered
+500,red blue white,red blue,white,combo,twin,Jeskai (URW) Kiki-Twin Combo 12.17.17.txt,2017-12-17,Vintage Unpowered
+501,red blue white,blue white,red,combo,twin,Jeskai (URW) Kiki-Twin Combo 7.27.18.txt,2018-07-27,Vintage Unpowered
+502,red blue white,red blue,white,combo,twin,Jeskai (URW) Kiki-Twin Combo 9.23.18.txt,2018-09-23,Vintage Unpowered
+503,red blue white,red blue,white,combo,twin,Jeskai (URW) Kiki-Twin Combo [WOTC Vintage].txt,2020-01-12,WOTC Vintage
+504,red blue white,red,blue white,combo,twin,Jeskai (URW) Kiki-Twin Combo copy.txt,2020-04-25,Vintage Unpowered
+505,red blue white,red white,blue,combo,twin,Jeskai (URW) Kiki-Twin Combo.txt,2020-07-03,Vintage Unpowered
+506,red blue white,red blue,white,combo,twin  opposition  reveillark,Jeskai (URW) Kiki-Twin Reveillark Opposition Combo.txt,2018-08-28,Vintage Unpowered
+507,red blue white,red blue,white,combo,twin  reveillark  pod,Jeskai (URW) Kiki-Twin Reveillark Pod Combo 9.22.18.txt,2018-09-22,Vintage Unpowered
+508,red blue white,blue white,red,control,mentor,Jeskai (URW) Mentor Control.txt,2020-04-25,Vintage Unpowered
+509,red blue white,blue white,red,midrange,-,Jeskai (URW) Midrange,2021-01-31,Vintage Unpowered
+510,red blue white,white,red blue,midrange,-,Jeskai (URW) Midrange [WOTC Vintage].txt,2020-01-12,WOTC Vintage
+511,red blue white,blue white,red,midrange,-,Jeskai (URW) Midrange copy,2021-01-31,Vintage Unpowered
+512,red blue white,red blue white,-,midrange,-,Jeskai (URW) Midrange.txt,2017-12-03,Vintage Unpowered
+513,red blue white,blue white,red,combo,-,Jeskai (URW) Sneak and Show Combo [WOTC Vintage].txt,2020-01-12,WOTC Vintage
+514,red blue white,blue white,red,control,spellsmatter,Jeskai (URW) Spells Matters Control,2021-01-31,Vintage Unpowered
+515,red blue white,red blue,white,control,spellsmatter,Jeskai (URW) Spells Matters Control 5.20.18.txt,2018-05-20,Vintage Unpowered
+516,red blue white,red blue,white,control,spellsmatter,Jeskai (URW) Spells Matters Control [WOTC Vintage].txt,2020-09-12,WOTC Vintage
+517,red blue white,red blue,white,midrange,spellsmatter,Jeskai (URW) Spells Matters Midrange [WOTC Vintage],2021-01-31,WOTC Vintage
+518,red blue white,red blue,white,aggro control,spellsmatter,Jeskai (URW) Spells Matters Tempo 5.13.18.txt,2018-05-13,Vintage Unpowered
+519,red blue white,blue white,red,control,balance,Jeskai (URW) Spels Matters Balance Control 12.25.17.txt,2017-12-25,Vintage Unpowered
+520,red blue white,red blue white,-,midrange,stoneforge,Jeskai (URW) Stoneforge Midrange.txt,2019-10-12,Vintage Unpowered
+521,red blue white,red blue,white,aggro control,stoneforge  spellsmatter,Jeskai (URW) Stoneforge Spells Matters Tempo.txt,2021-01-31,Vintage Unpowered
+522,red blue white,blue white,red,midrange,superfriends,Jeskai (URW) Superfriends Midrange 7.4.18.txt,2018-07-04,Vintage Unpowered
+523,red blue white,red white,blue,aggro control,-,Jeskai (URW) Tempo.txt,2018-12-13,Vintage Unpowered
+524,red blue white,blue white,red,ramp,artifacts  upheaval,Jeskai (URW) Tinker Upheaval Ramp 4.12.18 [WOTC Vintage].txt,2018-04-12,WOTC Vintage
+525,red blue white,NA,red blue white,ramp,wildfire  artifacts  upheaval,Jeskai (URW) Tinker Upheaval Wildfire Artifact Ramp [WOTC Vintage].txt,2019-05-28,WOTC Vintage
+526,red blue white,blue white,red,control,twin  balance  upheaval,Jeskai (URW) Twin Balance Upheaval Control [WOTC Vintage].txt,2020-01-12,WOTC Vintage
+527,red blue white,red blue,white,control,twin,Jeskai (URW) Twin Control 4.11.18 [WOTC Vintage].txt,2018-04-11,WOTC Vintage
+528,red blue white,red blue,white,control,balance  upheaval,Jeskai (URW) Upheaval Balance Control [WOTC Vintage].txt,2019-09-15,WOTC Vintage
+529,red blue white,red blue,white,midrange,wildfire,Jeskai (URW) Wildfire Midrange.txt,2017-12-03,Vintage Unpowered
+530,red blue white,red blue white,-,ramp,wildfire  artifacts  balance,Jeskai (UWR) Balance Tinker Wildfire Ramp 8.4.18.txt,2018-08-04,Vintage Unpowered
+531,red green black,green black,red,combo,cheat  oath,Jund (RBG) Eureka Cheaty Face Oath Combo 2.17.18.txt,2018-02-17,Vintage Unpowered
+532,red green black,black,red green,combo,reanimator  oath,Jund (RBG) Reanimator Oath Sneak Attack Shenanigans Combo 12.16.17.txt,2017-12-16,Vintage Unpowered
+533,red green black,green black,red,midrange,reanimator  naturalorder,Jund (RBG) Recurring Nightmare Natural Order Midrange 4.28.18.txt,2018-04-28,Vintage Unpowered
+534,red green black,green black,red,midrange,survival,Jund (RBG) Survival Midrange 12.28.17.txt,2017-12-28,Vintage Unpowered
+535,red green black,red black,green,midrange,skullclamp  tokens,Jund (RGB)  Yawgmoth Skullclamp Tokens Midrange.txt,2020-04-25,Vintage Unpowered
+536,red green black,red black,green,aggro,-,Jund (RGB) Aggro.txt,2017-12-03,Vintage Unpowered
+537,red green black,green black,red,midrange,-,Jund (RGB) Books Midrange [WOTC Vintage].dck.txt,2020-09-12,WOTC Vintage
+538,red green black,red green black,-,midrange,superfriends,Jund (RGB) Chandra Tribal Superfriends Midrange.txt,2020-03-20,Vintage Unpowered
+539,red green black,red green,black,combo,cheat  channel,Jund (RGB) Channel Cheaty Face Combo.txt,2018-12-19,Vintage Unpowered
+540,red green black,red green,black,combo,oath  channel,Jund (RGB) Channel Oath Combo.txt,2019-07-02,Vintage Unpowered
+541,red green black,green,red black,combo,cheat,Jund (RGB) Cheaty Face Combo 6.30.18.txt,2018-06-30,Vintage Unpowered
+542,red green black,red,green black,combo,cheat,Jund (RGB) Cheaty Face Combo.txt,2019-08-18,Vintage Unpowered
+543,red green black,green black,red,combo,reanimator  cheat  survival,Jund (RGB) Cheaty Face Reanimator Survival Combo [WOTC Vintage],2021-01-31,WOTC Vintage
+544,red green black,red green,black,midrange,-,Jund (RGB) Goodstuff Midrange,2021-01-31,Vintage Unpowered
+545,red green black,red green black,-,midrange,-,Jund (RGB) Goodstuff Midrange [WOTC Vintage].txt,2020-09-12,WOTC Vintage
+546,red green black,red green black,-,midrange,-,Jund (RGB) Goodstuff Midrange copy,2021-01-31,Vintage Unpowered
+547,red green black,red green black,-,midrange,-,Jund (RGB) Goodstuff Midrange copy 2,2021-01-31,Vintage Unpowered
+548,red green black,red green black,-,midrange,-,Jund (RGB) Goodstuff Midrange copy.txt,2021-01-31,Vintage Unpowered
+549,red green black,red green,black,midrange,-,Jund (RGB) Goodstuff Midrange.txt,2021-01-31,Vintage Unpowered
+550,red green black,red black,green,midrange,-,Jund (RGB) Lands Matters Midrange [Vintage].txt,2020-09-12,Vintage Powered
+551,red green black,red black,green,midrange,-,Jund (RGB) Midrange [WOTC Vintage].txt,2019-06-08,WOTC Vintage
+552,red green black,green,red black,midrange,reanimator  naturalorder  survival,Jund (RGB) Natural Order Recurring Nightmare Survival Midrange.txt,2019-07-02,Vintage Unpowered
+553,red green black,green,red black,midrange,naturalorder,Jund (RGB) Natural Order Sneak Attack Midrange.txt,2020-04-25,Vintage Unpowered
+554,red green black,green black,red,midrange,reanimator,Jund (RGB) Recurring Nightmare Living Death Midrange 12.10.17.txt,2017-12-10,Vintage Unpowered
+555,red green black,red black,green,midrange,reanimator,Jund (RGB) Recurring Nightmare Midrange 7.29.18.txt,2018-07-29,Vintage Unpowered
+556,red green black,green black,red,midrange,reanimator,Jund (RGB) Recurring Nightmare Vraska Midrange 9.24.18.txt,2018-09-24,Vintage Unpowered
+557,red green black white,green,red black white,midrange,survival,Jund (RGB) Recurring Survival Midrange.txt,2017-12-03,Vintage Unpowered
+558,red green black,green black,red,midrange,skullclamp  survival,Jund (RGB) Skullclamp W6 Survival Midrange [WOTC Vintage].txt,2020-09-12,WOTC Vintage
+559,red green black,red black,green,combo,oath,Jund (RGB) Sneak Attack Oath Combo [WOTC Vintage].txt,2020-09-12,WOTC Vintage
+560,red green black,green black,red,combo,reanimator,Jund (RGB) Sneak Attack Reanimator Combo,2021-01-31,Vintage Unpowered
+561,red green black,green black,red,midrange,-,Jund (RGB) Survial Midrange.txt,2019-06-08,Vintage Unpowered
+562,red green black,red green black,-,midrange,-,Jund (RGB) W6 Midrange [WOTC Vintage].txt,2020-09-12,WOTC Vintage
+563,red green black,red green,black,midrange,wildfire,Jund (RGB) Wildfire Midrange 5.25.18.txt,2018-05-25,Vintage Unpowered
+564,red green black,red green black,-,midrange,-,Jund (RGB) Wrenn and Six Golos Fastbond Midrange [WOTC Vintage].txt,2020-04-25,WOTC Vintage
+565,red green black,green black,red,midrange,-,Jund (RGB) Yawgmoth Goodstuff Midrange [WOTC Vintage].txt,2020-01-12,WOTC Vintage
+566,red green black,red green black,-,midrange,skullclamp,Jund (RGB) Yawgmoth Skullclamp Midrange.txt,2019-08-18,Vintage Unpowered
+567,red green black,red green black,-,midrange,superfriends,Jund (RGB) Yawgmoth Superfriends Midrange.txt,2020-01-12,Vintage Unpowered
+568,red black white,red white,black,aggro,-,Mardu (RBGW) Lurrus Aggro,2021-01-31,Vintage Unpowered
+569,red black white,white,red black,aggro,-,Mardu (RBW) Aggro [WOTC Legacy].txt,2020-07-03,WOTC Legacy
+570,red black white,red black,white,aggro,-,Mardu (RBW) Aggro [WOTC Vintage].txt,2019-10-12,WOTC Vintage
+571,red black white,red white,black,aggro,-,Mardu (RBW) Aggro.txt,2020-07-03,Vintage Unpowered
+572,red black white,red white,black,aggro,armageddon,Mardu (RBW) Armageddon Aggro 2.8.18.txt,2018-02-08,Vintage Unpowered
+573,red black white,red black white,-,aggro,armageddon,Mardu (RBW) Armageddon Aggro.txt,2017-12-03,Vintage Unpowered
+574,red black white,red white,black,midrange,-,Mardu (RBW) Midrange [Vintage].txt,2020-07-03,Vintage Powered
+575,red black white,red white,black,control,moat  superfriends,Mardu (RBW) Moat Superfriends Control [WOTC Vintage].txt,2020-09-12,WOTC Vintage
+576,red black white,red black,white,combo,twin  reanimator,Mardu (RBW) Recurring Nightmare Kiki Combo [WOTC Vintage].txt,2020-03-20,WOTC Vintage
+577,red black white,red black white,-,midrange,skullclamp,Mardu (RBW) Skullclamp Midrange,2021-01-31,Vintage Unpowered
+578,red black white,white,red black,aggro,stoneforge,Mardu (RBW) Stoneforge Aggro.txt,2019-10-12,Vintage Unpowered
+579,red black white,black white,red,midrange,stoneforge  moat,Mardu (RBW) Stoneforge Moat Midrange [WOTC Vintage].txt,2020-07-03,WOTC Vintage
+580,red black white,red black,white,midrange,tokens,Mardu (RBW) Tokens Midrange.txt,2019-10-12,Vintage Unpowered
+581,red blue black white,red white,blue black,ramp,wildfire  superfriends,Mardu (RBW) Wildfire Superfriends Ramp 1.21.18.txt,2018-01-21,Vintage Unpowered
+582,black,black,-,aggro,-,Mono Black Aggro,2021-01-31,Vintage Unpowered
+583,black,black,-,aggro,-,Mono Black Aggro 8.20.18.txt,2018-08-20,Vintage Unpowered
+584,black,black,-,aggro,-,Mono Black Aggro.txt,2020-07-03,Vintage Unpowered
+585,black,black,-,aggro,stax,Mono Black Braids Aggro.txt,2020-07-03,Vintage Unpowered
+586,black,black,-,midrange,-,Mono Black Devotion Midrange [WOTC Vintage].txt,2019-09-03,WOTC Vintage
+587,black,black,-,midrange,-,Mono Black Midrange.txt,2020-07-03,Vintage Unpowered
+588,black,black,-,aggro,pox,Mono Black Pox Aggro 3.17.18.txt,2018-03-17,Vintage Unpowered
+589,red,red,-,combo,reanimator,Mono Black Reanimator Combo copy.txt,2020-01-12,Vintage Unpowered
+590,green black,black,green,combo,reanimator,Mono Black Reanimator Combo.txt,2020-01-12,Vintage Unpowered
+591,black,black,-,aggro,skullclamp,Mono Black Skullclamp Aggro.txt,2020-07-03,Vintage Unpowered
+592,black,black,-,aggro,-,Mono Black Zombie Aggro.txt,2020-01-12,Vintage Unpowered
+593,blue,blue,-,ramp,artifacts,Mono Blue Tinker Ramp 12.18.17 [WOTC Vintage].txt,2017-12-18,WOTC Vintage
+594,green,green,-,ramp,channel,Mono Green Channel Ramp [WOTC Vintage].txt,2020-04-25,WOTC Vintage
+595,green,green,-,ramp,channel,Mono Green Channel Tooth and Nail Super Ramp.txt,2019-01-01,Vintage Unpowered
+596,green,green,-,ramp,naturalorder,Mono Green Natural Order Ramp,2021-01-31,Vintage Unpowered
+597,green,green,-,ramp,naturalorder,Mono Green Natural Order Ramp [WOTC Vintage],2021-01-31,WOTC Vintage
+598,green,green,-,ramp,naturalorder,Mono Green Natural Order Tooth and Nail Super Ramp 12.30.17.txt,2017-12-30,Vintage Unpowered
+599,green,green,-,ramp,-,Mono Green Ramp.txt,2020-04-25,Vintage Unpowered
+600,green,green,-,ramp,-,Mono Green Rofellos Ramp [WOTC Vintage].txt,2020-04-25,WOTC Vintage
+601,green,green,-,ramp,-,Mono Green Rofellos Tooth and Nail Ramp [WOTC Vintage].txt,2020-01-12,WOTC Vintage
+602,green,green,-,ramp,skullclamp  naturalorder,Mono Green Skullclamp Natural Order Ramp.txt,2020-04-25,Vintage Unpowered
+603,green,green,-,ramp,survival,Mono Green Survival Ramp [WOTC Vintage].txt,2020-09-12,WOTC Vintage
+604,green,green,-,ramp,-,Mono Green Tooth and Nail Ramp [WOTC Vintage].txt,2019-01-01,WOTC Vintage
+605,red,red,-,aggro,-,Mono R Aggro 3.28.18.txt,2018-03-28,Vintage Unpowered
+606,red,red,-,midrange,monored,Mono Red Aggressive Midrange [WOTC Vintage],2021-01-31,WOTC Vintage
+607,red,red,-,midrange,monored,Mono Red Aggressive Midrange [WOTC Vintage].txt,2020-09-12,WOTC Vintage
+608,red,red,-,aggro,monored,Mono Red Aggro,2021-01-31,Vintage Unpowered
+609,red,red,-,aggro,monored,Mono Red Aggro 11.12.18.txt,2018-11-12,Vintage Unpowered
+610,red,red,-,aggro,monored,Mono Red Aggro 12.14.17 [WOTC Vintage].txt,2017-12-14,WOTC Vintage
+611,red,red,-,aggro,monored,Mono Red Aggro 2 8.14.18.txt,2018-08-15,Vintage Unpowered
+612,red,red,-,aggro,monored,Mono Red Aggro 3.3.18.txt,2018-03-31,Vintage Unpowered
+613,red,red,-,aggro,monored,Mono Red Aggro 7.15.18.txt,2018-07-15,Vintage Unpowered
+614,red,red,-,aggro,monored,Mono Red Aggro 7.29.18.txt,2018-07-29,Vintage Unpowered
+615,red,red,-,aggro,monored,Mono Red Aggro 8.15.18.txt,2018-08-15,Vintage Unpowered
+616,red,red,-,aggro,monored,Mono Red Aggro 9.16.18 [WOTC Vintage].txt,2018-09-16,WOTC Vintage
+617,red,red,-,aggro,burn  monored,Mono Red Aggro Burn [WOTC Vintage].txt,2018-12-16,WOTC Vintage
+618,red white,red,white,aggro,monored,Mono Red Aggro [WOTC Vintage] copy 2.txt,2020-07-03,WOTC Vintage
+619,red,red,-,aggro,monored,Mono Red Aggro [WOTC Vintage] copy 3.txt,2020-07-03,WOTC Vintage
+620,red,red,-,aggro,monored,Mono Red Aggro [WOTC Vintage] copy 4.txt,2020-07-03,WOTC Vintage
+621,red white,red,white,aggro,monored,Mono Red Aggro [WOTC Vintage] copy.txt,2020-07-03,WOTC Vintage
+622,red white,red white,-,aggro,monored,Mono Red Aggro [WOTC Vintage].txt,2020-07-03,WOTC Vintage
+623,red,red,-,aggro,monored,Mono Red Aggro copy,2021-01-31,Vintage Unpowered
+624,red,red,-,aggro,monored,Mono Red Aggro copy 2 [WOTC Vintage].txt,2020-01-12,WOTC Vintage
+625,red,red,-,aggro,monored,Mono Red Aggro copy 2.dck,2021-01-31,Vintage Unpowered
+626,red,red,-,aggro,monored,Mono Red Aggro copy 2.txt,2020-03-20,Vintage Unpowered
+627,red,red,-,aggro,monored,Mono Red Aggro copy 3.txt,2020-03-20,Vintage Unpowered
+628,red,red,-,aggro,monored,Mono Red Aggro copy 4.txt,2020-01-12,Vintage Unpowered
+629,red,red,-,aggro,monored,Mono Red Aggro copy [WOTC Vintage].txt,2020-01-12,WOTC Vintage
+630,red,red,-,aggro,monored,Mono Red Aggro copy.txt,2020-03-20,Vintage Unpowered
+631,red,red,-,aggro,monored,Mono Red Aggro.txt,2020-09-12,Vintage Unpowered
+632,red,red,-,aggro,twin  monored,Mono Red Kiki Aggro.txt,2020-07-03,Vintage Unpowered
+633,red,red,-,combo,twin  monored,Mono Red Kiki-Twin Combo 10.7.18.txt,2018-10-07,Vintage Unpowered
+634,red,red,-,midrange,monored,Mono Red Midrange 10.14.18.txt,2018-10-14,Vintage Unpowered
+635,red,red,-,midrange,monored,Mono Red Midrange [WOTC Vintage].txt,2020-09-12,WOTC Vintage
+636,white,white,-,midrange,monowhite,Mono White Aggressive Midrange 8.23.18 [WOTC Vintage].txt,2018-08-23,WOTC Vintage
+637,white,white,-,aggro,monowhite,Mono White Aggro,2021-01-31,Vintage Unpowered
+638,white,white,-,aggro,monowhite,Mono White Aggro (1) (2).txt,2020-09-12,Vintage Unpowered
+639,white,white,-,aggro,monowhite,Mono White Aggro (1).txt,2020-09-12,Vintage Unpowered
+640,white,white,-,aggro,monowhite,Mono White Aggro 2.11.18.txt,2018-02-11,Vintage Unpowered
+641,white,white,-,aggro,monowhite,Mono White Aggro 4.1.18.txt,2018-04-01,Vintage Unpowered
+642,white,white,-,aggro,monowhite,Mono White Aggro 6.5.18.txt,2018-06-05,Vintage Unpowered
+643,white,white,-,aggro,monowhite,Mono White Aggro 8.28.18.txt,2018-08-28,Vintage Unpowered
+644,white,white,-,aggro,monowhite,Mono White Aggro [Vintage].txt,2020-07-03,Vintage Powered
+645,white,white,-,aggro,monowhite,Mono White Aggro [WOTC Vintage].txt,2019-07-07,WOTC Vintage
+646,white,white,-,aggro,monowhite,Mono White Aggro copy,2021-01-31,Vintage Unpowered
+647,white,white,-,aggro,monowhite,Mono White Aggro copy 2,2021-01-31,Vintage Unpowered
+648,white,white,-,aggro,monowhite,Mono White Aggro.txt,2020-09-12,Vintage Unpowered
+649,white,white,-,aggro,armageddon  monowhite,Mono White Armageddon Aggro [Vintage].txt,2020-07-03,Vintage Powered
+650,white,white,-,aggro,armageddon  monowhite,Mono White Armageddon Aggro [WOTC Vintage].txt,2020-04-25,WOTC Vintage
+651,white,white,-,aggro,armageddon  monowhite,Mono White Armageddon Aggro copy [WOTC Vintage].txt,2020-04-25,WOTC Vintage
+652,white,white,-,aggro,armageddon  monowhite,Mono White Armageddon Aggro.txt,2020-09-12,Vintage Unpowered
+653,white,white,-,control,monowhite  balance,Mono White Balance Control.txt,2020-04-25,Vintage Unpowered
+654,white,white,-,midrange,monowhite,Mono White Midrange [WOTC Vintage].txt,2020-01-12,WOTC Vintage
+655,white,white,-,aggro,skullclamp  monowhite,Mono White Skullclamp Aggro.txt,2020-03-20,Vintage Unpowered
+656,white,white,-,aggro,stoneforge  monowhite,Mono White Stoneforge Aggro 10.6.18.txt,2018-10-06,Vintage Unpowered
+657,white,white,-,aggro,stoneforge  monowhite,Mono White Stoneforge Aggro [WOTC Vintage].txt,2019-08-18,WOTC Vintage
+658,white,white,-,aggro,stoneforge  monowhite,Mono White Stoneforge Aggro.txt,2020-01-12,Vintage Unpowered
+659,white,white,-,midrange,stoneforge  monowhite,Mono White Stoneforge Midrange,2021-01-31,Vintage Unpowered
+660,red green white,red white,green,aggro,-,Naya (RGW) Aggro,2021-01-31,Vintage Unpowered
+661,red green white,red,green white,aggro,-,Naya (RGW) Aggro [WOTC Vintage].txt,2019-05-26,WOTC Vintage
+662,red green white,green white,red,aggro,armageddon,Naya (RGW) Armageddon Aggro 12.20.17.txt,2017-12-20,Vintage Unpowered
+663,red green white,red white,green,midrange,armageddon,Naya (RGW) Armageddon Midrange.txt,2019-07-07,Vintage Unpowered
+664,red green white,green,red white,midrange,armageddon  survival,Naya (RGW) Armageddon Survival Midrange.txt,2020-07-03,Vintage Unpowered
+665,red green white,green white,red,midrange,-,Naya (RGW) Collected Company Midrange.txt,2019-02-10,Vintage Unpowered
+666,red green white,red green white,-,midrange,crucible,Naya (RGW) Excavator Midrange.txt,2017-12-03,Vintage Unpowered
+667,red green white,green,red white,midrange,-,Naya (RGW) Goodstuff Midrange.txt,2020-09-12,Vintage Unpowered
+668,red green white,red green white,-,ramp,wildfire  channel,Naya (RGW) Lands Matters Channel Wildfire Ramp.txt,2020-09-12,Vintage Unpowered
+669,red green white,red green white,-,midrange,-,Naya (RGW) Midrange,2021-01-31,Vintage Unpowered
+670,red green white,green white,red,midrange,-,Naya (RGW) Midrange.txt,2017-12-03,Vintage Unpowered
+671,red green white,red green white,-,midrange,reveillark  survival,Naya (RGW) Reveillark Survival Midrange.txt,2019-02-10,Vintage Unpowered
+672,red green white,red white,green,aggro,stoneforge,Naya (RGW) Stoneforge Aggro 2.10.18.txt,2018-02-10,Vintage Unpowered
+673,red green white,red white,green,aggro,stoneforge,Naya (RGW) Stoneforge Aggro 6.2.18.txt,2018-06-02,Vintage Unpowered
+674,red green white,green white,red,midrange,stoneforge  pod,Naya (RGW) Stoneforge Pod Midrange 10.21.18.txt,2018-10-21,Vintage Unpowered
+675,red green white,green white,red,midrange,skullclamp  survival,Naya (RGW) Survival Skullclamp Midrange 4.8.18.txt,2018-04-08,Vintage Unpowered
+676,red green white,green,red white,ramp,-,Naya (RGW) Tooth and Nail Wake Ramp [WOTC Vintage].txt,2020-09-12,WOTC Vintage
+677,black white,white,black,midrange,-,Orzhov (BW) Aggressive Midrange,2021-01-31,Vintage Unpowered
+678,black white,black white,-,aggro,-,Orzhov (BW) Aggro 10.17.18.txt,2018-10-17,Vintage Unpowered
+679,black white,black white,-,aggro,-,Orzhov (BW) Aggro 2.txt,2017-12-03,Vintage Unpowered
+680,black white,black white,-,aggro,-,Orzhov (BW) Aggro Pile 8.5.18 [WOTC Vintage].txt,2018-08-05,WOTC Vintage
+681,black white,black white,-,aggro,-,Orzhov (BW) Aggro copy 2.txt,2020-01-12,Vintage Unpowered
+682,black white,black white,-,aggro,-,Orzhov (BW) Aggro copy [WOTC Vintage].txt,2020-01-12,WOTC Vintage
+683,black white,black white,-,aggro,-,Orzhov (BW) Aggro.txt,2020-07-03,Vintage Unpowered
+684,black white,black white,-,aggro,-,Orzhov (BW) Aristocrats Aggro.txt,2019-01-02,Vintage Unpowered
+685,black white,black white,-,midrange,tokens,Orzhov (BW) Aristocrats Tokens Midrange.txt,2020-01-12,Vintage Unpowered
+686,black white,black white,-,aggro,armageddon,Orzhov (BW) Armageddon Aggro 5.1.18.txt,2018-05-01,Vintage Unpowered
+687,black white,black white,-,aggro,armageddon,Orzhov (BW) Armageddon Aggro 8.10.18.txt,2018-08-10,Vintage Unpowered
+688,black white,black white,-,aggro,armageddon,Orzhov (BW) Armageddon Aggro 9.22.18.txt,2018-09-22,Vintage Unpowered
+689,black white,black white,-,aggro,armageddon,Orzhov (BW) Armageddon Aggro.txt,2020-01-12,Vintage Unpowered
+690,black white,black white,-,aggro,stax  armageddon,Orzhov (BW) Armageddon Braids Aggro.txt,2017-12-03,Vintage Unpowered
+691,black white,black white,-,aggro,stax  armageddon,Orzhov (BW) Armageddon Braids Stax Aggro 1.25.18.txt,2018-01-25,Vintage Unpowered
+692,black white,black white,-,aggro,stax  armageddon,Orzhov (BW) Armageddon Stax Aggro,2021-01-31,Vintage Unpowered
+693,black white,black white,-,aggro,stax  armageddon,Orzhov (BW) Armageddon Stax Aggro 4.1.18.txt,2018-04-01,Vintage Unpowered
+694,black white,black white,-,aggro,stax  armageddon,Orzhov (BW) Armageddon Stax Aggro 7.14.18.txt,2018-07-14,Vintage Unpowered
+695,black white,black white,-,aggro,stax  armageddon,Orzhov (BW) Armageddon Stax Aggro 8.1.18.txt,2018-08-01,Vintage Unpowered
+696,black white,black white,-,aggro,stax  armageddon,Orzhov (BW) Armageddon Stax Aggro.txt,2017-12-03,Vintage Unpowered
+697,black white,black white,-,midrange,-,Orzhov (BW) Goodstuff Midrange 4.1.18 [WOTC Vintage].txt,2018-04-01,WOTC Vintage
+698,black white,black white,-,midrange,-,Orzhov (BW) Goodstuff Midrange.txt,2020-07-03,Vintage Unpowered
+699,black white,black white,-,midrange,-,Orzhov (BW) Midrange 7.15.18.txt,2018-07-15,Vintage Unpowered
+700,black white,black white,-,midrange,-,Orzhov (BW) Midrange Pile.txt,2019-01-01,Vintage Unpowered
+701,black white,black white,-,midrange,-,Orzhov (BW) Midrange [WOTC Vintage].txt,2019-09-03,WOTC Vintage
+702,black white,black white,-,midrange,-,Orzhov (BW) Midrange.txt,2020-09-12,Vintage Unpowered
+703,black white,black white,-,combo,reanimator,Orzhov (BW) Reanimator Combo,2021-01-31,Vintage Unpowered
+704,black white,black white,-,combo,reanimator,Orzhov (BW) Recurring Nightmare Reaniamtor Combo.txt,2019-06-08,Vintage Unpowered
+705,black white,black white,-,aggro,stax,Orzhov (BW) Stax Aggro 1.txt,2017-12-03,Vintage Unpowered
+706,black white,black white,-,aggro,stax,Orzhov (BW) Stax Aggro 4.14.18.txt,2018-04-14,Vintage Unpowered
+707,black white,black white,-,aggro,stax,Orzhov (BW) Stax Aggro 9.30.18.txt,2018-09-30,Vintage Unpowered
+708,black white,black white,-,aggro,stax,Orzhov (BW) Stax Aggro copy 2.txt,2017-12-03,Vintage Unpowered
+709,black white,black white,-,aggro,stax,Orzhov (BW) Stax Aggro copy.txt,2017-12-03,Vintage Unpowered
+710,black white,black white,-,aggro,stax,Orzhov (BW) Stax Aggro.txt,2017-12-03,Vintage Unpowered
+711,black white,black white,-,aggro,stoneforge  armageddon,Orzhov (BW) Stoneforge Armageddon Aggro 10.13.18 [WOTC Vintage].txt,2018-10-13,WOTC Vintage
+712,black white,black white,-,aggro,stoneforge  skullclamp,Orzhov (BW) Stoneforge Lurrus Skullclamp Aggro.txt,2020-09-12,Vintage Unpowered
+713,black white,white,black,midrange,stoneforge,Orzhov (BW) Stoneforge Midrange 9.12.18 [WOTC Vintage].txt,2018-09-12,WOTC Vintage
+714,black white,black white,-,midrange,stoneforge,Orzhov (BW) Stoneforge Midrange [WOTC Vintage].txt,2017-12-03,WOTC Vintage
+715,black white,black white,-,aggro,stoneforge  skullclamp,Orzhov (BW) Stoneforge Skullclamp Aggro.txt,2020-09-12,Vintage Unpowered
+716,black white,black white,-,midrange,stax  stoneforge,Orzhov (BW) Stoneforge Stax Midrange 7.27.18.txt,2018-07-27,Vintage Unpowered
+717,black white,black white,-,midrange,stoneforge,Orzhov (BW) Stoneforge Workshop Kuldotha Midrange [WOTC Vintage].txt,2020-01-12,WOTC Vintage
+718,black white,black white,-,midrange,tokens,Orzhov (BW) Tokens Midrange,2021-01-31,Vintage Unpowered
+719,red black,red black,-,midrange,-,Rakdos (RB) Aggressive Midrange [WOTC Vintage].txt,2020-04-25,WOTC Vintage
+720,red black,red,black,midrange,-,Rakdos (RB) Aggressive Midrange copy [WOTC Vintage].txt,2020-01-12,WOTC Vintage
+721,red black,red black,-,aggro,-,Rakdos (RB) Aggro,2021-01-31,Vintage Unpowered
+722,red black,red,black,aggro,-,Rakdos (RB) Aggro 7.10.18.txt,2018-07-10,Vintage Unpowered
+723,red black,red black,-,aggro,-,Rakdos (RB) Aggro 7.7.18.txt,2018-07-07,Vintage Unpowered
+724,red black,red,black,aggro,-,Rakdos (RB) Aggro 8.29.18.txt,2018-08-29,Vintage Unpowered
+725,red black,red black,-,aggro,-,Rakdos (RB) Aggro 9.29.18.txt,2018-09-29,Vintage Unpowered
+726,red black,red black,-,aggro,-,Rakdos (RB) Aggro [WOTC Vintage],2021-01-31,WOTC Vintage
+727,red black,red black,-,aggro,-,Rakdos (RB) Aggro [WOTC Vintage].txt,2020-07-03,WOTC Vintage
+728,red black,red black,-,aggro,-,Rakdos (RB) Aggro copy,2021-01-31,Vintage Unpowered
+729,red black,red black,-,aggro,-,Rakdos (RB) Aggro copy 2.txt,2020-07-03,Vintage Unpowered
+730,red black,red black,-,aggro,-,Rakdos (RB) Aggro copy.txt,2020-07-03,Vintage Unpowered
+731,red black,red,black,aggro,-,Rakdos (RB) Aggro.txt,2020-07-03,Vintage Unpowered
+732,red black,red black,-,midrange,-,Rakdos (RB) Living Death Midrange.txt,2019-09-15,Vintage Unpowered
+733,red black,red black,-,aggro,-,Rakdos (RB) Lurrus Aggro,2021-01-31,Vintage Unpowered
+734,red black,red,black,aggro,-,Rakdos (RB) Lutri Aggro,2021-01-31,Vintage Unpowered
+735,red black,red black,-,midrange,-,Rakdos (RB) Midrange,2021-01-31,Vintage Unpowered
+736,red black,red black,-,midrange,-,Rakdos (RB) Midrange [WOTC Vintage].txt,2019-07-28,WOTC Vintage
+737,red black,red black,-,midrange,-,Rakdos (RB) Midrange.txt,2020-09-12,Vintage Unpowered
+738,red green black,red black,green,combo,reanimator,Rakdos (RB) Reanimator Combo[Vintage].txt,2020-09-12,Vintage Powered
+739,red blue black,red black,blue,combo,reanimator,Rakdos (RB) Reanimator Sneak Attack Combo [WOTC Vintage].txt,2020-09-12,WOTC Vintage
+740,red black,red black,-,combo,reanimator,Rakdos (RB) Reanimator Sneak Attack Combo.txt,2020-01-12,Vintage Unpowered
+741,red black,red black,-,midrange,reanimator,Rakdos (RB) Recurring Nightmare Aggressive Midrange 9.16.18.txt,2018-09-16,Vintage Unpowered
+742,red black,red black,-,midrange,reanimator,Rakdos (RB) Recurring Nightmare Purphoros Midrange 5.19.18 [WOTC Vintage].txt,2018-05-19,WOTC Vintage
+743,red black,red black,-,midrange,reanimator  skullclamp,Rakdos (RB) Recurring Nightmare Skullclamp Feldon Midrange.txt,2018-12-07,Vintage Unpowered
+744,red black,red black,-,aggro,skullclamp,Rakdos (RB) Skullclamp Aggro,2021-01-31,Vintage Unpowered
+745,red black,black,red,midrange,-,Rakdos (RB) Sneak Attack Aristocrats Midrange [WOTC Vintage].txt,2019-02-10,WOTC Vintage
+746,red black,red black,-,combo,reanimator,Rakdos (RB) Sneak Attack Reanimator Combo [WOTC Vintage].txt,2020-07-03,WOTC Vintage
+747,red black,red black,-,aggro,stax,Rakdos (RB) Stax Aggro 10.19.18.txt,2018-10-19,Vintage Unpowered
+748,red black,red black,-,control,stax,Rakdos (RB) Stax Control 8.19.18.txt,2018-08-19,Vintage Unpowered
+749,red black,red black,-,aggro,-,Rakdos (RB) Yawgmoth Aristocrats Aggro.txt,2020-03-20,Vintage Unpowered
+750,green white,white,green,aggro,-,Selesnya (GW) Aggro.txt,2019-07-02,Vintage Unpowered
+751,green white,green white,-,midrange,armageddon,Selesnya (GW) Armageddon Aggressive Midrange 9.1.18.txt,2018-09-01,Vintage Unpowered
+752,green white,green white,-,midrange,pod  survival  tokens,Selesnya (GW) Birthing Pod Survival Tokens Midrange [WOTC Vintage].txt,2018-12-16,WOTC Vintage
+753,green white,green,white,ramp,channel,Selesnya (GW) Channel Ramp [WOTC Vintage].txt,2020-07-03,WOTC Vintage
+754,green white,green white,-,midrange,-,Selesnya (GW) Goodstuff Midrange [Vintage],2021-01-31,Vintage Powered
+755,green white,green white,-,midrange,-,Selesnya (GW) Goodstuff Midrange [Vintage].txt,2020-07-03,Vintage Powered
+756,green white,green white,-,midrange,-,Selesnya (GW) Goodstuff Midrange [WOTC Vintage].txt,2020-07-03,WOTC Vintage
+757,green white,green white,-,midrange,-,Selesnya (GW) Goodstuff Midrange.txt,2020-09-12,Vintage Unpowered
+758,green white,green white,-,midrange,armageddon,Selesnya (GW) Hatebears Gideon Tribal Vehicles Armageddon Aggressive Midrange.txt,2020-01-12,Vintage Unpowered
+759,green white,green white,-,midrange,-,Selesnya (GW) Midrange copy.txt,2019-10-12,Vintage Unpowered
+760,green white,green white,-,midrange,-,Selesnya (GW) Midrange.txt,2019-09-15,Vintage Unpowered
+761,green white,white,green,midrange,moat,Selesnya (GW) Moat Midrange [WOTC Vintage].txt,2019-07-07,WOTC Vintage
+762,green white,green white,-,midrange,naturalorder,Selesnya (GW) Natural Order Midrange.txt,2019-09-03,Vintage Unpowered
+763,green,green,-,ramp,naturalorder,Selesnya (GW) Natural Order Ramp 4.27.18.txt,2018-04-27,Vintage Unpowered
+764,green white,green white,-,midrange,naturalorder,Selesnya (GW) Natural Order Reveilark Midrange,2021-01-31,Vintage Unpowered
+765,green white,green white,-,midrange,skullclamp  naturalorder  reveillark  survival,Selesnya (GW) Natural Order Skullclamp Reveillark Survival Midrange 11.22.18.txt,2018-11-22,Vintage Unpowered
+766,green white,green,white,midrange,skullclamp  naturalorder  survival,Selesnya (GW) Natural Order Skullclamp Survival Midrange.txt,2020-01-12,Vintage Unpowered
+767,green white,green white,-,midrange,naturalorder  survival,Selesnya (GW) Natural Order Skullclmap Survival Midrange.txt,2019-01-01,Vintage Unpowered
+768,green white,green,white,ramp,naturalorder,Selesnya (GW) Natural Order Super Ramp 4.7.18.txt,2018-04-07,Vintage Unpowered
+769,green white,green white,-,midrange,naturalorder  survival,Selesnya (GW) Natural Order Survival Midrange Shenanigans 2.23.18.txt,2018-02-23,Vintage Unpowered
+770,green white,green white,-,ramp,naturalorder  survival,Selesnya (GW) Natural Order Survival Wake Ramp.txt,2018-12-27,Vintage Unpowered
+771,green white,green,white,ramp,-,Selesnya (GW) Ramp 9.5.18.txt,2018-09-05,Vintage Unpowered
+772,green white,green white,-,ramp,-,Selesnya (GW) Ramp [WOTC Vintage].txt,2020-07-03,WOTC Vintage
+773,green white,green white,-,aggro,-,Selesnya (GW) Rancor Aggro.txt,2017-12-03,Vintage Unpowered
+774,green white,white,green,aggro,reveillark,Selesnya (GW) Reveillark Aggro.txt,2019-05-26,Vintage Unpowered
+775,green white,green white,-,midrange,reveillark,Selesnya (GW) Reveillark Midrange.txt,2020-09-12,Vintage Unpowered
+776,green white,green white,-,midrange,skullclamp  reveillark  survival  tokens,Selesnya (GW) Reveillark Skullclamp Survival Tokens Midrange 11.24.18.txt,2018-11-24,Vintage Unpowered
+777,red green blue,red blue,green,midrange,reveillark  survival,Selesnya (GW) Reveillark Survival Midrange 12.17.17.txt,2017-12-17,Vintage Unpowered
+778,green white,green white,-,midrange,reveillark  survival,Selesnya (GW) Reveillark Survival Midrange 3.3.18.txt,2018-03-03,Vintage Unpowered
+779,green white,green white,-,midrange,reveillark  survival,Selesnya (GW) Reveillark Survival Midrange.txt,2019-01-05,Vintage Unpowered
+780,green white,green white,-,midrange,skullclamp,Selesnya (GW) Skullclamp Midrange [WOTC Vintage].txt,2019-07-02,WOTC Vintage
+781,green white,green white,-,midrange,skullclamp,Selesnya (GW) Skullclamp Midrange.txt,2020-04-25,Vintage Unpowered
+782,green white,green white,-,midrange,skullclamp  naturalorder  reveillark  survival,Selesnya (GW) Skullclamp Natural Order Reveillark Survival Midrange.txt,2019-10-12,Vintage Unpowered
+783,green white,green white,-,aggro,stoneforge,Selesnya (GW) Stoneforge Aggro.txt,2019-07-02,Vintage Unpowered
+784,green white,green white,-,midrange,stoneforge,Selesnya (GW) Stoneforge Midrange,2021-01-31,Vintage Unpowered
+785,green white,white,green,midrange,stoneforge,Selesnya (GW) Stoneforge Midrange copy,2021-01-31,Vintage Unpowered
+786,green white,green white,-,midrange,stoneforge  survival,Selesnya (GW) Stoneforge Survival Midrange [WOTC Vintage],2021-01-31,WOTC Vintage
+787,green white,green white,-,midrange,survival,Selesnya (GW) Survival Midrange [Vintage].txt,2020-07-03,Vintage Powered
+788,green white,green white,-,midrange,survival,Selesnya (GW) Survival Midrange.txt,2017-12-03,Vintage Unpowered
+789,green white,green,white,ramp,-,Selesnya (GW) Wake Ramp.txt,2019-06-08,Vintage Unpowered
+790,green blue,green blue,-,combo,cheat  upheaval  channel,Simic (UG) Channel Cheaty Face Upheaval Combo [WOTC Vintage].txt,2020-01-12,WOTC Vintage
+791,green blue,green,blue,ramp,naturalorder  channel,Simic (UG) Channel Natural Order Ramp.txt,2020-01-12,Vintage Unpowered
+792,green blue,green blue,-,ramp,channel,Simic (UG) Channel Ramp [WOTC Vintage].txt,2020-09-12,WOTC Vintage
+793,green blue,green,blue,combo,cheat  artifacts  channel,Simic (UG) Channel Tinker Cheaty Face Combo.txt,2020-09-12,Vintage Unpowered
+794,green blue,green blue,-,ramp,upheaval  channel,Simic (UG) Channel Upheaval Super Ramp 6.1.18.txt,2018-06-01,Vintage Unpowered
+795,green blue,green blue,-,midrange,edric,Simic (UG) Edric Midrange,2021-01-31,Vintage Unpowered
+796,green blue,green blue,-,midrange,edric,Simic (UG) Edric Midrange 10.7.18.txt,2018-10-07,Vintage Unpowered
+797,green blue,green blue,-,midrange,-,Simic (UG) Goodstuff Midrange copy.txt,2020-04-25,Vintage Unpowered
+798,green blue,green blue,-,midrange,-,Simic (UG) Goodstuff Midrange.txt,2020-04-25,Vintage Unpowered
+799,green blue,green blue,-,midrange,-,Simic (UG) Midrange 3.17.18.txt,2018-03-17,Vintage Unpowered
+800,green blue,green,blue,ramp,naturalorder  channel,Simic (UG) Natural Order Channel Ramp [WOTC Vintage].txt,2020-01-12,WOTC Vintage
+801,green blue,green blue,-,ramp,naturalorder  edric,Simic (UG) Natural Order Edric Ramp,2021-01-31,Vintage Unpowered
+802,green blue,green blue,-,midrange,naturalorder,Simic (UG) Natural Order Midrange 6.30.18.txt,2018-06-30,Vintage Unpowered
+803,green blue,green blue,-,midrange,naturalorder,Simic (UG) Natural Order Midrange 7.7.18.txt,2018-07-07,Vintage Unpowered
+804,green blue,green,blue,midrange,opposition  naturalorder,Simic (UG) Natural Order Opposition Midrange 8.31.18 [WOTC Vintage].txt,2018-08-31,WOTC Vintage
+805,green blue,green,blue,ramp,skullclamp  naturalorder  survival,Simic (UG) Natural Order Skullclamp Survival Ramp 10.23.18.txt,2018-10-23,Vintage Unpowered
+806,green blue,green,blue,ramp,naturalorder  survival,Simic (UG) Natural Order Survival Ramp.txt,2020-07-03,Vintage Unpowered
+807,green blue,green blue,-,midrange,opposition,Simic (UG) Opposition Midrange.txt,2019-07-28,Vintage Unpowered
+808,green blue,green blue,-,aggro control,opposition,Simic (UG) Opposition Tempo.txt,2020-01-12,Vintage Unpowered
+809,green blue,green blue,-,ramp,-,Simic (UG) Ramp [WOTC Vintage].txt,2019-06-16,WOTC Vintage
+810,green blue,green,blue,ramp,-,Simic (UG) Ramp copy.txt,2019-06-16,Vintage Unpowered
+811,green blue,green blue,-,ramp,-,Simic (UG) Ramp.txt,2020-07-03,Vintage Unpowered
+812,green blue,green blue,-,ramp,opposition,Simic (UG) Rofellos Opposition Ramp [Vintage].txt,2020-09-12,Vintage Powered
+813,green blue,green blue,-,combo,cheat,Simic (UG) Show and Tell Eureka Cheaty Face Combo 2.23.18 [WOTC Vintage].txt,2018-02-23,WOTC Vintage
+814,green blue,green blue,-,midrange,skullclamp  edric,Simic (UG) Skullclamp Fastbond Edric Midrange.txt,2020-09-12,Vintage Unpowered
+815,green blue,green,blue,ramp,opposition  skullclamp,Simic (UG) Skullclamp Opposition Rofellos Ramp.txt,2020-09-12,Vintage Unpowered
+816,green blue,green,blue,ramp,skullclamp  channel,Simic (UG) Skullclamp Rofellos Channel Ramp.txt,2020-09-12,Vintage Unpowered
+817,green blue,green blue,-,midrange,skullclamp  survival,Simic (UG) Skullclamp Survival Midrange [WOTC Vintage].txt,2020-09-12,WOTC Vintage
+818,green blue,green blue,-,ramp,artifacts  upheaval,Simic (UG) Tinker Upheaval Ramp 6.6.18.txt,2018-06-06,Vintage Unpowered
+819,green blue,green,blue,ramp,-,Simic (UG) Tooth and Nail Ramp [WOTC Vintage].txt,2019-02-10,WOTC Vintage
+820,green blue,green,blue,ramp,-,Simic (UG) Tooth and Nail Ramp(1) [WOTC Vintage].txt,2019-02-10,WOTC Vintage
+821,green blue,green blue,-,midrange,upheaval,Simic (UG) Upheaval Midrange [WOTC Vintage].txt,2019-10-12,WOTC Vintage
+822,green blue,green blue,-,ramp,upheaval,Simic (UG) Upheaval Ramp 10.1318.txt,2018-10-13,Vintage Unpowered
+823,green blue,green blue,-,ramp,upheaval,Simic (UG) Upheaval Ramp [WOTC Vintage],2021-01-31,WOTC Vintage
+824,green blue,green,blue,ramp,upheaval,Simic (UG) Upheaval Ramp [WOTC Vintage].txt,2018-12-26,WOTC Vintage
+825,green blue,green,blue,ramp,upheaval,Simic (UG) Upheaval Ramp.txt,2019-09-15,Vintage Unpowered
+826,green blue black,green black,blue,aggro,edric,Sulai (BUG) Edric Aggro.txt,2017-12-03,Vintage Unpowered
+827,green blue black,green black,blue,aggro,-,Sultai (BUG) Aggro.txt,2019-02-10,Vintage Unpowered
+828,green blue black,blue,green black,ramp,artifacts,Sultai (BUG) Artifacts Matters Ramp [WOTC Vintage].txt,2020-09-12,WOTC Vintage
+829,green blue black,green black,blue,combo,oath  channel,Sultai (BUG) Channel Oath Combo.txt,2020-07-03,Vintage Unpowered
+830,green blue black,green blue,black,combo,cheat,Sultai (BUG) Cheaty Face Combo.txt,2019-10-12,Vintage Unpowered
+831,green blue black,green black,blue,midrange,edric,Sultai (BUG) Edric Midrange [WOTC Vintage].txt,2020-07-03,WOTC Vintage
+832,green blue black,green blue black,-,midrange,-,Sultai (BUG) Goodstuff Midrange,2021-01-31,Vintage Unpowered
+833,green blue black,green black,blue,midrange,-,Sultai (BUG) Goodstuff Midrange (2).txt,2020-07-03,Vintage Unpowered
+834,green blue black,green black,blue,midrange,-,Sultai (BUG) Goodstuff Midrange.txt,2020-07-03,Vintage Unpowered
+835,green blue black,blue black,green,combo,storm,Sultai (BUG) High Tide Storm Combo 8.30.18 [WOTC Vintage].txt,2018-08-30,WOTC Vintage
+836,green blue black,green blue,black,midrange,edric  survival,Sultai (BUG) Leovold Edric Survival Midrange[WOTC Vintage].txt,2020-09-12,WOTC Vintage
+837,green blue black,green blue,black,midrange,-,Sultai (BUG) Leovold Midrange [WOTC Vintage].txt,2020-07-03,WOTC Vintage
+838,green blue black,green blue black,-,midrange,-,Sultai (BUG) Leovold Midrange.txt,2019-09-15,Vintage Unpowered
+839,green blue black,green blue black,-,midrange,opposition,Sultai (BUG) Leovold Opposition Midrange [WOTC Vintage].txt,2020-09-12,WOTC Vintage
+840,green blue black,green blue black,-,midrange,opposition  stax,Sultai (BUG) Leovold Opposition Stax Midrange [WOTC Vintage].txt,2020-04-25,WOTC Vintage
+841,green blue black,green black,blue,midrange,-,Sultai (BUG) Living Death Midrange [WOTC Vintage].txt,2020-07-03,WOTC Vintage
+842,green blue black,green blue,black,midrange,-,Sultai (BUG) Midrange 10.30.18.txt,2018-10-30,Vintage Unpowered
+843,green blue black,green blue black,-,midrange,-,Sultai (BUG) Midrange 7.30.18.txt,2018-07-30,Vintage Unpowered
+844,green blue black,blue black,green,midrange,-,Sultai (BUG) Midrange 9.6.18 [WOTC Vintage].txt,2018-09-06,WOTC Vintage
+845,green blue black,green blue black,-,midrange,-,Sultai (BUG) Midrange [WOTC Vintage].txt,2019-07-02,WOTC Vintage
+846,green blue black,green blue,black,ramp,naturalorder  channel,Sultai (BUG) Natural Order Channel Ramp [WOTC Vintage].txt,2020-03-20,WOTC Vintage
+847,green blue black,green,blue black,ramp,opposition  naturalorder,Sultai (BUG) Natural Order Rofellos Opposition Ramp [Vintage].txt,2020-09-12,Vintage Powered
+848,green blue black,blue,green black,midrange,upheaval,Sultai (BUG) Psychatog Upheaval Midrange.txt,2019-09-15,Vintage Unpowered
+849,green blue black,green,blue black,ramp,-,Sultai (BUG) Ramp 6.6.18.txt,2018-06-06,Vintage Unpowered
+850,green blue black,blue black,green,combo,reanimator,Sultai (BUG) Reanimator Combo [Vintage].txt,2020-09-12,Vintage Powered
+851,green blue black,blue black,green,combo,reanimator,Sultai (BUG) Reanimator Combo [WOTC Vintage].txt,2019-09-03,WOTC Vintage
+852,green blue black,green blue black,-,combo,reanimator,Sultai (BUG) Reanimator Combo.txt,2017-12-03,Vintage Unpowered
+853,green blue black,black,green blue,midrange,reanimator,Sultai (BUG) Reanimator Midrange,2021-01-31,Vintage Unpowered
+854,green black,green black,-,combo,reanimator  survival,Sultai (BUG) Reanimator Survival Combo [WOTC Vintage].txt,2019-09-03,WOTC Vintage
+855,green blue black,green blue black,-,midrange,reanimator,Sultai (BUG) Recurring Nightmare Midrange 7.27.18.txt,2018-07-27,Vintage Unpowered
+856,green blue black,green black,blue,midrange,reanimator,Sultai (BUG) Recurring Nightmare Midrange [WOTC Vintage].txt,2020-07-03,WOTC Vintage
+857,green blue black,green blue black,-,midrange,reanimator,Sultai (BUG) Recurring Nightmare Midrange.txt,2020-04-25,Vintage Unpowered
+858,green blue black,blue black,green,midrange,reanimator,Sultai (BUG) Recurring Nightmare Reanimator Midrange [WOTC Vintage].txt,2017-12-03,WOTC Vintage
+859,green blue black,green black,blue,midrange,reanimator  survival,Sultai (BUG) Recurring Nightmare Survival Midrange.txt,2019-09-15,Vintage Unpowered
+860,green blue black,green,blue black,ramp,naturalorder  upheaval,Sultai (BUG) Rofellos Natural Order Upheaval Ramp [WOTC Vintage].txt,2020-04-25,WOTC Vintage
+861,green blue black,green black,blue,midrange,skullclamp  survival,Sultai (BUG) Skullclamp Survival Midrange.txt,2020-03-20,Vintage Unpowered
+862,green blue black,blue black,green,aggro,stax,Sultai (BUG) Stax Aggro 12.4.17.txt,2017-12-04,Vintage Unpowered
+863,green blue black,green black,blue,midrange,superfriends,Sultai (BUG) Superfriends Midrange.txt,2021-01-31,Vintage Unpowered
+864,green blue black,green blue,black,midrange,survival,Sultai (BUG) Survival Midrange 5.3.18.txt,2018-05-03,Vintage Unpowered
+865,green blue black,green black,blue,midrange,survival,Sultai (BUG) Survival Midrange [WOTC Vintage].txt,2019-10-12,WOTC Vintage
+866,green blue black,green blue black,-,aggro control,-,Sultai (BUG) Tempo 4.17.18.txt,2018-04-17,Vintage Unpowered
+867,green blue black,green,blue black,midrange,-,Sultai (BUG) Time Walk - Strip Mine Loops Midrange [WOTC Vintage].txt,2017-12-03,WOTC Vintage
+868,green blue black,green blue black,-,aggro control,-,Sultai (BUG) Time Walk Tempo 1.9.18 [WOTC Vintage].txt,2018-01-09,WOTC Vintage
+869,red green blue,red blue,green,combo,cheat  channel,Temur (RUG) Channel Cheaty Face Combo,2021-01-31,Vintage Unpowered
+870,red green blue,blue,red green,combo,cheat  channel,Temur (RUG) Channel Cheaty Face Combo.txt,2020-03-20,Vintage Unpowered
+871,red green,red green,-,ramp,channel,Temur (RUG) Channel Lutri Gruul Ramp,2021-01-31,Vintage Unpowered
+872,red green blue,red green,blue,combo,twin  cheat  channel,Temur (RUG) Cheaty Face Channel Splinter Twin Combo 6.24.18.txt,2018-06-24,Vintage Unpowered
+873,red green blue,green,red blue,combo,cheat,Temur (RUG) Cheaty Face Combo,2021-01-31,Vintage Unpowered
+874,red green blue,green blue,red,combo,cheat,Temur (RUG) Cheaty Face Combo 11.19.18.txt,2018-11-19,Vintage Unpowered
+875,red green blue,red blue,green,combo,cheat,Temur (RUG) Cheaty Face Combo 12.17.17.txt,2017-12-17,Vintage Unpowered
+876,red green blue,green blue,red,combo  ramp,cheat,Temur (RUG) Cheaty Face Combo Ramp 9.17.18.txt,2018-09-17,Vintage Unpowered
+877,red green blue,green,red blue,combo,cheat,Temur (RUG) Cheaty Face Combo [WOTC Vintage].txt,2020-07-03,WOTC Vintage
+878,red green blue,red blue,green,combo,cheat,Temur (RUG) Cheaty Face Combo copy.txt,2019-06-16,Vintage Unpowered
+879,red green blue,green,red blue,combo,cheat,Temur (RUG) Cheaty Face Combo.txt,2020-04-25,Vintage Unpowered
+880,red green blue,red blue,green,control,-,Temur (RUG) Control.txt,2020-07-03,Vintage Unpowered
+881,red green blue,red blue,green,combo,twin  edric,Temur (RUG) Edric Kiki Combo.txt,2020-03-20,Vintage Unpowered
+882,red green blue,blue,red green,combo,cheat  artifacts,Temur (RUG) Eureka Tinker Cheaty Face Combo 8.26.18.txt,2018-08-26,Vintage Unpowered
+883,red green blue,red blue,green,control,twin,Temur (RUG) Kiki Control [WOTC Vintage].txt,2019-08-18,WOTC Vintage
+884,red blue,red blue,-,combo,twin,Temur (RUG) Kiki-Jiki Sneak Attack Combo.txt,2019-08-18,Vintage Unpowered
+885,red green blue,red green blue,-,combo,twin,Temur (RUG) Kiki-Twin Combo 1.20.18.txt,2018-01-20,Vintage Unpowered
+886,red green blue,green,red blue,midrange  ramp,-,Temur (RUG) Midrange Ramp.txt,2017-12-03,Vintage Unpowered
+887,red green blue,green blue,red,combo,cheat  naturalorder,Temur (RUG) Natural Order Cheaty Face Combo [WOTC Vintage].txt,2020-07-03,WOTC Vintage
+888,red green blue,green blue,red,midrange,naturalorder  edric,Temur (RUG) Natural Order Edric Midrange.txt,2020-07-03,Vintage Unpowered
+889,red green blue,green blue,red,midrange,twin  naturalorder,Temur (RUG) Natural Order Kiki-Jiki Midrange 9.19.18 [WOTC Vintage].txt,2018-09-19,WOTC Vintage
+890,red green blue,green,red blue,ramp,naturalorder,Temur (RUG) Natural Order Lands Matters Ramp [WOTC Vintage].txt,2020-09-12,WOTC Vintage
+891,red green blue,green,red blue,midrange  ramp,naturalorder,Temur (RUG) Natural Order Midrange Ramp.txt,2017-12-03,Vintage Unpowered
+892,green blue,green,blue,midrange,naturalorder,Temur (RUG) Natural Order Midrange.txt,2020-04-25,Vintage Unpowered
+893,red green blue,green,red blue,ramp,naturalorder,Temur (RUG) Natural Order Sneak Attack Ramp [WOTC Vintage].txt,2020-07-03,WOTC Vintage
+894,red green blue,green blue,red,midrange,opposition,Temur (RUG) Opposition Midrange 8.28.18 [WOTC Vintage].txt,2018-08-28,WOTC Vintage
+895,red green blue,red green blue,-,midrange,opposition,Temur (RUG) Opposition Midrange.txt,2017-12-03,Vintage Unpowered
+896,red green blue white,green blue,red white,midrange,skullclamp  edric,Temur (RUG) Skullclamp Edric Midrange [WOTC Vintage].txt,2020-03-20,WOTC Vintage
+897,red green blue,red green,blue,midrange,skullclamp,Temur (RUG) Skullclamp Midrange.txt,2020-09-12,Vintage Unpowered
+898,red green blue,red green,blue,aggro control,skullclamp,Temur (RUG) Skullclamp Tempo.txt,2019-05-26,Vintage Unpowered
+899,red green blue,red,green blue,combo,cheat,Temur (RUG) Sneak and Show Eureka Cheaty Face Combo 6.1.18.txt,2018-06-01,Vintage Unpowered
+900,red green blue,green blue,red,midrange,survival,Temur (RUG) Survival Midrange 4.8.18.txt,2018-04-08,Vintage Unpowered

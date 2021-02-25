@@ -1,0 +1,51 @@
+2021
+1.31.21
+1 [M12:73] Ponder
+1 [5ED:388] Mana Vault
+1 [ROE:190] Joraga Treespeaker
+1 [ELD:160] Gilded Goose
+1 [5ED:329] Sylvan Library
+1 [2ED:84] Time Walk
+1 [ISD:78] Snapcaster Mage
+1 [STH:125] Wall of Blossoms
+1 [RNA:183] Hydroid Krasis
+1 [DTK:181] Den Protector
+1 [SHM:211] Manamorphose
+1 [FUT:161] Coalition Relic
+1 [THB:229] Uro, Titan of Nature's Wrath
+1 [5DN:86] Eternal Witness
+1 [4ED:64] Control Magic
+1 [ISD:181] Garruk Relentless
+1 [FUT:46] Venser, Shaper Savant
+1 [M11:175] Garruk Wildspeaker
+1 [MB1:440] Mystic Confluence
+1 [UDS:50] Treachery
+1 [ELD:281] Brazen Borrower
+1 [LRW:76] Mulldrifter
+1 [ODY:113] Upheaval
+1 [ZEN:220] Misty Rainforest
+1 [2ED:262] Mox Emerald
+1 [KTK:233] Flooded Strand
+1 [KTK:239] Polluted Delta
+1 [RNA:246] Breeding Pool
+1 [4ED:361] Mishra's Factory
+5 [PGRU:5] Forest
+6 [PGRU:2] Island
+SB: 1 [KLD:110] Chandra, Torch of Defiance
+SB: 1 [FRF:87] Tasigur, the Golden Fang
+SB: 1 [PZ2:66] Daretti, Ingenious Iconoclast
+SB: 1 [WAR:98] Liliana's Triumph
+SB: 1 [THB:242] Field of Ruin
+SB: 1 [J16:6] Imperial Seal
+SB: 1 [ARB:92] Maelstrom Pulse
+SB: 1 [GRN:207] Thousand-Year Storm
+SB: 1 [IKO:366] Heartless Act
+SB: 1 [GRN:183] Knight of Autumn
+SB: 1 [SOM:225] Copperline Gorge
+SB: 1 [GRN:258] Temple Garden
+SB: 1 [APC:126] Vindicate
+SB: 1 [ULG:129] Memory Jar
+SB: 1 [RAV:161] Elves of Deep Shadow
+SB: 1 [M21:1] Ugin, the Spirit Dragon
+LAYOUT MAIN:(1,8)(CMC,false,75)|([PGRU:5],[PGRU:5],[PGRU:5],[PGRU:5],[PGRU:5],[PGRU:2],[PGRU:2],[PGRU:2],[PGRU:2],[PGRU:2],[PGRU:2])([RNA:246],[KTK:233],[4ED:361],[ZEN:220],[KTK:239])([2ED:262],[ELD:160],[ROE:190],[5ED:388],[M12:73])([DTK:181],[RNA:183],[SHM:211],[ISD:78],[5ED:329],[2ED:84],[STH:125])([FUT:161],[5DN:86],[THB:229])([4ED:64],[ISD:181],[M11:175],[FUT:46])([ELD:281],[LRW:76],[MB1:440],[UDS:50])([ODY:113])
+LAYOUT SIDEBOARD:(1,8)(CMC,false,81)|([THB:242],[SOM:225],[GRN:258])([J16:6],[RAV:161])([WAR:98],[IKO:366])([PZ2:66],[ARB:92],[GRN:183],[APC:126])([KLD:110])([ULG:129])([FRF:87],[GRN:207])([M21:1])

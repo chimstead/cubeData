@@ -1,0 +1,49 @@
+1 [MBS:46] Massacre Wurm
+1 [USG:134] Exhume
+1 [GRN:69] Doom Whisperer
+1 [EMN:85] Collective Brutality
+1 [DST:146] Sundering Titan
+1 [CHK:62] Gifts Ungiven
+1 [KLD:84] Gonti, Lord of Luxury
+1 [ZEN:13] Iona, Shield of Emeria
+1 [TOR:77] Putrid Imp
+1 [AER:57] Fatal Push
+1 [TMP:151] Reanimate
+1 [M13:112] Vampire Nighthawk
+1 [RIX:82] Ravenous Chupacabra
+1 [ISD:122] Unburial Rites
+1 [M12:98] Grave Titan
+1 [ULG:126] Grim Monolith
+1 [GRN:205] Thief of Sanity
+1 [SHM:135] Woodfall Primus
+1 [EXO:72] Recurring Nightmare
+1 [CON:15] Path to Exile
+1 [FEM:38a] Hymn to Tourach
+1 [BBD:33] Arcane Artisan
+1 [BFZ:244] Shambling Vent
+1 [3ED:290] Underground Sea
+1 [LRW:272] Shelldock Isle
+1 [RNA:248] Godless Shrine
+1 [3ED:286] Scrubland
+3 [UST:213] Island
+9 [UST:214] Swamp
+1 [10E:163] Nekrataal
+SB: 1 [ROE:12] Ulamog, the Infinite Gyre
+SB: 1 [SHM:23] Spectral Procession
+SB: 1 [M11:149] Lightning Bolt
+SB: 1 [5ED:249] Mana Flare
+SB: 1 [SOI:5] Archangel Avacyn
+SB: 1 [GRN:183] Knight of Autumn
+SB: 1 [M15:173] Elvish Mystic
+SB: 1 [10E:61] Wrath of God
+SB: 1 [ALA:154] Ajani Vengeant
+SB: 1 [JOU:5] Banishing Light
+SB: 1 [M11:11] Condemn
+SB: 1 [WWK:115] Terastodon
+SB: 1 [GRN:208] Trostani Discordant
+SB: 1 [ODY:118] Buried Alive
+SB: 1 [NPH:19] Porcelain Legionnaire
+SB: 1 [TMP:183] Jackal Pup
+SB: 1 [SOM:180] Myr Battlesphere
+LAYOUT MAIN:(2,9)(CMC,true,69)|()([TOR:77])()([M13:112],[GRN:205],[BBD:33])([KLD:84],[RIX:82],[10E:163])([GRN:69])([MBS:46],[M12:98])([DST:146],[SHM:135])([ZEN:13])([BFZ:244],[3ED:290],[LRW:272],[RNA:248],[3ED:286],[UST:213],[UST:213],[UST:213],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214])([AER:57],[TMP:151],[CON:15])([USG:134],[EMN:85],[ULG:126],[FEM:38a])([EXO:72])([CHK:62])([ISD:122])()()()
+LAYOUT SIDEBOARD:(1,6)(COLOR,false,50)|([ROE:12],[SOM:180])([ODY:118])([M15:173],[WWK:115])([M11:149],[5ED:249],[TMP:183])([SHM:23],[SOI:5],[10E:61],[JOU:5],[M11:11],[NPH:19])([GRN:183],[ALA:154],[GRN:208])

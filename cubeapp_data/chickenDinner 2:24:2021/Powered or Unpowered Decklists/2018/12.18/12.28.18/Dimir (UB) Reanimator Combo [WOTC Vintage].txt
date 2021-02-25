@@ -1,0 +1,49 @@
+1 [EVE:22] Glen Elendra Archmage
+1 [MBS:43] Go for the Throat
+1 [ODY:118] Buried Alive
+1 [5ED:140] Animate Dead
+1 [RTR:73] Pack Rat
+1 [THS:107] Thoughtseize
+1 [PLC:85] Damnation
+1 [3ED:274] Sol Ring
+1 [TMP:151] Reanimate
+1 [GPT:152] Izzet Signet
+1 [M12:98] Grave Titan
+1 [HOU:145] The Scarab God
+6 [UST:213] Island
+10 [UST:214] Swamp
+1 [VIS:64] Necromancy
+1 [FUT:161] Coalition Relic
+1 [TMP:142] Living Death
+1 [LEG:65] Mana Drain
+1 [XLN:223] Hostage Taker
+1 [AER:57] Fatal Push
+1 [ARN:70] Bazaar of Baghdad
+1 [2ED:84] Time Walk
+1 [EMN:6] Emrakul, the Promised End
+1 [THS:90] Hero's Downfall
+1 [LRW:133] Oona's Prowler
+1 [SOM:223] Wurmcoil Engine
+SB: 1 [ROE:33] Linvala, Keeper of Silence
+SB: 1 [EXO:72] Recurring Nightmare
+SB: 1 [M11:58] Jace Beleren
+SB: 1 [SHM:135] Woodfall Primus
+SB: 1 [KTK:248] Windswept Heath
+SB: 1 [MMQ:82] Gush
+SB: 1 [3ED:291] Volcanic Island
+SB: 1 [DST:146] Sundering Titan
+SB: 1 [M13:112] Vampire Nighthawk
+SB: 1 [AKH:1] Angel of Sanctions
+SB: 1 [BNG:119] Courser of Kruphix
+SB: 1 [M19:314] Llanowar Elves
+SB: 1 [OGW:171] Hissing Quagmire
+SB: 1 [TOR:77] Putrid Imp
+SB: 1 [ISD:122] Unburial Rites
+SB: 1 [ULG:101] Deranged Hermit
+SB: 1 [LRW:139] Shriekmaw
+SB: 1 [DKA:140] Huntmaster of the Fells
+SB: 1 [GRN:258] Temple Garden
+SB: 1 [AER:122] Rishkar, Peema Renegade
+SB: 1 [FRF:27] Soulfire Grand Master
+LAYOUT MAIN:(1,8)(CMC,false,37)|([ARN:70],[UST:213],[UST:213],[UST:213],[UST:213],[UST:213],[UST:213],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214])([AER:57],[TMP:151],[THS:107],[3ED:274])([RTR:73],[2ED:84],[LRW:133],[5ED:140],[GPT:152],[MBS:43],[LEG:65])([ODY:118],[VIS:64],[FUT:161],[THS:90])([XLN:223],[PLC:85],[EVE:22])([HOU:145],[TMP:142])([M12:98],[SOM:223])([EMN:6])
+LAYOUT SIDEBOARD:(1,6)(COLOR,false,50)|([KTK:248],[OGW:171],[3ED:291],[GRN:258],[DST:146])([ISD:122],[EXO:72],[TOR:77],[LRW:139],[M13:112])([MMQ:82],[M11:58])([SHM:135],[M19:314],[ULG:101],[BNG:119],[AER:122])([AKH:1],[ROE:33],[FRF:27])([DKA:140])

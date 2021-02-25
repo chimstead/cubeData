@@ -1,3 +1,6 @@
+2018
+4.18
+4.27.18
 7 Forest
 1 Gaea's Cradle
 1 Horizon Canopy
@@ -26,7 +29,7 @@
 1 Courser of Kruphix
 1 Manglehorn
 1 Karn, Scion of Urza
-1 Oracle of Mul Day
+1 Oracle of Mul Daya
 1 Natural Order
 1 Nissa, Worldwaker
 1 Primeval Titan

@@ -1,0 +1,52 @@
+1 [DST:140] Skullclamp
+1 [LEG:137] Chain Lightning
+1 [NPH:35] Gitaxian Probe
+1 [EVE:139] Figure of Destiny
+1 [XLN:22] Legion's Landing
+1 [XLN:1] Adanto Vanguard
+1 [CMA:27] Unexpectedly Absent
+1 [KLD:235] Smuggler's Copter
+1 [HOU:83] Abrade
+1 [NPH:19] Porcelain Legionnaire
+1 [DST:148] Sword of Fire and Ice
+1 [M13:22] Oblivion Ring
+1 [BBD:25] Brightling
+1 [M12:151] Manic Vandal
+1 [KLD:124] Pia Nalaar
+1 [DOM:21] History of Benalia
+1 [AVR:36] Silverblade Paladin
+1 [NPH:57] Dismember
+1 [AVR:32] Restoration Angel
+1 [NEM:17] Parallax Wave
+1 [PLS:60] Flametongue Kavu
+1 [STH:138] Mox Diamond
+1 [AER:181] Walking Ballista
+1 [ZEN:11] Emeria Angel
+1 [MPS:16] Mana Crypt
+1 [ZEN:211] Arid Mesa
+1 [ZEN:219] Marsh Flats
+1 [JOU:163] Mana Confluence
+1 [OGW:175] Needle Spires
+1 [3ED:301] Mountain
+1 [3ED:303] Mountain
+3 [3ED:292] Plains
+4 [3ED:294] Plains
+2 [3ED:293] Plains
+SB: 1 [4ED:361] Mishra's Factory
+SB: 1 [KLD:4] Angel of Invention
+SB: 1 [EVE:80] Wickerbough Elder
+SB: 1 [TSB:55] Avalanche Riders
+SB: 1 [WWK:139] Lavaclaw Reaches
+SB: 1 [NPH:42] Phyrexian Metamorph
+SB: 1 [RNA:109] Rix Maadi Reveler
+SB: 1 [LEG:185] Eureka
+SB: 1 [SCG:29] Brain Freeze
+SB: 1 [GRN:253] Overgrown Tomb
+SB: 1 [ZEN:220] Misty Rainforest
+SB: 1 [M11:7] Baneslayer Angel
+SB: 1 [3ED:194] Fastbond
+SB: 1 [TMP:151] Reanimate
+SB: 1 [TSB:97] Mystic Snake
+SB: 1 [M19:130] Banefire
+LAYOUT MAIN:(1,5)(CMC,false,50)|([STH:138],[AER:181],[MPS:16],[ZEN:211],[ZEN:219],[JOU:163],[OGW:175],[3ED:301],[3ED:303],[3ED:292],[3ED:294],[3ED:292],[3ED:294],[3ED:293],[3ED:293],[3ED:292],[3ED:294],[3ED:294])([DST:140],[LEG:137],[NPH:35],[EVE:139],[XLN:22],[NPH:57])([XLN:1],[CMA:27],[KLD:235],[HOU:83],[NPH:19])([DST:148],[M13:22],[BBD:25],[M12:151],[KLD:124],[DOM:21],[AVR:36])([AVR:32],[NEM:17],[PLS:60],[ZEN:11])
+LAYOUT SIDEBOARD:(1,5)(CMC,false,50)|([4ED:361],[WWK:139],[GRN:253],[ZEN:220])([3ED:194],[TMP:151],[M19:130])([RNA:109],[SCG:29])([EVE:80],[TSB:55],[NPH:42],[LEG:185],[TSB:97])([KLD:4],[M11:7])

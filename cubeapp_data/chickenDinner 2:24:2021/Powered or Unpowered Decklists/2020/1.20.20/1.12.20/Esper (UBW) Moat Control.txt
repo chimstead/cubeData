@@ -1,0 +1,50 @@
+1 [VIS:72] Vampiric Tutor
+1 [PTK:78] Imperial Seal
+1 [ISD:78] Snapcaster Mage
+1 [STH:36] Mana Leak
+1 [ORI:60] Jace, Vryn's Prodigy
+1 [UMA:93] Demonic Tutor
+1 [VMA:20] Council's Judgment
+1 [ISD:213] Geist of Saint Traft
+1 [FUT:161] Coalition Relic
+1 [M20:68] Mu Yanling, Sky Dancer
+1 [MMA:218] Vedalken Shackles
+1 [MOR:55] Vendilion Clique
+1 [APC:126] Vindicate
+1 [DDD:53] Snuff Out
+1 [LEG:28] Moat
+1 [EMA:57] Jace, the Mind Sculptor
+1 [INV:57] Fact or Fiction
+1 [IMA:48] Cryptic Command
+1 [EMA:42] Control Magic
+1 [C15:14] Mystic Confluence
+1 [EMN:93] Liliana, the Last Hope
+1 [7ED:131] Duress
+1 [C18:57] Retrofitter Foundry
+1 [C16:56] Ash Barrens
+1 [WWK:133] Celestial Colonnade
+1 [WWK:134] Creeping Tar Pit
+1 [ZEN:211] Arid Mesa
+1 [KTK:233] Flooded Strand
+1 [JOU:163] Mana Confluence
+1 [ZEN:220] Misty Rainforest
+1 [KTK:239] Polluted Delta
+1 [2ED:282] Scrubland
+1 [2ED:286] Underground Sea
+1 [GTC:249] Watery Grave
+1 [ELD:244] Fabled Passage
+3 [UNH:137] Island
+1 [UNH:136] Plains
+1 [UNH:138] Swamp
+SB: 1 [4ED:273] Sylvan Library
+SB: 1 [EXO:115] Oath of Druids
+SB: 1 [WWK:139] Lavaclaw Reaches
+SB: 1 [ULG:143] Treetop Village
+SB: 1 [EMN:40] Selfless Spirit
+SB: 1 [2ED:278] Badlands
+SB: 1 [NEM:17] Parallax Wave
+SB: 1 [GTC:247] Stomping Ground
+SB: 1 [WWK:141] Raging Ravine
+SB: 1 [BFZ:236] Evolving Wilds
+LAYOUT MAIN:(1,6)(CMC,false,52)|([ZEN:211],[C16:56],[WWK:133],[WWK:134],[ELD:244],[KTK:233],[UNH:137],[UNH:137],[UNH:137],[JOU:163],[ZEN:220],[UNH:136],[KTK:239],[2ED:282],[UNH:138],[2ED:286],[GTC:249])([7ED:131],[PTK:78],[C18:57],[VIS:72])([UMA:93],[ORI:60],[STH:36],[ISD:78])([FUT:161],[VMA:20],[ISD:213],[EMN:93],[M20:68],[MMA:218],[MOR:55],[APC:126])([EMA:42],[IMA:48],[INV:57],[EMA:57],[LEG:28],[DDD:53])([C15:14])
+LAYOUT SIDEBOARD:(1,3)(CMC,false,51)|([2ED:278],[WWK:139],[GTC:247],[ULG:143],[WWK:141],[BFZ:236])([EXO:115],[EMN:40],[4ED:273])([NEM:17])

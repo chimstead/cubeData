@@ -1,0 +1,49 @@
+1 [GRN:103] Goblin Cratermaker
+1 [ZEN:211] Arid Mesa
+1 [IMA:140] Monastery Swiftspear
+1 [V17:13] Kytheon, Hero of Akros
+1 [RTR:238] Blood Crypt
+1 [CMD:17] Journey to Nowhere
+1 [MM2:75] Dark Confidant
+1 [SOM:81] Arc Trail
+1 [V14:1] Armageddon
+1 [10E:213] Incinerate
+1 [GTC:242] Godless Shrine
+1 [RTR:248] Temple Garden
+1 [VMA:289] Ancient Tomb
+1 [RTR:243] Overgrown Tomb
+1 [AER:181] Walking Ballista
+1 [AKH:88] Dread Wanderer
+1 [A25:141] Lightning Bolt
+1 [MBS:1] Accorder Paladin
+1 [M20:105] Knight of the Ebon Legion
+1 [TPR:225] Lotus Petal
+1 [DOM:14] Dauntless Bodyguard
+1 [UMA:244] Karakas
+1 [JOU:163] Mana Confluence
+1 [ELD:239] Castle Embereth
+1 [ZEN:126] Goblin Guide
+1 [KLD:231] Scrapheap Scrounger
+1 [CHK:19] Isamaru, Hound of Konda
+1 [ELD:138] Robber of the Rich
+1 [KTK:249] Wooded Foothills
+1 [XLN:1] Adanto Vanguard
+1 [ELD:235] Stonecoil Serpent
+1 [VMA:316] Strip Mine
+1 [EMN:40] Selfless Spirit
+1 [VMA:291] Badlands
+1 [RNA:76] Gutterbones
+1 [KLD:199] Bomat Courier
+1 [C20:251] Skullclamp
+1 [ZNR:90] Agadeem's Awakening
+1 [UST:215] Mountain
+1 [UST:212] Plains
+SB: 1 [PD3:14] Entomb
+SB: 1 [DST:146] Sundering Titan
+SB: 1 [RTR:86] Ash Zealot
+SB: 1 [ZNR:198] Oran-Rief Ooze
+SB: 1 [IMA:159] Curse of Predation
+SB: 1 [IKO:226] Lurrus of the Dream-Den
+SB: 1 [M14:228] Mutavault
+LAYOUT MAIN:(1,7)(CMC,false,64)|([RTR:248],[VMA:289],[UMA:244],[ELD:239],[VMA:316],[TPR:225],[UST:215],[UST:212])([AKH:88],[M20:105],[RNA:76],[V17:13],[DOM:14],[CHK:19],[KLD:199],[C20:251],[ZEN:126],[A25:141],[IMA:140])([KLD:231],[GRN:103],[SOM:81],[10E:213],[ELD:138],[XLN:1],[EMN:40],[MBS:1],[CMD:17],[MM2:75])([V14:1])([ELD:235],[AER:181])([RTR:243],[GTC:242],[ZEN:211],[RTR:238])([VMA:291],[KTK:249],[JOU:163],[ZNR:90])
+LAYOUT SIDEBOARD:(1,5)(COLOR,false,100)|([DST:146],[M14:228])([PD3:14])([ZNR:198],[IMA:159])([RTR:86])([IKO:226])

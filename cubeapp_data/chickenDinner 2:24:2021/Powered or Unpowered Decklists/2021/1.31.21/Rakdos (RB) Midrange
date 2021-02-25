@@ -1,0 +1,53 @@
+1 [PM19:130p] Banefire
+1 [ELD:235] Stonecoil Serpent
+1 [PBFZ:8s] Endless One
+1 [ORI:229] Hangarback Walker
+1 [ZNR:133] Akoum Hellhound
+1 [PWAR:194p] Dreadhorde Butcher
+1 [PWP09:25] Hellspark Elemental
+1 [PHOU:90s] Earthshaker Khenra
+1 [PWAR:98] Liliana's Triumph
+1 [THB:125] Anax, Hardened in the Forge
+1 [PEMN:130as] Hanweir Garrison
+1 [LRW:139] Shriekmaw
+1 [PWP09:27] Slave of Bolas
+1 [PAKH:134] Glorybringer
+1 [ELD:287] Murderous Rider
+1 [PKLD:214s] Fleetwheel Cruiser
+1 [F09:7] Murderous Redcap
+1 [PTHB:90p] Eat to Extinction
+1 [PORI:157] Pia and Kiran Nalaar
+1 [PWAR:137p] Krenko, Tin Street Kingpin
+1 [CP2:2] Hero's Downfall
+1 [PM15:145] Goblin Rabblemaster
+1 [PRNA:107] Light Up the Stage
+1 [PBFZ:247s] Smoldering Marsh
+1 [THB:247] Temple of Malice
+1 [PUMA:U37] Lavaclaw Reaches
+1 [F11:12] Savage Lands
+3 [3ED:302] Mountain
+2 [3ED:303] Mountain
+2 [3ED:301] Mountain
+3 [3ED:298] Swamp
+1 [3ED:299] Swamp
+2 [3ED:300] Swamp
+SB: 1 [PDP14:3] Scavenging Ooze
+SB: 1 [ZNR:261] Cragcrown Pathway
+SB: 1 [PSOI:21s] Hanweir Militia Captain
+SB: 1 [F14:3] Banisher Priest
+SB: 1 [FRF:65] Crux of Fate
+SB: 1 [THB:1] Alseid of Life's Bounty
+SB: 1 [TSB:47] Soul Collector
+SB: 1 [PRIX:136p] Jadelight Ranger
+SB: 1 [PEMN:46] Thalia, Heretic Cathar
+SB: 1 [M21:355] Sublime Epiphany
+SB: 1 [MRD:251] Sword of Kaldra
+SB: 1 [THB:212] Dalakos, Crafter of Wonders
+SB: 1 [PRIX:30p] Zetalpa, Primal Dawn
+SB: 1 [PM19:134s] Dark-Dweller Oracle
+SB: 1 [PIDW:6] Consume Spirit
+SB: 1 [PGPX:2015] Griselbrand
+SB: 1 [IKO:168] Mythos of Brokkos
+SB: 1 [F16:8] Crumbling Vestige
+LAYOUT MAIN:(1,7)(CMC,false,50)|([PBFZ:247s],[THB:247],[PUMA:U37],[F11:12],[3ED:302],[3ED:303],[3ED:301],[3ED:302],[3ED:303],[3ED:302],[3ED:301],[3ED:298],[3ED:299],[3ED:298],[3ED:300],[3ED:298],[3ED:300])([PM19:130p],[ZNR:133],[ELD:235],[PBFZ:8s])([PWAR:194p],[PWP09:25],[PHOU:90s],[PWAR:98],[ORI:229])([THB:125],[PEMN:130as],[PWAR:137p],[CP2:2],[PM15:145],[PRNA:107])([PKLD:214s],[F09:7],[PTHB:90p],[PORI:157])([LRW:139],[PWP09:27],[PAKH:134])([ELD:287])
+LAYOUT SIDEBOARD:(1,8)(CMC,false,50)|([ZNR:261],[F16:8])([THB:1])([PDP14:3],[PSOI:21s],[PM19:134s],[PIDW:6])([F14:3],[PRIX:136p],[PEMN:46],[THB:212])([MRD:251],[IKO:168])([FRF:65],[TSB:47])([M21:355])([PRIX:30p],[PGPX:2015])

@@ -1,0 +1,32 @@
+5 Forest
+1 Plains
+5 Swamp
+1 Brushland
+1 Gaea's Cradle
+1 Godless Shrine
+1 Terramorphic Expanse
+1 Treetop Village
+1 Windswept Heath
+1 Mox Diamond
+1 Elvish Mystic
+1 Entomb
+1 Skullclamp
+1 Lotus Cobra
+1 Oona's Prowler
+1 Sakura-Tribe Elder
+1 Survival of the Fittest
+1 Sylvan Caryatid
+1 Kodama's Reach
+1 Ophiomancer
+1 Reclamation Sage
+1 Recurring Nightmare
+1 Yavimaya Elder
+1 Garruk Relentless
+1 Nekrataal
+1 Ravenous Chupacabra
+1 Custodi Lich
+1 Deranged Hermit
+1 Reveillark
+1 Eternal Dragon
+1 Hornet Queen
+1 Ulamog, the Ceaseless Hunger

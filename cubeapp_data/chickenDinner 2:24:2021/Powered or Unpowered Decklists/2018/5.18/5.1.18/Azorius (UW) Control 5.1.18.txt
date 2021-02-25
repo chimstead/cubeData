@@ -1,0 +1,31 @@
+7 Island
+4 Plains
+1 Hallowed Fountain
+1 Karakas
+1 Kor Haven
+1 Marsh Flats
+1 Mishra's Factory
+1 Windswept Heath
+1 Brainstorm
+1 Condescend
+1 Ponder
+1 Sensei's Divining Top
+1 Ancestral Vision
+1 Counterspell
+1 Jace, Vryn's Prodigy
+1 Search for Azcanta
+1 Talisman of Dominance
+1 Council's Judgment
+1 Forbid
+1 Geist of Saint Traft
+1 Jace Beleren
+1 Monastery Mentor
+1 Reflector Mage
+1 Vedalken Shackles
+1 Control Magic
+1 Elspeth, Knight-Errant
+1 Sower of Temptation
+1 Wrath of God
+1 Meloku the Clouded Mirror
+1 Exalted Angel
+1 Treasure Cruise

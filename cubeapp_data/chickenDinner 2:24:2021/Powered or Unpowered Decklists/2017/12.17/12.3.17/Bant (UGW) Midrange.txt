@@ -1,0 +1,32 @@
+4 Forest
+6 Island
+1 Breeding Pool
+1 Celestial Colonnade
+1 Flooded Strand
+1 Horizon Canopy
+1 Savannah
+1 Tolarian Academy
+1 Tundra
+1 Noble Hierarch
+1 Sensei's Divining Top
+1 Serum Visions
+1 Ponder
+1 Grim Monolith
+1 Talisman of Dominance
+1 Simic Signet
+1 Walking Ballista
+1 Memory Lapse
+1 Regrowth
+1 Remand
+1 Vendilion Clique
+1 Detention Sphere
+1 Mystic Snake
+1 Restoration Angel
+1 Whirler Rogue
+1 Cryptic Command
+1 Jace, the Mind Sculptor
+1 Mulldrifter
+1 Precursor Golem
+1 Time Spiral
+1 Ugin, the Spirit Dragon
+1 Pull from Tomorrow

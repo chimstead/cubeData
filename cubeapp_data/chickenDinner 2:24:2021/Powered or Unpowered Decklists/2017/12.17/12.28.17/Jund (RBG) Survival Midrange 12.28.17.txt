@@ -1,0 +1,33 @@
+4 Forest
+2 Mountain
+4 Swamp
+1 Badlands
+1 Bayou
+1 Karplusan Forest
+1 Raging Ravine
+1 Stomping Ground
+1 Treetop Village
+1 Mox Diamond
+1 Chrome Mox
+1 Birds of Paradise
+1 Duress
+1 Demonic Tutor
+1 Lotus Cobra
+1 Pack Rat
+1 Survival of the Fittest
+1 Sylvan Caryatid
+1 Eternal Witness
+1 Flesh Carver
+1 Kitchen Finks
+1 Maelstrom Pulse
+1 Nissa, Voice of Zendikar
+1 Ophiomancer
+1 Bloodbraid Elf
+1 Flametongue Kavu
+1 Garruk Relentless
+1 Master of the Wild Hunt
+1 Xenagos, the Reveler
+1 Acidic Slime
+1 Plow Under
+1 Shriekmaw
+1 Inferno Titan

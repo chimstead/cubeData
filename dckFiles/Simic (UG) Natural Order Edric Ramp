@@ -1,0 +1,51 @@
+2021
+1.31.21
+1 [RNA:183] Hydroid Krasis
+1 [MM3:55] Venser, Shaper Savant
+1 [BNG:119] Courser of Kruphix
+1 [CNS:91] Brainstorm
+1 [C15:101] Preordain
+1 [PELD:160p] Gilded Goose
+1 [C15:97] Mulldrifter
+1 [IKO:319] Shark Typhoon
+1 [MOR:55] Vendilion Clique
+1 [XLN:74] Search for Azcanta
+1 [M10:75] Time Warp
+1 [CMR:242] Magus of the Order
+1 [CN2:176] Birds of Paradise
+1 [M13:160] Arbor Elf
+1 [EMA:177] Natural Order
+1 [SOI:92] Thing in the Ice
+1 [LRW:88] Sower of Temptation
+1 [ROE:190] Joraga Treespeaker
+1 [C14:218] Terastodon
+1 [CNS:187] Edric, Spymaster of Trest
+1 [SOI:233] Tireless Tracker
+1 [M21:348] Barrin, Tolarian Archmage
+1 [C13:135] Avenger of Zendikar
+1 [DTK:216] Dragonlord Atarka
+1 [ZNR:215] Turntimber Symbiosis
+1 [ZNR:180] Bala Ged Recovery
+8 [RNA:264] Forest
+6 [RNA:261] Island
+SB: 1 [MM2:65] Thrummingbird
+SB: 1 [J15:3] Rishadan Port
+SB: 1 [MM3:85] Unburial Rites
+SB: 1 [XLN:223] Hostage Taker
+SB: 1 [EMA:241] Maze of Ith
+SB: 1 [JOU:163] Mana Confluence
+SB: 1 [C19:287] Yavimaya Coast
+SB: 1 [ORI:248] Llanowar Wastes
+SB: 1 [MH1:249] Waterlogged Grove
+SB: 1 [PELD:43p] Emry, Lurker of the Loch
+SB: 1 [RIX:158] Hadana's Climb
+SB: 1 [GTC:123] Gyre Sage
+SB: 1 [WAR:53] God-Eternal Kefnet
+SB: 1 [IKO:318] Mythos of Illuna
+SB: 1 [MPS:53] Vedalken Shackles
+SB: 1 [TSP:66] Looter il-Kor
+SB: 1 [M11:172] Fauna Shaman
+SB: 1 [ZNR:198] Oran-Rief Ooze
+SB: 1 [MM3:50] Snapcaster Mage
+LAYOUT MAIN:(1,9)(CMC,false,38)|([RNA:264],[RNA:264],[RNA:264],[RNA:264],[RNA:264],[RNA:264],[RNA:264],[RNA:264],[RNA:261],[RNA:261],[RNA:261],[RNA:261],[RNA:261],[RNA:261])([CNS:91],[C15:101],[PELD:160p],[CN2:176],[M13:160],[ROE:190])([RNA:183],[XLN:74],[SOI:92])([BNG:119],[MOR:55],[CNS:187],[SOI:233],[M21:348],[ZNR:180])([MM3:55],[CMR:242],[EMA:177],[LRW:88])([C15:97],[M10:75])([IKO:319])([C13:135],[DTK:216],[ZNR:215])([C14:218])
+LAYOUT SIDEBOARD:(1,5)(CMC,false,58)|([J15:3],[EMA:241],[JOU:163],[C19:287],[ORI:248],[MH1:249])([MM2:65],[GTC:123],[TSP:66],[M11:172],[MM3:50])([PELD:43p],[RIX:158],[MPS:53],[ZNR:198])([XLN:223],[WAR:53],[IKO:318])([MM3:85])

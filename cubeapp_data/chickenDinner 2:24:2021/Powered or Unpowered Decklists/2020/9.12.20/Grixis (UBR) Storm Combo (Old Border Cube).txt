@@ -1,0 +1,52 @@
+1 [STH:75] Wall of Souls
+1 [SCG:41] Mind's Desire
+1 [ICE:61] Brainstorm
+1 [ICE:289] Fire Covenant
+1 [USG:138] Ill-Gotten Gains
+1 [USG:151] Rain of Filth
+1 [MIR:80] Mystical Tutor
+1 [ULG:129] Memory Jar
+1 [VIS:66] Nekrataal
+1 [3ED:153] Fork
+1 [3ED:105] Demonic Tutor
+1 [INV:57] Fact or Fiction
+1 [USG:105] Turnabout
+1 [APC:128] Fire // Ice
+1 [MMQ:82] Gush
+1 [3ED:185] Wheel of Fortune
+1 [3ED:164] Mana Flare
+1 [ALL:28] Force of Will
+1 [FEM:18a] High Tide
+1 [MIR:129] Infernal Contract
+1 [USG:171] Yawgmoth's Will
+1 [SCG:75] Tendrils of Agony
+1 [3ED:122] Pestilence
+2 [MIR:329] Rocky Tar Pit
+1 [3ED:282] Badlands
+2 [3ED:290] Underground Sea
+1 [3ED:291] Volcanic Island
+1 [MIR:307] Lion's Eye Diamond
+2 [USG:337] Island
+2 [USG:336] Island
+1 [USG:338] Island
+1 [USG:345] Mountain
+1 [USG:346] Mountain
+1 [USG:340] Swamp
+2 [USG:342] Swamp
+SB: 1 [USG:314] Voltaic Key
+SB: 1 [UDS:135] Metalworker
+SB: 1 [NEM:102] Blastoderm
+SB: 1 [MIR:180] Goblin Tinkerer
+SB: 1 [EXO:53] Carnophage
+SB: 1 [3ED:286] Scrubland
+SB: 1 [ONS:207] Goblin Sharpshooter
+SB: 1 [PTK:104] Burning of Xinye
+SB: 1 [EXO:115] Oath of Druids
+SB: 1 [3ED:125] Royal Assassin
+SB: 1 [SCG:29] Brain Freeze
+SB: 1 [2ED:130] Sinkhole
+SB: 1 [VIS:37] Man-o'-War
+SB: 1 [MIR:173] Final Fortune
+SB: 1 [3ED:267] Nevinyrral's Disk
+LAYOUT MAIN:(1,7)(CMC,false,50)|([MIR:329],[3ED:282],[3ED:290],[MIR:329],[3ED:290],[3ED:291],[MIR:307],[USG:337],[USG:336],[USG:337],[USG:336],[USG:338],[USG:345],[USG:346],[USG:340],[USG:342],[USG:342])([ICE:61],[USG:151],[MIR:80],[FEM:18a])([STH:75],[3ED:153],[3ED:105])([ICE:289],[3ED:185],[3ED:164],[MIR:129],[USG:171])([USG:138],[VIS:66],[INV:57],[USG:105],[APC:128],[SCG:75],[3ED:122])([ULG:129],[MMQ:82],[ALL:28])([SCG:41])
+LAYOUT SIDEBOARD:(1,5)(COLOR,false,48)|([USG:314],[UDS:135],[3ED:286],[3ED:267])([EXO:53],[3ED:125],[2ED:130])([SCG:29],[VIS:37])([NEM:102],[EXO:115])([MIR:180],[ONS:207],[PTK:104],[MIR:173])

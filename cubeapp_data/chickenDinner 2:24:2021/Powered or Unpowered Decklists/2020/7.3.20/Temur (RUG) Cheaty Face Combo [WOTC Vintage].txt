@@ -1,0 +1,49 @@
+1 [SOM:223] Wurmcoil Engine
+1 [AKH:134] Glorybringer
+1 [ROE:190] Joraga Treespeaker
+1 [ULG:101] Deranged Hermit
+1 [WWK:123] Everflowing Chalice
+1 [ULG:126] Grim Monolith
+1 [AVR:129] Bonfire of the Damned
+1 [M19:314] Llanowar Elves
+1 [SHM:135] Woodfall Primus
+1 [ELD:235] Stonecoil Serpent
+1 [SHM:110] Devoted Druid
+1 [5DN:86] Eternal Witness
+1 [5ED:329] Sylvan Library
+1 [ULG:45] Tinker
+1 [MRD:199] Lightning Greaves
+1 [VIS:114] Natural Order
+1 [RNA:122] Biogenic Ooze
+1 [DTK:216] Dragonlord Atarka
+1 [DST:146] Sundering Titan
+1 [USG:218] Sneak Attack
+1 [M11:175] Garruk Wildspeaker
+1 [ZEN:172] Oracle of Mul Daya
+1 [SOM:180] Myr Battlesphere
+1 [2ED:262] Mox Emerald
+1 [WWK:141] Raging Ravine
+1 [3ED:287] Taiga
+1 [2ED:264] Mox Pearl
+1 [KLD:244] Botanical Sanctum
+1 [USG:330] Tolarian Academy
+1 [LRW:272] Shelldock Isle
+6 [THB:254] Forest
+3 [THB:253] Mountain
+1 [THS:172] Polukranos, World Eater
+SB: 1 [ARB:110] Sphinx of the Steel Wind
+SB: 1 [WAR:185] Angrath's Rampage
+SB: 1 [RIX:99] Dire Fleet Daredevil
+SB: 1 [9ED:152] Phyrexian Arena
+SB: 1 [EXO:115] Oath of Druids
+SB: 1 [ODY:118] Buried Alive
+SB: 1 [MOR:22] Reveillark
+SB: 1 [TSP:259] Lotus Bloom
+SB: 1 [PLC:85] Damnation
+SB: 1 [ZEN:114] Vampire Hexmage
+SB: 1 [GRN:82] Plaguecrafter
+SB: 1 [CON:30] Inkwell Leviathan
+SB: 1 [CON:121] Progenitus
+SB: 1 [RIX:111] Rekindling Phoenix
+LAYOUT MAIN:(2,5)(CMC,false,57)|([THB:254],[THB:254],[THB:254],[THB:254],[THB:254],[THB:254],[THB:253],[THB:253],[THB:253])([ROE:190],[AVR:129],[M19:314],[ELD:235])([5DN:86],[ULG:45])([AKH:134],[ULG:101],[RNA:122])([DTK:216],[SOM:180])([2ED:262],[WWK:141],[3ED:287],[2ED:264],[KLD:244],[USG:330],[LRW:272])([WWK:123],[ULG:126],[SHM:110],[5ED:329],[MRD:199])([VIS:114],[USG:218],[M11:175],[ZEN:172],[THS:172])([SOM:223])([SHM:135],[DST:146])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([ARB:110],[WAR:185],[RIX:99],[9ED:152],[EXO:115],[ODY:118],[MOR:22],[TSP:259],[PLC:85],[ZEN:114],[GRN:82],[CON:30],[CON:121],[RIX:111])

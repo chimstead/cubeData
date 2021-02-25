@@ -1,0 +1,51 @@
+1 [ONS:316] Flooded Strand
+1 [M20:68] Mu Yanling, Sky Dancer
+1 [ALL:28] Force of Will
+1 [AVR:32] Restoration Angel
+1 [KTK:36] Dig Through Time
+1 [ORI:60] Jace, Vryn's Prodigy
+1 [10E:359] Sulfurous Springs
+1 [CHK:175] Kiki-Jiki, Mirror Breaker
+1 [DIS:171] Blood Crypt
+1 [RIX:111] Rekindling Phoenix
+1 [M11:70] Preordain
+1 [ONS:321] Polluted Delta
+1 [MH1:231] Talisman of Creativity
+1 [CNS:42] Dack Fayden
+1 [GRN:192] Niv-Mizzet, Parun
+1 [SOM:224] Blackcleave Cliffs
+1 [HOU:83] Abrade
+1 [POR:154] Volcanic Hammer
+1 [ONS:330] Wooded Foothills
+1 [5DN:73] Magma Jet
+1 [SOM:81] Arc Trail
+1 [LRW:78] Pestermite
+1 [AVR:166] Zealous Conscripts
+1 [ZEN:223] Scalding Tarn
+1 [ONS:313] Bloodstained Mire
+1 [LEB:287] Volcanic Island
+1 [M13:150] Thundermaw Hellkite
+1 [GPT:164] Steam Vents
+1 [M11:146] Inferno Titan
+1 [C13:96] Toxic Deluge
+1 [M13:147] Searing Spear
+1 [OGW:104] Chandra, Flamecaller
+1 [LEB:285] Tundra
+1 [THB:307] Thassa's Intervention
+2 [LEB:291] Island
+1 [LEB:293] Island
+2 [LEB:299] Mountain
+1 [LEB:297] Mountain
+SB: 1 [USG:330] Tolarian Academy
+SB: 1 [C18:159] Reclamation Sage
+SB: 1 [ISD:97] Diregraf Ghoul
+SB: 1 [CSP:105] Boreal Druid
+SB: 1 [ROE:6] Kozilek, Butcher of Truth
+SB: 1 [ICE:244] Fyndhorn Elves
+SB: 1 [THS:90] Hero's Downfall
+SB: 1 [NPH:161] Sword of War and Peace
+SB: 1 [AKH:134] Glorybringer
+SB: 1 [THB:261] Thassa, Deep-Dwelling
+SB: 1 [RAV:284] Temple Garden
+LAYOUT MAIN:(1,8)(CMC,false,70)|([ONS:316],[10E:359],[DIS:171],[ONS:321],[SOM:224],[ONS:330],[ZEN:223],[ONS:313],[LEB:287],[GPT:164],[LEB:285],[LEB:291],[LEB:293],[LEB:291],[LEB:299],[LEB:297],[LEB:299])([M11:70])([ORI:60],[MH1:231],[HOU:83],[POR:154],[5DN:73],[SOM:81],[M13:147],[THB:307])([M20:68],[CNS:42],[LRW:78],[C13:96])([AVR:32],[RIX:111])([ALL:28],[CHK:175],[AVR:166],[M13:150])([GRN:192],[M11:146],[OGW:104])([KTK:36])
+LAYOUT SIDEBOARD:(1,5)(COLOR,false,70)|([USG:330],[ROE:6],[NPH:161],[RAV:284])([ISD:97],[THS:90])([THB:261])([C18:159],[CSP:105],[ICE:244])([AKH:134])

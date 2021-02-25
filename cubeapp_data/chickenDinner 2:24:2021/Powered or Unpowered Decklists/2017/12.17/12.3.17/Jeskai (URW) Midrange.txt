@@ -1,0 +1,31 @@
+6 Island
+3 Mountain
+3 Plains
+1 Arid Mesa
+1 Faerie Conclave
+1 Steam Vents
+1 Volcanic Island
+1 Wandering Fumarole
+1 Chain Lightning
+1 Preordain
+1 Swords to Plowshares
+1 Burst Lightning
+1 Rolling Earthquake
+1 Counterspell
+1 Remand
+1 Condescend
+1 Phantasmal Image
+1 Snapcaster Mage
+1 Magma Jet
+1 Lightning Helix
+1 Talisman of Progress
+1 Monastery Mentor
+1 Forbid
+1 Oblivion Ring
+1 Sulfuric Vortex
+1 Sower of Temptation
+1 Chandra, Torch of Defiance
+1 Jace, the Mind Sculptor
+1 Force of Will
+1 Fractured Identity
+1 Dig Through Time

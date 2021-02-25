@@ -1,0 +1,31 @@
+6 Mountain
+5 Plains
+1 Flooded Strand
+1 Mana Confluence
+1 Marsh Flats
+1 Plateau
+1 Strip Mine
+1 Bonesplitter
+1 Burst Lightning
+1 Firebolt
+1 Goblin Guide
+1 Kytheon, Hero of Akros
+1 Lightning Bolt
+1 Monastery Swiftspear
+1 Rakdos Cackler
+1 Skullclamp
+1 Thraben Inspector
+1 Toolcraft Exemplar
+1 Zurgo Bellstriker
+1 Incinerate
+1 Selfless Spirit
+1 Shrine of Burning Rage
+1 Stormblood Berserker
+1 Young Pyromancer
+1 Ahn-Crop Crasher
+1 Hanweir Garrison
+1 Sulfuric Vortex
+1 Thalia, Heretic Cathar
+1 Fiery Confluence
+1 Fleetwheel Cruiser
+1 Palace Jailer

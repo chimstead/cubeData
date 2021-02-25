@@ -1,0 +1,52 @@
+1 [KLD:199] Bomat Courier
+1 [MM3:3] Blade Splicer
+1 [ULG:14] Mother of Runes
+1 [CON:15] Path to Exile
+1 [ORI:23] Kytheon, Hero of Akros
+1 [ALA:154] Ajani Vengeant
+1 [EMN:40] Selfless Spirit
+1 [ISD:15] Fiend Hunter
+1 [EMN:46] Thalia, Heretic Cathar
+1 [DDF:1] Elspeth, Knight-Errant
+1 [SOI:44] Thraben Inspector
+1 [CHK:19] Isamaru, Hound of Konda
+1 [ROE:47] Student of Warfare
+1 [EVE:139] Figure of Destiny
+1 [BFZ:29] Gideon, Ally of Zendikar
+1 [RIX:21] Skymarcher Aspirant
+1 [MH1:13] Giver of Runes
+1 [GRN:109] Legion Warboss
+1 [MM3:98] Hellrider
+1 [A25:128] Eidolon of the Great Revel
+1 [BBD:171] Chain Lightning
+1 [C14:176] Flametongue Kavu
+1 [GTC:245] Sacred Foundry
+1 [OGW:175] Needle Spires
+1 [MM3:239] Marsh Flats
+5 [KLD:259] Mountain
+1 [KLD:260] Mountain
+3 [KLD:250] Plains
+2 [KLD:252] Plains
+2 [KLD:251] Plains
+1 [AKH:5] Aven Mindcensor
+1 [MH1:37] Winds of Abandon
+SB: 1 [THS:9] Elspeth, Sun's Champion
+SB: 1 [AKH:136] Hazoret the Fervent
+SB: 1 [HOU:129] Ramunap Excavator
+SB: 1 [THB:151] Purphoros's Intervention
+SB: 1 [THB:4] Banishing Light
+SB: 1 [ELD:335] Charming Prince
+SB: 1 [THS:107] Thoughtseize
+SB: 1 [ELD:122] Embereth Shieldbreaker
+SB: 1 [KLD:214] Fleetwheel Cruiser
+SB: 1 [IMA:140] Monastery Swiftspear
+SB: 1 [C13:110] Goblin Bombardment
+SB: 1 [SOM:175] Mimic Vat
+SB: 1 [NPH:153] Shrine of Burning Rage
+SB: 1 [IKO:21] Luminous Broodmoth
+SB: 1 [AER:164] Metallic Mimic
+SB: 1 [WAR:244] Blast Zone
+SB: 1 [C19:5] Sevinne's Reclamation
+SB: 1 [THB:125] Anax, Hardened in the Forge
+LAYOUT MAIN:(1,5)(CMC,false,50)|([GTC:245],[OGW:175],[MM3:239],[KLD:259],[KLD:259],[KLD:260],[KLD:259],[KLD:259],[KLD:259],[KLD:250],[KLD:252],[KLD:250],[KLD:252],[KLD:250],[KLD:251],[KLD:251])([KLD:199],[ULG:14],[CON:15],[ORI:23],[SOI:44],[CHK:19],[ROE:47],[EVE:139],[RIX:21],[MH1:13],[BBD:171])([EMN:40],[A25:128],[MH1:37])([MM3:3],[ISD:15],[EMN:46],[GRN:109],[AKH:5])([ALA:154],[DDF:1],[BFZ:29],[MM3:98],[C14:176])
+LAYOUT SIDEBOARD:(1,5)(COLOR,false,48)|([KLD:214],[SOM:175],[NPH:153],[AER:164],[WAR:244])([THS:107])([HOU:129])([AKH:136],[THB:151],[ELD:122],[IMA:140],[C13:110],[THB:125])([THS:9],[THB:4],[ELD:335],[IKO:21],[C19:5])

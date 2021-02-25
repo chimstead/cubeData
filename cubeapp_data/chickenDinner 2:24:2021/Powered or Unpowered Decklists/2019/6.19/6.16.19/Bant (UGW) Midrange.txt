@@ -1,0 +1,30 @@
+6 Plains
+5 Forest
+2 Island
+1 Irrigated Farmland
+1 Stirring Wildwood
+1 Evolving Wilds
+1 Celestial Colonnade
+1 Noble Hierarch
+1 Birds of Paradise
+1 Llanowar Elves
+1 Declaration in Stone
+1 Search for Azcanta
+1 Unexpectedly Absent
+1 Wall of Omens
+1 Adorned Pouncer
+1 Hydroid Krasis
+1 Voice of Resurgence
+1 Lotus Cobra
+1 Jadelight Ranger
+1 Knight of the Reliquary
+1 Entreat the Angels
+1 Reflector Mage
+1 Hadana's Climb
+1 Nissa, Voice of Zendikar
+1 Gideon of the Trials
+1 Courser of Kruphix
+1 Sower of Temptation
+1 Cast Out
+1 Biogenic Ooze
+1 Angel of Sanctions

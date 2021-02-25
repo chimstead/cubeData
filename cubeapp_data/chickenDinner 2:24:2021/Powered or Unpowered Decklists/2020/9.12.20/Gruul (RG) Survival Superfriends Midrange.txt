@@ -1,0 +1,51 @@
+1 [6ED:239] Llanowar Elves
+1 [6ED:217] Birds of Paradise
+1 [CON:87] Noble Hierarch
+1 [ULG:126] Grim Monolith
+1 [ZEN:168] Lotus Cobra
+1 [IKO:176] Wilt
+1 [POR:178] Nature's Lore
+1 [CHK:239] Sakura-Tribe Elder
+1 [EXO:129] Survival of the Fittest
+1 [OGW:138] Nissa, Voice of Zendikar
+1 [ORI:189] Nissa, Vastwood Seer
+1 [THB:220] Klothys, God of Destiny
+1 [THS:209] Xenagos, the Reveler
+1 [ELD:171] Questing Beast
+1 [ISD:181] Garruk Relentless
+1 [LRW:213] Garruk Wildspeaker
+1 [WAR:169] Nissa, Who Shakes the World
+1 [MH1:161] Deep Forest Hermit
+1 [IKO:175] Vivien, Monsters' Advocate
+1 [XLN:179] Carnage Tyrant
+1 [CMD:159] Hornet Queen
+1 [NPH:42] Phyrexian Metamorph
+1 [ATQ:82a] Strip Mine
+1 [ARN:71] City of Brass
+1 [ONS:319] Grand Coliseum
+1 [ATQ:80a] Mishra's Factory
+1 [GPT:165] Stomping Ground
+1 [ONS:330] Wooded Foothills
+1 [MH1:243] Nurturing Peatland
+8 [GUR:1] Forest
+2 [GUR:3] Mountain
+1 [USG:174] Arc Lightning
+SB: 1 [ROE:165] Splinter Twin
+SB: 1 [SHM:135] Woodfall Primus
+SB: 1 [HOU:90] Earthshaker Khenra
+SB: 1 [GRN:152] Assassin's Trophy
+SB: 1 [NPH:4] Blade Splicer
+SB: 1 [GRN:183] Knight of Autumn
+SB: 1 [PTK:113] Imperial Recruiter
+SB: 1 [CHK:175] Kiki-Jiki, Mirror Breaker
+SB: 1 [CHK:19] Isamaru, Hound of Konda
+SB: 1 [KLD:214] Fleetwheel Cruiser
+SB: 1 [DIS:171] Blood Crypt
+SB: 1 [ULG:139] Faerie Conclave
+SB: 1 [TMP:154] Sarcomancy
+SB: 1 [RAV:172] Life from the Loam
+SB: 1 [M21:150] Heartfire Immolator
+SB: 3 [GUR:1] Forest
+SB: 3 [GUR:3] Mountain
+LAYOUT MAIN:(1,9)(CMC,false,74)|([GUR:1],[GUR:1],[GUR:1],[GUR:1],[GUR:1],[GUR:1],[GUR:1],[GUR:1],[GUR:3],[GUR:3])([ARN:71],[ONS:319],[ATQ:80a],[MH1:243],[GPT:165],[ATQ:82a],[ONS:330])([6ED:217],[6ED:239],[CON:87])([ULG:126],[ZEN:168],[POR:178],[CHK:239],[EXO:129],[IKO:176])([THB:220],[ORI:189],[OGW:138],[USG:174])([ISD:181],[LRW:213],[NPH:42],[ELD:171],[THS:209])([MH1:161],[WAR:169],[IKO:175])([XLN:179])([CMD:159])
+LAYOUT SIDEBOARD:(1,7)(CMC,false,69)|([DIS:171],[ULG:139],[GUR:1],[GUR:1],[GUR:1],[GUR:3],[GUR:3],[GUR:3])([CHK:19],[TMP:154])([HOU:90],[GRN:152],[RAV:172],[M21:150])([NPH:4],[GRN:183],[PTK:113])([ROE:165],[KLD:214])([CHK:175])([SHM:135])

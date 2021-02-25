@@ -1,0 +1,48 @@
+1 [XLN:1] Adanto Vanguard
+1 [NEM:17] Parallax Wave
+1 [ALA:9] Elspeth, Knight-Errant
+1 [ORI:23] Kytheon, Hero of Akros
+1 [M14:22] Imposing Sovereign
+1 [CHK:19] Isamaru, Hound of Konda
+1 [WAR:13] Gideon Blackblade
+1 [ELD:335] Charming Prince
+1 [P02:12] Armageddon
+1 [WWK:20] Stoneforge Mystic
+1 [TMP:47] Soltari Trooper
+1 [MRD:146] Bonesplitter
+1 [NPH:4] Blade Splicer
+1 [NPH:19] Porcelain Legionnaire
+1 [KLD:231] Scrapheap Scrounger
+1 [EVE:6] Flickerwisp
+1 [BNG:5] Brimaz, King of Oreskos
+1 [ROE:47] Student of Warfare
+1 [LEG:303] Karakas
+1 [CN2:18] Palace Jailer
+1 [ICE:54] Swords to Plowshares
+1 [ULG:14] Mother of Runes
+1 [BOK:163] Umezawa's Jitte
+1 [ARN:71] City of Brass
+1 [LRW:34] Oblivion Ring
+1 [FUT:177] Horizon Canopy
+13 [UST:212] Plains
+1 [AKH:14] Gideon of the Trials
+SB: 1 [LEB:285] Tundra
+SB: 1 [ORI:83] Whirler Rogue
+SB: 1 [WWK:134] Creeping Tar Pit
+SB: 1 [C15:26] Fiery Confluence
+SB: 1 [LEG:137] Chain Lightning
+SB: 1 [ROE:53] Wall of Omens
+SB: 1 [M20:126] Chandra, Acolyte of Flame
+SB: 1 [USG:6] Catastrophe
+SB: 1 [ULG:45] Tinker
+SB: 1 [MH1:230] Talisman of Conviction
+SB: 1 [THS:9] Elspeth, Sun's Champion
+SB: 1 [TMP:308] Scroll Rack
+SB: 1 [DTK:169] Zurgo Bellstriker
+SB: 1 [MBS:99] Blightsteel Colossus
+SB: 1 [WWK:133] Celestial Colonnade
+SB: 1 [KTK:118] Monastery Swiftspear
+SB: 1 [SOI:5] Archangel Avacyn
+SB: 1 [DKA:12] Lingering Souls
+LAYOUT MAIN:(1,5)(CMC,false,62)|([LEG:303],[ARN:71],[FUT:177],[UST:212],[UST:212],[UST:212],[UST:212],[UST:212],[UST:212],[UST:212],[UST:212],[UST:212],[UST:212],[UST:212],[UST:212],[UST:212])([ORI:23],[CHK:19],[ROE:47],[ICE:54],[ULG:14],[MRD:146])([XLN:1],[M14:22],[ELD:335],[WWK:20],[TMP:47],[KLD:231],[BOK:163],[NPH:19])([WAR:13],[NPH:4],[EVE:6],[AKH:14],[BNG:5],[LRW:34])([NEM:17],[ALA:9],[P02:12],[CN2:18])
+LAYOUT SIDEBOARD:(1,5)(COLOR,false,79)|([LEB:285],[WWK:134],[MH1:230],[TMP:308],[MBS:99],[WWK:133])([ORI:83],[ULG:45])([C15:26],[LEG:137],[M20:126],[DTK:169],[KTK:118])([ROE:53],[USG:6],[THS:9],[SOI:5])([DKA:12])

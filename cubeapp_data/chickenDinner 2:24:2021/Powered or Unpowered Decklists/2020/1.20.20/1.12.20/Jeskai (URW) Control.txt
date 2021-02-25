@@ -1,0 +1,53 @@
+1 [ULG:36] Miscalculation
+1 [MMA:218] Vedalken Shackles
+1 [EMA:49] Force of Will
+1 [MH1:52] Force of Negation
+1 [STH:36] Mana Leak
+1 [ORI:83] Whirler Rogue
+1 [UDS:50] Treachery
+1 [M12:146] Incinerate
+1 [HOU:83] Abrade
+1 [WAR:221] Teferi, Time Raveler
+1 [C15:101] Preordain
+1 [7ED:67] Counterspell
+1 [NEM:30] Daze
+1 [NPH:42] Phyrexian Metamorph
+1 [MMQ:62] Bribery
+1 [LEG:28] Moat
+1 [DOM:1] Karn, Scion of Urza
+1 [MH1:231] Talisman of Creativity
+1 [M19:79] Tezzeret, Artifice Master
+1 [7ED:57] Wrath of God
+1 [RTR:201] Supreme Verdict
+1 [DOM:207] Teferi, Hero of Dominaria
+1 [M12:73] Ponder
+1 [WWK:133] Celestial Colonnade
+1 [KTK:233] Flooded Strand
+1 [2ED:285] Tundra
+1 [RTR:247] Steam Vents
+1 [MH1:244] Prismatic Vista
+1 [KTK:239] Polluted Delta
+1 [2ED:280] Plateau
+6 [UNH:137] Island
+1 [UNH:139] Mountain
+3 [UNH:136] Plains
+SB: 1 [M11:146] Inferno Titan
+SB: 1 [MH1:13] Giver of Runes
+SB: 1 [AVR:166] Zealous Conscripts
+SB: 1 [DTK:224] Kolaghan's Command
+SB: 1 [CELD:292] Embereth Shieldbreaker
+SB: 1 [AKH:175] Manglehorn
+SB: 1 [ODY:113] Upheaval
+SB: 1 [MIR:80] Mystical Tutor
+SB: 1 [MMA:26] Reveillark
+SB: 1 [SOM:223] Wurmcoil Engine
+SB: 1 [LRW:78] Pestermite
+SB: 1 [THS:122] Firedrinker Satyr
+SB: 1 [2ED:279] Bayou
+SB: 1 [CHK:74] Meloku the Clouded Mirror
+SB: 1 [ICE:289] Fire Covenant
+SB: 4 [UNH:137] Island
+SB: 3 [UNH:139] Mountain
+SB: 3 [UNH:136] Plains
+LAYOUT MAIN:(1,6)(CMC,false,40)|([WWK:133],[KTK:233],[UNH:137],[UNH:137],[UNH:137],[UNH:137],[UNH:137],[UNH:137],[UNH:139],[UNH:136],[UNH:136],[UNH:136],[2ED:280],[KTK:239],[MH1:244],[RTR:247],[2ED:285])([M12:73],[C15:101])([HOU:83],[7ED:67],[NEM:30],[M12:146],[STH:36],[ULG:36],[MH1:231])([MH1:52],[WAR:221],[MMA:218])([DOM:1],[LEG:28],[NPH:42],[RTR:201],[ORI:83],[7ED:57])([MMQ:62],[EMA:49],[DOM:207],[M19:79],[UDS:50])
+LAYOUT SIDEBOARD:(1,6)(COLOR,false,71)|([2ED:279],[UNH:137],[UNH:137],[UNH:137],[UNH:137],[UNH:139],[UNH:139],[UNH:139],[UNH:136],[UNH:136],[UNH:136],[SOM:223])([CHK:74],[MIR:80],[LRW:78],[ODY:113])([AKH:175])([CELD:292],[THS:122],[M11:146],[AVR:166])([MH1:13],[MMA:26])([ICE:289],[DTK:224])

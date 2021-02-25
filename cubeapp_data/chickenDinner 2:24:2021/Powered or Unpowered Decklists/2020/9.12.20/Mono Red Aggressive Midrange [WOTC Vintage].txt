@@ -1,0 +1,48 @@
+1 [M19:130] Banefire
+1 [ZEN:119] Burst Lightning
+1 [AKH:148] Soul-Scar Mage
+1 [KLD:199] Bomat Courier
+1 [EVE:139] Figure of Destiny
+1 [ZEN:126] Goblin Guide
+1 [M19:152] Lightning Strike
+1 [M12:146] Incinerate
+1 [HOU:83] Abrade
+1 [JOU:94] Eidolon of the Great Revel
+1 [M15:145] Goblin Rabblemaster
+1 [SCG:106] Sulfuric Vortex
+1 [3ED:185] Wheel of Fortune
+1 [RNA:107] Light Up the Stage
+1 [DKA:93] Hellrider
+1 [CM2:98] Fiery Confluence
+1 [SOM:94] Koth of the Hammer
+1 [AKH:136] Hazoret the Fervent
+1 [M13:150] Thundermaw Hellkite
+1 [M21:164] Terror of the Peaks
+1 [VIS:79] Fireblast
+1 [M12:147] Inferno Titan
+1 [OGW:110] Goblin Dark-Dwellers
+1 [4ED:361] Mishra's Factory
+1 [LEG:303] Karakas
+1 [2ED:262] Mox Emerald
+1 [MRD:152] Chrome Mox
+13 [UGL:87] Mountain
+SB: 1 [4ED:147] Mind Twist
+SB: 1 [RAV:213] Lightning Helix
+SB: 1 [DKA:140] Huntmaster of the Fells
+SB: 1 [GRN:254] Sacred Foundry
+SB: 1 [LRW:88] Sower of Temptation
+SB: 1 [APC:114] Pernicious Deed
+SB: 1 [LEG:28] Moat
+SB: 1 [AVR:129] Bonfire of the Damned
+SB: 1 [SHM:211] Manamorphose
+SB: 1 [M12:12] Day of Judgment
+SB: 1 [AVR:166] Zealous Conscripts
+SB: 1 [3ED:291] Volcanic Island
+SB: 1 [MH1:217] Wrenn and Six
+SB: 1 [TOR:51] Cabal Ritual
+SB: 1 [ISD:127] Ancient Grudge
+SB: 1 [M21:96] Duress
+SB: 1 [GRN:207] Thousand-Year Storm
+SB: 1 [TSP:152] Empty the Warrens
+LAYOUT MAIN:(1,7)(CMC,false,50)|([4ED:361],[LEG:303],[2ED:262],[MRD:152],[UGL:87],[UGL:87],[UGL:87],[UGL:87],[UGL:87],[UGL:87],[UGL:87],[UGL:87],[UGL:87],[UGL:87],[UGL:87],[UGL:87],[UGL:87])([M19:130],[ZEN:119],[AKH:148],[KLD:199],[EVE:139],[ZEN:126])([M19:152],[M12:146],[HOU:83],[JOU:94])([M15:145],[SCG:106],[3ED:185],[RNA:107])([DKA:93],[CM2:98],[SOM:94],[AKH:136])([M13:150],[M21:164],[OGW:110])([VIS:79],[M12:147])
+LAYOUT SIDEBOARD:(1,7)(CMC,false,45)|([GRN:254],[3ED:291])([4ED:147],[AVR:129],[M21:96])([RAV:213],[SHM:211],[MH1:217],[TOR:51],[ISD:127])([APC:114])([DKA:140],[LRW:88],[LEG:28],[M12:12],[TSP:152])([AVR:166])([GRN:207])

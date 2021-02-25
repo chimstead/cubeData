@@ -1,5 +1,8 @@
+2019
+6.19
+6.16.19
 6 Plains
-5 Forest 
+5 Forest
 2 Island
 1 Irrigated Farmland
 1 Stirring Wildwood
@@ -24,7 +27,7 @@
 1 Nissa, Voice of Zendikar
 1 Gideon of the Trials
 1 Courser of Kruphix
-1 Sower of Temptation 
+1 Sower of Temptation
 1 Cast Out
 1 Biogenic Ooze
-1 Angel of Sanctions 
+1 Angel of Sanctions

@@ -1,0 +1,28 @@
+9 Island
+5 Mountain
+1 Maze of Ith
+1 Shivan Reef
+1 Steam Vents
+1 Terramorphic Expanse
+1 Preordain
+1 Subterranean Tremors
+1 Boros Signet
+1 Magma Jet
+1 Prismatic Lens
+1 Talisman of Indulgence
+1 Everflowing Chalice
+1 Dack Fayden
+1 Jace Beleren
+1 True-Name Nemesis
+1 Vedalken Shackles
+1 Cryptic Command
+1 Deep Analysis
+1 Flametongue Kavu
+1 Karn, Scion of Urza
+1 Venser, Shaper Savant
+1 Bribery
+1 Mulldrifter
+1 Mystic Confluence
+1 Inferno Titan
+1 Wurmcoil Engine
+1 Dig Through Time

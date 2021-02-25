@@ -1,0 +1,50 @@
+1 [M20:111] Rotting Regisaur
+1 [ULG:36] Miscalculation
+1 [ODY:132] Entomb
+1 [VIS:64] Necromancy
+1 [LRW:124] Makeshift Mannequin
+1 [TMP:151] Reanimate
+1 [NPH:73] Sheoldred, Whispering One
+1 [AVR:106] Griselbrand
+1 [3ED:105] Demonic Tutor
+1 [6ED:161] Vampiric Tutor
+1 [ELD:110] Wishclaw Talisman
+1 [TMP:142] Living Death
+1 [RAV:260] Dimir Signet
+1 [M12:98] Grave Titan
+1 [TOR:77] Putrid Imp
+1 [MIR:141] Shallow Grave
+1 [MBS:46] Massacre Wurm
+1 [USG:134] Exhume
+1 [SOM:223] Wurmcoil Engine
+1 [TSP:66] Looter il-Kor
+1 [INV:57] Fact or Fiction
+1 [STH:138] Mox Diamond
+1 [ARN:70] Bazaar of Baghdad
+1 [ARN:76] Library of Alexandria
+1 [SOM:226] Darkslick Shores
+1 [2ED:263] Mox Jet
+1 [4ED:363] Strip Mine
+1 [3ED:290] Underground Sea
+1 [KTK:239] Polluted Delta
+2 [3ED:297] Island
+3 [3ED:299] Swamp
+5 [3ED:298] Swamp
+1 [ORI:105] Languish
+SB: 1 [SCG:41] Mind's Desire
+SB: 1 [VMA:20] Council's Judgment
+SB: 1 [M11:172] Fauna Shaman
+SB: 1 [MBS:10] Leonin Relic-Warder
+SB: 1 [M13:112] Vampire Nighthawk
+SB: 1 [DRK:117] Maze of Ith
+SB: 1 [SCG:106] Sulfuric Vortex
+SB: 1 [WWK:141] Raging Ravine
+SB: 1 [USG:218] Sneak Attack
+SB: 1 [WAR:13] Gideon Blackblade
+SB: 1 [SOI:44] Thraben Inspector
+SB: 1 [GRN:152] Assassin's Trophy
+SB: 1 [LEG:303] Karakas
+SB: 1 [ODY:118] Buried Alive
+SB: 1 [RTR:1] Angel of Serenity
+LAYOUT MAIN:(2,9)(CMC,true,58)|()([TOR:77])([TSP:66])([M20:111])()()([M12:98],[MBS:46],[SOM:223])([NPH:73])([AVR:106])([STH:138],[ARN:70],[ARN:76],[SOM:226],[2ED:263],[4ED:363],[3ED:290],[KTK:239],[3ED:297],[3ED:297],[3ED:299],[3ED:298],[3ED:298],[3ED:298],[3ED:299],[3ED:298],[3ED:298],[3ED:299])([ODY:132],[TMP:151],[6ED:161])([ULG:36],[3ED:105],[ELD:110],[RAV:260],[MIR:141],[USG:134])([VIS:64])([LRW:124],[INV:57],[ORI:105])([TMP:142])()()()
+LAYOUT SIDEBOARD:(2,7)(CMC,true,62)|()([SOI:44])([M11:172],[MBS:10])([M13:112])()()([RTR:1])([DRK:117],[WWK:141],[LEG:303])()([GRN:152])([VMA:20],[SCG:106],[WAR:13],[ODY:118])([USG:218])([SCG:41])()

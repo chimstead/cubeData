@@ -1,0 +1,54 @@
+1 [MOR:58] Bitterblossom
+1 [ELD:171] Questing Beast
+1 [MB1:440] Mystic Confluence
+1 [WAR:169] Nissa, Who Shakes the World
+1 [GPT:150] Gruul Signet
+1 [7ED:92] Opposition
+1 [C13:84] Ophiomancer
+1 [RAV:161] Elves of Deep Shadow
+1 [ICE:244] Fyndhorn Elves
+1 [GPT:152] Izzet Signet
+1 [FEM:38a] Hymn to Tourach
+1 [M12:98] Grave Titan
+1 [9ED:152] Phyrexian Arena
+1 [M11:175] Garruk Wildspeaker
+1 [GRN:213] Vraska, Golgari Queen
+1 [RAV:260] Dimir Signet
+1 [SOM:223] Wurmcoil Engine
+1 [PUMA:U22] Leovold, Emissary of Trest
+1 [WAR:61] Narset, Parter of Veils
+1 [TOR:69] Mesmeric Fiend
+1 [2ED:85] Timetwister
+1 [2ED:48] Ancestral Recall
+1 [LRW:76] Mulldrifter
+1 [MBS:81] Green Sun's Zenith
+1 [GRN:253] Overgrown Tomb
+1 [TMP:330] Wasteland
+1 [SOM:226] Darkslick Shores
+1 [ZEN:219] Marsh Flats
+1 [MH1:244] Prismatic Vista
+1 [3ED:283] Bayou
+1 [RNA:246] Breeding Pool
+1 [KLD:243] Blooming Marsh
+1 [ELD:268] Forest
+2 [ELD:269] Forest
+1 [ELD:256] Island
+1 [ELD:255] Island
+1 [ELD:260] Swamp
+1 [ELD:259] Swamp
+1 [ELD:258] Swamp
+SB: 1 [ORI:127] Abbot of Keral Keep
+SB: 1 [NPH:103] Beast Within
+SB: 1 [UDS:135] Metalworker
+SB: 1 [M19:196] Reclamation Sage
+SB: 1 [AER:181] Walking Ballista
+SB: 1 [MMQ:82] Gush
+SB: 1 [LRW:78] Pestermite
+SB: 1 [MMQ:324] Rishadan Port
+SB: 1 [UDS:75] Yawgmoth's Bargain
+SB: 1 [5DN:86] Eternal Witness
+SB: 1 [EMA:108] Toxic Deluge
+SB: 1 [ARB:92] Maelstrom Pulse
+SB: 1 [GRN:205] Thief of Sanity
+LAYOUT MAIN:(1,7)(CMC,false,69)|([GRN:253],[TMP:330],[SOM:226],[ZEN:219],[MH1:244],[3ED:283],[RNA:246],[KLD:243],[ELD:268],[ELD:269],[ELD:269],[ELD:256],[ELD:255],[ELD:260],[ELD:259],[ELD:258])([RAV:161],[ICE:244],[2ED:48],[MBS:81])([MOR:58],[GPT:150],[GPT:152],[FEM:38a],[RAV:260],[TOR:69])([C13:84],[9ED:152],[PUMA:U22],[WAR:61],[2ED:85])([ELD:171],[7ED:92],[M11:175],[GRN:213])([MB1:440],[WAR:169],[LRW:76])([M12:98],[SOM:223])
+LAYOUT SIDEBOARD:(1,5)(CMC,false,58)|([AER:181],[MMQ:324])([ORI:127])([NPH:103],[UDS:135],[M19:196],[LRW:78],[5DN:86],[EMA:108],[ARB:92],[GRN:205])([MMQ:82])([UDS:75])

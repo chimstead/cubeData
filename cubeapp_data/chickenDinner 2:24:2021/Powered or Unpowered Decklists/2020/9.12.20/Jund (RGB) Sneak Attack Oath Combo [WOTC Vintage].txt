@@ -1,0 +1,51 @@
+1 [M21:96] Duress
+1 [SOM:224] Blackcleave Cliffs
+1 [IKO:366] Heartless Act
+1 [2XM:110] Toxic Deluge
+1 [SUM:105] Demonic Tutor
+1 [4ED:363] Strip Mine
+1 [USG:218] Sneak Attack
+1 [VIS:64] Necromancy
+1 [M21:164] Terror of the Peaks
+1 [KTK:230] Bloodstained Mire
+1 [WAR:185] Angrath's Rampage
+1 [THS:107] Thoughtseize
+1 [GRN:213] Vraska, Golgari Queen
+1 [STH:138] Mox Diamond
+1 [KTK:249] Wooded Foothills
+1 [THS:187] Ashen Rider
+1 [WWK:115] Terastodon
+1 [MBS:99] Blightsteel Colossus
+1 [EXO:115] Oath of Druids
+1 [5DN:55] Night's Whisper
+1 [4ED:147] Mind Twist
+1 [ARB:92] Maelstrom Pulse
+1 [NPH:73] Sheoldred, Whispering One
+1 [GPT:150] Gruul Signet
+1 [RNA:245] Blood Crypt
+1 [ZEN:219] Marsh Flats
+1 [AKH:97] Liliana, Death's Majesty
+1 [M11:153] Pyretic Ritual
+2 [UST:216] Forest
+2 [UST:215] Mountain
+7 [UST:214] Swamp
+1 [PLS:60] Flametongue Kavu
+SB: 1 [MRD:53] Thirst for Knowledge
+SB: 1 [LRW:272] Shelldock Isle
+SB: 1 [OGW:175] Needle Spires
+SB: 1 [10E:163*] Nekrataal
+SB: 1 [DTK:169] Zurgo Bellstriker
+SB: 1 [2XM:131] Imperial Recruiter
+SB: 1 [USG:171] Yawgmoth's Will
+SB: 1 [BFZ:244] Shambling Vent
+SB: 1 [ULG:80] Goblin Welder
+SB: 1 [4ED:34] Land Tax
+SB: 1 [INV:57] Fact or Fiction
+SB: 1 [TOR:77] Putrid Imp
+SB: 1 [SUM:284] Plateau
+SB: 1 [DTK:181] Den Protector
+SB: 1 [EXO:129] Survival of the Fittest
+SB: 1 [UST:212] Plains
+SB: 1 [M20:111] Rotting Regisaur
+LAYOUT MAIN:(1,7)(CMC,false,71)|([SOM:224],[4ED:363],[KTK:230],[STH:138],[KTK:249],[RNA:245],[ZEN:219],[UST:216],[UST:216],[UST:215],[UST:215],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214])([M21:96],[THS:107],[4ED:147])([IKO:366],[SUM:105],[WAR:185],[EXO:115],[5DN:55],[GPT:150],[M11:153])([2XM:110],[VIS:64],[ARB:92])([USG:218],[GRN:213],[PLS:60])([M21:164],[AKH:97])([NPH:73],[WWK:115],[THS:187],[MBS:99])
+LAYOUT SIDEBOARD:(1,6)(COLOR,false,82)|([LRW:272],[OGW:175],[BFZ:244],[SUM:284],[UST:212])([10E:163*],[USG:171],[TOR:77],[M20:111])([MRD:53],[INV:57])([DTK:181],[EXO:129])([DTK:169],[2XM:131],[ULG:80])([4ED:34])

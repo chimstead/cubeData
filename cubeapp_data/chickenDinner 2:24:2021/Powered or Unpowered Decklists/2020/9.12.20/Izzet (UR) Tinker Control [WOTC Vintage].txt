@@ -1,0 +1,49 @@
+1 [AER:181] Walking Ballista
+1 [2ED:48] Ancestral Recall
+1 [GPT:32] Repeal
+1 [LEG:65] Mana Drain
+1 [GPT:152] Izzet Signet
+1 [VIS:34] Impulse
+1 [M11:154] Pyroclasm
+1 [RTR:101] Mizzium Mortars
+1 [RAV:262] Golgari Signet
+1 [ORI:60] Jace, Vryn's Prodigy
+1 [ULG:45] Tinker
+1 [M11:58] Jace Beleren
+1 [FUT:161] Coalition Relic
+1 [FUT:46] Venser, Shaper Savant
+1 [INV:57] Fact or Fiction
+1 [WWK:31] Jace, the Mind Sculptor
+1 [4ED:64] Control Magic
+1 [NPH:130] Batterskull
+1 [TSP:73] Riftwing Cloudskate
+1 [M13:150] Thundermaw Hellkite
+1 [ALL:28] Force of Will
+1 [SOM:180] Myr Battlesphere
+1 [NPH:1] Karn Liberated
+1 [2ED:233] Black Lotus
+1 [OGW:182] Wandering Fumarole
+9 [PGRU:2] Island
+6 [PGRU:4] Mountain
+SB: 1 [10E:61] Wrath of God
+SB: 1 [THB:4] Banishing Light
+SB: 1 [CON:15] Path to Exile
+SB: 1 [ALA:154] Ajani Vengeant
+SB: 1 [SOI:242] Anguished Unmaking
+SB: 1 [DRK:117] Maze of Ith
+SB: 1 [BOK:163] Umezawa's Jitte
+SB: 1 [WAR:13*] Gideon Blackblade
+SB: 1 [AVR:32] Restoration Angel
+SB: 1 [KLD:235] Smuggler's Copter
+SB: 1 [XLN:179] Carnage Tyrant
+SB: 1 [USG:309] Smokestack
+SB: 1 [ALA:218] Relic of Progenitus
+SB: 1 [WAR:244] Blast Zone
+SB: 1 [MBS:43] Go for the Throat
+SB: 1 [4ED:361] Mishra's Factory
+SB: 1 [RNA:107] Light Up the Stage
+SB: 1 [ELD:342] Emry, Lurker of the Loch
+SB: 1 [M21:164] Terror of the Peaks
+SB: 1 [9ED:228] Wildfire
+LAYOUT MAIN:(1,8)(CMC,false,80)|([PGRU:2],[PGRU:2],[PGRU:2],[PGRU:2],[PGRU:2],[PGRU:2],[PGRU:2],[PGRU:2],[PGRU:2],[PGRU:4],[PGRU:4],[PGRU:4],[PGRU:4],[PGRU:4],[PGRU:4])([OGW:182])([2ED:233],[2ED:48],[GPT:32],[AER:181])([RAV:262],[VIS:34],[GPT:152],[ORI:60],[LEG:65],[RTR:101],[M11:154])([FUT:161],[M11:58],[ULG:45])([4ED:64],[INV:57],[WWK:31],[FUT:46])([NPH:130],[ALL:28],[TSP:73],[M13:150])([NPH:1],[SOM:180])
+LAYOUT SIDEBOARD:(1,7)(CMC,false,77)|([DRK:117],[WAR:244],[4ED:361])([CON:15],[ALA:218])([BOK:163],[KLD:235],[MBS:43])([THB:4],[SOI:242],[WAR:13*],[RNA:107],[ELD:342])([10E:61],[ALA:154],[AVR:32],[USG:309])([M21:164])([XLN:179],[9ED:228])

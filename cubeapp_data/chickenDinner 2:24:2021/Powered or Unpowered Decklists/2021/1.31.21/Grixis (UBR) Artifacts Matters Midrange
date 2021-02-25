@@ -1,0 +1,50 @@
+1 [P02:46] Sleight of Hand
+1 [C18:57] Retrofitter Foundry
+1 [MH1:231] Talisman of Creativity
+1 [RTR:172] Izzet Charm
+1 [PC2:82] Baleful Strix
+1 [ZNR:63] Jace, Mirror Mage
+1 [LRW:71] Jace Beleren
+1 [ULG:45] Tinker
+1 [CN2:74] Daretti, Ingenious Iconoclast
+1 [CNS:42] Dack Fayden
+1 [MH1:52] Force of Negation
+1 [DOM:1] Karn, Scion of Urza
+1 [ORI:83] Whirler Rogue
+1 [LRW:88] Sower of Temptation
+1 [ORI:157] Pia and Kiran Nalaar
+1 [MH1:75] Urza, Lord High Artificer
+1 [C18:44] Saheeli, the Gifted
+1 [INV:57] Fact or Fiction
+1 [M19:79] Tezzeret, Artifice Master
+1 [HOU:145] The Scarab God
+1 [SCG:103] Siege-Gang Commander
+1 [ZNR:90] Agadeem's Awakening
+1 [USG:330] Tolarian Academy
+1 [ONS:313] Bloodstained Mire
+1 [C16:56] Ash Barrens
+1 [MRD:152] Chrome Mox
+1 [ZEN:219] Marsh Flats
+1 [ONS:330] Wooded Foothills
+1 [ONS:321] Polluted Delta
+1 [OGW:182] Wandering Fumarole
+1 [ICE:326] Jeweled Amulet
+1 [GPT:164] Steam Vents
+1 [JOU:163] Mana Confluence
+1 [MH1:238] Fiery Islet
+1 [LEB:287] Volcanic Island
+2 [PGRU:2] Island
+1 [PGRU:4] Mountain
+2 [PGRU:3] Swamp
+SB: 1 [USG:309] Smokestack
+SB: 1 [ZNR:12] Emeria's Call
+SB: 1 [GPT:157] Godless Shrine
+SB: 1 [THS:9] Elspeth, Sun's Champion
+SB: 1 [MH1:246] Silent Clearing
+SB: 1 [BFZ:244] Shambling Vent
+SB: 1 [MRD:146] Bonesplitter
+SB: 1 [LEG:58] Force Spike
+SB: 1 [SOI:44] Thraben Inspector
+SB: 1 [OGW:175] Needle Spires
+LAYOUT MAIN:(1,7)(CMC,false,85)|([PGRU:2],[PGRU:2],[PGRU:3],[PGRU:3],[PGRU:4])([C16:56],[ONS:313],[MH1:238],[JOU:163],[ZEN:219],[ONS:321],[GPT:164],[USG:330],[LEB:287],[OGW:182],[ONS:330])([MRD:152],[C18:57],[ICE:326],[P02:46])([PC2:82],[RTR:172],[MH1:231])([ZNR:90],[CNS:42],[CN2:74],[MH1:52],[LRW:71],[ZNR:63],[ULG:45])([INV:57],[DOM:1],[ORI:157],[C18:44],[LRW:88],[MH1:75],[ORI:83])([SCG:103],[M19:79],[HOU:145])
+LAYOUT SIDEBOARD:(1,5)(CMC,false,71)|([GPT:157],[MH1:246],[BFZ:244],[OGW:175])([MRD:146],[LEG:58],[SOI:44])([USG:309])([THS:9])([ZNR:12])

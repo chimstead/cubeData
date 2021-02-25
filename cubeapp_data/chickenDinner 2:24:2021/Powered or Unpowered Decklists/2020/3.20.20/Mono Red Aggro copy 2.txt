@@ -1,0 +1,50 @@
+1 [ODY:193] Firebolt
+1 [DTK:169] Zurgo Bellstriker
+1 [TMP:183] Jackal Pup
+1 [EVE:139] Figure of Destiny
+1 [KTK:118] Monastery Swiftspear
+1 [BOK:163] Umezawa's Jitte
+1 [MH1:230] Talisman of Conviction
+1 [HOU:83] Abrade
+1 [MBS:122] Phyrexian Revoker
+1 [KLD:235] Smuggler's Copter
+1 [EMN:130a] Hanweir Garrison
+1 [RAV:117] Char
+1 [M15:145] Goblin Rabblemaster
+1 [MH1:145] Seasoned Pyromancer
+1 [NPH:57] Dismember
+1 [NPH:161] Sword of War and Peace
+1 [KLD:110] Chandra, Torch of Defiance
+1 [DKA:93] Hellrider
+1 [C16:18] Frenzied Fugue
+1 [PLS:60] Flametongue Kavu
+1 [ORI:157] Pia and Kiran Nalaar
+1 [C15:26] Fiery Confluence
+1 [TMP:315] Ancient Tomb
+1 [ATQ:80a] Mishra's Factory
+5 [3ED:302] Mountain
+3 [3ED:303] Mountain
+6 [3ED:301] Mountain
+1 [USG:174] Arc Lightning
+1 [M13:150] Thundermaw Hellkite
+SB: 1 [USG:228] Wildfire
+SB: 1 [PC2:82] Baleful Strix
+SB: 1 [THB:305] Nadir Kraken
+SB: 1 [ODY:283] Wild Mongrel
+SB: 1 [THB:151] Purphoros's Intervention
+SB: 1 [PLC:25] Mana Tithe
+SB: 1 [ULG:14] Mother of Runes
+SB: 1 [AKH:16] Glory-Bound Initiate
+SB: 1 [M14:22] Imposing Sovereign
+SB: 1 [RAV:81] Dark Confidant
+SB: 1 [FRF:75] Mardu Strike Leader
+SB: 1 [5DN:118] Engineered Explosives
+SB: 1 [ONS:319] Grand Coliseum
+SB: 1 [LEB:282] Scrubland
+SB: 1 [LEB:184] Wheel of Fortune
+SB: 1 [CN2:18] Palace Jailer
+SB: 1 [SCG:103] Siege-Gang Commander
+SB: 1 [KTK:119] Sarkhan, the Dragonspeaker
+SB: 1 [M20:126] Chandra, Acolyte of Flame
+LAYOUT MAIN:(1,6)(CMC,false,50)|([TMP:315],[ATQ:80a],[3ED:302],[3ED:302],[3ED:303],[3ED:301],[3ED:301],[3ED:301],[3ED:303],[3ED:302],[3ED:302],[3ED:301],[3ED:301],[3ED:303],[3ED:302],[3ED:301])([ODY:193],[DTK:169],[TMP:183],[EVE:139],[KTK:118],[NPH:57])([BOK:163],[MH1:230],[HOU:83],[MBS:122],[KLD:235])([EMN:130a],[RAV:117],[M15:145],[MH1:145],[NPH:161],[USG:174])([KLD:110],[DKA:93],[C16:18],[PLS:60],[ORI:157],[C15:26])([M13:150])
+LAYOUT SIDEBOARD:(1,7)(CMC,false,50)|([5DN:118],[ONS:319],[LEB:282])([THB:151],[PLC:25],[ULG:14])([PC2:82],[ODY:283],[AKH:16],[M14:22],[RAV:81])([THB:305],[FRF:75],[LEB:184],[M20:126])([CN2:18])([SCG:103],[KTK:119])([USG:228])

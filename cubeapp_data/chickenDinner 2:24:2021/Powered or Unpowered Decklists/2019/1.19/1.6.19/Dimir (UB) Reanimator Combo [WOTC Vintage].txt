@@ -1,0 +1,52 @@
+1 [2ED:262] Mox Emerald
+1 [TMP:116] Corpse Dance
+1 [RTR:73] Pack Rat
+1 [THS:188] Ashiok, Nightmare Weaver
+1 [XLN:90] Arguel's Blood Fast
+1 [XLN:110] Kitesail Freebooter
+1 [PLC:85] Damnation
+1 [TMP:151] Reanimate
+1 [NPH:73] Sheoldred, Whispering One
+1 [USG:96] Show and Tell
+1 [ZEN:223] Scalding Tarn
+1 [AVR:106] Griselbrand
+1 [LEB:293] Island
+1 [HOU:145] The Scarab God
+1 [EMA:108] Toxic Deluge
+1 [ODY:132] Entomb
+2 [LEB:291] Island
+1 [E01:80] Baleful Strix
+3 [LEB:296] Swamp
+1 [LRW:124] Makeshift Mannequin
+5 [LEB:295] Swamp
+1 [LEB:294] Swamp
+1 [RAV:40] Compulsive Research
+1 [6ED:161] Vampiric Tutor
+1 [2ED:84] Time Walk
+1 [KTK:233] Flooded Strand
+1 [ARB:110] Sphinx of the Steel Wind
+1 [MIR:141] Shallow Grave
+1 [THS:90] Hero's Downfall
+1 [FRF:87] Tasigur, the Golden Fang
+1 [KLD:84] Gonti, Lord of Luxury
+1 [GRN:259] Watery Grave
+1 [2ED:265] Mox Ruby
+SB: 1 [EXO:72] Recurring Nightmare
+SB: 1 [MMQ:324] Rishadan Port
+SB: 1 [ULG:49] Bone Shredder
+SB: 1 [ODY:117] Braids, Cabal Minion
+SB: 1 [CHK:163] Desperate Ritual
+SB: 1 [RTR:1] Angel of Serenity
+SB: 1 [LRW:56] Cryptic Command
+SB: 1 [MMQ:82] Gush
+SB: 1 [USG:218] Sneak Attack
+SB: 1 [DOM:1] Karn, Scion of Urza
+SB: 1 [USG:105] Turnabout
+SB: 1 [M15:225] Phyrexian Revoker
+SB: 1 [MBS:138] Sword of Feast and Famine
+SB: 1 [TOR:51] Cabal Ritual
+SB: 1 [MRD:165] Duplicant
+SB: 1 [CON:121] Progenitus
+SB: 1 [SOI:242] Anguished Unmaking
+LAYOUT MAIN:(1,9)(CMC,false,50)|([2ED:262],[2ED:265],[KTK:233],[GRN:259],[ZEN:223],[LEB:291],[LEB:291],[LEB:293],[LEB:295],[LEB:295],[LEB:295],[LEB:295],[LEB:296],[LEB:294],[LEB:296],[LEB:295],[LEB:296])([TMP:151],[ODY:132],[6ED:161])([XLN:90],[MIR:141],[E01:80],[RTR:73],[2ED:84],[XLN:110])([TMP:116],[THS:188],[EMA:108],[USG:96],[THS:90],[RAV:40])([PLC:85],[KLD:84],[LRW:124])([HOU:145])([FRF:87])([NPH:73])([AVR:106],[ARB:110])
+LAYOUT SIDEBOARD:(1,6)(COLOR,false,50)|([MMQ:324],[MBS:138],[MRD:165],[M15:225],[DOM:1])([TOR:51],[EXO:72],[ULG:49],[ODY:117])([MMQ:82],[LRW:56],[USG:105])([USG:218],[CHK:163])([RTR:1])([CON:121],[SOI:242])

@@ -1,0 +1,50 @@
+2021
+1.31.21
+1 [MMQ:69] Counterspell
+1 [M14:163] Young Pyromancer
+1 [IKO:211] Sprite Dragon
+1 [RIX:99] Dire Fleet Daredevil
+1 [WAR:221*] Teferi, Time Raveler
+1 [ODY:193] Firebolt
+1 [WAR:125] Dreadhorde Arcanist
+1 [IKO:59] Neutralize
+1 [LEB:162] Lightning Bolt
+1 [ODY:70] Careful Study
+1 [M19:152] Lightning Strike
+1 [DKA:87] Faithless Looting
+1 [EMA:199] Dack Fayden
+1 [F01:11] Impulse
+1 [AKH:148] Soul-Scar Mage
+1 [ELD:197] Oko, Thief of Crowns
+1 [ALL:28] Force of Will
+1 [ELD:115] Bonecrusher Giant
+1 [IKO:43] Boon of the Wish-Giver
+1 [RTR:172] Izzet Charm
+1 [APC:128] Fire // Ice
+1 [NEM:30] Daze
+1 [ROE:145] Flame Slash
+1 [GRN:257] Steam Vents
+1 [KLD:249] Spirebluff Canal
+1 [MH1:238] Fiery Islet
+1 [RNA:246] Breeding Pool
+1 [ICE:351] Adarkar Wastes
+1 [KLD:244] Botanical Sanctum
+1 [RNA:259] Stomping Ground
+1 [ZNR:261] Cragcrown Pathway
+1 [GRN:254] Sacred Foundry
+1 [3ED:287] Taiga
+1 [APC:139] Battlefield Forge
+1 [FUT:176] Grove of the Burnwillows
+1 [KLD:246] Inspiring Vantage
+4 [UNH:137] Island
+SB: 1 [A25:128] Eidolon of the Great Revel
+SB: 1 [DOM:21] History of Benalia
+SB: 1 [SOI:155] Falkenrath Gorger
+SB: 1 [LEB:2] Armageddon
+SB: 1 [HOU:90] Earthshaker Khenra
+SB: 1 [ZNR:223] Grakmaw, Skyclave Ravager
+SB: 1 [C18:57] Retrofitter Foundry
+SB: 1 [ZNR:155] Roil Eruption
+SB: 1 [C20:34] Ethereal Forager
+LAYOUT MAIN:(2,6)(CMC,true,50)|()()([AKH:148])([M14:163],[IKO:211],[RIX:99],[WAR:125])()()([GRN:257],[KLD:249],[MH1:238],[RNA:246],[ICE:351],[KLD:244],[RNA:259],[ZNR:261],[GRN:254],[3ED:287],[APC:139],[FUT:176],[KLD:246],[UNH:137],[UNH:137],[UNH:137],[UNH:137])([ALL:28])([ODY:193],[LEB:162],[ODY:70],[DKA:87],[ROE:145])([MMQ:69],[M19:152],[F01:11],[RTR:172],[NEM:30],[APC:128],[ELD:115])([WAR:221*],[IKO:59],[EMA:199],[ELD:197])([IKO:43])
+LAYOUT SIDEBOARD:(1,6)(COLOR,false,50)|([A25:128],[SOI:155],[HOU:90])([DOM:21],[LEB:2])([ZNR:223])([C18:57])([ZNR:155])([C20:34])

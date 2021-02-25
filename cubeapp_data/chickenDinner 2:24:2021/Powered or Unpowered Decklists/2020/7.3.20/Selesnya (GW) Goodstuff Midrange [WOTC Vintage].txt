@@ -1,0 +1,49 @@
+1 [RNA:131] Incubation Druid
+1 [THS:9] Elspeth, Sun's Champion
+1 [SOI:5] Archangel Avacyn
+1 [RAV:270] Selesnya Signet
+1 [AKH:1] Angel of Sanctions
+1 [BFZ:29] Gideon, Ally of Zendikar
+1 [SHM:110] Devoted Druid
+1 [ICE:244] Fyndhorn Elves
+1 [M11:7] Baneslayer Angel
+1 [5ED:329] Sylvan Library
+1 [M10:191] Master of the Wild Hunt
+1 [TSP:216] Search for Tomorrow
+1 [ROE:33] Linvala, Keeper of Silence
+1 [MBS:8] Hero of Bladehold
+1 [DOM:26] Lyra Dawnbringer
+1 [THS:180] Sylvan Caryatid
+1 [RAV:161] Elves of Deep Shadow
+1 [DOM:1] Karn, Scion of Urza
+1 [ZEN:172] Oracle of Mul Daya
+1 [M19:196] Reclamation Sage
+1 [M19:208] Vivien Reid
+1 [NPH:9] Elesh Norn, Grand Cenobite
+1 [GRN:183] Knight of Autumn
+1 [SOM:228] Razorverge Thicket
+1 [WWK:144] Stirring Wildwood
+1 [2ED:265] Mox Ruby
+1 [KTK:248] Windswept Heath
+1 [3ED:285] Savannah
+1 [4ED:361] Mishra's Factory
+6 [THB:254] Forest
+5 [THB:250] Plains
+SB: 1 [M19:152] Lightning Strike
+SB: 1 [BBD:25] Brightling
+SB: 1 [WAR:13] Gideon Blackblade
+SB: 1 [AVR:36] Silverblade Paladin
+SB: 1 [SOI:44] Thraben Inspector
+SB: 1 [UDS:75] Yawgmoth's Bargain
+SB: 1 [ULG:101] Deranged Hermit
+SB: 1 [APC:114] Pernicious Deed
+SB: 1 [LRW:56] Cryptic Command
+SB: 1 [CHK:193] Through the Breach
+SB: 1 [ELD:191] Garruk, Cursed Huntsman
+SB: 1 [M13:159] Acidic Slime
+SB: 1 [8ED:272] Plow Under
+SB: 1 [UDS:124] Yavimaya Elder
+SB: 1 [SHM:229] Kitchen Finks
+SB: 1 [FRF:1] Ugin, the Spirit Dragon
+LAYOUT MAIN:(1,5)(CMC,false,62)|([SOM:228],[WWK:144],[2ED:265],[KTK:248],[3ED:285],[4ED:361],[THB:254],[THB:254],[THB:254],[THB:254],[THB:254],[THB:254],[THB:250],[THB:250],[THB:250],[THB:250],[THB:250])([RNA:131],[RAV:270],[SHM:110],[THS:180],[ICE:244],[TSP:216],[RAV:161])([M19:196],[GRN:183],[5ED:329])([BFZ:29],[M10:191],[ROE:33],[MBS:8],[DOM:1],[ZEN:172])([SOI:5],[AKH:1],[M11:7],[DOM:26],[M19:208],[THS:9],[NPH:9])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,61)|([M19:152],[BBD:25],[WAR:13],[AVR:36],[SOI:44],[UDS:75],[ULG:101],[APC:114],[LRW:56],[CHK:193],[ELD:191],[UDS:124],[SHM:229],[FRF:1],[M13:159],[8ED:272])

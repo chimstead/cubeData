@@ -1,0 +1,51 @@
+1 [MBS:43] Go for the Throat
+1 [EMA:82] Braids, Cabal Minion
+1 [ELD:241] Castle Locthwain
+1 [M20:105] Knight of the Ebon Legion
+1 [BFZ:109] Drana, Liberator of Malakir
+1 [ELD:101] Rankle, Master of Pranks
+1 [EMA:81] Blood Artist
+1 [IMA:82] Bloodghast
+1 [MH1:81] Carrion Feeder
+1 [C13:84] Ophiomancer
+1 [ELD:287] Murderous Rider
+1 [RNA:85] Spawn of Mayhem
+1 [DOM:81] Cast Down
+1 [MH1:116] Yawgmoth, Thran Physician
+1 [RNA:76] Gutterbones
+1 [GRN:69] Doom Whisperer
+1 [LRW:139] Shriekmaw
+1 [MM2:71] Bitterblossom
+1 [A25:246] Rishadan Port
+1 [EMA:112] Vampiric Tutor
+1 [NPH:57] Dismember
+1 [MH1:100] Plague Engineer
+1 [MM2:75] Dark Confidant
+1 [AKH:97] Liliana, Death's Majesty
+1 [TMP:330] Wasteland
+1 [AKH:88] Dread Wanderer
+7 [MBS:150] Swamp
+7 [MBS:151] Swamp
+SB: 1 [ICE:54] Swords to Plowshares
+SB: 1 [LRW:88] Sower of Temptation
+SB: 1 [SOI:242] Anguished Unmaking
+SB: 1 [WAR:244] Blast Zone
+SB: 1 [WWK:133] Celestial Colonnade
+SB: 1 [M13:22] Oblivion Ring
+SB: 1 [NPH:4] Blade Splicer
+SB: 1 [M14:195] Scavenging Ooze
+SB: 1 [MH1:145] Seasoned Pyromancer
+SB: 1 [SOM:81] Arc Trail
+SB: 1 [RNA:107] Light Up the Stage
+SB: 1 [GTC:242] Godless Shrine
+SB: 1 [ORI:229] Hangarback Walker
+SB: 1 [CNS:16] Council's Judgment
+SB: 1 [IMA:183] Primeval Titan
+SB: 1 [THB:220] Klothys, God of Destiny
+SB: 1 [ZEN:229] Verdant Catacombs
+SB: 1 [A25:236] Ash Barrens
+SB: 1 [GRN:103] Goblin Cratermaker
+SB: 2 [MBS:147] Plains
+SB: 1 [MBS:146] Plains
+LAYOUT MAIN:(1,6)(CMC,false,50)|([ELD:241],[A25:246],[TMP:330],[MBS:150],[MBS:150],[MBS:150],[MBS:151],[MBS:151],[MBS:151],[MBS:150],[MBS:151],[MBS:150],[MBS:150],[MBS:151],[MBS:151],[MBS:150],[MBS:151])([MH1:81],[AKH:88],[RNA:76],[M20:105],[EMA:112])([MM2:71],[EMA:81],[IMA:82],[DOM:81],[MM2:75],[MBS:43])([NPH:57],[BFZ:109],[C13:84],[MH1:100],[ELD:287])([EMA:82],[ELD:101],[RNA:85],[MH1:116])([GRN:69],[AKH:97],[LRW:139])
+LAYOUT SIDEBOARD:(1,6)(CMC,false,50)|([WAR:244],[WWK:133],[GTC:242],[ORI:229],[ZEN:229],[A25:236],[MBS:147],[MBS:147],[MBS:146])([ICE:54])([SOM:81],[M14:195],[GRN:103])([SOI:242],[NPH:4],[CNS:16],[THB:220],[RNA:107],[M13:22],[MH1:145])([LRW:88])([IMA:183])

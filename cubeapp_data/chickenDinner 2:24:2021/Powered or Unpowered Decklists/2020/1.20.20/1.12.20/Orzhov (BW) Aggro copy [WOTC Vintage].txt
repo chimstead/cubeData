@@ -1,0 +1,52 @@
+1 [SOI:242] Anguished Unmaking
+1 [DKA:12] Lingering Souls
+1 [NPH:130] Batterskull
+1 [MBS:10] Leonin Relic-Warder
+1 [ULG:14] Mother of Runes
+1 [NEM:139] Tangle Wire
+1 [ROE:47] Student of Warfare
+1 [EMN:40] Selfless Spirit
+1 [RNA:27] Tithe Taker
+1 [DST:140] Skullclamp
+1 [FRF:20] Monastery Mentor
+1 [KLD:4] Angel of Invention
+1 [WAR:13] Gideon Blackblade
+1 [CON:15] Path to Exile
+1 [4ED:147] Mind Twist
+1 [MOR:58] Bitterblossom
+1 [XLN:110] Kitesail Freebooter
+1 [ROE:115] Inquisition of Kozilek
+1 [NPH:4] Blade Splicer
+1 [KLD:235] Smuggler's Copter
+1 [ALA:9] Elspeth, Knight-Errant
+1 [MH1:116] Yawgmoth, Thran Physician
+1 [M12:23] Honor of the Pure
+1 [KTK:233] Flooded Strand
+1 [ZEN:219] Marsh Flats
+1 [KTK:239] Polluted Delta
+1 [ZEN:211] Arid Mesa
+1 [3ED:286] Scrubland
+1 [RNA:248] Godless Shrine
+1 [2ED:264] Mox Pearl
+2 [P02:152] Plains
+2 [P02:153] Plains
+3 [P02:151] Plains
+2 [P02:158] Swamp
+1 [P02:157] Swamp
+SB: 1 [THS:90] Hero's Downfall
+SB: 1 [NPH:9] Elesh Norn, Grand Cenobite
+SB: 1 [RAV:117] Char
+SB: 1 [SOM:176] Mindslaver
+SB: 1 [EMN:85] Collective Brutality
+SB: 1 [ARB:110] Sphinx of the Steel Wind
+SB: 1 [AKH:149] Sweltering Suns
+SB: 1 [M11:149] Lightning Bolt
+SB: 1 [RAV:262] Golgari Signet
+SB: 1 [LRW:124] Makeshift Mannequin
+SB: 1 [GRN:183] Knight of Autumn
+SB: 1 [BBD:25] Brightling
+SB: 1 [DTK:124] Ultimate Price
+SB: 1 [FRF:27] Soulfire Grand Master
+SB: 1 [M12:39] Sun Titan
+LAYOUT MAIN:(2,6)(CMC,true,38)|([KTK:233],[ZEN:219],[KTK:239],[ZEN:211],[3ED:286],[RNA:248],[P02:158],[P02:157],[P02:158])([ULG:14],[ROE:47],[2ED:264])([MBS:10],[EMN:40],[RNA:27],[XLN:110])([FRF:20],[NPH:4])([MH1:116])([KLD:4])([P02:152],[P02:153],[P02:153],[P02:151],[P02:151],[P02:151],[P02:152])([DST:140],[CON:15],[4ED:147],[ROE:115])([MOR:58],[KLD:235],[M12:23])([SOI:242],[DKA:12],[NEM:139],[WAR:13])([ALA:9])([NPH:130])
+LAYOUT SIDEBOARD:(1,5)(COLOR,false,43)|([SOM:176],[RAV:262])([THS:90],[EMN:85],[LRW:124],[DTK:124])([RAV:117],[AKH:149],[M11:149])([NPH:9],[BBD:25],[FRF:27],[M12:39])([ARB:110],[GRN:183])

@@ -1,0 +1,50 @@
+1 [KLD:234] Skysovereign, Consul Flagship
+1 [ISD:170] Avacyn's Pilgrim
+1 [GK1:56] Elves of Deep Shadow
+1 [RAV:163] Farseek
+1 [C14:191] Elvish Mystic
+1 [BNG:119] Courser of Kruphix
+1 [CM2:230] Worn Powerstone
+1 [ROE:190] Joraga Treespeaker
+1 [SOI:233] Tireless Tracker
+1 [M10:189] Llanowar Elves
+1 [DDR:36] Ob Nixilis Reignited
+1 [CMA:186] Meren of Clan Nel Toth
+1 [MH1:161] Deep Forest Hermit
+1 [RNA:183] Hydroid Krasis
+1 [5DN:126] Grafted Wargear
+1 [DOM:90] The Eldest Reborn
+1 [ELD:101] Rankle, Master of Pranks
+1 [VMA:212] Genesis
+1 [RNA:124] End-Raze Forerunners
+1 [KLD:231] Scrapheap Scrounger
+1 [C13:84] Ophiomancer
+1 [RAV:262] Golgari Signet
+1 [M12:95] Doom Blade
+1 [KTK:66] Bloodsoaked Champion
+1 [DDR:30] Treetop Village
+1 [MH1:243] Nurturing Peatland
+1 [MH1:244] Prismatic Vista
+1 [KTK:239] Polluted Delta
+7 [THB:254] Forest
+1 [THB:251] Island
+4 [THB:252] Swamp
+SB: 1 [SHM:135] Woodfall Primus
+SB: 1 [MM2:79] Dismember
+SB: 1 [ISD:203] Spider Spawning
+SB: 1 [THS:152] Boon Satyr
+SB: 1 [ZEN:9] Day of Judgment
+SB: 1 [C16:195] Edric, Spymaster of Trest
+SB: 1 [10E:13] Condemn
+SB: 1 [MH1:210] Nature's Chant
+SB: 1 [EMA:113] Victimize
+SB: 1 [M19:196] Reclamation Sage
+SB: 1 [DDD:15] Rancor
+SB: 1 [SOI:237] Vessel of Nascency
+SB: 1 [AKH:88] Dread Wanderer
+SB: 1 [M11:172] Fauna Shaman
+SB: 1 [THS:223] Nykthos, Shrine to Nyx
+SB: 1 [KLD:124] Pia Nalaar
+SB: 1 [XLN:179] Carnage Tyrant
+LAYOUT MAIN:(2,4)(CMC,false,57)|([DDR:30],[THB:254],[THB:254],[THB:254],[THB:254],[THB:254],[THB:254],[THB:254],[MH1:243])([ISD:170],[GK1:56],[C14:191],[ROE:190],[M10:189],[KTK:66])([BNG:119],[CM2:230],[SOI:233],[5DN:126],[C13:84])([KLD:234],[DDR:36],[MH1:161],[DOM:90],[VMA:212])([MH1:244],[KTK:239],[THB:251],[THB:252],[THB:252],[THB:252],[THB:252])([RAV:163],[RNA:183],[KLD:231],[RAV:262],[M12:95])([CMA:186],[ELD:101])([RNA:124])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([SHM:135],[MM2:79],[ISD:203],[THS:152],[ZEN:9],[C16:195],[10E:13],[MH1:210],[EMA:113],[M19:196],[DDD:15],[SOI:237],[AKH:88],[M11:172],[THS:223],[KLD:124],[XLN:179])

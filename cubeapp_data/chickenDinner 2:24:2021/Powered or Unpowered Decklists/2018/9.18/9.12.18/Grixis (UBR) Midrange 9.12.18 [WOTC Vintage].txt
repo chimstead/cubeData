@@ -1,0 +1,55 @@
+1 [2ED:263] Mox Jet
+1 [EMA:199] Dack Fayden
+1 [5ED:140] Animate Dead
+1 [RTR:73] Pack Rat
+1 [THS:188] Ashiok, Nightmare Weaver
+1 [M11:149] Lightning Bolt
+1 [ARB:46] Terminate
+1 [WWK:127] Lodestone Golem
+1 [OGW:104] Chandra, Flamecaller
+1 [XLN:254] Field of Ruin
+1 [JR:109] Imperial Seal
+1 [STH:138] Mox Diamond
+1 [3ED:274] Sol Ring
+2 [KTK:265] Mountain
+1 [NPH:73] Sheoldred, Whispering One
+1 [RTR:188] Rakdos's Return
+1 [KTK:260] Swamp
+1 [KTK:261] Swamp
+1 [EMA:108] Toxic Deluge
+1 [JOU:62] Brain Maggot
+1 [E01:80] Baleful Strix
+1 [VIS:64] Necromancy
+1 [EXO:72] Recurring Nightmare
+1 [XLN:223] Hostage Taker
+1 [2ED:293] Island
+1 [C13:84] Ophiomancer
+1 [4ED:147] Mind Twist
+1 [ROE:6] Kozilek, Butcher of Truth
+2 [KTK:259] Swamp
+1 [M10:100] Hypnotic Specter
+1 [KTK:258] Swamp
+1 [KTK:36] Dig Through Time
+1 [KTK:255] Island
+1 [KTK:254] Island
+1 [DST:148] Sword of Fire and Ice
+1 [2ED:48] Ancestral Recall
+1 [RTR:213] Deathrite Shaman
+1 [DOM:81] Cast Down
+1 [JOU:163] Mana Confluence
+1 [SOM:224] Blackcleave Cliffs
+SB: 1 [M12:39] Sun Titan
+SB: 1 [THS:143] Stormbreath Dragon
+SB: 1 [PLC:85] Damnation
+SB: 1 [DOM:1] Karn, Scion of Urza
+SB: 1 [9ED:228] Wildfire
+SB: 1 [DTK:217] Dragonlord Dromoka
+SB: 1 [7ED:76] Force Spike
+SB: 1 [ARB:110] Sphinx of the Steel Wind
+SB: 1 [TOR:77] Putrid Imp
+SB: 1 [LRW:139] Shriekmaw
+SB: 1 [KLD:84] Gonti, Lord of Luxury
+SB: 1 [MBS:46] Massacre Wurm
+SB: 1 [ISD:215] Olivia Voldaren
+LAYOUT MAIN:(1,9)(CMC,false,50)|([XLN:254],[SOM:224],[JOU:163],[2ED:263],[STH:138],[KTK:254],[KTK:255],[KTK:265],[KTK:265],[KTK:260],[KTK:258],[KTK:261],[KTK:259],[KTK:259],[2ED:293])([2ED:48],[M11:149],[3ED:274],[RTR:213],[JR:109],[4ED:147])([DOM:81],[ARB:46],[E01:80],[JOU:62],[RTR:73],[5ED:140],[RTR:188])([C13:84],[M10:100],[VIS:64],[EXO:72],[EMA:108],[EMA:199],[THS:188],[DST:148])([WWK:127],[XLN:223])([OGW:104])([NPH:73])([KTK:36])([ROE:6])
+LAYOUT SIDEBOARD:(1,5)(CARD_TYPE,false,50)|([ARB:110])([THS:143],[DTK:217],[M12:39],[KLD:84],[ISD:215],[TOR:77],[LRW:139],[MBS:46])([7ED:76])([DOM:1])([9ED:228],[PLC:85])

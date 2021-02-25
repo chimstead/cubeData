@@ -1,0 +1,48 @@
+1 [3ED:274] Sol Ring
+1 [LEG:137] Chain Lightning
+1 [KTK:118] Monastery Swiftspear
+1 [M12:145] Grim Lavamancer
+1 [M11:149] Lightning Bolt
+1 [ZEN:119] Burst Lightning
+1 [GRN:103] Goblin Cratermaker
+1 [AER:87] Kari Zev, Skyship Raider
+1 [HOU:83] Abrade
+1 [M13:147] Searing Spear
+1 [ELD:138] Robber of the Rich
+1 [GRN:115] Runaway Steam-Kin
+1 [THS:128] Magma Jet
+1 [EMN:130a] Hanweir Garrison
+1 [M15:145] Goblin Rabblemaster
+1 [DST:148] Sword of Fire and Ice
+1 [3ED:185] Wheel of Fortune
+1 [SCG:106] Sulfuric Vortex
+1 [CM2:98] Fiery Confluence
+1 [KLD:110] Chandra, Torch of Defiance
+1 [DKA:93] Hellrider
+1 [SOM:94] Koth of the Hammer
+1 [KLD:231] Scrapheap Scrounger
+1 [M12:156] Stormblood Berserker
+1 [2ED:265] Mox Ruby
+1 [RNA:245] Blood Crypt
+1 [4ED:361] Mishra's Factory
+1 [M14:228] Mutavault
+1 [MRD:152] Chrome Mox
+11 [UGL:87] Mountain
+SB: 1 [MBS:1] Accorder Paladin
+SB: 1 [WAR:119] Chandra, Fire Artisan
+SB: 1 [KLD:4] Angel of Invention
+SB: 1 [MBS:14] Mirran Crusader
+SB: 1 [DKA:87] Faithless Looting
+SB: 1 [2ED:85] Timetwister
+SB: 1 [EMN:46] Thalia, Heretic Cathar
+SB: 1 [DOM:14] Dauntless Bodyguard
+SB: 1 [THS:107] Thoughtseize
+SB: 1 [2ED:48] Ancestral Recall
+SB: 1 [ISD:155] Past in Flames
+SB: 1 [7ED:92] Opposition
+SB: 1 [MRD:188] Isochron Scepter
+SB: 1 [MH1:161] Deep Forest Hermit
+SB: 1 [VIS:64] Necromancy
+SB: 1 [ARB:50] Bloodbraid Elf
+LAYOUT MAIN:(1,5)(CMC,false,50)|([2ED:265],[RNA:245],[4ED:361],[M14:228],[MRD:152],[UGL:87],[UGL:87],[UGL:87],[UGL:87],[UGL:87],[UGL:87],[UGL:87],[UGL:87],[UGL:87],[UGL:87],[UGL:87])([3ED:274],[LEG:137],[KTK:118],[M12:145],[M11:149],[ZEN:119])([GRN:103],[AER:87],[HOU:83],[M13:147],[ELD:138],[GRN:115],[THS:128],[KLD:231],[M12:156])([EMN:130a],[M15:145],[DST:148],[3ED:185],[SCG:106])([CM2:98],[KLD:110],[DKA:93],[SOM:94])
+LAYOUT SIDEBOARD:(1,5)(CMC,false,50)|([DKA:87],[DOM:14],[THS:107],[2ED:48])([MBS:1],[MRD:188])([MBS:14],[2ED:85],[EMN:46],[VIS:64])([WAR:119],[ISD:155],[7ED:92],[ARB:50])([KLD:4],[MH1:161])

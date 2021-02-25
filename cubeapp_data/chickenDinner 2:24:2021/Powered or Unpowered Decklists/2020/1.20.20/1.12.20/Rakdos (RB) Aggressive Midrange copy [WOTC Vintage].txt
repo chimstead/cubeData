@@ -1,0 +1,49 @@
+1 [MOR:58] Bitterblossom
+1 [AKH:134] Glorybringer
+1 [DKA:93] Hellrider
+1 [OGW:110] Goblin Dark-Dwellers
+1 [SCG:106] Sulfuric Vortex
+1 [4ED:147] Mind Twist
+1 [FUT:101] Magus of the Moon
+1 [M11:153] Pyretic Ritual
+1 [SOM:94] Koth of the Hammer
+1 [AVR:166] Zealous Conscripts
+1 [RNA:109] Rix Maadi Reveler
+1 [ISD:127] Ancient Grudge
+1 [KLD:124] Pia Nalaar
+1 [M19:152] Lightning Strike
+1 [KLD:110] Chandra, Torch of Defiance
+1 [ZEN:119] Burst Lightning
+1 [ARB:46] Terminate
+1 [M12:146] Incinerate
+1 [M11:149] Lightning Bolt
+1 [RIX:111] Rekindling Phoenix
+1 [GRN:115] Runaway Steam-Kin
+1 [PLS:60] Flametongue Kavu
+1 [M12:147] Inferno Titan
+1 [ZEN:223] Scalding Tarn
+1 [RNA:259] Stomping Ground
+1 [3ED:287] Taiga
+1 [3ED:282] Badlands
+1 [STH:138] Mox Diamond
+11 [UST:215] Mountain
+1 [UST:214] Swamp
+SB: 1 [ULG:14] Mother of Runes
+SB: 1 [M13:150] Thundermaw Hellkite
+SB: 1 [M12:98] Grave Titan
+SB: 1 [TSB:55] Avalanche Riders
+SB: 1 [AKH:149] Sweltering Suns
+SB: 1 [LRW:124] Makeshift Mannequin
+SB: 1 [JUD:139] Mirari's Wake
+SB: 1 [AER:62] Glint-Sleeve Siphoner
+SB: 1 [NPH:33] Deceiver Exarch
+SB: 1 [ARB:110] Sphinx of the Steel Wind
+SB: 1 [ULG:101] Deranged Hermit
+SB: 1 [RAV:213] Lightning Helix
+SB: 1 [ALA:154] Ajani Vengeant
+SB: 1 [KLD:4] Angel of Invention
+SB: 1 [RTR:101] Mizzium Mortars
+SB: 1 [GRN:174] Goblin Electromancer
+SB: 1 [AKH:136] Hazoret the Fervent
+LAYOUT MAIN:(1,5)(CMC,false,69)|([ZEN:223],[RNA:259],[3ED:287],[3ED:282],[STH:138],[UST:215],[UST:215],[UST:215],[UST:215],[UST:215],[UST:215],[UST:215],[UST:215],[UST:215],[UST:215],[UST:215],[UST:214])([4ED:147],[ZEN:119],[M11:149])([MOR:58],[M11:153],[RNA:109],[ISD:127],[M19:152],[ARB:46],[M12:146],[GRN:115])([SCG:106],[FUT:101],[KLD:124])([DKA:93],[SOM:94],[KLD:110],[RIX:111],[PLS:60],[AKH:134],[OGW:110],[AVR:166],[M12:147])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([ULG:14],[M13:150],[M12:98],[TSB:55],[AKH:149],[LRW:124],[JUD:139],[AER:62],[NPH:33],[ARB:110],[ULG:101],[RAV:213],[ALA:154],[KLD:4],[RTR:101],[GRN:174],[AKH:136])

@@ -1,0 +1,49 @@
+1 [EMN:85] Collective Brutality
+1 [ROE:190] Joraga Treespeaker
+1 [RAV:161] Elves of Deep Shadow
+1 [AKH:97] Liliana, Death's Majesty
+1 [UDS:118] Rofellos, Llanowar Emissary
+1 [ARB:92] Maelstrom Pulse
+1 [C13:84] Ophiomancer
+1 [ZEN:168] Lotus Cobra
+1 [MOR:58] Bitterblossom
+1 [AVR:172] Craterhoof Behemoth
+1 [M11:172] Fauna Shaman
+1 [USG:318] Worn Powerstone
+1 [MIR:141] Shallow Grave
+1 [TMP:151] Reanimate
+1 [LRW:124] Makeshift Mannequin
+1 [M12:98] Grave Titan
+1 [M12:165] Birds of Paradise
+1 [PLC:149] Harmonize
+1 [NPH:73] Sheoldred, Whispering One
+1 [SHM:135] Woodfall Primus
+1 [EXO:72] Recurring Nightmare
+1 [ICE:244] Fyndhorn Elves
+1 [RIX:82] Ravenous Chupacabra
+1 [EXO:129] Survival of the Fittest
+1 [2ED:263] Mox Jet
+1 [KLD:243] Blooming Marsh
+7 [UST:216] Forest
+7 [UST:214] Swamp
+SB: 1 [ULG:45] Tinker
+SB: 1 [WWK:115] Terastodon
+SB: 1 [ZEN:14] Journey to Nowhere
+SB: 1 [DTK:216] Dragonlord Atarka
+SB: 1 [RNA:183] Hydroid Krasis
+SB: 1 [OGW:110] Goblin Dark-Dwellers
+SB: 1 [FRF:1] Ugin, the Spirit Dragon
+SB: 1 [XLN:232] Vraska, Relic Seeker
+SB: 1 [DKA:12] Lingering Souls
+SB: 1 [UMA:11] Containment Priest
+SB: 1 [RAV:16] Faith's Fetters
+SB: 1 [ARB:46] Terminate
+SB: 1 [ARB:110] Sphinx of the Steel Wind
+SB: 1 [GRN:213] Vraska, Golgari Queen
+SB: 1 [SHM:110] Devoted Druid
+SB: 1 [M10:100] Hypnotic Specter
+SB: 1 [TOR:77] Putrid Imp
+SB: 1 [LRW:133] Oona's Prowler
+SB: 1 [ISD:181] Garruk Relentless
+LAYOUT MAIN:(1,5)(CMC,false,69)|([2ED:263],[KLD:243],[UST:216],[UST:216],[UST:216],[UST:216],[UST:216],[UST:216],[UST:216],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214])([ROE:190],[RAV:161],[TMP:151],[M12:165],[ICE:244],[EMN:85],[UDS:118],[ZEN:168],[MOR:58],[M11:172],[MIR:141],[EXO:129])([ARB:92],[C13:84],[USG:318],[EXO:72])([LRW:124],[PLC:149],[RIX:82])([AKH:97],[M12:98],[NPH:73],[AVR:172],[SHM:135])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([ULG:45],[WWK:115],[ZEN:14],[DTK:216],[RNA:183],[OGW:110],[FRF:1],[XLN:232],[DKA:12],[UMA:11],[RAV:16],[ARB:46],[ARB:110],[GRN:213],[SHM:110],[M10:100],[TOR:77],[LRW:133],[ISD:181])

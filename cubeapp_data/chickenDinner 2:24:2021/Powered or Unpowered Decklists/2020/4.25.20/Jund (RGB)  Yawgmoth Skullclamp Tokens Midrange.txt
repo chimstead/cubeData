@@ -1,0 +1,55 @@
+1 [MOR:58] Bitterblossom
+1 [ME4:77] Demonic Tutor
+1 [CMD:260] Skullclamp
+1 [ROE:115] Inquisition of Kozilek
+1 [E01:50] Grim Lavamancer
+1 [GK2:72] Rakdos's Return
+1 [5DN:73] Magma Jet
+1 [C17:114] Go for the Throat
+1 [UMA:155] Young Pyromancer
+1 [MH1:116] Yawgmoth, Thran Physician
+1 [M10:157] Siege-Gang Commander
+1 [CM2:109] Inferno Titan
+1 [AKH:97] Liliana, Death's Majesty
+1 [ODY:117] Braids, Cabal Minion
+1 [MM3:163] Falkenrath Aristocrat
+1 [CM2:98] Fiery Confluence
+1 [DDT:46] Goblin Rabblemaster
+1 [DST:148] Sword of Fire and Ice
+1 [NPH:19] Porcelain Legionnaire
+1 [WAR:125] Dreadhorde Arcanist
+1 [MM2:109] Burst Lightning
+1 [BBD:171] Chain Lightning
+1 [PCA:84] Bloodbraid Elf
+1 [DIS:171] Blood Crypt
+1 [ME4:253] Taiga
+1 [ZEN:223] Scalding Tarn
+1 [C19:258] Llanowar Wastes
+1 [SOM:225] Copperline Gorge
+1 [KLD:243] Blooming Marsh
+2 [CMD:311] Mountain
+1 [CMD:312] Mountain
+1 [CMD:313] Mountain
+2 [CMD:314] Mountain
+1 [CMD:309] Swamp
+1 [CMD:308] Swamp
+2 [CMD:310] Swamp
+1 [CMD:307] Swamp
+SB: 1 [ULG:101] Deranged Hermit
+SB: 1 [EMA:148] Sneak Attack
+SB: 1 [KLD:245] Concealed Courtyard
+SB: 1 [MH1:13] Giver of Runes
+SB: 1 [MMA:120] Kiki-Jiki, Mirror Breaker
+SB: 1 [RAV:280] Sacred Foundry
+SB: 1 [USG:322] Phyrexian Tower
+SB: 1 [A25:146] Pyroclasm
+SB: 1 [BBD:25] Brightling
+SB: 1 [GK1:57] Abrupt Decay
+SB: 1 [C18:127] Acidic Slime
+SB: 1 [GK2:90] Ghor-Clan Rampager
+SB: 1 [IMA:238] Grove of the Burnwillows
+SB: 1 [HOU:90] Earthshaker Khenra
+SB: 1 [MH1:234] Talisman of Resilience
+SB: 1 [4ED:361] Mishra's Factory
+LAYOUT MAIN:(1,7)(CMC,false,52)|([DIS:171],[KLD:243],[SOM:225],[C19:258],[CMD:311],[CMD:312],[CMD:313],[CMD:314],[CMD:311],[CMD:314],[ZEN:223],[CMD:309],[CMD:308],[CMD:310],[CMD:307],[CMD:310],[ME4:253])([MM2:109],[BBD:171],[E01:50],[ROE:115],[CMD:260])([MOR:58],[ME4:77],[WAR:125],[C17:114],[5DN:73],[GK2:72],[UMA:155])([DDT:46],[NPH:19],[DST:148])([PCA:84],[ODY:117],[MM3:163],[CM2:98],[MH1:116])([AKH:97],[M10:157])([CM2:109])
+LAYOUT SIDEBOARD:(1,6)(CMC,false,71)|([KLD:245],[IMA:238],[4ED:361],[USG:322],[RAV:280])([MH1:13])([GK1:57],[HOU:90],[A25:146],[MH1:234])([BBD:25])([GK2:90],[EMA:148])([C18:127],[ULG:101],[MMA:120])

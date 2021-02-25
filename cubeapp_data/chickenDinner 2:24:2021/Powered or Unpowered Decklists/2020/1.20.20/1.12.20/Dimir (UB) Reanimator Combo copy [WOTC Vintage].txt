@@ -1,0 +1,52 @@
+1 [ODY:132] Entomb
+1 [DIS:165] Rakdos Signet
+1 [TMP:151] Reanimate
+1 [M20:97] Duress
+1 [ZEN:219] Marsh Flats
+1 [M12:72] Phantasmal Image
+1 [THS:188] Ashiok, Nightmare Weaver
+1 [ORI:90] Dark Petition
+1 [THS:187] Ashen Rider
+1 [GRN:259] Watery Grave
+1 [TOR:77] Putrid Imp
+1 [DST:146] Sundering Titan
+1 [NPH:73] Sheoldred, Whispering One
+1 [3ED:290] Underground Sea
+1 [ARN:76] Library of Alexandria
+1 [HOU:145] The Scarab God
+1 [USG:134] Exhume
+1 [3ED:105] Demonic Tutor
+1 [ULG:126] Grim Monolith
+1 [ODY:113] Upheaval
+1 [MIR:141] Shallow Grave
+1 [VIS:64] Necromancy
+1 [2ED:262] Mox Emerald
+1 [LRW:133] Oona's Prowler
+1 [LRW:124] Makeshift Mannequin
+1 [LRW:272] Shelldock Isle
+1 [2ED:265] Mox Ruby
+1 [XLN:110] Kitesail Freebooter
+1 [LRW:76] Mulldrifter
+1 [3ED:296] Island
+1 [3ED:297] Island
+5 [3ED:299] Swamp
+2 [3ED:300] Swamp
+2 [3ED:298] Swamp
+SB: 1 [DOM:1] Karn, Scion of Urza
+SB: 1 [KLD:84] Gonti, Lord of Luxury
+SB: 1 [NPH:4] Blade Splicer
+SB: 1 [WWK:133] Celestial Colonnade
+SB: 1 [RNA:248] Godless Shrine
+SB: 1 [M20:14] Disenchant
+SB: 1 [KLD:13] Fairgrounds Warden
+SB: 1 [ROE:33] Linvala, Keeper of Silence
+SB: 1 [ULG:129] Memory Jar
+SB: 1 [APC:126] Vindicate
+SB: 1 [GRN:208] Trostani Discordant
+SB: 1 [ROE:47] Student of Warfare
+SB: 1 [WAR:244] Blast Zone
+SB: 1 [FEM:38a] Hymn to Tourach
+SB: 1 [NPH:1] Karn Liberated
+SB: 1 [EMA:108] Toxic Deluge
+LAYOUT MAIN:(2,9)(CMC,true,37)|([ARN:76],[2ED:262],[2ED:265])([TOR:77])([M12:72],[LRW:133],[XLN:110])([LRW:76])()([HOU:145])()([NPH:73])([THS:187],[DST:146])([ZEN:219],[GRN:259],[3ED:290],[LRW:272],[3ED:296],[3ED:297],[3ED:299],[3ED:299],[3ED:300],[3ED:299],[3ED:298],[3ED:299],[3ED:299],[3ED:298],[3ED:300])([ODY:132],[TMP:151],[M20:97])([DIS:165],[ULG:126],[USG:134],[3ED:105],[MIR:141])([THS:188],[VIS:64])([LRW:124])([ORI:90])([ODY:113])()()
+LAYOUT SIDEBOARD:(2,7)(CMC,true,32)|()([ROE:47])([FEM:38a])([NPH:4],[KLD:13])([KLD:84],[ROE:33])([GRN:208],[EMA:108])([NPH:1])([WWK:133],[RNA:248],[WAR:244])()([M20:14])([APC:126])([DOM:1])([ULG:129])()

@@ -1,0 +1,52 @@
+1 [ALA:9] Elspeth, Knight-Errant
+1 [ZEN:11] Emeria Angel
+1 [SHM:23] Spectral Procession
+1 [THS:9] Elspeth, Sun's Champion
+1 [DST:148] Sword of Fire and Ice
+1 [VMA:20] Council's Judgment
+1 [THB:4] Banishing Light
+1 [NPH:4] Blade Splicer
+1 [BBD:41] Spellseeker
+1 [ISD:213] Geist of Saint Traft
+1 [M15:145] Goblin Rabblemaster
+1 [CMA:27] Unexpectedly Absent
+1 [XLN:1] Adanto Vanguard
+1 [RAV:260] Dimir Signet
+1 [2ED:84] Time Walk
+1 [MH1:37] Winds of Abandon
+1 [MH1:13] Giver of Runes
+1 [CON:15] Path to Exile
+1 [EVE:139] Figure of Destiny
+1 [PLC:25] Mana Tithe
+1 [XLN:22] Legion's Landing
+1 [DST:140] Skullclamp
+1 [M11:7] Baneslayer Angel
+1 [ZEN:211] Arid Mesa
+1 [2ED:264] Mox Pearl
+1 [KLD:246] Inspiring Vantage
+1 [TMP:315] Ancient Tomb
+1 [3ED:291] Volcanic Island
+1 [3ED:284] Plateau
+1 [2ED:266] Mox Sapphire
+1 [3ED:295] Island
+1 [3ED:302] Mountain
+2 [3ED:294] Plains
+3 [3ED:293] Plains
+3 [3ED:292] Plains
+SB: 1 [MRD:222] Oblivion Stone
+SB: 1 [TMP:183] Jackal Pup
+SB: 1 [SCG:106] Sulfuric Vortex
+SB: 1 [ISD:181] Garruk Relentless
+SB: 1 [WAR:169] Nissa, Who Shakes the World
+SB: 1 [V14:2] Burning of Xinye
+SB: 1 [FUT:101] Magus of the Moon
+SB: 1 [CHK:225] Kodama's Reach
+SB: 1 [M13:112] Vampire Nighthawk
+SB: 1 [VIS:64] Necromancy
+SB: 1 [ARB:46] Terminate
+SB: 1 [M12:23] Honor of the Pure
+SB: 1 [RAV:161] Elves of Deep Shadow
+SB: 1 [M11:11] Condemn
+SB: 1 [SOM:224] Blackcleave Cliffs
+LAYOUT MAIN:(1,7)(CMC,false,50)|([ZEN:211],[2ED:264],[KLD:246],[TMP:315],[3ED:291],[3ED:284],[2ED:266],[3ED:295],[3ED:302],[3ED:294],[3ED:293],[3ED:292],[3ED:293],[3ED:292],[3ED:294],[3ED:292],[3ED:293])([MH1:13],[CON:15],[EVE:139],[PLC:25],[XLN:22],[DST:140])([CMA:27],[XLN:1],[RAV:260],[2ED:84],[MH1:37])([DST:148],[VMA:20],[THB:4],[NPH:4],[BBD:41],[ISD:213],[M15:145])([ALA:9],[ZEN:11])([M11:7])([SHM:23],[THS:9])
+LAYOUT SIDEBOARD:(1,7)(CMC,false,50)|([SOM:224])([TMP:183],[RAV:161],[M11:11])([ARB:46],[M12:23])([MRD:222],[SCG:106],[FUT:101],[CHK:225],[M13:112],[VIS:64])([ISD:181])([WAR:169])([V14:2])

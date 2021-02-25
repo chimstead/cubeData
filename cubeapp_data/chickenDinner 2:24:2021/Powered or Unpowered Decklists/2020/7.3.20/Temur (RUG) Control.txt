@@ -1,0 +1,49 @@
+1 [NPH:42] Phyrexian Metamorph
+1 [CM2:98] Fiery Confluence
+1 [XLN:81] Spell Pierce
+1 [M11:70] Preordain
+1 [10E:335] Mind Stone
+1 [BBD:122] Mystic Confluence
+1 [OGW:104] Chandra, Flamecaller
+1 [USG:318] Worn Powerstone
+1 [WWK:31] Jace, the Mind Sculptor
+1 [WWK:123] Everflowing Chalice
+1 [AKH:134] Glorybringer
+1 [AER:181] Walking Ballista
+1 [INV:57] Fact or Fiction
+1 [5DN:36] Serum Visions
+1 [FUT:161] Coalition Relic
+1 [TSP:66] Looter il-Kor
+1 [V14:10] Rolling Earthquake
+1 [KTK:36] Dig Through Time
+1 [RAV:63] Remand
+1 [C18:44] Saheeli, the Gifted
+1 [7ED:67] Counterspell
+1 [ISD:78] Snapcaster Mage
+1 [ELD:197] Oko, Thief of Crowns
+1 [RNA:246] Breeding Pool
+1 [MH1:238] Fiery Islet
+1 [10E:354] Karplusan Forest
+1 [GRN:257] Steam Vents
+1 [KTK:249] Wooded Foothills
+7 [UNH:137] Island
+5 [UNH:139] Mountain
+SB: 1 [LRW:211] Fertile Ground
+SB: 1 [KLD:96] Noxious Gearhulk
+SB: 1 [M12:12] Day of Judgment
+SB: 1 [TSB:89] Wall of Roots
+SB: 1 [ROE:53] Wall of Omens
+SB: 1 [M15:145] Goblin Rabblemaster
+SB: 1 [ZEN:126] Goblin Guide
+SB: 1 [OGW:171] Hissing Quagmire
+SB: 1 [WWK:141] Raging Ravine
+SB: 1 [GRN:258] Temple Garden
+SB: 1 [MH1:217] Wrenn and Six
+SB: 1 [THB:158] Tectonic Giant
+SB: 1 [ZEN:83] Bloodghast
+SB: 1 [AER:28] Baral, Chief of Compliance
+SB: 1 [RIX:99] Dire Fleet Daredevil
+SB: 1 [AER:142] Aethersphere Harvester
+SB: 1 [LRW:88] Sower of Temptation
+LAYOUT MAIN:(1,9)(CMC,false,44)|([UNH:137],[UNH:137],[UNH:137],[UNH:137],[UNH:137],[UNH:137],[UNH:137],[10E:354],[UNH:139],[UNH:139],[UNH:139],[UNH:139],[UNH:139])([RNA:246],[MH1:238],[KTK:249],[GRN:257])([M11:70],[5DN:36],[XLN:81])([7ED:67],[TSP:66],[10E:335],[RAV:63],[ISD:78],[WWK:123],[AER:181])([FUT:161],[ELD:197],[USG:318],[NPH:42])([INV:57],[CM2:98],[WWK:31],[C18:44])([AKH:134],[BBD:122])([OGW:104])([KTK:36],[V14:10])
+LAYOUT SIDEBOARD:(1,6)(CMC,false,50)|([ZEN:126])([LRW:211],[TSB:89],[ROE:53],[MH1:217],[ZEN:83],[AER:28],[RIX:99])([M15:145],[AER:142])([M12:12],[THB:158],[LRW:88])([KLD:96])([OGW:171],[WWK:141],[GRN:258])

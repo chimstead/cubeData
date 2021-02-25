@@ -1,0 +1,54 @@
+2021
+1.31.21
+1 [RTR:220] Rakdos Cackler
+1 [AKH:134] Glorybringer
+1 [WAR:138] Mizzium Tank
+1 [RNA:107] Light Up the Stage
+1 [DOM:129] Goblin Chainwhirler
+1 [ORI:127] Abbot of Keral Keep
+1 [RTR:86] Ash Zealot
+1 [C20:157] Outpost Siege
+1 [KLD:199] Bomat Courier
+1 [DOM:127] Ghitu Lavarunner
+1 [M13:147] Searing Spear
+1 [HOU:83] Abrade
+1 [THB:148] Phoenix of Ash
+1 [SOI:155] Falkenrath Gorger
+1 [THS:128] Magma Jet
+1 [IKO:116] Fire Prophecy
+1 [AER:76] Aether Chaser
+1 [HOU:90] Earthshaker Khenra
+1 [THS:121] Fanatic of Mogis
+1 [DOM:123] The Flame of Keld
+1 [GRN:103] Goblin Cratermaker
+1 [ORI:157] Pia and Kiran Nalaar
+1 [THS:122] Firedrinker Satyr
+3 [RTR:267] Mountain
+2 [RTR:265] Mountain
+4 [RTR:268] Mountain
+3 [RTR:266] Mountain
+3 [RTR:269] Mountain
+1 [ISD:240] Ghost Quarter
+1 [AER:177] Treasure Keeper
+SB: 1 [DDU:62] Solemn Simulacrum
+SB: 1 [KTK:66] Bloodsoaked Champion
+SB: 1 [BFZ:120] Painful Truths
+SB: 1 [AER:61] Gifted Aetherborn
+SB: 1 [M13:222] Dragonskull Summit
+SB: 1 [IKO:211] Sprite Dragon
+SB: 1 [HOU:59] Banewhip Punisher
+SB: 1 [KTK:69] Despise
+SB: 1 [AKH:149] Sweltering Suns
+SB: 1 [WAR:248] Karn's Bastion
+SB: 1 [M20:76] Spectral Sailor
+SB: 1 [RNA:16] Ministrant of Obligation
+SB: 1 [OGW:157] Reflector Mage
+SB: 1 [SOI:116] Heir of Falkenrath
+SB: 1 [ELD:233] Sorcerous Spyglass
+SB: 1 [ISD:248] Sulfur Falls
+SB: 1 [THB:242] Field of Ruin
+SB: 1 [HOU:31] Champion of Wits
+SB: 1 [RNA:153] Applied Biomancy
+SB: 1 [ISD:231] Runechanter's Pike
+LAYOUT MAIN:(1,6)(CMC,false,44)|([RTR:267],[RTR:265],[RTR:267],[RTR:268],[RTR:268],[RTR:266],[RTR:266],[RTR:268],[RTR:265],[RTR:269],[RTR:268],[RTR:267],[RTR:269],[RTR:269],[RTR:266],[ISD:240])([RTR:220],[KLD:199],[DOM:127],[SOI:155],[THS:122])([ORI:127],[RTR:86],[M13:147],[HOU:83],[THS:128],[IKO:116],[AER:76],[HOU:90],[GRN:103],[DOM:123])([WAR:138],[RNA:107],[DOM:129],[THB:148])([C20:157],[THS:121],[ORI:157],[AER:177])([AKH:134])
+LAYOUT SIDEBOARD:(1,5)(CMC,false,46)|([M13:222],[WAR:248],[ISD:248],[THB:242])([KTK:66],[KTK:69],[M20:76])([AER:61],[IKO:211],[SOI:116],[ELD:233],[RNA:153],[ISD:231])([BFZ:120],[HOU:59],[AKH:149],[RNA:16],[OGW:157],[HOU:31])([DDU:62])

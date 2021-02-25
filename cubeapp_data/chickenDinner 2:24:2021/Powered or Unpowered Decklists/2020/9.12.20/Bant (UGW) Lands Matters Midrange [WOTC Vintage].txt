@@ -1,0 +1,49 @@
+1 [UDS:50] Treachery
+1 [M11:70] Preordain
+1 [M15:225] Phyrexian Revoker
+1 [MOR:55] Vendilion Clique
+1 [THB:229] Uro, Titan of Nature's Wrath
+1 [RAV:63] Remand
+1 [3ED:214] Regrowth
+1 [INV:57] Fact or Fiction
+1 [ELD:171] Questing Beast
+1 [WWK:31] Jace, the Mind Sculptor
+1 [KLD:235] Smuggler's Copter
+1 [TSP:73] Riftwing Cloudskate
+1 [NPH:35] Gitaxian Probe
+1 [THB:169] Dryad of the Ilysian Grove
+1 [PUMA:U22] Leovold, Emissary of Trest
+1 [ORI:60] Jace, Vryn's Prodigy
+1 [M13:160] Arbor Elf
+1 [MBS:81] Green Sun's Zenith
+1 [DIS:133] Trygon Predator
+1 [ZEN:168] Lotus Cobra
+1 [M15:173] Elvish Mystic
+1 [ELD:197] Oko, Thief of Crowns
+1 [ISD:170] Avacyn's Pilgrim
+1 [CON:113] Knight of the Reliquary
+1 [RNA:246] Breeding Pool
+1 [ZEN:223] Scalding Tarn
+1 [SOM:228] Razorverge Thicket
+1 [KTK:248] Windswept Heath
+1 [BFZ:239] Lumbering Falls
+1 [TMP:330] Wasteland
+1 [ZEN:220] Misty Rainforest
+1 [3ED:286] Scrubland
+1 [KLD:243] Blooming Marsh
+3 [UST:216] Forest
+4 [UST:213] Island
+SB: 1 [MMQ:82] Gush
+SB: 1 [ARB:50] Bloodbraid Elf
+SB: 1 [M20:14] Disenchant
+SB: 1 [FRF:27] Soulfire Grand Master
+SB: 1 [WWK:108] Nature's Claim
+SB: 1 [CON:121] Progenitus
+SB: 1 [JOU:94] Eidolon of the Great Revel
+SB: 1 [SCG:41] Mind's Desire
+SB: 1 [GRN:208] Trostani Discordant
+SB: 1 [VIS:34] Impulse
+SB: 1 [KLD:67] Torrential Gearhulk
+SB: 1 [KTK:36] Dig Through Time
+LAYOUT MAIN:(1,6)(CMC,false,62)|([RNA:246],[ZEN:223],[SOM:228],[KTK:248],[BFZ:239],[TMP:330],[ZEN:220],[3ED:286],[KLD:243],[UST:216],[UST:216],[UST:216],[UST:213],[UST:213],[UST:213],[UST:213])([M11:70],[NPH:35],[M13:160],[MBS:81],[M15:173],[ISD:170])([M15:225],[RAV:63],[3ED:214],[KLD:235],[ORI:60],[ZEN:168])([MOR:55],[THB:229],[THB:169],[PUMA:U22],[DIS:133],[ELD:197],[CON:113])([INV:57],[ELD:171],[WWK:31])([UDS:50],[TSP:73])
+LAYOUT SIDEBOARD:(1,5)(COLOR,false,79)|([MMQ:82],[SCG:41],[VIS:34],[KLD:67],[KTK:36])([WWK:108])([JOU:94])([M20:14],[FRF:27])([ARB:50],[CON:121],[GRN:208])

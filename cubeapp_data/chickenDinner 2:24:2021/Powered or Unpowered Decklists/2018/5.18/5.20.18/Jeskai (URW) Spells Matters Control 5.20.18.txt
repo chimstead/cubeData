@@ -1,0 +1,33 @@
+1 City of Brass
+1 Flooded Strand
+1 Hallowed Fountain
+5 Island
+4 Mountain
+1 Plains
+1 Plateau
+1 Steam Vents
+1 Undiscovered Paradise
+1 Condescend
+1 Faithless Looting
+1 Firebolt
+1 Preordain
+1 Boros Charm
+1 Chart a Course
+1 Daze
+1 Izzet Charm
+1 Magma Jet
+1 Miscalculation
+1 Remand
+1 Search for Azcanta
+1 Smash to Smithereens
+1 Snapcaster Mage
+1 Thing in the Ice
+1 Dack Fayden
+1 Flames of the Firebrand
+1 Monastery Mentor
+1 Thirst for Knowledge
+1 True-Name Nemesis
+1 Vendilion Clique
+1 Chandra, Torch of Defiance
+1 Fiery Confluence
+1 Koth of the Hammer

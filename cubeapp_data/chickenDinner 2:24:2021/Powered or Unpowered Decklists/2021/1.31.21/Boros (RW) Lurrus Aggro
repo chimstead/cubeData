@@ -1,0 +1,50 @@
+1 [CMD:17] Journey to Nowhere
+1 [DDH:23] Lightning Helix
+1 [V17:13] Kytheon, Hero of Akros
+1 [M21:34] Seasoned Hallowblade
+1 [ELD:138] Robber of the Rich
+1 [AER:87] Kari Zev, Skyship Raider
+1 [THS:32] Soldier of the Pantheon
+1 [SOM:81] Arc Trail
+1 [ZNR:24] Luminarch Aspirant
+1 [KTK:97] Arc Lightning
+1 [NPH:57] Dismember
+1 [KLD:199] Bomat Courier
+1 [DKA:24] Thalia, Guardian of Thraben
+1 [HOU:90] Earthshaker Khenra
+1 [HOU:83] Abrade
+1 [MBS:1] Accorder Paladin
+1 [DTK:169] Zurgo Bellstriker
+1 [EMN:40] Selfless Spirit
+1 [MH1:13] Giver of Runes
+1 [A25:199] Boros Charm
+1 [CHK:19] Isamaru, Hound of Konda
+1 [MM3:100] Magma Jet
+1 [UMA:155] Young Pyromancer
+1 [A25:141] Lightning Bolt
+1 [KTK:230] Bloodstained Mire
+1 [RAV:280] Sacred Foundry
+1 [KTK:249] Wooded Foothills
+1 [UMA:244] Karakas
+1 [VMA:308] Plateau
+1 [VMA:316] Strip Mine
+1 [TPR:225] Lotus Petal
+4 [UST:215] Mountain
+4 [UST:212] Plains
+1 [EMA:33] Unexpectedly Absent
+SB: 1 [DTK:36] Secure the Wastes
+SB: 1 [IKO:21] Luminous Broodmoth
+SB: 1 [ELD:239] Castle Embereth
+SB: 1 [CMR:175] Emberwilde Captain
+SB: 1 [MRD:255] Talisman of Indulgence
+SB: 1 [IKO:176] Wilt
+SB: 1 [MM3:240] Misty Rainforest
+SB: 1 [ZNR:322] Skyclave Apparition
+SB: 1 [MM3:200] Voice of Resurgence
+SB: 1 [GTC:240] Breeding Pool
+SB: 1 [V17:1] Archangel Avacyn
+SB: 1 [AKH:1] Angel of Sanctions
+SB: 1 [IKO:226] Lurrus of the Dream-Den
+SB: 1 [UST:212] Plains
+LAYOUT MAIN:(1,4)(CMC,false,85)|([KTK:230],[RAV:280],[KTK:249],[UMA:244],[VMA:308],[VMA:316],[TPR:225],[UST:215],[UST:215],[UST:215],[UST:215],[UST:212],[UST:212],[UST:212],[UST:212])([V17:13],[THS:32],[KLD:199],[DTK:169],[MH1:13],[CHK:19],[A25:141])([CMD:17],[DDH:23],[M21:34],[ELD:138],[AER:87],[SOM:81],[ZNR:24],[DKA:24],[HOU:90],[HOU:83],[MBS:1],[EMN:40],[A25:199],[MM3:100],[UMA:155],[EMA:33])([KTK:97],[NPH:57])
+LAYOUT SIDEBOARD:(1,5)(COLOR,false,100)|([ELD:239],[MRD:255],[MM3:240],[GTC:240],[UST:212])([IKO:176])([CMR:175])([DTK:36],[IKO:21],[ZNR:322],[V17:1],[AKH:1])([MM3:200],[IKO:226])

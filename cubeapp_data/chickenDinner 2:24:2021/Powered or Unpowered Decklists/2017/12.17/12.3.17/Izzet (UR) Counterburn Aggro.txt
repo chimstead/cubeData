@@ -1,0 +1,27 @@
+7 Island
+8 Mountain
+1 Wandering Fumarole
+1 Goblin Guide
+1 Monastery Swiftspear
+1 Condescend
+1 Firebolt
+1 Serum Visions
+1 Skullclamp
+1 Snapcaster Mage
+1 Young Pyromancer
+1 Smuggler's Copter
+1 Impulse
+1 Incinerate
+1 Lightning Strike
+1 Magma Jet
+1 Mana Leak
+1 Miscalculation
+1 Remand
+1 Guttersnipe
+1 Char
+1 Jace Beleren
+1 Sulfuric Vortex
+1 Sword of Fire and Ice
+1 Fact or Fiction
+1 Thundermaw Hellkite
+1 Treasure Cruise

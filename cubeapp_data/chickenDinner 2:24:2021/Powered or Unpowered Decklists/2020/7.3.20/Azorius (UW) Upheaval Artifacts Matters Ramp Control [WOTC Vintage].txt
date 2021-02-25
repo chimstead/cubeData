@@ -1,0 +1,49 @@
+1 [MEDM:RA1] Karn, Scion of Urza
+1 [MRD:254] Talisman of Impulse
+1 [LEB:260] Mana Vault
+1 [C18:53] Ancient Stone Idol
+1 [ULG:129] Memory Jar
+1 [SOM:180] Myr Battlesphere
+1 [UDS:139] Thran Dynamo
+1 [FUT:161] Coalition Relic
+1 [UDS:135] Metalworker
+1 [BBD:122] Mystic Confluence
+1 [LEB:55] Counterspell
+1 [MH1:232] Talisman of Curiosity
+1 [AER:31] Disallow
+1 [WAR:221] Teferi, Time Raveler
+1 [KLD:67] Torrential Gearhulk
+1 [XLN:48] Chart a Course
+1 [C17:37] Fractured Identity
+1 [ORI:60] Jace, Vryn's Prodigy
+1 [RAV:16] Faith's Fetters
+1 [ELD:281] Brazen Borrower
+1 [ULG:126] Grim Monolith
+1 [4ED:64] Control Magic
+1 [ODY:113] Upheaval
+1 [LRW:272] Shelldock Isle
+1 [LEB:281] Savannah
+1 [ZEN:220] Misty Rainforest
+1 [USG:330] Tolarian Academy
+9 [UNH:137] Island
+4 [UNH:136] Plains
+SB: 1 [WWK:20] Stoneforge Mystic
+SB: 1 [THS:9] Elspeth, Sun's Champion
+SB: 1 [BBD:41] Spellseeker
+SB: 1 [V14:2] Burning of Xinye
+SB: 1 [ALA:202] Tidehollow Sculler
+SB: 1 [APC:126] Vindicate
+SB: 1 [GRN:224] Expansion // Explosion
+SB: 1 [GRN:183] Knight of Autumn
+SB: 1 [WAR:53] God-Eternal Kefnet
+SB: 1 [PLC:25] Mana Tithe
+SB: 1 [USG:103] Time Spiral
+SB: 1 [M12:12] Day of Judgment
+SB: 1 [ROE:6] Kozilek, Butcher of Truth
+SB: 1 [M19:196] Reclamation Sage
+SB: 1 [M20:249] Lotus Field
+SB: 1 [MH1:145] Seasoned Pyromancer
+SB: 1 [MBS:99] Blightsteel Colossus
+SB: 1 [ALA:218] Relic of Progenitus
+LAYOUT MAIN:(1,8)(CMC,false,44)|([UNH:137],[UNH:137],[UNH:137],[UNH:137],[UNH:137],[UNH:137],[UNH:137],[UNH:137],[UNH:137],[ZEN:220],[UNH:136],[UNH:136],[UNH:136],[UNH:136],[LEB:281],[LRW:272],[USG:330])([LEB:260])([XLN:48],[LEB:55],[ULG:126],[ORI:60],[MH1:232],[MRD:254],[ELD:281])([FUT:161],[AER:31],[UDS:135],[WAR:221])([4ED:64],[RAV:16],[MEDM:RA1],[UDS:139])([C17:37],[ULG:129],[BBD:122])([KLD:67],[ODY:113])([SOM:180],[C18:53])
+LAYOUT SIDEBOARD:(1,7)(CMC,false,50)|([PLC:25],[ALA:218])([WWK:20],[ALA:202])([BBD:41],[APC:126],[GRN:183],[M19:196],[MH1:145])([WAR:53],[M12:12])([THS:9],[V14:2],[GRN:224],[USG:103])([ROE:6])([MBS:99],[M20:249])

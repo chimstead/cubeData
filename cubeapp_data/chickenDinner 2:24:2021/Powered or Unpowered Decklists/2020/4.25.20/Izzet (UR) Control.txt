@@ -1,0 +1,49 @@
+1 [M11:70] Preordain
+1 [MMQ:61] Brainstorm
+1 [INV:64] Opt
+1 [5DN:27] Condescend
+1 [V14:10] Rolling Earthquake
+1 [STH:36] Mana Leak
+1 [MRD:253] Talisman of Dominance
+1 [TMP:57] Counterspell
+1 [USG:318] Worn Powerstone
+1 [MH1:145] Seasoned Pyromancer
+1 [HOU:49] Supreme Will
+1 [GK1:28] Char
+1 [KLD:110] Chandra, Torch of Defiance
+1 [FUT:46] Venser, Shaper Savant
+1 [EMA:48] Fact or Fiction
+1 [4ED:64] Control Magic
+1 [APC:128] Fire // Ice
+1 [M20:52] Cavalier of Gales
+1 [BBD:122] Mystic Confluence
+1 [AKH:134] Glorybringer
+1 [ELD:281] Brazen Borrower
+1 [OGW:104] Chandra, Flamecaller
+1 [IMA:47] Consecrated Sphinx
+1 [KTK:249] Wooded Foothills
+1 [MM3:229] Arid Mesa
+1 [MH1:238] Fiery Islet
+1 [GRN:257] Steam Vents
+1 [KTK:230] Bloodstained Mire
+1 [TMP:315] Ancient Tomb
+7 [GUR:2] Island
+4 [GUR:3] Mountain
+SB: 1 [CHK:175] Kiki-Jiki, Mirror Breaker
+SB: 1 [MH1:100] Plague Engineer
+SB: 1 [LRW:272] Shelldock Isle
+SB: 1 [ICE:214] Pyroclasm
+SB: 1 [ARB:50] Bloodbraid Elf
+SB: 1 [RNA:259] Stomping Ground
+SB: 1 [DDM:1] Jace, Architect of Thought
+SB: 1 [PC2:82] Baleful Strix
+SB: 1 [MH1:37] Winds of Abandon
+SB: 1 [XLN:48] Chart a Course
+SB: 1 [MM2:130] Stormblood Berserker
+SB: 1 [MH1:58] Mist-Syndicate Naga
+SB: 1 [M20:193] Shared Summons
+SB: 1 [V14:13] Upheaval
+SB: 1 [VIS:34] Impulse
+SB: 1 [GRN:254] Sacred Foundry
+LAYOUT MAIN:(1,8)(CMC,false,79)|([GUR:2],[GUR:2],[GUR:2],[GUR:2],[GUR:2],[GUR:2],[GUR:2],[GUR:3],[GUR:3],[GUR:3],[GUR:3])([TMP:315],[MM3:229],[KTK:230],[MH1:238],[GRN:257],[KTK:249])([MMQ:61],[5DN:27],[INV:64],[M11:70],[V14:10])([TMP:57],[STH:36],[MRD:253])([GK1:28],[MH1:145],[HOU:49],[USG:318])([KLD:110],[4ED:64],[EMA:48],[APC:128],[FUT:46])([ELD:281],[M20:52],[AKH:134],[BBD:122])([OGW:104],[IMA:47])
+LAYOUT SIDEBOARD:(1,6)(CMC,false,73)|([LRW:272],[RNA:259],[GRN:254])([ICE:214],[PC2:82],[MH1:37],[XLN:48],[MM2:130])([MH1:100],[MH1:58],[VIS:34])([ARB:50],[DDM:1])([CHK:175],[M20:193])([V14:13])

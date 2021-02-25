@@ -1,0 +1,30 @@
+7 Island
+5 Plains
+1 Faerie Conclave
+1 Flooded Strand
+1 Karakas
+1 Mutavault
+1 Mana Crypt
+1 Ancestral Recall
+1 Mystical Tutor
+1 Preordain
+1 Sensei's Divining Top
+1 Sol Ring
+1 Arcane Denial
+1 Balance
+1 Counterspell
+1 Daze
+1 Mind Stone
+1 Remand
+1 Search for Azcanta
+1 Flickerwisp
+1 Forbid
+1 Gideon of the Trials
+1 Jace Beleren
+1 Vendilion Clique
+1 Control Magic
+1 Elspeth, Knight-Errant
+1 Palace Jailer
+1 Venser, Shaper Savant
+1 Gideon Jura
+1 Mystical Confluence

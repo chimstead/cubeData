@@ -1,0 +1,53 @@
+1 [5DN:126] Grafted Wargear
+1 [ZEN:242] Mountain
+6 [ZEN:243] Mountain
+2 [ZEN:244] Mountain
+1 [STH:138] Mox Diamond
+1 [TOR:100] Grim Lavamancer
+1 [PTK:122] Rolling Earthquake
+1 [5DN:73] Magma Jet
+1 [FRF:90] Alesha, Who Smiles at Death
+1 [EMN:40] Selfless Spirit
+1 [APC:139] Battlefield Forge
+1 [DKA:93] Hellrider
+1 [DTK:169] Zurgo Bellstriker
+1 [TSP:161] Greater Gargadon
+1 [GRN:109] Legion Warboss
+1 [AER:87] Kari Zev, Skyship Raider
+1 [GTC:148] Boros Charm
+1 [PLC:102] Keldon Marauders
+1 [NPH:19] Porcelain Legionnaire
+1 [PTK:17] Ravages of War
+1 [DOM:14] Dauntless Bodyguard
+1 [ZEN:230] Plains
+1 [RAV:280] Sacred Foundry
+3 [ZEN:232] Plains
+1 [TMP:183] Jackal Pup
+1 [EMN:130] Hanweir Garrison
+1 [MIR:184] Incinerate
+1 [KLD:214] Fleetwheel Cruiser
+1 [EVE:139] Figure of Destiny
+1 [LEG:137] Chain Lightning
+1 [VIS:79] Fireblast
+1 [XLN:1] Adanto Vanguard
+SB: 1 [5DN:164] Vedalken Shackles
+SB: 1 [KLD:110] Chandra, Torch of Defiance
+SB: 1 [5DN:36] Serum Visions
+SB: 1 [ZEN:243] Mountain
+SB: 1 [CHK:193] Through the Breach
+SB: 1 [C15:26] Fiery Confluence
+SB: 1 [LEA:92] Animate Dead
+SB: 1 [WWK:139] Lavaclaw Reaches
+SB: 1 [C18:53] Ancient Stone Idol
+SB: 1 [ODY:292] Psychatog
+SB: 1 [ODY:193] Firebolt
+SB: 1 [5ED:408] Winter Orb
+SB: 1 [DKA:138] Falkenrath Aristocrat
+SB: 1 [ZEN:116] Vampire Nighthawk
+SB: 1 [SOI:233] Tireless Tracker
+SB: 1 [SOM:94] Koth of the Hammer
+SB: 1 [LEG:26] Land Tax
+SB: 1 [GRN:103] Goblin Cratermaker
+SB: 1 [ZEN:9] Day of Judgment
+LAYOUT MAIN:(1,6)(CMC,false,67)|([APC:139],[RAV:280],[ZEN:243],[ZEN:243],[ZEN:244],[ZEN:243],[ZEN:243],[ZEN:244],[ZEN:243],[ZEN:243],[ZEN:242],[ZEN:232],[ZEN:232],[ZEN:232],[ZEN:230])([STH:138],[VIS:79],[PTK:122])([LEG:137],[DOM:14],[EVE:139],[TOR:100],[TMP:183],[DTK:169],[TSP:161])([XLN:1],[GTC:148],[MIR:184],[AER:87],[PLC:102],[5DN:73],[EMN:40],[NPH:19])([FRF:90],[5DN:126],[EMN:130],[GRN:109])([KLD:214],[DKA:93],[PTK:17])
+LAYOUT SIDEBOARD:(1,7)(CMC,false,67)|([WWK:139],[ZEN:243])([5DN:36],[LEG:26],[ODY:193])([5ED:408],[LEA:92],[GRN:103])([SOI:233],[ZEN:116],[ODY:292],[5DN:164])([ZEN:9],[DKA:138],[KLD:110],[C15:26],[SOM:94])([CHK:193])([C18:53])

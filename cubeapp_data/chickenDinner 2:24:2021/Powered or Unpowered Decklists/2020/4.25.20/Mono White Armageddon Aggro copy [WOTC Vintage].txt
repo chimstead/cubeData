@@ -1,0 +1,48 @@
+1 [3ED:274] Sol Ring
+1 [ORI:23] Kytheon, Hero of Akros
+1 [EVE:139] Figure of Destiny
+1 [XLN:22] Legion's Landing
+1 [ROE:47] Student of Warfare
+1 [CON:15] Path to Exile
+1 [PLC:25] Mana Tithe
+1 [4ED:34] Land Tax
+1 [RNA:27] Tithe Taker
+1 [5ED:408] Winter Orb
+1 [RAV:270] Selesnya Signet
+1 [BOK:163] Umezawa's Jitte
+1 [M12:23] Honor of the Pure
+1 [CMA:27] Unexpectedly Absent
+1 [BBD:25] Brightling
+1 [C14:8] Hallowed Spiritkeeper
+1 [WAR:13] Gideon Blackblade
+1 [NPH:4] Blade Splicer
+1 [6ED:4] Armageddon
+1 [AVR:32] Restoration Angel
+1 [SHM:23] Spectral Procession
+1 [M11:7] Baneslayer Angel
+1 [KLD:4] Angel of Invention
+1 [DOM:26] Lyra Dawnbringer
+1 [M14:228] Mutavault
+1 [4ED:361] Mishra's Factory
+1 [2ED:266] Mox Sapphire
+1 [4ED:363] Strip Mine
+12 [UGL:84] Plains
+SB: 1 [5ED:329] Sylvan Library
+SB: 1 [M19:152] Lightning Strike
+SB: 1 [RNA:248] Godless Shrine
+SB: 1 [ALA:154] Ajani Vengeant
+SB: 1 [AVR:36] Silverblade Paladin
+SB: 1 [GRN:183] Knight of Autumn
+SB: 1 [ORI:105] Languish
+SB: 1 [ARB:110] Sphinx of the Steel Wind
+SB: 1 [UMA:11] Containment Priest
+SB: 1 [NPH:1] Karn Liberated
+SB: 1 [SOM:169] Kuldotha Forgemaster
+SB: 1 [DKA:24] Thalia, Guardian of Thraben
+SB: 1 [AER:181] Walking Ballista
+SB: 1 [C13:84] Ophiomancer
+SB: 1 [ELD:191] Garruk, Cursed Huntsman
+SB: 1 [M12:145] Grim Lavamancer
+SB: 1 [M20:14] Disenchant
+LAYOUT MAIN:(1,6)(CMC,false,50)|([M14:228],[4ED:361],[2ED:266],[4ED:363],[UGL:84],[UGL:84],[UGL:84],[UGL:84],[UGL:84],[UGL:84],[UGL:84],[UGL:84],[UGL:84],[UGL:84],[UGL:84],[UGL:84])([3ED:274],[ORI:23],[EVE:139],[XLN:22],[ROE:47],[CON:15],[PLC:25],[4ED:34])([RNA:27],[5ED:408],[RAV:270],[BOK:163],[M12:23],[CMA:27])([BBD:25],[C14:8],[WAR:13],[NPH:4],[SHM:23])([6ED:4],[AVR:32])([M11:7],[KLD:4],[DOM:26])
+LAYOUT SIDEBOARD:(1,9)(CMC,false,50)|([RNA:248],[AER:181])([M12:145])([5ED:329],[M19:152],[UMA:11],[DKA:24],[M20:14])([AVR:36],[GRN:183],[C13:84])([ALA:154],[ORI:105])([SOM:169])([ELD:191])([NPH:1])([ARB:110])

@@ -1,3 +1,6 @@
+2018
+3.18
+3.23.18
 5 Mountain
 6 Plains
 1 Terramorphic Expanse
@@ -11,7 +14,7 @@
 1 Abrade
 1 Guardian Idol
 1 Lightning Helix
-1 Alesha, Who Smile at Death
+1 Alesha, Who Smiles at Death
 1 Arc Lightning
 1 Brimaz, King of Oreskos
 1 Coalition Relic
@@ -24,7 +27,7 @@
 1 Sneak Attack
 1 Archangel Avacyn
 1 Cloudgoat Ranger
-1 Elspeth, Sun’s Champion
+1 Elspeth, Sun's Champion
 1 Exalted Angel
 1 Inferno Titan
 1 Elesh Norn, Grand Cenobite

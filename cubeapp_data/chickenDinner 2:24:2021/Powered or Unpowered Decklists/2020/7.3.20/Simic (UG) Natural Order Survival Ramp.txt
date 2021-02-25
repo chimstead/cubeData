@@ -1,0 +1,49 @@
+1 [LEB:211] Llanowar Elves
+1 [M11:192] Primeval Titan
+1 [AER:181] Walking Ballista
+1 [ULG:101] Deranged Hermit
+1 [M20:200] Voracious Hydra
+1 [CSP:105] Boreal Druid
+1 [M11:175] Garruk Wildspeaker
+1 [ELD:165] Lovestruck Beast
+1 [CON:87] Noble Hierarch
+1 [XLN:179] Carnage Tyrant
+1 [M12:174] Garruk, Primal Hunter
+1 [ORI:229] Hangarback Walker
+1 [EMA:177] Natural Order
+1 [A25:192] Utopia Sprawl
+1 [EXO:129] Survival of the Fittest
+1 [SHM:110] Devoted Druid
+1 [BOK:163] Umezawa's Jitte
+1 [MBS:92] Thrun, the Last Troll
+1 [BNG:119] Courser of Kruphix
+1 [ISD:170] Avacyn's Pilgrim
+1 [RNA:183] Hydroid Krasis
+1 [USG:270] Priest of Titania
+1 [C18:159] Reclamation Sage
+1 [MMA:174] Woodfall Primus
+1 [KLD:244] Botanical Sanctum
+1 [USG:321] Gaea's Cradle
+1 [TMP:330] Wasteland
+12 [UNH:140] Forest
+1 [UNH:137] Island
+SB: 1 [ROE:146] Forked Bolt
+SB: 1 [MH1:217] Wrenn and Six
+SB: 1 [VIS:64] Necromancy
+SB: 1 [WWK:31] Jace, the Mind Sculptor
+SB: 1 [KTK:59] Treasure Cruise
+SB: 1 [ULG:130] Quicksilver Amulet
+SB: 1 [GPT:152] Izzet Signet
+SB: 1 [MMQ:61] Brainstorm
+SB: 1 [SOI:247] Nahiri, the Harbinger
+SB: 1 [AKH:97] Liliana, Death's Majesty
+SB: 1 [DTK:216] Dragonlord Atarka
+SB: 1 [USG:96] Show and Tell
+SB: 1 [USG:218] Sneak Attack
+SB: 1 [KLD:242] Aether Hub
+SB: 1 [GPT:164] Steam Vents
+SB: 1 [LEB:283] Taiga
+SB: 1 [M14:195] Scavenging Ooze
+SB: 1 [C16:195] Edric, Spymaster of Trest
+LAYOUT MAIN:(1,7)(CMC,false,44)|([KLD:244],[USG:321],[TMP:330],[UNH:140],[UNH:140],[UNH:140],[UNH:140],[UNH:140],[UNH:140],[UNH:140],[UNH:140],[UNH:140],[UNH:140],[UNH:140],[UNH:140],[UNH:137])([ISD:170],[CSP:105],[LEB:211],[CON:87],[A25:192],[ELD:165])([SHM:110],[USG:270],[BOK:163],[ORI:229],[AER:181],[EXO:129])([BNG:119],[C18:159])([M11:175],[EMA:177],[MBS:92])([ULG:101],[M12:174])([XLN:179],[M11:192],[RNA:183],[MMA:174],[M20:200])
+LAYOUT SIDEBOARD:(1,8)(CMC,false,50)|([ROE:146],[MMQ:61])([MH1:217],[GPT:152],[M14:195])([VIS:64],[USG:96],[C16:195])([WWK:31],[ULG:130],[SOI:247],[USG:218])([AKH:97])([DTK:216])([KTK:59])([KLD:242],[GPT:164],[LEB:283])

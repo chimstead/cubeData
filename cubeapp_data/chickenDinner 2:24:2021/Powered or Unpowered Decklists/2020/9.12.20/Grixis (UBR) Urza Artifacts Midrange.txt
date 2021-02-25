@@ -1,0 +1,53 @@
+1 [CNS:91] Brainstorm
+1 [M10:68] Ponder
+1 [C18:57] Retrofitter Foundry
+1 [EMA:112] Vampiric Tutor
+1 [SOI:92] Thing in the Ice
+1 [MOR:55] Vendilion Clique
+1 [THB:305] Nadir Kraken
+1 [CNS:42] Dack Fayden
+1 [DDN:23] Arc Trail
+1 [M12:146] Incinerate
+1 [M12:63] Mana Leak
+1 [IKO:319] Shark Typhoon
+1 [MH1:75] Urza, Lord High Artificer
+1 [DOM:1] Karn, Scion of Urza
+1 [WAR:53] God-Eternal Kefnet
+1 [C15:26] Fiery Confluence
+1 [ELD:281] Brazen Borrower
+1 [THB:307] Thassa's Intervention
+1 [KTK:36] Dig Through Time
+1 [FUT:161] Coalition Relic
+1 [M19:79] Tezzeret, Artifice Master
+1 [EMA:147] Siege-Gang Commander
+1 [IKO:366] Heartless Act
+1 [KTK:230] Bloodstained Mire
+1 [RTR:247] Steam Vents
+1 [ORI:251] Shivan Reef
+1 [CNS:210] Reflecting Pool
+1 [JOU:163] Mana Confluence
+1 [AKH:239] Canyon Slough
+1 [WWK:134] Creeping Tar Pit
+1 [AKH:243] Fetid Pools
+1 [M10:237] Island
+3 [M10:234] Island
+2 [M10:235] Island
+1 [M10:242] Mountain
+1 [M10:244] Mountain
+1 [M10:243] Mountain
+SB: 1 [WWK:133] Celestial Colonnade
+SB: 1 [VMA:137] Recurring Nightmare
+SB: 1 [HOU:140] Nicol Bolas, God-Pharaoh
+SB: 1 [EMA:139] Mogg War Marshal
+SB: 1 [MBS:81] Green Sun's Zenith
+SB: 1 [THB:170] The First Iroan Games
+SB: 1 [EMA:60] Memory Lapse
+SB: 1 [C14:112] Frost Titan
+SB: 1 [SOM:226] Darkslick Shores
+SB: 1 [ELD:122] Embereth Shieldbreaker
+SB: 1 [EMN:93] Liliana, the Last Hope
+SB: 1 [RTR:73] Pack Rat
+SB: 1 [TSP:66] Looter il-Kor
+SB: 1 [M10:75] Time Warp
+LAYOUT MAIN:(1,7)(CMC,false,74)|([KTK:230],[AKH:239],[WWK:134],[AKH:243],[M10:237],[M10:234],[M10:234],[M10:235],[M10:235],[M10:234],[JOU:163],[M10:242],[M10:244],[M10:243],[CNS:210],[ORI:251],[RTR:247])([CNS:91],[M10:68],[C18:57],[EMA:112])([DDN:23],[IKO:366],[M12:146],[M12:63],[THB:307],[SOI:92])([FUT:161],[CNS:42],[THB:305],[MOR:55],[IKO:319],[ELD:281])([C15:26],[WAR:53],[DOM:1],[MH1:75])([EMA:147],[M19:79])([KTK:36])
+LAYOUT SIDEBOARD:(1,6)(CMC,false,88)|([WWK:133],[SOM:226])([MBS:81])([EMA:60],[EMA:139],[RTR:73],[TSP:66])([ELD:122],[EMN:93],[VMA:137],[THB:170],[M10:75])([C14:112])([HOU:140])

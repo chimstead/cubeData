@@ -1,0 +1,58 @@
+2021
+1.31.21
+1 [UMA:50] Dig Through Time
+1 [VMA:322] Tundra
+1 [MMA:47] Glen Elendra Archmage
+1 [IKO:319] Shark Typhoon
+1 [ZEN:211] Arid Mesa
+1 [MM3:50] Snapcaster Mage
+1 [IMA:47] Consecrated Sphinx
+1 [F08:1] Remand
+1 [MH1:52] Force of Negation
+1 [TPR:58] Mana Leak
+1 [A25:62] Jace, the Mind Sculptor
+1 [5DN:27] Condescend
+1 [CMR:387] Swords to Plowshares
+1 [KTK:239] Polluted Delta
+1 [M11:70] Preordain
+1 [XLN:74] Search for Azcanta
+1 [V13:9] Fact or Fiction
+1 [PKLD:67s] Torrential Gearhulk
+1 [ULG:36] Miscalculation
+1 [C17:37] Fractured Identity
+1 [JVC:24] Counterspell
+1 [WWK:133] Celestial Colonnade
+1 [XLN:48] Chart a Course
+1 [CMD:40] Brainstorm
+1 [A25:223] Coalition Relic
+1 [J14:4] Force of Will
+1 [DDG:34] Oblivion Ring
+5 [LEB:291] Island
+4 [LEB:293] Island
+3 [LEB:292] Island
+1 [LEB:288] Plains
+SB: 1 [MH1:75] Urza, Lord High Artificer
+SB: 1 [EVE:6] Flickerwisp
+SB: 1 [MRD:256] Talisman of Progress
+SB: 1 [GRN:103] Goblin Cratermaker
+SB: 1 [CNS:187] Edric, Spymaster of Trest
+SB: 1 [V13:15] Venser, Shaper Savant
+SB: 1 [MRD:253] Talisman of Dominance
+SB: 1 [AER:28] Baral, Chief of Compliance
+SB: 1 [IKO:320] Voracious Greatshark
+SB: 1 [ZNR:262] Crawling Barrens
+SB: 1 [LRW:133] Oona's Prowler
+SB: 1 [EMN:6] Emrakul, the Promised End
+SB: 1 [THB:229] Uro, Titan of Nature's Wrath
+SB: 1 [M19:79] Tezzeret, Artifice Master
+SB: 1 [F09:6] Mulldrifter
+SB: 1 [V14:13] Upheaval
+SB: 1 [AKH:97] Liliana, Death's Majesty
+SB: 1 [VMA:319] Tolarian Academy
+SB: 1 [LEB:291] Island
+SB: 1 [LEB:292] Island
+SB: 1 [LEB:293] Island
+SB: 1 [LEB:289] Plains
+SB: 2 [LEB:290] Plains
+LAYOUT MAIN:(1,8)(CMC,false,50)|([VMA:322],[ZEN:211],[KTK:239],[WWK:133],[LEB:291],[LEB:293],[LEB:292],[LEB:292],[LEB:291],[LEB:293],[LEB:291],[LEB:291],[LEB:293],[LEB:291],[LEB:288],[LEB:293],[LEB:292])([5DN:27],[CMR:387],[M11:70],[CMD:40])([MM3:50],[F08:1],[TPR:58],[XLN:74],[ULG:36],[JVC:24],[XLN:48])([MH1:52],[A25:223],[DDG:34])([MMA:47],[A25:62],[V13:9])([C17:37],[J14:4])([IKO:319],[IMA:47],[PKLD:67s])([UMA:50])
+LAYOUT SIDEBOARD:(1,6)(COLOR,false,50)|([MRD:256],[MRD:253],[ZNR:262],[EMN:6],[VMA:319],[LEB:291],[LEB:292],[LEB:293],[LEB:289],[LEB:290],[LEB:290])([LRW:133],[AKH:97])([MH1:75],[V13:15],[AER:28],[IKO:320],[M19:79],[F09:6],[V14:13])([GRN:103])([EVE:6])([CNS:187],[THB:229])

@@ -1,0 +1,51 @@
+1 [ULG:126] Grim Monolith
+1 [5ED:388] Mana Vault
+1 [RNA:183] Hydroid Krasis
+1 [UDS:118] Rofellos, Llanowar Emissary
+1 [SHM:135] Woodfall Primus
+1 [2ED:48] Ancestral Recall
+1 [TSP:216] Search for Tomorrow
+1 [EVE:80] Wickerbough Elder
+1 [ROE:190] Joraga Treespeaker
+1 [SHM:110] Devoted Druid
+1 [DST:146] Sundering Titan
+1 [WWK:96] Avenger of Zendikar
+1 [MBS:81] Green Sun's Zenith
+1 [DIS:166] Simic Signet
+1 [CON:87] Noble Hierarch
+1 [EMN:6] Emrakul, the Promised End
+1 [4ED:236] Channel
+1 [M13:159] Acidic Slime
+1 [THS:172] Polukranos, World Eater
+1 [VIS:114] Natural Order
+1 [5DN:86] Eternal Witness
+1 [8ED:272] Plow Under
+1 [M19:196] Reclamation Sage
+1 [RAV:161] Elves of Deep Shadow
+1 [THS:223] Nykthos, Shrine to Nyx
+1 [2ED:233] Black Lotus
+6 [3ED:304] Forest
+4 [3ED:305] Forest
+3 [3ED:306] Forest
+1 [3ED:296] Island
+SB: 1 [3ED:291] Volcanic Island
+SB: 1 [M12:55] Frost Titan
+SB: 1 [M12:63] Mana Leak
+SB: 1 [ALA:218] Relic of Progenitus
+SB: 1 [M19:229] Crucible of Worlds
+SB: 1 [MMQ:324] Rishadan Port
+SB: 1 [ATQ:81] Mishra's Workshop
+SB: 1 [OGW:171] Hissing Quagmire
+SB: 1 [SHM:211] Manamorphose
+SB: 1 [HOU:129] Ramunap Excavator
+SB: 1 [M14:195] Scavenging Ooze
+SB: 1 [CMA:27] Unexpectedly Absent
+SB: 1 [WWK:141] Raging Ravine
+SB: 1 [ULG:101] Deranged Hermit
+SB: 1 [EXO:129] Survival of the Fittest
+SB: 1 [M10:191] Master of the Wild Hunt
+SB: 1 [M12:73] Ponder
+SB: 1 [CM2:4] Daretti, Scrap Savant
+SB: 1 [TSP:152] Empty the Warrens
+LAYOUT MAIN:(2,9)(CMC,true,70)|()([ROE:190],[CON:87],[RAV:161])([RNA:183],[UDS:118],[SHM:110])([5DN:86],[M19:196])([EVE:80],[THS:172])([M13:159])([WWK:96])([SHM:135],[DST:146])([EMN:6])([THS:223],[2ED:233],[3ED:304],[3ED:305],[3ED:304],[3ED:305],[3ED:306],[3ED:306],[3ED:304],[3ED:305],[3ED:305],[3ED:304],[3ED:304],[3ED:306],[3ED:304],[3ED:296])([5ED:388],[2ED:48],[MBS:81])([ULG:126],[DIS:166],[4ED:236])([TSP:216])([VIS:114])([8ED:272])()()()
+LAYOUT SIDEBOARD:(2,7)(CMC,true,54)|()()([M14:195])([HOU:129])([M10:191])([ULG:101])([M12:55])([3ED:291],[MMQ:324],[ATQ:81],[OGW:171],[WWK:141])([ALA:218],[M12:73])([M12:63],[SHM:211],[CMA:27],[EXO:129])([M19:229])([CM2:4],[TSP:152])()()

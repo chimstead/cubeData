@@ -1,0 +1,31 @@
+1 Plains
+5 Island
+4 Swamp
+3 Forest
+1 Mana Confluence
+1 Bayou
+1 Hissing Quagmire
+1 Lumbering Falls
+1 Mox Diamond
+1 Noble Hierarch
+1 Delver of Secrets
+1 Ancestral Recall
+1 Thoughtseize
+1 Mental Misstep
+1 Inquisition of Kozilek
+1 Baleful Strix
+1 Sylvan Caryatid
+1 Walking Ballista
+1 Tarmogoyf
+1 Hymn to Tourach
+1 Remand
+1 Leovold, Emissary of Trest
+1 Managorger Hydra
+1 Anguished Unmaking
+1 Council's Judgment
+1 Vindicate
+1 Mystic Snake
+1 Garruk Relentless
+1 Commit // Memory
+1 Bring to Light
+1 Liliana, Death's Majesty

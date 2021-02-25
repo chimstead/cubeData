@@ -1,0 +1,50 @@
+1 [SOM:48] Trinket Mage
+1 [3ED:290] Underground Sea
+1 [6ED:83] Mystical Tutor
+1 [OGW:104] Chandra, Flamecaller
+1 [KTK:249] Wooded Foothills
+1 [TSP:73] Riftwing Cloudskate
+1 [3ED:291] Volcanic Island
+1 [BBD:122] Mystic Confluence
+1 [3ED:274] Sol Ring
+1 [RTR:172] Izzet Charm
+1 [GPT:111] Electrolyze
+1 [ISD:78] Snapcaster Mage
+1 [ODY:193] Firebolt
+1 [3ED:288] Tropical Island
+1 [NPH:33] Deceiver Exarch
+1 [AVR:166] Zealous Conscripts
+1 [M12:55] Frost Titan
+6 [UST:213] Island
+6 [UST:215] Mountain
+1 [4ED:64] Control Magic
+1 [ROE:165] Splinter Twin
+1 [KTK:59] Treasure Cruise
+1 [3ED:235] Basalt Monolith
+1 [MOR:55] Vendilion Clique
+1 [ZEN:119] Burst Lightning
+1 [UDS:50] Treachery
+1 [KTK:230] Bloodstained Mire
+1 [AKH:149] Sweltering Suns
+1 [WWK:31] Jace, the Mind Sculptor
+1 [M12:63] Mana Leak
+SB: 1 [AKH:8] Cast Out
+SB: 1 [NPH:153] Shrine of Burning Rage
+SB: 1 [ARN:70] Bazaar of Baghdad
+SB: 1 [CMA:147] Song of the Dryads
+SB: 1 [SCG:29] Brain Freeze
+SB: 1 [M12:151] Manic Vandal
+SB: 1 [ARB:92] Maelstrom Pulse
+SB: 1 [SCG:106] Sulfuric Vortex
+SB: 1 [M11:21] Leyline of Sanctity
+SB: 1 [AKH:134] Glorybringer
+SB: 1 [SOM:94] Koth of the Hammer
+SB: 1 [UST:213] Island
+SB: 1 [M12:23] Honor of the Pure
+SB: 1 [AKH:136] Hazoret the Fervent
+SB: 1 [KLD:235] Smuggler's Copter
+SB: 1 [RIX:82] Ravenous Chupacabra
+SB: 1 [V14:2] Burning of Xinye
+SB: 1 [ISD:215] Olivia Voldaren
+LAYOUT MAIN:(1,8)(CMC,false,37)|([KTK:249],[KTK:230],[3ED:291],[3ED:288],[UST:213],[UST:213],[UST:213],[UST:213],[UST:213],[UST:213],[UST:215],[UST:215],[UST:215],[UST:215],[UST:215],[UST:215],[3ED:290])([ODY:193],[ZEN:119],[6ED:83],[3ED:274])([RTR:172],[M12:63],[ISD:78])([SOM:48],[3ED:235],[MOR:55],[NPH:33],[GPT:111],[AKH:149])([4ED:64],[WWK:31],[ROE:165])([TSP:73],[AVR:166],[UDS:50],[BBD:122])([M12:55],[OGW:104])([KTK:59])
+LAYOUT SIDEBOARD:(1,7)(COLOR,false,50)|([ARN:70],[NPH:153],[KLD:235],[UST:213])([RIX:82])([SCG:29])([CMA:147])([V14:2],[SOM:94],[SCG:106],[M12:151],[AKH:134],[AKH:136])([AKH:8],[M11:21],[M12:23])([ISD:215],[ARB:92])

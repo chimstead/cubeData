@@ -1,0 +1,53 @@
+1 [ORI:229] Hangarback Walker
+2 [3ED:294] Plains
+1 [ZEN:220] Misty Rainforest
+1 [3ED:293] Plains
+1 [C17:37] Fractured Identity
+2 [3ED:292] Plains
+2 [3ED:297] Island
+1 [TSP:279] Terramorphic Expanse
+1 [DOM:207] Teferi, Hero of Dominaria
+1 [MOR:22] Reveillark
+1 [EMN:40] Selfless Spirit
+1 [CON:15] Path to Exile
+1 [DIS:174] Hallowed Fountain
+1 [3ED:305] Forest
+2 [3ED:304] Forest
+1 [EMN:46] Thalia, Heretic Cathar
+1 [INV:57] Fact or Fiction
+1 [AVR:32] Restoration Angel
+1 [FRF:143] Warden of the First Tree
+1 [BFZ:239] Lumbering Falls
+1 [EVE:6] Flickerwisp
+1 [ULG:36] Miscalculation
+1 [WWK:133] Celestial Colonnade
+1 [LRW:34] Oblivion Ring
+1 [C13:25] Unexpectedly Absent
+1 [CHK:74] Meloku the Clouded Mirror
+1 [DST:148] Sword of Fire and Ice
+1 [ISD:170] Avacyn's Pilgrim
+1 [AKH:16] Glory-Bound Initiate
+1 [CON:87] Noble Hierarch
+1 [SOM:208] Sword of Body and Mind
+1 [NEM:17] Parallax Wave
+1 [ISD:213] Geist of Saint Traft
+1 [LEB:281] Savannah
+1 [ORI:83] Whirler Rogue
+1 [XLN:1] Adanto Vanguard
+SB: 1 [FRF:18] Mardu Woe-Reaper
+SB: 1 [DOM:87] Divest
+SB: 1 [PTK:17] Ravages of War
+SB: 1 [MIR:74] Memory Lapse
+SB: 1 [M13:132] Flames of the Firebrand
+SB: 1 [C14:35] Feldon of the Third Path
+SB: 1 [APC:112] Mystic Snake
+SB: 1 [ARB:110] Sphinx of the Steel Wind
+SB: 1 [ORI:150] Goblin Glory Chaser
+SB: 1 [ZEN:48] Into the Roil
+SB: 1 [DKA:93] Hellrider
+SB: 1 [GRN:208] Trostani Discordant
+SB: 1 [AKH:175] Manglehorn
+SB: 1 [LEG:58] Force Spike
+SB: 1 [CN2:58] Subterranean Tremors
+LAYOUT MAIN:(1,6)(CMC,false,50)|([ZEN:220],[DIS:174],[LEB:281],[TSP:279],[WWK:133],[BFZ:239],[3ED:305],[3ED:304],[3ED:304],[3ED:297],[3ED:297],[3ED:294],[3ED:294],[3ED:293],[3ED:292],[3ED:292])([CON:15],[FRF:143],[CON:87],[ISD:170])([EMN:40],[C13:25],[AKH:16],[XLN:1],[ULG:36],[ORI:229])([ISD:213],[SOM:208],[DST:148],[EVE:6],[EMN:46],[LRW:34])([NEM:17],[AVR:32],[ORI:83],[INV:57])([C17:37],[CHK:74],[DOM:207],[MOR:22])
+LAYOUT SIDEBOARD:(1,6)(CMC,false,50)|([LEG:58],[CN2:58],[ORI:150],[FRF:18],[DOM:87])([MIR:74],[ZEN:48])([M13:132],[AKH:175],[C14:35])([APC:112],[DKA:93],[PTK:17])([GRN:208])([ARB:110])

@@ -1,0 +1,50 @@
+1 [ZEN:229] Verdant Catacombs
+1 [WWK:134] Creeping Tar Pit
+1 [GRN:259] Watery Grave
+1 [XLN:81] Spell Pierce
+1 [THS:107] Thoughtseize
+1 [SUM:274] Sol Ring
+1 [NEM:30] Daze
+1 [TOR:69] Mesmeric Fiend
+1 [M12:63] Mana Leak
+1 [FEM:38a] Hymn to Tourach
+1 [WAR:98] Liliana's Triumph
+1 [EMN:85] Collective Brutality
+1 [RAV:63] Remand
+1 [M15:225] Phyrexian Revoker
+1 [THS:188] Ashiok, Nightmare Weaver
+1 [MOR:55] Vendilion Clique
+1 [EXO:72] Recurring Nightmare
+1 [ULG:49] Bone Shredder
+1 [THS:90] Hero's Downfall
+1 [EVE:22] Glen Elendra Archmage
+1 [APC:128] Fire // Ice
+1 [FUT:46] Venser, Shaper Savant
+1 [MH1:199] Fallen Shinobi
+1 [HOU:145] The Scarab God
+1 [ELD:281] Brazen Borrower
+1 [ELD:287] Murderous Rider
+1 [MH1:116] Yawgmoth, Thran Physician
+6 [THB:251] Island
+7 [THB:252] Swamp
+SB: 1 [VMA:266] Coercive Portal
+SB: 1 [KLD:243] Blooming Marsh
+SB: 1 [ULG:80] Goblin Welder
+SB: 1 [MRD:134] Tooth and Nail
+SB: 1 [RAV:262] Golgari Signet
+SB: 1 [OGW:182] Wandering Fumarole
+SB: 1 [M12:146] Incinerate
+SB: 1 [OGW:171] Hissing Quagmire
+SB: 1 [ROE:47] Student of Warfare
+SB: 1 [KLD:245] Concealed Courtyard
+SB: 1 [ORI:90] Dark Petition
+SB: 1 [DST:140] Skullclamp
+SB: 1 [KLD:244] Botanical Sanctum
+SB: 1 [ELD:160] Gilded Goose
+SB: 1 [ORI:23] Kytheon, Hero of Akros
+SB: 1 [MB1:206] Recruiter of the Guard
+SB: 1 [ULG:32] Frantic Search
+SB: 1 [CHK:268] Sensei's Divining Top
+SB: 1 [THB:252] Swamp
+LAYOUT MAIN:(1,5)(COLOR_IDENTITY,false,58)|([M15:225],[SUM:274],[ZEN:229])([ULG:49],[EMN:85],[THS:90],[FEM:38a],[WAR:98],[TOR:69],[ELD:287],[EXO:72],[THS:107],[MH1:116],[THB:252],[THB:252],[THB:252],[THB:252],[THB:252],[THB:252],[THB:252])([ELD:281],[NEM:30],[EVE:22],[M12:63],[RAV:63],[XLN:81],[MOR:55],[FUT:46],[THB:251],[THB:251],[THB:251],[THB:251],[THB:251],[THB:251])([APC:128])([THS:188],[WWK:134],[MH1:199],[HOU:145],[GRN:259])
+LAYOUT SIDEBOARD:(1,7)(CMC,false,48)|([KLD:243],[OGW:182],[OGW:171],[KLD:245],[KLD:244],[THB:252])([ULG:80],[ROE:47],[DST:140],[ELD:160],[ORI:23],[CHK:268])([RAV:262],[M12:146])([MB1:206],[ULG:32])([VMA:266])([ORI:90])([MRD:134])

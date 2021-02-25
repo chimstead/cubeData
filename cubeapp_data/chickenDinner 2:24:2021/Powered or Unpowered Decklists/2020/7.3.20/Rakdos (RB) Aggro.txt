@@ -1,0 +1,49 @@
+1 [MH1:145] Seasoned Pyromancer
+1 [GRN:113] Risk Factor
+1 [ELD:115] Bonecrusher Giant
+1 [ZEN:126] Goblin Guide
+1 [AER:62] Glint-Sleeve Siphoner
+1 [4ED:208] Lightning Bolt
+1 [KTK:66] Bloodsoaked Champion
+1 [PD2:26] Fireblast
+1 [DKA:93] Hellrider
+1 [HOU:90] Earthshaker Khenra
+1 [WAR:137] Krenko, Tin Street Kingpin
+1 [SOM:81] Arc Trail
+1 [MM2:75] Dark Confidant
+1 [AER:87] Kari Zev, Skyship Raider
+1 [M15:145] Goblin Rabblemaster
+1 [MRD:255] Talisman of Indulgence
+1 [IMA:140] Monastery Swiftspear
+1 [ISD:164] Stromkirk Noble
+1 [M13:147] Searing Spear
+1 [C16:49] Vial Smasher the Fierce
+1 [THB:148] Phoenix of Ash
+1 [EMA:150] Sulfuric Vortex
+1 [KLD:110] Chandra, Torch of Defiance
+1 [FRF:90] Alesha, Who Smiles at Death
+1 [RTR:238] Blood Crypt
+1 [ONS:313] Bloodstained Mire
+1 [ELD:239] Castle Embereth
+11 [THB:253] Mountain
+2 [THB:252] Swamp
+SB: 1 [THB:123] Woe Strider
+SB: 1 [MH1:116] Yawgmoth, Thran Physician
+SB: 1 [EMA:81] Blood Artist
+SB: 1 [WAR:248] Karn's Bastion
+SB: 1 [SOI:155] Falkenrath Gorger
+SB: 1 [SOI:116] Heir of Falkenrath
+SB: 1 [GRN:208] Trostani Discordant
+SB: 1 [MM2:109] Burst Lightning
+SB: 1 [M13:112] Vampire Nighthawk
+SB: 1 [PD3:17] Exhume
+SB: 1 [M14:228] Mutavault
+SB: 1 [THB:157] Storm's Wrath
+SB: 1 [GRN:103] Goblin Cratermaker
+SB: 1 [C15:26] Fiery Confluence
+SB: 1 [MM3:101] Mizzium Mortars
+SB: 1 [V14:1] Armageddon
+SB: 1 [C14:22] Flesh Carver
+SB: 1 [ORI:157] Pia and Kiran Nalaar
+LAYOUT MAIN:(2,4)(CMC,false,57)|([RTR:238],[ONS:313],[ELD:239],[THB:252],[THB:252])([ZEN:126],[4ED:208],[KTK:66],[IMA:140],[ISD:164])([MH1:145],[GRN:113],[WAR:137],[M15:145],[C16:49],[THB:148],[EMA:150],[FRF:90])([PD2:26])([THB:253],[THB:253],[THB:253],[THB:253],[THB:253],[THB:253],[THB:253],[THB:253],[THB:253],[THB:253],[THB:253])([AER:62],[HOU:90],[SOM:81],[MM2:75],[AER:87],[MRD:255],[M13:147],[ELD:115])([DKA:93],[KLD:110])()
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([THB:123],[MH1:116],[EMA:81],[WAR:248],[SOI:155],[SOI:116],[GRN:208],[MM2:109],[M13:112],[PD3:17],[M14:228],[THB:157],[GRN:103],[C15:26],[MM3:101],[V14:1],[C14:22],[ORI:157])

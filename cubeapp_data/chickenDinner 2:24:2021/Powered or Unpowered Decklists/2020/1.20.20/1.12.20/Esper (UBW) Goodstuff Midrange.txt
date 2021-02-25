@@ -1,0 +1,55 @@
+1 [THS:107] Thoughtseize
+1 [FEM:38a] Hymn to Tourach
+1 [LRW:133] Oona's Prowler
+1 [RTR:73] Pack Rat
+1 [SOI:21] Hanweir Militia Captain
+1 [BNG:5] Brimaz, King of Oreskos
+1 [ALA:9] Elspeth, Knight-Errant
+1 [RIX:82] Ravenous Chupacabra
+1 [NPH:42] Phyrexian Metamorph
+1 [VIS:37] Man-o'-War
+1 [EMN:65] Imprisoned in the Moon
+1 [M12:72] Phantasmal Image
+1 [2ED:105] Demonic Tutor
+1 [TMP:128] Diabolic Edict
+1 [CHK:74] Meloku the Clouded Mirror
+1 [WWK:31] Jace, the Mind Sculptor
+1 [FRF:87] Tasigur, the Golden Fang
+1 [WAR:97] Liliana, Dreadhorde General
+1 [MH1:233] Talisman of Hierarchy
+1 [WAR:53] God-Eternal Kefnet
+1 [KTK:59] Treasure Cruise
+1 [6ED:16] Disenchant
+1 [KTK:233] Flooded Strand
+1 [RTR:241] Hallowed Fountain
+1 [KTK:239] Polluted Delta
+1 [GTC:242] Godless Shrine
+1 [2ED:286] Underground Sea
+1 [2ED:282] Scrubland
+1 [BFZ:244] Shambling Vent
+2 [P02:156] Island
+2 [P02:154] Island
+1 [P02:155] Island
+1 [P02:152] Plains
+1 [P02:153] Plains
+1 [P02:159] Swamp
+1 [P02:157] Swamp
+1 [P02:158] Swamp
+1 [4ED:64] Control Magic
+SB: 1 [DKA:138] Falkenrath Aristocrat
+SB: 1 [HOU:83] Abrade
+SB: 1 [TMP:183] Jackal Pup
+SB: 1 [KLD:14] Fragmentize
+SB: 1 [V14:2] Burning of Xinye
+SB: 1 [DTK:181] Den Protector
+SB: 1 [CHK:193] Through the Breach
+SB: 1 [C13:96] Toxic Deluge
+SB: 1 [NPH:4] Blade Splicer
+SB: 1 [AKH:16] Glory-Bound Initiate
+SB: 1 [EMN:40] Selfless Spirit
+SB: 1 [EXO:53] Carnophage
+SB: 1 [DKA:64] Gravecrawler
+SB: 1 [ISD:97] Diregraf Ghoul
+SB: 1 [C14:22] Flesh Carver
+LAYOUT MAIN:(2,8)(CMC,true,43)|([P02:156],[P02:156],[P02:154],[P02:155],[P02:154])([KTK:233],[RTR:241],[KTK:239],[GTC:242],[2ED:286],[2ED:282],[BFZ:244])([SOI:21],[LRW:133],[RTR:73],[M12:72])([BNG:5],[VIS:37],[NPH:42])([RIX:82],[WAR:53])([CHK:74])([FRF:87])()([P02:152],[P02:153],[P02:159],[P02:157],[P02:158])([THS:107])([2ED:105],[TMP:128],[FEM:38a],[MH1:233],[6ED:16])([EMN:65])([ALA:9],[WWK:31],[4ED:64])()([WAR:97])([KTK:59])
+LAYOUT SIDEBOARD:(1,6)(CMC,false,29)|([KLD:14],[TMP:183],[EXO:53],[DKA:64],[ISD:97])([HOU:83],[DTK:181],[AKH:16],[EMN:40])([C13:96],[NPH:4],[C14:22])([DKA:138])([CHK:193])([V14:2])

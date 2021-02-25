@@ -1,0 +1,49 @@
+1 [EMA:148] Sneak Attack
+1 [VMA:137] Recurring Nightmare
+1 [CM2:231] Wurmcoil Engine
+1 [M13:112] Vampire Nighthawk
+1 [V10:13] Sundering Titan
+1 [MM3:101] Mizzium Mortars
+1 [VMA:151] Burning of Xinye
+1 [ARC:114] Rakdos Signet
+1 [VIS:66] Nekrataal
+1 [GPX:2015] Griselbrand
+1 [PUMA:U4] Ulamog, the Infinite Gyre
+1 [RTR:73] Pack Rat
+1 [MH1:145] Seasoned Pyromancer
+1 [AER:57] Fatal Push
+1 [RAV:255] Boros Signet
+1 [SHM:135] Woodfall Primus
+1 [NPH:73] Sheoldred, Whispering One
+1 [10E:222] Pyroclasm
+1 [VIS:72] Vampiric Tutor
+1 [ARC:20] Makeshift Mannequin
+1 [PM20:111p] Rotting Regisaur
+1 [ARC:108] Gruul Signet
+1 [SOM:224] Blackcleave Cliffs
+1 [HOP:36] Phyrexian Arena
+1 [KLD:245] Concealed Courtyard
+1 [PUMA:U37] Lavaclaw Reaches
+6 [UST:215] Mountain
+8 [UST:214] Swamp
+SB: 1 [EMN:6] Emrakul, the Promised End
+SB: 1 [CM2:202] Myr Battlesphere
+SB: 1 [MBS:46] Massacre Wurm
+SB: 1 [RTR:188] Rakdos's Return
+SB: 1 [VMA:276] Memory Jar
+SB: 1 [RAV:117] Char
+SB: 1 [M11:12] Day of Judgment
+SB: 1 [ROE:47] Student of Warfare
+SB: 1 [VMA:266] Coercive Portal
+SB: 1 [MH1:13] Giver of Runes
+SB: 1 [MMA:170] Tooth and Nail
+SB: 1 [GRN:208] Trostani Discordant
+SB: 1 [EMA:108] Toxic Deluge
+SB: 1 [FRF:1] Ugin, the Spirit Dragon
+SB: 1 [MM3:75] Inquisition of Kozilek
+SB: 1 [THS:9] Elspeth, Sun's Champion
+SB: 1 [PC2:33] Ink-Eyes, Servant of Oni
+SB: 1 [MM3:3] Blade Splicer
+SB: 1 [SOM:229] Seachrome Coast
+LAYOUT MAIN:(2,5)(CMC,false,40)|([UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[KLD:245])([AER:57],[VIS:72])([VMA:137],[M13:112],[MH1:145],[PM20:111p],[HOP:36])([CM2:231],[VMA:151])([GPX:2015],[SHM:135])([SOM:224],[PUMA:U37],[UST:215],[UST:215],[UST:215],[UST:215],[UST:215],[UST:215])([MM3:101],[ARC:114],[RTR:73],[RAV:255],[10E:222],[ARC:108])([EMA:148],[V10:13],[VIS:66],[ARC:20])([NPH:73])([PUMA:U4])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([EMN:6],[CM2:202],[MBS:46],[MM3:75],[RTR:188],[VMA:276],[RAV:117],[M11:12],[ROE:47],[VMA:266],[MH1:13],[MMA:170],[GRN:208],[EMA:108],[FRF:1],[THS:9],[PC2:33],[MM3:3],[SOM:229])

@@ -1,49 +1,51 @@
-1 [M14:163] Young Pyromancer
-1 [TMP:183] Jackal Pup
-1 [AVR:166] Zealous Conscripts
-1 [5DN:73] Magma Jet
-1 [ODY:193] Firebolt
-1 [AKH:136] Hazoret the Fervent
-1 [TOR:100] Grim Lavamancer
-1 [C15:26] Fiery Confluence
+2021
+1.31.21
+1 [KTK:230] Bloodstained Mire
+1 [ELD:241] Castle Locthwain
+1 [MMA:221] City of Brass
+1 [A25:141] Lightning Bolt
+1 [THS:107] Thoughtseize
+1 [ISD:164] Stromkirk Noble
+1 [ELD:138] Robber of the Rich
+1 [KLD:231] Scrapheap Scrounger
+1 [HOU:83] Abrade
+1 [AER:87] Kari Zev, Skyship Raider
+1 [MM2:75] Dark Confidant
+1 [EMA:92] Hymn to Tourach
+1 [MBS:43] Go for the Throat
 1 [M13:147] Searing Spear
-1 [DTK:169] Zurgo Bellstriker
-1 [THS:122] Firedrinker Satyr
-1 [WAR:137] Krenko, Tin Street Kingpin
-1 [HOU:90] Earthshaker Khenra
-1 [ZEN:126] Goblin Guide
-1 [M15:145] Goblin Rabblemaster
-1 [DKA:93] Hellrider
-1 [M13:150] Thundermaw Hellkite
-1 [SOM:94] Koth of the Hammer
-1 [SCG:106] Sulfuric Vortex
-1 [RAV:117] Char
-1 [EVE:139] Figure of Destiny
-1 [RAV:81] Dark Confidant
+1 [MM3:76] Liliana of the Veil
+1 [RNA:107] Light Up the Stage
+1 [BFZ:109] Drana, Liberator of Malakir
 1 [DTK:224] Kolaghan's Command
-1 [RTR:157] Dreadbore
-1 [LEB:278] Badlands
-1 [DIS:171] Blood Crypt
-10 [UST:215] Mountain
-4 [UST:214] Swamp
-SB: 1 [WTH:153] Mind Stone
-SB: 1 [MRD:254] Talisman of Impulse
-SB: 1 [ZEN:83] Bloodghast
-SB: 1 [FUT:177] Horizon Canopy
-SB: 1 [CN2:18] Palace Jailer
-SB: 1 [FRF:18] Mardu Woe-Reaper
-SB: 1 [PLC:25] Mana Tithe
-SB: 1 [ROE:47] Student of Warfare
-SB: 1 [RNA:76] Gutterbones
-SB: 1 [PTK:78] Imperial Seal
-SB: 1 [ODY:117] Braids, Cabal Minion
-SB: 1 [NEM:139] Tangle Wire
-SB: 1 [RIX:82] Ravenous Chupacabra
-SB: 1 [CN2:41] Custodi Lich
-SB: 1 [OGW:104] Chandra, Flamecaller
-SB: 1 [PTK:113] Imperial Recruiter
-SB: 1 [RIX:99] Dire Fleet Daredevil
-SB: 1 [MMQ:324] Rishadan Port
-SB: 1 [EXO:53] Carnophage
-LAYOUT MAIN:(1,7)(CMC,false,73)|([UST:215],[UST:215],[UST:215],[UST:215],[UST:215],[UST:215],[UST:215],[UST:215],[UST:215],[UST:215],[UST:214],[UST:214],[UST:214],[UST:214])([LEB:278],[DIS:171])([TMP:183],[ODY:193],[TOR:100],[DTK:169],[THS:122],[ZEN:126],[EVE:139])([M14:163],[5DN:73],[M13:147],[HOU:90],[RAV:81],[RTR:157])([WAR:137],[M15:145],[SCG:106],[RAV:117],[DTK:224])([AKH:136],[C15:26],[DKA:93],[SOM:94])([AVR:166],[M13:150])
-LAYOUT SIDEBOARD:(1,7)(CMC,false,90)|([FUT:177],[MMQ:324])([FRF:18],[PLC:25],[ROE:47],[RNA:76],[PTK:78],[EXO:53])([WTH:153],[MRD:254],[ZEN:83],[RIX:99])([NEM:139],[PTK:113])([CN2:18],[ODY:117],[RIX:82])([CN2:41])([OGW:104])
+1 [RNA:185] Judith, the Scourge Diva
+1 [FRF:90] Alesha, Who Smiles at Death
+1 [THS:90] Hero's Downfall
+1 [DDT:46] Goblin Rabblemaster
+1 [ZNR:90] Agadeem's Awakening
+1 [THB:148] Phoenix of Ash
+1 [ZNR:106] Hagra Mauling
+1 [RNA:85] Spawn of Mayhem
+1 [KLD:110] Chandra, Torch of Defiance
+1 [ELD:115] Bonecrusher Giant
+1 [ELD:287] Murderous Rider
+5 [THB:253] Mountain
+5 [THB:252] Swamp
+1 [RAV:117] Char
+SB: 1 [C18:57] Retrofitter Foundry
+SB: 1 [EMA:57] Jace, the Mind Sculptor
+SB: 1 [MM3:50] Snapcaster Mage
+SB: 1 [SS1:4] Counterspell
+SB: 1 [M11:70] Preordain
+SB: 1 [A25:104] Ravenous Chupacabra
+SB: 1 [ORI:229] Hangarback Walker
+SB: 1 [DTK:36] Secure the Wastes
+SB: 1 [IKO:216] Winota, Joiner of Forces
+SB: 1 [DKA:93] Hellrider
+SB: 1 [IMA:82] Bloodghast
+SB: 1 [PD3:15] Reanimate
+SB: 1 [M13:150] Thundermaw Hellkite
+SB: 1 [UMA:93] Demonic Tutor
+SB: 1 [C15:26] Fiery Confluence
+LAYOUT MAIN:(1,7)(CMC,false,62)|([KTK:230],[ELD:241],[MMA:221],[THB:253],[THB:253],[THB:253],[THB:253],[THB:253],[THB:252],[THB:252],[THB:252],[THB:252],[THB:252])([A25:141],[ISD:164],[THS:107])([HOU:83],[MM2:75],[MBS:43],[EMA:92],[AER:87],[ELD:138],[KLD:231],[M13:147])([ZNR:90],[FRF:90],[BFZ:109],[DDT:46],[THS:90],[RNA:185],[DTK:224],[RNA:107],[MM3:76],[THB:148],[RAV:117])([KLD:110],[ZNR:106],[RNA:85])([ELD:115])([ELD:287])
+LAYOUT SIDEBOARD:(1,5)(CMC,false,60)|([ORI:229])([C18:57],[M11:70],[DTK:36],[PD3:15])([MM3:50],[SS1:4],[IMA:82],[UMA:93])([EMA:57],[A25:104],[IKO:216],[DKA:93],[C15:26])([M13:150])

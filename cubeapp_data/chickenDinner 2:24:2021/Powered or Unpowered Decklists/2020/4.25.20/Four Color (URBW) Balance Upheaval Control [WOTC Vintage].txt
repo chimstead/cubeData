@@ -1,0 +1,52 @@
+1 [FEM:38a] Hymn to Tourach
+1 [4ED:6] Balance
+1 [WWK:123] Everflowing Chalice
+1 [RTR:200] Sphinx's Revelation
+1 [KTK:233] Flooded Strand
+1 [MOR:55] Vendilion Clique
+1 [ZEN:219] Marsh Flats
+1 [4ED:363] Strip Mine
+1 [3ED:286] Scrubland
+1 [MH1:199] Fallen Shinobi
+1 [ZEN:211] Arid Mesa
+1 [XLN:110] Kitesail Freebooter
+1 [THS:188] Ashiok, Nightmare Weaver
+1 [ZEN:223] Scalding Tarn
+1 [3ED:274] Sol Ring
+1 [GPT:32] Repeal
+1 [RAV:255] Boros Signet
+1 [6ED:161] Vampiric Tutor
+1 [WWK:133] Celestial Colonnade
+1 [GRN:259] Watery Grave
+1 [THS:107] Thoughtseize
+1 [KTK:239] Polluted Delta
+1 [TSP:73] Riftwing Cloudskate
+1 [ODY:113] Upheaval
+1 [MEDM:RA6] Dack Fayden
+1 [4ED:147] Mind Twist
+1 [GRN:254] Sacred Foundry
+1 [ROE:115] Inquisition of Kozilek
+1 [MH1:244] Prismatic Vista
+1 [EMN:85] Collective Brutality
+1 [GRN:205] Thief of Sanity
+1 [ARN:76] Library of Alexandria
+1 [M12:98] Grave Titan
+1 [RAV:260] Dimir Signet
+1 [DTK:224] Kolaghan's Command
+1 [LEB:291] Island
+1 [LEB:297] Mountain
+1 [LEB:296] Swamp
+2 [LEB:295] Swamp
+SB: 1 [ALA:9] Elspeth, Knight-Errant
+SB: 1 [WWK:127] Lodestone Golem
+SB: 1 [6ED:4] Armageddon
+SB: 1 [APC:114] Pernicious Deed
+SB: 1 [NPH:33] Deceiver Exarch
+SB: 1 [TSP:269] Academy Ruins
+SB: 1 [M12:23] Honor of the Pure
+SB: 1 [V14:2] Burning of Xinye
+SB: 1 [M10:100] Hypnotic Specter
+SB: 1 [OGW:175] Needle Spires
+SB: 1 [LEB:293] Island
+LAYOUT MAIN:(1,7)(CMC,false,70)|([ZEN:211],[WWK:133],[KTK:233],[ARN:76],[ZEN:219],[KTK:239],[MH1:244],[GRN:254],[ZEN:223],[3ED:286],[4ED:363],[GRN:259])([LEB:295],[LEB:296],[LEB:297],[LEB:291],[LEB:295])([4ED:147],[3ED:274],[THS:107],[6ED:161],[ROE:115])([RAV:255],[EMN:85],[RAV:260],[WWK:123],[FEM:38a],[XLN:110],[GPT:32],[TSP:73],[4ED:6])([MEDM:RA6],[DTK:224],[RTR:200],[GRN:205],[MOR:55],[THS:188])([MH1:199])([ODY:113],[M12:98])
+LAYOUT SIDEBOARD:(1,6)(COLOR,false,70)|([WWK:127],[TSP:269],[OGW:175],[LEB:293])([M10:100])([NPH:33])([V14:2])([ALA:9],[6ED:4],[M12:23])([APC:114])

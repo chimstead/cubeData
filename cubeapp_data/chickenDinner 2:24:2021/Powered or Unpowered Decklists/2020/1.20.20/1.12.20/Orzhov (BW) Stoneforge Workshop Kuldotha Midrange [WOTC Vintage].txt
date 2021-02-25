@@ -1,0 +1,51 @@
+1 [NPH:4] Blade Splicer
+1 [NPH:130] Batterskull
+1 [TOR:69] Mesmeric Fiend
+1 [VMA:20] Council's Judgment
+1 [5ED:388] Mana Vault
+1 [MBS:43] Go for the Throat
+1 [DTK:124] Ultimate Price
+1 [TSP:259] Lotus Bloom
+1 [ALA:202] Tidehollow Sculler
+1 [M12:12] Day of Judgment
+1 [MMQ:129] Dark Ritual
+1 [DST:146] Sundering Titan
+1 [SOM:169] Kuldotha Forgemaster
+1 [M20:226] Golos, Tireless Pilgrim
+1 [ELD:235] Stonecoil Serpent
+1 [SOM:223] Wurmcoil Engine
+1 [BNG:5] Brimaz, King of Oreskos
+1 [WWK:20] Stoneforge Mystic
+1 [ORI:229] Hangarback Walker
+1 [KLD:13] Fairgrounds Warden
+1 [SOI:5] Archangel Avacyn
+1 [CON:15] Path to Exile
+1 [ULG:129] Memory Jar
+1 [DRK:117] Maze of Ith
+1 [ATQ:81] Mishra's Workshop
+1 [4ED:361] Mishra's Factory
+4 [NPH:166] Plains
+4 [NPH:167] Plains
+5 [NPH:171] Swamp
+1 [NPH:170] Swamp
+SB: 1 [KLD:67] Torrential Gearhulk
+SB: 1 [M13:112] Vampire Nighthawk
+SB: 1 [AVR:36] Silverblade Paladin
+SB: 1 [THS:33] Spear of Heliod
+SB: 1 [LEG:28] Moat
+SB: 1 [ZEN:126] Goblin Guide
+SB: 1 [5ED:408] Winter Orb
+SB: 1 [AVR:38] Terminus
+SB: 1 [RTR:1] Angel of Serenity
+SB: 1 [BFZ:29] Gideon, Ally of Zendikar
+SB: 1 [MBS:8] Hero of Bladehold
+SB: 1 [EVE:6] Flickerwisp
+SB: 1 [4ED:34] Land Tax
+SB: 1 [TOR:51] Cabal Ritual
+SB: 1 [FEM:38a] Hymn to Tourach
+SB: 1 [RNA:186] Kaya, Orzhov Usurper
+SB: 1 [AER:57] Fatal Push
+SB: 1 [XLN:110] Kitesail Freebooter
+SB: 1 [RNA:27] Tithe Taker
+LAYOUT MAIN:(1,8)(CMC,false,50)|([NPH:166],[NPH:166],[NPH:166],[NPH:167],[NPH:166],[NPH:167],[NPH:167],[NPH:167],[NPH:171],[NPH:171],[NPH:171],[NPH:170],[NPH:171],[NPH:171],[DRK:117],[ATQ:81],[4ED:361])([5ED:388],[TSP:259],[MMQ:129],[CON:15])([ALA:202],[WWK:20],[TOR:69],[MBS:43],[DTK:124])([NPH:4],[BNG:5],[KLD:13],[VMA:20])([ORI:229],[ELD:235],[M12:12])([SOM:169],[M20:226],[SOI:5],[NPH:130],[ULG:129])([SOM:223])([DST:146])
+LAYOUT SIDEBOARD:(1,6)(COLOR,false,48)|([5ED:408])([M13:112])([KLD:67])([ZEN:126],[EVE:6],[RNA:27])([AVR:36],[THS:33],[AER:57],[XLN:110],[LEG:28],[MBS:8],[RNA:186],[FEM:38a])([AVR:38],[RTR:1],[BFZ:29],[4ED:34],[TOR:51])

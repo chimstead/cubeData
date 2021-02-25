@@ -1,0 +1,49 @@
+1 [AER:76] Aether Chaser
+1 [LEA:161] Lightning Bolt
+1 [5DN:73] Magma Jet
+1 [RAV:117] Char
+1 [WAR:137] Krenko, Tin Street Kingpin
+1 [M15:145] Goblin Rabblemaster
+1 [EVE:139] Figure of Destiny
+1 [LEG:137] Chain Lightning
+1 [DTK:169] Zurgo Bellstriker
+1 [KLD:110] Chandra, Torch of Defiance
+1 [RTR:220] Rakdos Cackler
+1 [PTK:122] Rolling Earthquake
+1 [C15:26] Fiery Confluence
+1 [SOM:94] Koth of the Hammer
+1 [TMP:183] Jackal Pup
+1 [ZEN:126] Goblin Guide
+1 [AER:87] Kari Zev, Skyship Raider
+1 [TMP:330] Wasteland
+1 [KLD:231] Scrapheap Scrounger
+1 [SOI:155] Falkenrath Gorger
+1 [THS:127] Lightning Strike
+1 [ODY:193] Firebolt
+1 [AKH:148] Soul-Scar Mage
+1 [SCG:106] Sulfuric Vortex
+1 [M12:156] Stormblood Berserker
+1 [WWK:139] Lavaclaw Reaches
+7 [LEA:293] Mountain
+7 [LEA:292] Mountain
+SB: 1 [USG:134] Exhume
+SB: 1 [AVR:172] Craterhoof Behemoth
+SB: 1 [PTK:78] Imperial Seal
+SB: 1 [AVR:166] Zealous Conscripts
+SB: 1 [SOK:158] Pithing Needle
+SB: 1 [LEB:284] Tropical Island
+SB: 1 [LEB:283] Taiga
+SB: 1 [SOI:12] Declaration in Stone
+SB: 1 [ZEN:36] Steppe Lynx
+SB: 1 [MH1:145] Seasoned Pyromancer
+SB: 1 [RAV:81] Dark Confidant
+SB: 1 [DST:146] Sundering Titan
+SB: 1 [ROE:47] Student of Warfare
+SB: 1 [ROE:165] Splinter Twin
+SB: 1 [ZEN:116] Vampire Nighthawk
+SB: 1 [LRW:78] Pestermite
+SB: 1 [DST:149] Sword of Light and Shadow
+SB: 1 [LEB:184] Wheel of Fortune
+SB: 1 [GRN:103] Goblin Cratermaker
+LAYOUT MAIN:(2,5)(CMC,true,52)|()([EVE:139],[DTK:169],[RTR:220],[TMP:183],[ZEN:126],[SOI:155],[AKH:148])([AER:76],[AER:87],[KLD:231],[M12:156])([WAR:137],[M15:145])()([TMP:330],[WWK:139],[LEA:293],[LEA:293],[LEA:292],[LEA:293],[LEA:292],[LEA:292],[LEA:292],[LEA:293],[LEA:292],[LEA:293],[LEA:293],[LEA:292],[LEA:293],[LEA:292])([LEA:161],[LEG:137],[PTK:122],[ODY:193])([5DN:73],[THS:127])([RAV:117],[SCG:106])([KLD:110],[C15:26],[SOM:94])
+LAYOUT SIDEBOARD:(2,7)(CMC,true,45)|()([ZEN:36],[ROE:47])([RAV:81],[GRN:103])([MH1:145],[ZEN:116],[LRW:78])()([AVR:166])([AVR:172],[DST:146])([LEB:284],[LEB:283])([PTK:78],[SOK:158])([USG:134],[SOI:12])([DST:149],[LEB:184])([ROE:165])()()

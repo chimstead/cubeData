@@ -1,0 +1,49 @@
+1 [KTK:230] Bloodstained Mire
+1 [ELD:241] Castle Locthwain
+1 [MMA:221] City of Brass
+1 [A25:141] Lightning Bolt
+1 [THS:107] Thoughtseize
+1 [ISD:164] Stromkirk Noble
+1 [ELD:138] Robber of the Rich
+1 [KLD:231] Scrapheap Scrounger
+1 [HOU:83] Abrade
+1 [AER:87] Kari Zev, Skyship Raider
+1 [MM2:75] Dark Confidant
+1 [EMA:92] Hymn to Tourach
+1 [MBS:43] Go for the Throat
+1 [M13:147] Searing Spear
+1 [MM3:76] Liliana of the Veil
+1 [RNA:107] Light Up the Stage
+1 [BFZ:109] Drana, Liberator of Malakir
+1 [DTK:224] Kolaghan's Command
+1 [RNA:185] Judith, the Scourge Diva
+1 [FRF:90] Alesha, Who Smiles at Death
+1 [THS:90] Hero's Downfall
+1 [DDT:46] Goblin Rabblemaster
+1 [ZNR:90] Agadeem's Awakening
+1 [THB:148] Phoenix of Ash
+1 [ZNR:106] Hagra Mauling
+1 [RNA:85] Spawn of Mayhem
+1 [KLD:110] Chandra, Torch of Defiance
+1 [ELD:115] Bonecrusher Giant
+1 [ELD:287] Murderous Rider
+5 [THB:253] Mountain
+5 [THB:252] Swamp
+1 [RAV:117] Char
+SB: 1 [C18:57] Retrofitter Foundry
+SB: 1 [EMA:57] Jace, the Mind Sculptor
+SB: 1 [MM3:50] Snapcaster Mage
+SB: 1 [SS1:4] Counterspell
+SB: 1 [M11:70] Preordain
+SB: 1 [A25:104] Ravenous Chupacabra
+SB: 1 [ORI:229] Hangarback Walker
+SB: 1 [DTK:36] Secure the Wastes
+SB: 1 [IKO:216] Winota, Joiner of Forces
+SB: 1 [DKA:93] Hellrider
+SB: 1 [IMA:82] Bloodghast
+SB: 1 [PD3:15] Reanimate
+SB: 1 [M13:150] Thundermaw Hellkite
+SB: 1 [UMA:93] Demonic Tutor
+SB: 1 [C15:26] Fiery Confluence
+LAYOUT MAIN:(1,7)(CMC,false,62)|([KTK:230],[ELD:241],[MMA:221],[THB:253],[THB:253],[THB:253],[THB:253],[THB:253],[THB:252],[THB:252],[THB:252],[THB:252],[THB:252])([A25:141],[ISD:164],[THS:107])([HOU:83],[MM2:75],[MBS:43],[EMA:92],[AER:87],[ELD:138],[KLD:231],[M13:147])([ZNR:90],[FRF:90],[BFZ:109],[DDT:46],[THS:90],[RNA:185],[DTK:224],[RNA:107],[MM3:76],[THB:148],[RAV:117])([KLD:110],[ZNR:106],[RNA:85])([ELD:115])([ELD:287])
+LAYOUT SIDEBOARD:(1,5)(CMC,false,60)|([ORI:229])([C18:57],[M11:70],[DTK:36],[PD3:15])([MM3:50],[SS1:4],[IMA:82],[UMA:93])([EMA:57],[A25:104],[IKO:216],[DKA:93],[C15:26])([M13:150])

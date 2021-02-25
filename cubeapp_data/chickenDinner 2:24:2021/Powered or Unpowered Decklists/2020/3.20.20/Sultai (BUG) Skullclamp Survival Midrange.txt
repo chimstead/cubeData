@@ -1,0 +1,50 @@
+1 [ICE:244] Fyndhorn Elves
+1 [6ED:239] Llanowar Elves
+1 [CON:87] Noble Hierarch
+1 [M10:68] Ponder
+1 [DST:140] Skullclamp
+1 [GRN:152] Assassin's Trophy
+1 [MOR:58] Bitterblossom
+1 [AKH:204] Nissa, Steward of Elements
+1 [RTR:73] Pack Rat
+1 [EXO:129] Survival of the Fittest
+1 [THS:180] Sylvan Caryatid
+1 [MH1:232] Talisman of Curiosity
+1 [NPH:57] Dismember
+1 [MMA:180] Maelstrom Pulse
+1 [OGW:138] Nissa, Voice of Zendikar
+1 [UDS:124] Yavimaya Elder
+1 [4ED:64] Control Magic
+1 [ISD:181] Garruk Relentless
+1 [GRN:213] Vraska, Golgari Queen
+1 [CN2:41] Custodi Lich
+1 [MH1:161] Deep Forest Hermit
+1 [ULG:101] Deranged Hermit
+1 [M13:193] Thragtusk
+1 [AKH:243] Fetid Pools
+1 [MH1:243] Nurturing Peatland
+1 [RAV:279] Overgrown Tomb
+1 [ONS:321] Polluted Delta
+1 [LEB:284] Tropical Island
+1 [ZEN:229] Verdant Catacombs
+1 [MH1:249] Waterlogged Grove
+1 [RAV:286] Watery Grave
+5 [GUR:1] Forest
+2 [GUR:2] Island
+2 [GUR:5] Swamp
+SB: 1 [MH1:238] Fiery Islet
+SB: 1 [GPT:157] Godless Shrine
+SB: 1 [FUT:177] Horizon Canopy
+SB: 1 [VIS:66] Nekrataal
+SB: 1 [KLD:214] Fleetwheel Cruiser
+SB: 1 [MIR:255] Worldly Tutor
+SB: 1 [ORI:229] Hangarback Walker
+SB: 1 [VIS:64] Necromancy
+SB: 1 [EXO:115] Oath of Druids
+SB: 1 [M11:192] Primeval Titan
+SB: 1 [M20:185] Nightpack Ambusher
+SB: 1 [ROE:6] Kozilek, Butcher of Truth
+SB: 1 [VIS:114] Natural Order
+SB: 1 [ATQ:80a] Mishra's Factory
+LAYOUT MAIN:(1,7)(CMC,false,83)|([GUR:1],[GUR:1],[GUR:1],[GUR:1],[GUR:1],[GUR:2],[GUR:2],[GUR:5],[GUR:5])([AKH:243],[MH1:243],[RAV:279],[ONS:321],[LEB:284],[ZEN:229],[MH1:249],[RAV:286])([ICE:244],[6ED:239],[CON:87],[M10:68],[DST:140])([GRN:152],[MOR:58],[AKH:204],[RTR:73],[EXO:129],[THS:180],[MH1:232])([NPH:57],[MMA:180],[OGW:138],[UDS:124])([4ED:64],[ISD:181],[GRN:213])([CN2:41],[MH1:161],[ULG:101],[M13:193])
+LAYOUT SIDEBOARD:(1,7)(CMC,false,63)|([MH1:238],[ATQ:80a],[GPT:157],[ORI:229],[FUT:177])([MIR:255])([EXO:115])([VIS:64])([KLD:214],[VIS:66],[M20:185],[VIS:114])([M11:192])([ROE:6])

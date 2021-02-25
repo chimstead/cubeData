@@ -1,3 +1,6 @@
+2017
+12.17
+12.3.17
 1 Plateau
 1 Arid Mesa
 1 Sacred Foundry
@@ -11,7 +14,7 @@
 1 Brimaz, King of Oreskos
 1 Goblin Rabblemaster
 1 Spectral Procession
-1 Council’s Judgment
+1 Council's Judgment
 1 Spear of Heliod
 1 Grafted Wargear
 1 Char
@@ -23,5 +26,4 @@
 1 Angel of Invention
 1 Archangel Avacyn
 1 Sun Titan
-1 Elspeth, Sun’s Champion 
-
+1 Elspeth, Sun's Champion

@@ -1,0 +1,50 @@
+1 [GTC:182] Obzedat, Ghost Council
+1 [DDE:54] Coalition Relic
+1 [AKH:97] Liliana, Death's Majesty
+1 [EMN:85] Collective Brutality
+1 [EMA:9] Enlightened Tutor
+1 [EMA:112] Vampiric Tutor
+1 [XLN:74] Search for Azcanta
+1 [EMA:78] Animate Dead
+1 [C15:204] Terastodon
+1 [A25:41] Arcane Denial
+1 [CN2:121] Show and Tell
+1 [IMA:108] Sheoldred, Whispering One
+1 [KLD:176] Cloudblazer
+1 [M15:178] Hornet Queen
+1 [E01:23] Compulsive Research
+1 [E02:12] Time Warp
+1 [MBS:21] Consecrated Sphinx
+1 [GRN:69] Doom Whisperer
+1 [WAR:98] Liliana's Triumph
+1 [AER:75] Yahenni's Expertise
+1 [MMA:67] Thirst for Knowledge
+1 [XLN:48] Chart a Course
+1 [ICE:118] Dance of the Dead
+1 [AKH:243] Fetid Pools
+1 [BFZ:244] Shambling Vent
+1 [PUMA:U33] Celestial Colonnade
+1 [GTC:242] Godless Shrine
+1 [KLD:245] Concealed Courtyard
+1 [C16:285] Caves of Koilos
+1 [CM2:275] Underground River
+6 [UST:213] Island
+1 [UST:212] Plains
+3 [UST:214] Swamp
+SB: 1 [MMA:52] Meloku the Clouded Mirror
+SB: 1 [ME3:17] Land Tax
+SB: 1 [GTC:123] Gyre Sage
+SB: 1 [CN2:41] Custodi Lich
+SB: 1 [M14:181] Kalonian Hydra
+SB: 1 [MRD:206] Mindslaver
+SB: 1 [RNA:214] Zegana, Utopian Speaker
+SB: 1 [AER:24] Sram's Expertise
+SB: 1 [ORI:83] Whirler Rogue
+SB: 1 [C13:96] Toxic Deluge
+SB: 1 [AVR:149] Pillar of Flame
+SB: 1 [CN2:71] Selvala's Stampede
+SB: 1 [AER:46] Skyship Plunderer
+SB: 1 [EMN:155] Eldritch Evolution
+SB: 1 [AKH:247] Scattered Groves
+LAYOUT MAIN:(1,5)(CMC,false,69)|([AKH:243],[BFZ:244],[GTC:242],[KLD:245],[C16:285],[CM2:275],[UST:213],[UST:213],[UST:213],[UST:213],[UST:213],[UST:213],[UST:212],[UST:214],[UST:214],[UST:214],[PUMA:U33])([EMA:9],[EMA:112])([EMN:85],[XLN:74],[EMA:78],[A25:41],[WAR:98],[XLN:48],[ICE:118])([DDE:54],[CN2:121],[E01:23],[MMA:67],[AER:75])([GTC:182],[AKH:97],[KLD:176],[E02:12],[GRN:69],[MBS:21],[IMA:108],[M15:178],[C15:204])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([MMA:52],[ME3:17],[GTC:123],[CN2:41],[M14:181],[MRD:206],[RNA:214],[AER:24],[ORI:83],[C13:96],[AVR:149],[CN2:71],[AER:46],[EMN:155],[AKH:247])

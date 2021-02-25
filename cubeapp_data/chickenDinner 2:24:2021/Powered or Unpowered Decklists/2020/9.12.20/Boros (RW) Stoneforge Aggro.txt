@@ -1,0 +1,49 @@
+1 [STH:138] Mox Diamond
+1 [ORI:23] Kytheon, Hero of Akros
+1 [RTR:220] Rakdos Cackler
+1 [ZEN:126] Goblin Guide
+1 [ZEN:119] Burst Lightning
+1 [FRF:18] Mardu Woe-Reaper
+1 [CON:15] Path to Exile
+1 [MH1:13] Giver of Runes
+1 [KLD:235] Smuggler's Copter
+1 [EMN:40] Selfless Spirit
+1 [ZEN:14] Journey to Nowhere
+1 [WWK:20] Stoneforge Mystic
+1 [XLN:1] Adanto Vanguard
+1 [5DN:126] Grafted Wargear
+1 [MH1:228] Sword of Sinew and Steel
+1 [NPH:19] Porcelain Legionnaire
+1 [WAR:137] Krenko, Tin Street Kingpin
+1 [THB:148] Phoenix of Ash
+1 [JOU:5] Banishing Light
+1 [THB:14] Elspeth, Sun's Nemesis
+1 [NEM:17] Parallax Wave
+1 [ALA:9] Elspeth, Knight-Errant
+1 [C15:26] Fiery Confluence
+1 [RAV:280] Sacred Foundry
+1 [IKO:251] Raugrin Triome
+1 [CNS:16] Council's Judgment
+6 [GUR:3] Mountain
+8 [GUR:4] Plains
+SB: 1 [PTK:17] Ravages of War
+SB: 1 [ORI:157] Pia and Kiran Nalaar
+SB: 1 [PLS:60] Flametongue Kavu
+SB: 1 [HOU:129] Ramunap Excavator
+SB: 1 [POR:124] Earthquake
+SB: 1 [MMQ:162] Snuff Out
+SB: 1 [MH1:116] Yawgmoth, Thran Physician
+SB: 1 [AER:62] Glint-Sleeve Siphoner
+SB: 1 [TMP:154] Sarcomancy
+SB: 1 [NPH:57] Dismember
+SB: 1 [TMP:330] Wasteland
+SB: 1 [MH1:210] Nature's Chant
+SB: 1 [MBS:1] Accorder Paladin
+SB: 1 [ICE:326] Jeweled Amulet
+SB: 1 [M13:132] Flames of the Firebrand
+SB: 1 [MH1:26] Serra the Benevolent
+SB: 1 [OGW:182] Wandering Fumarole
+SB: 1 [MIR:184] Incinerate
+SB: 1 [AVR:32] Restoration Angel
+LAYOUT MAIN:(1,6)(CMC,false,85)|([GUR:4],[GUR:4],[GUR:4],[GUR:4],[GUR:4],[GUR:4],[GUR:4],[GUR:4],[GUR:3],[GUR:3],[GUR:3],[GUR:3],[GUR:3],[GUR:3])([IKO:251],[RAV:280])([STH:138],[ZEN:119],[MH1:13],[ZEN:126],[ORI:23],[FRF:18],[CON:15],[RTR:220])([XLN:1],[ZEN:14],[EMN:40],[KLD:235],[WWK:20])([JOU:5],[CNS:16],[5DN:126],[WAR:137],[THB:148],[NPH:19],[MH1:228])([ALA:9],[THB:14],[C15:26],[NEM:17])
+LAYOUT SIDEBOARD:(1,5)(CMC,false,75)|([TMP:330],[ICE:326],[OGW:182])([POR:124],[TMP:154])([AER:62],[MH1:210],[MBS:1],[MIR:184])([HOU:129],[NPH:57],[M13:132])([PTK:17],[ORI:157],[PLS:60],[MMQ:162],[MH1:116],[MH1:26],[AVR:32])

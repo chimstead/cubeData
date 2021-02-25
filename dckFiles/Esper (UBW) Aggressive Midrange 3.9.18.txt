@@ -1,3 +1,6 @@
+2018
+3.18
+3.9.18
 3 Island
 1 Plains
 6 Swamp
@@ -16,12 +19,12 @@
 1 Glint-Sleeve Siphoner
 1 Looter il-Kor
 1 Scrapheap Scrounger
-1 Smuggler’s Copter
+1 Smuggler's Copter
 1 Stoneforge Mystic
-1 Umezawa’s Jitte
+1 Umezawa's Jitte
 1 Flesh Carver
 1 Lingering Souls
-1 Man-o’-War
+1 Man-o'-War
 1 Ophiomancer
 1 Vendilion Clique
 1 Phyrexian Metamorph

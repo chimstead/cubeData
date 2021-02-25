@@ -1,0 +1,53 @@
+1 [ULG:36] Miscalculation
+1 [MEDM:RA6] Dack Fayden
+1 [ZEN:119] Burst Lightning
+1 [XLN:48] Chart a Course
+1 [GPT:150] Gruul Signet
+1 [RTR:1] Angel of Serenity
+1 [M12:98] Grave Titan
+1 [RAV:63] Remand
+1 [NPH:73] Sheoldred, Whispering One
+1 [KLD:249] Spirebluff Canal
+1 [MBS:21] Consecrated Sphinx
+1 [ROE:12] Ulamog, the Infinite Gyre
+1 [2ED:233] Black Lotus
+1 [USG:218] Sneak Attack
+1 [ULG:126] Grim Monolith
+1 [M19:152] Lightning Strike
+1 [2ED:266] Mox Sapphire
+1 [RTR:44] Jace, Architect of Thought
+1 [MBS:46] Massacre Wurm
+1 [GPT:152] Izzet Signet
+1 [VMA:266] Coercive Portal
+1 [M11:70] Preordain
+1 [M11:149] Lightning Bolt
+1 [BBD:122] Mystic Confluence
+1 [V14:2] Burning of Xinye
+1 [APC:128] Fire // Ice
+3 [3ED:295] Island
+2 [3ED:297] Island
+2 [3ED:296] Island
+2 [3ED:301] Mountain
+3 [3ED:303] Mountain
+2 [3ED:302] Mountain
+SB: 1 [NPH:9] Elesh Norn, Grand Cenobite
+SB: 1 [AKH:97] Liliana, Death's Majesty
+SB: 1 [SOM:94] Koth of the Hammer
+SB: 1 [XLN:232] Vraska, Relic Seeker
+SB: 1 [M12:151] Manic Vandal
+SB: 1 [M19:196] Reclamation Sage
+SB: 1 [M20:14] Disenchant
+SB: 1 [AER:181] Walking Ballista
+SB: 1 [ZEN:114] Vampire Hexmage
+SB: 1 [ODY:118] Buried Alive
+SB: 1 [M12:39] Sun Titan
+SB: 1 [XLN:110] Kitesail Freebooter
+SB: 1 [AKH:1] Angel of Sanctions
+SB: 1 [ORI:23] Kytheon, Hero of Akros
+SB: 1 [THS:9] Elspeth, Sun's Champion
+SB: 1 [ULG:80] Goblin Welder
+SB: 1 [ZEN:220] Misty Rainforest
+SB: 1 [RNA:245] Blood Crypt
+SB: 1 [ISD:127] Ancient Grudge
+LAYOUT MAIN:(2,9)(CMC,true,58)|()()()()()()([MBS:21],[M12:98],[MBS:46])([RTR:1],[NPH:73])([ROE:12])([2ED:233],[2ED:266],[KLD:249],[3ED:295],[3ED:297],[3ED:295],[3ED:296],[3ED:296],[3ED:295],[3ED:297],[3ED:301],[3ED:303],[3ED:301],[3ED:303],[3ED:302],[3ED:302],[3ED:303])([ZEN:119],[M11:149],[M11:70])([XLN:48],[ULG:126],[GPT:150],[GPT:152],[M19:152],[ULG:36],[RAV:63],[APC:128])([MEDM:RA6])([VMA:266],[RTR:44],[USG:218])([BBD:122])([V14:2])()()
+LAYOUT SIDEBOARD:(2,8)(CMC,true,64)|([AER:181])([ORI:23],[ULG:80])([ZEN:114],[XLN:110],[ISD:127])([M12:151],[M19:196])([RNA:245],[ZEN:220])([AKH:1])([M12:39])([NPH:9])()()([M20:14])([ODY:118])([SOM:94])([AKH:97])([XLN:232])([THS:9])

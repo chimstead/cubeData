@@ -1,3 +1,6 @@
+2018
+3.18
+3.11.18
 2 Forest
 2 Island
 3 Plains
@@ -23,7 +26,7 @@
 1 Spellskite
 1 Cultivate
 1 Flickerwisp
-1 Man-o’-War
+1 Man-o'-War
 1 Ramunap Excavator
 1 Vendilion Clique
 1 Elspeth, Knight-Errant

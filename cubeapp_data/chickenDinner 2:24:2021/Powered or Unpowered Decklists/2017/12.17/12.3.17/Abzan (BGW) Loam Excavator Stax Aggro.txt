@@ -1,0 +1,35 @@
+5 Swamp
+1 Forest
+1 Ancient Tomb
+1 Bayou
+1 Llanowar Wastes
+1 Marsh Flats
+1 Rishadan Port
+1 Savannah
+1 Strip Mine
+1 Wasteland
+1 Windswept Heath
+1 Bloodsoaked Champion
+1 Diregraf Ghoul
+1 Duress
+1 Kessig Prowler
+1 Mind Twist
+1 Vampiric Tutor
+1 Warden of the First Tree
+1 Asylum Visitor
+1 Bloodghast
+1 Declaration in Stone
+1 Journey to Nowhere
+1 Life from the Loam
+1 Sinkhole
+1 Umezawa's Jitte
+1 Winter Orb
+1 Shriekmaw
+1 Kitchen Finks
+1 Ramunap Excavator
+1 Sword of Fire and Ice
+1 Tangle Wire
+1 Vindicate
+1 Braids, Cabal Minion
+1 Kalitas, Traitor of Ghet
+1 Smokestack

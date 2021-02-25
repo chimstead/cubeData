@@ -1,0 +1,31 @@
+5 Island
+5 Plains
+2 Swamp
+1 Creeping Tar Pit
+1 Karakas
+1 Marsh Flats
+1 Maze of Ith
+1 Seachrome Coast
+1 Mox Diamond
+1 Mana Crypt
+1 Mind Twist
+1 Mystical Tutor
+1 Sensei's Divining Top
+1 Balance
+1 Izzet Signet
+1 Search for Azcanta
+1 Sorcerous Spyglass
+1 Unexpectedly Absent
+1 Oblivion Ring
+1 Vendilion Clique
+1 Day of Judgment
+1 Elspeth, Knight-Errant
+1 Gideon, Ally of Zendikar
+1 Jace, the Mind Sculptor
+1 Moat
+1 Sower of Temptation
+1 Bribery
+1 Dragonlord Ojutai
+1 Gideon Jura
+1 Mulldrifter
+1 Dig Through Time

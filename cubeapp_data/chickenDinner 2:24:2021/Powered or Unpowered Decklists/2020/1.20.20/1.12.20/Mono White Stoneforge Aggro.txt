@@ -1,0 +1,48 @@
+1 [CON:15] Path to Exile
+1 [ORI:23] Kytheon, Hero of Akros
+1 [THS:32] Soldier of the Pantheon
+1 [ROE:47] Student of Warfare
+1 [MH1:13] Giver of Runes
+1 [PLC:25] Mana Tithe
+1 [CHK:19] Isamaru, Hound of Konda
+1 [KLD:235] Smuggler's Copter
+1 [C13:25] Unexpectedly Absent
+1 [WAR:13] Gideon Blackblade
+1 [BNG:5] Brimaz, King of Oreskos
+1 [M20:22] Hanged Executioner
+1 [DST:148] Sword of Fire and Ice
+1 [AKH:14] Gideon of the Trials
+1 [ALA:9] Elspeth, Knight-Errant
+1 [CN2:18] Palace Jailer
+1 [PTK:17] Ravages of War
+1 [MH1:26] Serra the Benevolent
+1 [THS:9] Elspeth, Sun's Champion
+1 [DTK:36] Secure the Wastes
+1 [KLD:4] Angel of Invention
+1 [SOI:5] Archangel Avacyn
+1 [WWK:20] Stoneforge Mystic
+1 [MH1:246] Silent Clearing
+1 [MH1:247] Sunbaked Canyon
+1 [ATQ:82a] Strip Mine
+14 [UGL:84] Plains
+SB: 1 [TMP:47] Soltari Trooper
+SB: 1 [SOK:158] Pithing Needle
+SB: 1 [MH1:230] Talisman of Conviction
+SB: 1 [NPH:161] Sword of War and Peace
+SB: 1 [SOM:78] Skinrender
+SB: 1 [GRN:69] Doom Whisperer
+SB: 1 [BFZ:244] Shambling Vent
+SB: 1 [KLD:214] Fleetwheel Cruiser
+SB: 1 [ORI:189] Nissa, Vastwood Seer
+SB: 1 [5DN:114] Crucible of Worlds
+SB: 1 [LEG:137] Chain Lightning
+SB: 1 [SOI:155] Falkenrath Gorger
+SB: 1 [M11:146] Inferno Titan
+SB: 1 [ARB:110] Sphinx of the Steel Wind
+SB: 1 [ZEN:9] Day of Judgment
+SB: 1 [TMP:142] Living Death
+SB: 1 [OGW:86] Kalitas, Traitor of Ghet
+SB: 1 [RTR:141] Abrupt Decay
+SB: 1 [ZEN:119] Burst Lightning
+LAYOUT MAIN:(1,7)(CMC,false,50)|([MH1:246],[MH1:247],[ATQ:82a],[UGL:84],[UGL:84],[UGL:84],[UGL:84],[UGL:84],[UGL:84],[UGL:84],[UGL:84],[UGL:84],[UGL:84],[UGL:84],[UGL:84],[UGL:84],[UGL:84])([CON:15],[ORI:23],[THS:32],[ROE:47],[MH1:13],[PLC:25],[CHK:19],[DTK:36])([KLD:235],[C13:25],[WWK:20])([WAR:13],[BNG:5],[M20:22],[DST:148],[AKH:14])([ALA:9],[CN2:18],[PTK:17],[MH1:26])([KLD:4],[SOI:5])([THS:9])
+LAYOUT SIDEBOARD:(1,8)(CMC,false,50)|([BFZ:244])([SOK:158],[LEG:137],[SOI:155],[ZEN:119])([RTR:141],[MH1:230],[TMP:47])([NPH:161],[ORI:189],[5DN:114])([SOM:78],[KLD:214],[ZEN:9],[OGW:86])([GRN:69],[TMP:142])([M11:146])([ARB:110])

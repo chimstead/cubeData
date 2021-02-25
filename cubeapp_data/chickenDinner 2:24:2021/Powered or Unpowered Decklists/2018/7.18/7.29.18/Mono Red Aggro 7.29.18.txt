@@ -1,0 +1,48 @@
+17 [UST:215] Mountain
+1 [M13:147] Searing Spear
+1 [M12:156] Stormblood Berserker
+1 [C15:26] Fiery Confluence
+1 [M13:132] Flames of the Firebrand
+1 [M14:163] Young Pyromancer
+1 [5DN:73] Magma Jet
+1 [M13:150] Thundermaw Hellkite
+1 [ZEN:119] Burst Lightning
+1 [DKA:93] Hellrider
+1 [DTK:169] Zurgo Bellstriker
+1 [ZEN:126] Goblin Guide
+1 [ISD:164] Stromkirk Noble
+1 [AKH:135] Harsh Mentor
+1 [AVR:166] Zealous Conscripts
+1 [AER:87] Kari Zev, Skyship Raider
+1 [RAV:117] Char
+1 [SOI:155] Falkenrath Gorger
+1 [KLD:124] Pia Nalaar
+1 [SOM:94] Koth of the Hammer
+1 [LEG:137] Chain Lightning
+1 [AKH:148] Soul-Scar Mage
+1 [USG:174] Arc Lightning
+1 [HOU:90] Earthshaker Khenra
+SB: 1 [THS:135] Purphoros, God of the Forge
+SB: 1 [M19:33] Remorseful Cleric
+SB: 1 [RAV:213] Lightning Helix
+SB: 1 [CHK:175] Kiki-Jiki, Mirror Breaker
+SB: 1 [THS:209] Xenagos, the Reveler
+SB: 1 [DST:163] Blinkmoth Nexus
+SB: 1 [TOR:100] Grim Lavamancer
+SB: 1 [TMP:183] Jackal Pup
+SB: 1 [M11:151] Manic Vandal
+SB: 1 [SCG:103] Siege-Gang Commander
+SB: 1 [C14:35] Feldon of the Third Path
+SB: 1 [FRF:90] Alesha, Who Smiles at Death
+SB: 1 [APC:139] Battlefield Forge
+SB: 1 [AKH:16] Glory-Bound Initiate
+SB: 1 [CON:65] Hellspark Elemental
+SB: 1 [DDL:43] Polukranos, World Eater
+SB: 1 [ORI:23] Kytheon, Hero of Akros
+SB: 1 [LEB:280] Plateau
+SB: 1 [CN2:18] Palace Jailer
+SB: 1 [THS:9] Elspeth, Sun's Champion
+SB: 1 [MRD:159] Crystal Shard
+SB: 1 [THS:32] Soldier of the Pantheon
+LAYOUT MAIN:(1,6)(CMC,false,67)|([UST:215],[UST:215],[UST:215],[UST:215],[UST:215],[UST:215],[UST:215],[UST:215],[UST:215],[UST:215],[UST:215],[UST:215],[UST:215],[UST:215],[UST:215],[UST:215],[UST:215])([ZEN:119],[LEG:137],[SOI:155],[ZEN:126],[AKH:148],[ISD:164],[DTK:169])([HOU:90],[AKH:135],[AER:87],[5DN:73],[M13:147],[M12:156],[M14:163])([USG:174],[RAV:117],[M13:132],[KLD:124])([C15:26],[DKA:93],[SOM:94])([M13:150],[AVR:166])
+LAYOUT SIDEBOARD:(1,4)(CMC,false,48)|([LEB:280],[APC:139],[DST:163])([THS:9],[DDL:43],[CN2:18],[THS:209],[MRD:159])([ORI:23],[THS:32],[M19:33],[AKH:16],[RAV:213])([TOR:100],[TMP:183],[CON:65],[M11:151],[THS:135],[SCG:103],[C14:35],[CHK:175],[FRF:90])

@@ -1,0 +1,49 @@
+1 [DDQ:59] Gravecrawler
+1 [ORI:23] Kytheon, Hero of Akros
+1 [VIS:72] Vampiric Tutor
+1 [EXO:53] Carnophage
+1 [KTK:66] Bloodsoaked Champion
+1 [RTR:220] Rakdos Cackler
+1 [TMP:154] Sarcomancy
+1 [DDQ:54] Diregraf Ghoul
+1 [7ED:131] Duress
+1 [RTR:73] Pack Rat
+1 [5ED:408] Winter Orb
+1 [EMN:40] Selfless Spirit
+1 [AER:62] Glint-Sleeve Siphoner
+1 [M19:33] Remorseful Cleric
+1 [RAV:81] Dark Confidant
+1 [ELD:287] Murderous Rider
+1 [APC:126] Vindicate
+1 [NPH:19] Porcelain Legionnaire
+1 [DKA:12] Lingering Souls
+1 [C14:22] Flesh Carver
+1 [C13:84] Ophiomancer
+1 [JOU:5] Banishing Light
+1 [NPH:57] Dismember
+1 [CN2:18] Palace Jailer
+1 [KTK:230] Bloodstained Mire
+1 [KTK:233] Flooded Strand
+1 [LEG:303] Karakas
+1 [4ED:361] Mishra's Factory
+1 [MH1:246] Silent Clearing
+1 [GTC:242] Godless Shrine
+4 [GUR:4] Plains
+6 [GUR:5] Swamp
+SB: 1 [C16:56] Ash Barrens
+SB: 1 [CN2:41] Custodi Lich
+SB: 1 [TOR:100] Grim Lavamancer
+SB: 1 [DST:146] Sundering Titan
+SB: 1 [PTK:17] Ravages of War
+SB: 1 [EVE:6] Flickerwisp
+SB: 1 [2ED:278] Badlands
+SB: 1 [ODY:117] Braids, Cabal Minion
+SB: 1 [OGW:104] Chandra, Flamecaller
+SB: 1 [PLC:85] Damnation
+SB: 1 [5DN:27] Condescend
+SB: 1 [MH1:116] Yawgmoth, Thran Physician
+SB: 1 [XLN:223] Hostage Taker
+SB: 1 [DKA:142] Sorin, Lord of Innistrad
+SB: 1 [STH:143] Volrath's Stronghold
+LAYOUT MAIN:(1,7)(CMC,false,87)|([GUR:4],[GUR:4],[GUR:4],[GUR:4],[GUR:5],[GUR:5],[GUR:5],[GUR:5],[GUR:5],[GUR:5])([KTK:230],[KTK:233],[GTC:242],[LEG:303],[4ED:361],[MH1:246])([KTK:66],[EXO:53],[DDQ:54],[7ED:131],[DDQ:59],[ORI:23],[RTR:220],[TMP:154],[VIS:72])([RAV:81],[AER:62],[RTR:73],[M19:33],[EMN:40],[5ED:408])([JOU:5],[NPH:57],[C14:22],[DKA:12],[C13:84],[NPH:19],[APC:126])([CN2:18])([ELD:287])
+LAYOUT SIDEBOARD:(1,7)(CMC,false,71)|([C16:56],[2ED:278],[STH:143])([TOR:100],[5DN:27])([EVE:6])([PTK:17],[ODY:117],[PLC:85],[MH1:116],[XLN:223])([CN2:41],[DKA:142])([OGW:104])([DST:146])

@@ -1,0 +1,50 @@
+1 [ALA:9] Elspeth, Knight-Errant
+1 [EMN:40] Selfless Spirit
+1 [ALL:28] Force of Will
+1 [2ED:84] Time Walk
+1 [LEG:28] Moat
+1 [3ED:105] Demonic Tutor
+1 [C17:37] Fractured Identity
+1 [RAV:255] Boros Signet
+1 [KLD:4] Angel of Invention
+1 [CN2:22] Recruiter of the Guard
+1 [ELD:281] Brazen Borrower
+1 [VMA:20] Council's Judgment
+1 [3ED:235] Basalt Monolith
+1 [MBS:138] Sword of Feast and Famine
+1 [DKA:12] Lingering Souls
+1 [MOR:55] Vendilion Clique
+1 [TSP:73] Riftwing Cloudskate
+1 [THS:9] Elspeth, Sun's Champion
+1 [7ED:92] Opposition
+1 [LRW:76] Mulldrifter
+1 [WWK:20] Stoneforge Mystic
+1 [RNA:251] Hallowed Fountain
+1 [KLD:245] Concealed Courtyard
+1 [3ED:290] Underground Sea
+5 [THB:251] Island
+8 [THB:250] Plains
+1 [GRN:259] Watery Grave
+1 [NPH:9] Elesh Norn, Grand Cenobite
+1 [MH1:37] Winds of Abandon
+SB: 1 [ROE:115] Inquisition of Kozilek
+SB: 1 [WAR:185] Angrath's Rampage
+SB: 1 [XLN:22] Legion's Landing
+SB: 1 [M20:111] Rotting Regisaur
+SB: 1 [LRW:124] Makeshift Mannequin
+SB: 1 [USG:218] Sneak Attack
+SB: 1 [WAR:13] Gideon Blackblade
+SB: 1 [M12:12] Day of Judgment
+SB: 1 [RTR:188] Rakdos's Return
+SB: 1 [ZEN:11] Emeria Angel
+SB: 1 [MOR:22] Reveillark
+SB: 1 [ROE:33] Linvala, Keeper of Silence
+SB: 1 [DKA:24] Thalia, Guardian of Thraben
+SB: 1 [ZEN:114] Vampire Hexmage
+SB: 1 [RNA:47] Pteramander
+SB: 1 [THB:251] Island
+SB: 1 [PLC:25] Mana Tithe
+SB: 1 [UMA:11] Containment Priest
+SB: 1 [SOI:242] Anguished Unmaking
+LAYOUT MAIN:(2,5)(CMC,false,58)|([THB:250],[THB:250],[THB:250],[THB:250],[THB:250],[THB:250],[THB:250],[THB:250])([RNA:251],[KLD:245],[3ED:290],[THB:251],[THB:251],[THB:251],[THB:251],[THB:251],[GRN:259])([EMN:40],[2ED:84],[3ED:105],[RAV:255],[WWK:20],[MH1:37],[TSP:73],[ELD:281])([ALA:9],[LEG:28],[7ED:92])([THS:9])()()([CN2:22],[VMA:20],[3ED:235],[MBS:138],[DKA:12],[MOR:55],[LRW:76])([ALL:28],[C17:37],[KLD:4])([NPH:9])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([ROE:115],[WAR:185],[PLC:25],[XLN:22],[M20:111],[LRW:124],[USG:218],[WAR:13],[M12:12],[RTR:188],[ZEN:11],[MOR:22],[UMA:11],[ROE:33],[DKA:24],[ZEN:114],[SOI:242],[RNA:47],[THB:251])

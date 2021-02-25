@@ -1,0 +1,50 @@
+1 [M19:314] Llanowar Elves
+1 [M13:160] Arbor Elf
+1 [DIS:166] Simic Signet
+1 [VIS:114] Natural Order
+1 [7ED:92] Opposition
+1 [ULG:101] Deranged Hermit
+1 [THS:9] Elspeth, Sun's Champion
+1 [M12:188] Primeval Titan
+1 [CHK:225] Kodama's Reach
+1 [THB:169] Dryad of the Ilysian Grove
+1 [JUD:139] Mirari's Wake
+1 [ZEN:168] Lotus Cobra
+1 [SHM:135] Woodfall Primus
+1 [THB:229] Uro, Titan of Nature's Wrath
+1 [SOM:180] Myr Battlesphere
+1 [ODY:113] Upheaval
+1 [THS:180] Sylvan Caryatid
+1 [M12:165] Birds of Paradise
+1 [MBS:138] Sword of Feast and Famine
+1 [TSP:66] Looter il-Kor
+1 [M10:191] Master of the Wild Hunt
+1 [SOI:233] Tireless Tracker
+1 [AVR:172] Craterhoof Behemoth
+1 [MH1:37] Winds of Abandon
+1 [GRN:258] Temple Garden
+1 [WWK:144] Stirring Wildwood
+1 [3ED:285] Savannah
+1 [SOM:228] Razorverge Thicket
+6 [UNH:140] Forest
+5 [UNH:137] Island
+1 [UNH:136] Plains
+SB: 1 [KLD:4] Angel of Invention
+SB: 1 [THS:172] Polukranos, World Eater
+SB: 1 [NEM:30] Daze
+SB: 1 [ISD:181] Garruk Relentless
+SB: 1 [EMN:40] Selfless Spirit
+SB: 1 [LRW:133] Oona's Prowler
+SB: 1 [M14:195] Scavenging Ooze
+SB: 1 [FRF:145] Whisperwood Elemental
+SB: 1 [M11:11] Condemn
+SB: 1 [GRN:174] Goblin Electromancer
+SB: 1 [WAR:79] Bolas's Citadel
+SB: 1 [CHK:239] Sakura-Tribe Elder
+SB: 1 [CON:121] Progenitus
+SB: 1 [DTK:181] Den Protector
+SB: 1 [LRW:139] Shriekmaw
+SB: 1 [BOK:71] Ink-Eyes, Servant of Oni
+SB: 1 [ORI:23] Kytheon, Hero of Akros
+LAYOUT MAIN:(2,5)(CMC,false,57)|([GRN:258],[WWK:144],[3ED:285],[SOM:228],[UNH:137],[UNH:137],[UNH:137],[UNH:137],[UNH:137],[UNH:136])([M19:314],[M13:160],[M12:165])([CHK:225],[THB:169],[THB:229],[MBS:138],[SOI:233])([ULG:101],[JUD:139])([SOM:180])([UNH:140],[UNH:140],[UNH:140],[UNH:140],[UNH:140],[UNH:140])([DIS:166],[ZEN:168],[THS:180],[TSP:66],[MH1:37])([VIS:114],[7ED:92],[M10:191])([THS:9],[M12:188],[ODY:113])([SHM:135],[AVR:172])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([KLD:4],[THS:172],[NEM:30],[ISD:181],[EMN:40],[LRW:133],[M14:195],[FRF:145],[M11:11],[GRN:174],[WAR:79],[CHK:239],[CON:121],[DTK:181],[LRW:139],[BOK:71],[ORI:23])

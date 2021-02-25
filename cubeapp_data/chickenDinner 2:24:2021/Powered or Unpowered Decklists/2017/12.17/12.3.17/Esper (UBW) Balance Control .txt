@@ -1,0 +1,35 @@
+4 Island
+3 Plains
+1 Celestial Colonnade
+1 Godless Shrine
+1 Hallowed Fountain
+1 Kor Haven
+1 Marsh Flats
+1 Scrubland
+1 Shambling Vent
+1 Tundra
+1 Underground Sea
+1 Mox Diamond
+1 Chrome Mox
+1 Land Tax
+1 Mana Tithe
+1 Ponder
+1 Balance
+1 Daze
+1 Journey to Nowhere
+1 Search for Azcanta
+1 Talisman of Dominance
+1 Unexpectedly Absent
+1 Wall of Omens
+1 Council's Judgment
+1 Vedalken Shackles
+1 Vendilion Clique
+1 Control Magic
+1 Elspeth, Knight-Errant
+1 Glen Elendra Archmage
+1 Palace Jailer
+1 Sorin, Lord of Innistrad
+1 The Abyss
+1 Mystic Confluence
+1 Eternal Dragon
+1 Dig Through Time

@@ -1,0 +1,38 @@
+1 Brushland
+1 Yavimaya Coast
+1 Wasteland
+1 Wandering Fumarole
+1 Treetop Village
+1 Strip Mine
+1 Scalding Tarn
+1 Raging Ravine
+1 Mishra's Factory
+1 Lumbering Falls
+1 Faerie Conclave
+1 Forest
+2 Island
+1 Mountain
+2 Plains
+1 Elvish Mystic
+1 Chain Lightning
+1 Phantasmal Image
+1 Looter il-Kor
+1 Stoneforge Mystic
+1 Tarmogoyf
+1 True-Name Nemesis
+1 Reflector Mage
+1 Blade Splicer
+1 Oblivion Ring
+1 Banishing Light
+1 Sword of Light and Shadow
+1 Sword of Body and Mind
+1 Tangle Wire
+1 Hanweir Garrison
+1 Char
+1 Tireless Tracker
+1 Control Magic
+1 Phyrexian Metamorph
+1 Restoration Angel
+1 Bloodbraid Elf
+1 Mulldrifter
+1 Reveillark

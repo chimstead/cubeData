@@ -1,0 +1,51 @@
+1 [EVE:139] Figure of Destiny
+1 [SCG:106] Sulfuric Vortex
+1 [ZEN:119] Burst Lightning
+1 [DKA:93] Hellrider
+1 [M15:145] Goblin Rabblemaster
+1 [M12:145] Grim Lavamancer
+1 [KLD:110] Chandra, Torch of Defiance
+1 [DTK:169] Zurgo Bellstriker
+1 [TMP:183] Jackal Pup
+1 [LEG:137] Chain Lightning
+1 [RIX:111] Rekindling Phoenix
+1 [GRN:115] Runaway Steam-Kin
+1 [M12:146] Incinerate
+1 [JOU:94] Eidolon of the Great Revel
+1 [VIS:79] Fireblast
+1 [NEM:139] Tangle Wire
+1 [KLD:199] Bomat Courier
+1 [M15:225] Phyrexian Revoker
+1 [KLD:231] Scrapheap Scrounger
+1 [DST:140] Skullclamp
+1 [NPH:35] Gitaxian Probe
+1 [AKH:134] Glorybringer
+1 [DOM:143] Siege-Gang Commander
+1 [M12:151] Manic Vandal
+1 [MPS:16] Mana Crypt
+1 [2ED:265] Mox Ruby
+1 [4ED:361] Mishra's Factory
+1 [MMQ:324] Rishadan Port
+1 [KTK:249] Wooded Foothills
+1 [WAR:244] Blast Zone
+1 [ZEN:242] Mountain
+4 [ZEN:242a] Mountain
+1 [ZEN:244] Mountain
+2 [ZEN:245a] Mountain
+1 [ZEN:245] Mountain
+1 [ZEN:243a] Mountain
+SB: 1 [OGW:110] Goblin Dark-Dwellers
+SB: 1 [ISD:127] Ancient Grudge
+SB: 1 [DST:149] Sword of Light and Shadow
+SB: 1 [RTR:101] Mizzium Mortars
+SB: 1 [SOM:176] Mindslaver
+SB: 1 [RNA:27] Tithe Taker
+SB: 1 [CM2:4] Daretti, Scrap Savant
+SB: 1 [NPH:19] Porcelain Legionnaire
+SB: 1 [M12:16] Gideon Jura
+SB: 1 [XLN:22] Legion's Landing
+SB: 1 [SOM:228] Razorverge Thicket
+SB: 1 [AVR:129] Bonfire of the Damned
+SB: 1 [ROE:47] Student of Warfare
+SB: 1 [ISD:122] Unburial Rites
+SB: 1 [NEM:17] Parallax Wave

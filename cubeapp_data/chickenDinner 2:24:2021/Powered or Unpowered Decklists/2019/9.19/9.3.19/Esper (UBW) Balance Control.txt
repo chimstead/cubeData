@@ -1,0 +1,53 @@
+1 [EMN:6] Emrakul, the Promised End
+1 [4ED:147] Mind Twist
+1 [LRW:88] Sower of Temptation
+1 [TSP:66] Looter il-Kor
+1 [CMA:27] Unexpectedly Absent
+1 [ORI:229] Hangarback Walker
+1 [MRD:256] Talisman of Progress
+1 [C17:37] Fractured Identity
+1 [MH1:232] Talisman of Curiosity
+1 [M11:58] Jace Beleren
+1 [10E:335] Mind Stone
+1 [M12:12] Day of Judgment
+1 [NPH:42] Phyrexian Metamorph
+1 [NPH:9] Elesh Norn, Grand Cenobite
+1 [8ED:64] Bribery
+1 [INV:57] Fact or Fiction
+1 [WAR:234] Saheeli, Sublime Artificer
+1 [BFZ:223] Hedron Archive
+1 [4ED:6] Balance
+1 [RTR:201] Supreme Verdict
+1 [FUT:161] Coalition Relic
+1 [UDS:50] Treachery
+1 [XLN:48] Chart a Course
+1 [WAR:97] Liliana, Dreadhorde General
+1 [3ED:289] Tundra
+1 [ZEN:219] Marsh Flats
+1 [CM2:235] Ash Barrens
+1 [AKH:243] Fetid Pools
+3 [BFZ:256] Island
+1 [BFZ:257] Island
+2 [BFZ:258] Island
+2 [BFZ:254] Plains
+3 [BFZ:251] Plains
+1 [BFZ:260] Swamp
+SB: 1 [GRN:257] Steam Vents
+SB: 1 [CN2:58] Subterranean Tremors
+SB: 1 [TMP:154] Sarcomancy
+SB: 1 [LRW:133] Oona's Prowler
+SB: 1 [PLC:25] Mana Tithe
+SB: 1 [CN2:41] Custodi Lich
+SB: 1 [AKH:16] Glory-Bound Initiate
+SB: 1 [EMA:108] Toxic Deluge
+SB: 1 [JR:109] Imperial Seal
+SB: 1 [DOM:215] Gilded Lotus
+SB: 1 [ZEN:36] Steppe Lynx
+SB: 1 [VIS:64] Necromancy
+SB: 1 [MH1:210] Nature's Chant
+SB: 1 [RTR:231] Pithing Needle
+SB: 1 [KLD:67] Torrential Gearhulk
+SB: 1 [AVR:106] Griselbrand
+SB: 1 [ALL:22a] Arcane Denial
+LAYOUT MAIN:(1,7)(CMC,false,50)|([3ED:289],[ZEN:219],[CM2:235],[AKH:243],[BFZ:256],[BFZ:257],[BFZ:258],[BFZ:256],[BFZ:258],[BFZ:256],[BFZ:254],[BFZ:251],[BFZ:251],[BFZ:254],[BFZ:251],[BFZ:260])([4ED:147])([TSP:66],[MRD:256],[MH1:232],[10E:335],[4ED:6],[XLN:48])([M11:58],[WAR:234],[FUT:161],[CMA:27])([LRW:88],[M12:12],[NPH:42],[INV:57],[BFZ:223],[RTR:201])([C17:37],[8ED:64],[UDS:50])([EMN:6],[ORI:229],[NPH:9],[WAR:97])
+LAYOUT SIDEBOARD:(1,7)(CMC,false,50)|([GRN:257])([CN2:58],[TMP:154],[PLC:25],[JR:109],[ZEN:36],[RTR:231])([LRW:133],[AKH:16],[MH1:210],[ALL:22a])([EMA:108],[VIS:64])([CN2:41],[DOM:215])([KLD:67])([AVR:106])

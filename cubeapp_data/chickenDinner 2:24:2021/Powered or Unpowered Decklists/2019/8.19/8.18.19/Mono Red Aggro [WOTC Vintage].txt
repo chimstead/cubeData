@@ -1,0 +1,29 @@
+{\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\fnil\fcharset0 Calibri;}}
+{\*\generator Riched20 10.0.18362}\viewkind4\uc1
+\pard\sa200\sl276\slmult1\f0\fs22\lang9 15 Mountain\par
+1 Mox Emerald\par
+1 Mox Diamond\par
+1 Lotus Petal\par
+1 Burst Lightning\par
+1 Chain Lightning\par
+1 Firebolt\par
+1 Firedrinker Satyr\par
+1 Lightning Bolt\par
+1 Monastery Mentor\par
+1 Sensei's Divining Top\par
+1 Dire Fleet Daredevil\par
+1 Mizzium Mortars\par
+1 Phyrexian Revoker\par
+1 Shrine of Burning Rage\par
+1 Umezawa's Jitte\par
+1 Young Pyromancer\par
+1 Goblin Rabblemaster\par
+1 Magus of the Moon\par
+1 Sulfuric Vortex\par
+1 Flametongue Kavu\par
+1 Hellrider\par
+1 Koth of the Hammer\par
+1 Glorybringer\par
+1 Siege-Gang Commander\par
+1 Fireblast\par
+}

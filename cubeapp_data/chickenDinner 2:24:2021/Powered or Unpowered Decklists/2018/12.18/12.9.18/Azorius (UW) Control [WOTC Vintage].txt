@@ -1,0 +1,49 @@
+1 [PLC:25] Mana Tithe
+1 [KLD:67] Torrential Gearhulk
+1 [2ED:263] Mox Jet
+1 [AKH:8] Cast Out
+1 [M12:217] Solemn Simulacrum
+1 [DOM:46] Blink of an Eye
+1 [4ED:34] Land Tax
+1 [NPH:4] Blade Splicer
+1 [BOK:163] Umezawa's Jitte
+1 [RTR:201] Supreme Verdict
+1 [CON:15] Path to Exile
+1 [ISD:15] Fiend Hunter
+1 [SHM:229] Kitchen Finks
+1 [8ED:64] Bribery
+1 [M14:7] Banisher Priest
+1 [RAV:63] Remand
+1 [JOU:5] Banishing Light
+1 [LRW:56] Cryptic Command
+1 [DOM:1] Karn, Scion of Urza
+8 [GUR:2] Island
+1 [7ED:67] Counterspell
+1 [BBD:136] True-Name Nemesis
+8 [GUR:4] Plains
+1 [2ED:48] Ancestral Recall
+1 [AKH:14] Gideon of the Trials
+1 [FRF:20] Monastery Mentor
+SB: 1 [ROE:174] Ancient Stirrings
+SB: 1 [XLN:22] Legion's Landing
+SB: 1 [MBS:99] Blightsteel Colossus
+SB: 1 [KLD:96] Noxious Gearhulk
+SB: 1 [RAV:213] Lightning Helix
+SB: 1 [WWK:123] Everflowing Chalice
+SB: 1 [M12:16] Gideon Jura
+SB: 1 [KTK:239] Polluted Delta
+SB: 1 [OGW:104] Chandra, Flamecaller
+SB: 1 [WWK:127] Lodestone Golem
+SB: 1 [ATQ:81] Mishra's Workshop
+SB: 1 [ROE:165] Splinter Twin
+SB: 1 [M13:174] Garruk, Primal Hunter
+SB: 1 [SOI:92] Thing in the Ice
+SB: 1 [ZEN:168] Lotus Cobra
+SB: 1 [SOM:208] Sword of Body and Mind
+SB: 1 [DKA:87] Faithless Looting
+SB: 1 [SOM:228] Razorverge Thicket
+SB: 1 [M12:98] Grave Titan
+SB: 1 [SOM:225] Copperline Gorge
+SB: 1 [CON:121] Progenitus
+LAYOUT MAIN:(1,7)(CMC,false,65)|([2ED:263],[GUR:2],[GUR:2],[GUR:2],[GUR:2],[GUR:2],[GUR:2],[GUR:2],[GUR:2],[GUR:4],[GUR:4],[GUR:4],[GUR:4],[GUR:4],[GUR:4],[GUR:4],[GUR:4])([2ED:48],[CON:15],[PLC:25],[4ED:34])([7ED:67],[RAV:63],[BOK:163],[DOM:46])([FRF:20],[M14:7],[NPH:4],[AKH:14],[BBD:136],[SHM:229],[ISD:15],[JOU:5])([RTR:201],[LRW:56],[DOM:1],[AKH:8],[M12:217])([8ED:64])([KLD:67])
+LAYOUT SIDEBOARD:(1,9)(CMC,false,60)|([SOM:228],[KTK:239],[WWK:123],[ATQ:81],[SOM:225])([DKA:87],[XLN:22],[ROE:174])([ZEN:168],[RAV:213],[SOI:92])([SOM:208])([ROE:165],[WWK:127])([M12:16],[M13:174])([KLD:96],[OGW:104],[M12:98])([CON:121])([MBS:99])

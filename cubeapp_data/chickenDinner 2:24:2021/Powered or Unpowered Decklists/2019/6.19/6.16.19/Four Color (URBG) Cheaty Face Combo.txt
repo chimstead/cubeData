@@ -1,0 +1,58 @@
+1 [KTK:97] Arc Lightning
+1 [5ED:329] Sylvan Library
+1 [6ED:269] Worldly Tutor
+1 [EXO:115] Oath of Druids
+1 [SHM:135] Woodfall Primus
+1 [USG:96] Show and Tell
+1 [XLN:74] Search for Azcanta
+1 [WWK:31] Jace, the Mind Sculptor
+1 [6ED:83] Mystical Tutor
+1 [CHK:193] Through the Breach
+1 [USG:218] Sneak Attack
+1 [M12:147] Inferno Titan
+1 [THS:128] Magma Jet
+1 [CM2:98] Fiery Confluence
+1 [SOM:223] Wurmcoil Engine
+1 [MRD:253] Talisman of Dominance
+1 [C18:57] Retrofitter Foundry
+1 [EMN:6] Emrakul, the Promised End
+1 [ROE:4] Emrakul, the Aeons Torn
+1 [RTR:172] Izzet Charm
+1 [RNA:245] Blood Crypt
+1 [KTK:230] Bloodstained Mire
+1 [WWK:134] Creeping Tar Pit
+1 [ZEN:220] Misty Rainforest
+1 [ZEN:223] Scalding Tarn
+1 [KTK:267] Forest
+1 [KTK:269] Forest
+2 [KTK:255] Island
+1 [KTK:263] Mountain
+3 [KTK:264] Mountain
+1 [KTK:259] Swamp
+1 [KLD:110] Chandra, Torch of Defiance
+1 [KTK:257] Island
+1 [DTK:224] Kolaghan's Command
+1 [GRN:152] Assassin's Trophy
+1 [GRN:253] Overgrown Tomb
+1 [KTK:265] Mountain
+SB: 1 [M13:112] Vampire Nighthawk
+SB: 1 [GRN:213] Vraska, Golgari Queen
+SB: 1 [DTK:36] Secure the Wastes
+SB: 1 [WAR:137] Krenko, Tin Street Kingpin
+SB: 1 [5DN:164] Vedalken Shackles
+SB: 1 [AKH:97] Liliana, Death's Majesty
+SB: 1 [M12:156] Stormblood Berserker
+SB: 1 [EMN:85] Collective Brutality
+SB: 1 [DST:146] Sundering Titan
+SB: 1 [5ED:140] Animate Dead
+SB: 1 [WAR:98] Liliana's Triumph
+SB: 1 [PLS:60] Flametongue Kavu
+SB: 1 [KTK:119] Sarkhan, the Dragonspeaker
+SB: 1 [KTK:265] Mountain
+SB: 1 [RTR:231] Pithing Needle
+SB: 1 [KTK:256] Island
+SB: 1 [MEDM:GR3] Daretti, Ingenious Iconoclast
+SB: 1 [DRK:117] Maze of Ith
+SB: 1 [KTK:266] Forest
+LAYOUT MAIN:(1,10)(CMC,false,60)|([RNA:245],[KTK:230],[WWK:134],[KTK:267],[KTK:269],[KTK:255],[KTK:255],[KTK:257],[ZEN:220],[KTK:263],[KTK:265],[KTK:264],[KTK:264],[KTK:264],[GRN:253],[ZEN:223],[KTK:259])([6ED:83],[C18:57],[6ED:269])([GRN:152],[RTR:172],[THS:128],[EXO:115],[XLN:74],[5ED:329],[MRD:253])([KTK:97],[DTK:224],[USG:96])([KLD:110],[CM2:98],[WWK:31],[USG:218])([CHK:193])([M12:147],[SOM:223])([SHM:135])([EMN:6])([ROE:4])
+LAYOUT SIDEBOARD:(1,5)(COLOR,false,51)|([DST:146],[5DN:164],[KTK:256],[DRK:117],[KTK:266])([5ED:140],[EMN:85],[RTR:231],[WAR:98],[AKH:97],[KTK:265],[M13:112])([PLS:60],[WAR:137],[M12:156])([DTK:36],[MEDM:GR3],[KTK:119])([GRN:213])

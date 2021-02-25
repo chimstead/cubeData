@@ -1,0 +1,50 @@
+1 [KTK:66] Bloodsoaked Champion
+1 [AKH:88] Dread Wanderer
+1 [5DN:126] Grafted Wargear
+1 [ISD:105] Liliana of the Veil
+1 [BFZ:109] Drana, Liberator of Malakir
+1 [DST:140] Skullclamp
+1 [NPH:19] Porcelain Legionnaire
+1 [EMN:93] Liliana, the Last Hope
+1 [RTR:73] Pack Rat
+1 [ELD:101] Rankle, Master of Pranks
+1 [LEB:105] Demonic Tutor
+1 [MH1:100] Plague Engineer
+1 [FEM:38a] Hymn to Tourach
+1 [RAV:81] Dark Confidant
+1 [AER:62] Glint-Sleeve Siphoner
+1 [MBS:122] Phyrexian Revoker
+1 [IKO:366] Heartless Act
+1 [EMN:46] Thalia, Heretic Cathar
+1 [WWK:20] Stoneforge Mystic
+1 [CON:15] Path to Exile
+1 [DKA:142] Sorin, Lord of Innistrad
+1 [ZEN:83] Bloodghast
+1 [DKA:64] Gravecrawler
+1 [BFZ:244] Shambling Vent
+1 [IKO:253] Savai Triome
+1 [MH1:244] Prismatic Vista
+1 [MH1:246] Silent Clearing
+1 [MOR:148] Mutavault
+1 [MMQ:324] Rishadan Port
+3 [UST:212] Plains
+7 [UST:214] Swamp
+1 [ALA:9] Elspeth, Knight-Errant
+SB: 1 [LEB:278] Badlands
+SB: 1 [STH:143] Volrath's Stronghold
+SB: 1 [MH1:234] Talisman of Resilience
+SB: 1 [DTK:224] Kolaghan's Command
+SB: 1 [MH1:210] Nature's Chant
+SB: 1 [5DN:73] Magma Jet
+SB: 1 [ELD:335] Charming Prince
+SB: 1 [AKH:16] Glory-Bound Initiate
+SB: 1 [IKO:233] Zirda, the Dawnwaker
+SB: 1 [WWK:133] Celestial Colonnade
+SB: 1 [USG:309] Smokestack
+SB: 1 [ATQ:80a] Mishra's Factory
+SB: 1 [TMP:128] Diabolic Edict
+SB: 1 [C14:22] Flesh Carver
+SB: 1 [LEA:129] Sinkhole
+SB: 1 [UST:214] Swamp
+LAYOUT MAIN:(1,5)(CMC,false,71)|([BFZ:244],[IKO:253],[MH1:244],[MH1:246],[MOR:148],[MMQ:324],[UST:212],[UST:212],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[UST:212])([KTK:66],[AKH:88],[DST:140],[CON:15],[DKA:64])([RTR:73],[LEB:105],[FEM:38a],[RAV:81],[AER:62],[MBS:122],[IKO:366],[WWK:20],[ZEN:83])([5DN:126],[ISD:105],[BFZ:109],[NPH:19],[EMN:93],[MH1:100],[EMN:46])([ELD:101],[DKA:142],[ALA:9])
+LAYOUT SIDEBOARD:(1,5)(COLOR,false,98)|([LEB:278],[STH:143],[MH1:234],[WWK:133],[USG:309],[ATQ:80a],[UST:214])([TMP:128],[C14:22],[LEA:129])([5DN:73])([ELD:335],[AKH:16])([DTK:224],[MH1:210],[IKO:233])

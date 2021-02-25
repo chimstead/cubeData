@@ -1,0 +1,49 @@
+1 [ARB:110] Sphinx of the Steel Wind
+1 [SOM:223] Wurmcoil Engine
+1 [USG:318] Worn Powerstone
+1 [TMP:151] Reanimate
+1 [AVR:106] Griselbrand
+1 [4ED:6] Balance
+1 [ORI:229] Hangarback Walker
+1 [USG:134] Exhume
+1 [ULG:45] Tinker
+1 [BBD:122] Mystic Confluence
+1 [TMP:142] Living Death
+1 [LRW:124] Makeshift Mannequin
+1 [XLN:74] Search for Azcanta
+1 [ODY:132] Entomb
+1 [DIS:159] Azorius Signet
+1 [NPH:73] Sheoldred, Whispering One
+1 [ODY:118] Buried Alive
+1 [ORI:60] Jace, Vryn's Prodigy
+1 [8ED:64] Bribery
+1 [M12:217] Solemn Simulacrum
+1 [DOM:1] Karn, Scion of Urza
+1 [E01:80] Baleful Strix
+1 [EXO:72] Recurring Nightmare
+1 [2ED:266] Mox Sapphire
+1 [2ED:262] Mox Emerald
+1 [WWK:134] Creeping Tar Pit
+1 [WWK:133] Celestial Colonnade
+1 [3ED:289] Tundra
+3 [UNH:137] Island
+9 [UNH:138] Swamp
+SB: 1 [M12:39] Sun Titan
+SB: 1 [BBD:25] Brightling
+SB: 1 [ISD:213] Geist of Saint Traft
+SB: 1 [9ED:152] Phyrexian Arena
+SB: 1 [RNA:107] Light Up the Stage
+SB: 1 [M11:11] Condemn
+SB: 1 [WWK:144] Stirring Wildwood
+SB: 1 [USG:330] Tolarian Academy
+SB: 1 [C14:8] Hallowed Spiritkeeper
+SB: 1 [M12:16] Gideon Jura
+SB: 1 [MBS:21] Consecrated Sphinx
+SB: 1 [NPH:9] Elesh Norn, Grand Cenobite
+SB: 1 [ZEN:13] Iona, Shield of Emeria
+SB: 1 [RAV:270] Selesnya Signet
+SB: 1 [10E:61] Wrath of God
+SB: 1 [KLD:245] Concealed Courtyard
+SB: 1 [SOM:229] Seachrome Coast
+LAYOUT MAIN:(1,7)(CMC,false,44)|([WWK:133],[WWK:134],[ORI:229],[UNH:137],[UNH:137],[UNH:137],[2ED:262],[2ED:266],[UNH:138],[UNH:138],[UNH:138],[UNH:138],[UNH:138],[UNH:138],[UNH:138],[UNH:138],[UNH:138],[3ED:289])([ODY:132],[TMP:151])([DIS:159],[4ED:6],[E01:80],[USG:134],[ORI:60],[XLN:74])([ODY:118],[EXO:72],[ULG:45],[USG:318])([DOM:1],[LRW:124],[M12:217])([8ED:64],[TMP:142],[BBD:122])([SOM:223],[AVR:106],[NPH:73],[ARB:110])
+LAYOUT SIDEBOARD:(1,7)(CMC,false,50)|([KLD:245],[SOM:229])([M11:11],[RAV:270])([BBD:25],[ISD:213],[9ED:152],[RNA:107],[C14:8])([10E:61])([M12:16])([M12:39],[MBS:21],[NPH:9],[ZEN:13])([WWK:144],[USG:330])

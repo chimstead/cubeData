@@ -1,0 +1,49 @@
+1 [ALA:154] Ajani Vengeant
+1 [M15:145] Goblin Rabblemaster
+1 [M12:145] Grim Lavamancer
+1 [KLD:110] Chandra, Torch of Defiance
+1 [A25:141] Lightning Bolt
+1 [HOU:90] Earthshaker Khenra
+1 [AKH:134] Glorybringer
+1 [THS:122] Firedrinker Satyr
+1 [ZEN:119] Burst Lightning
+1 [M20:126] Chandra, Acolyte of Flame
+1 [M12:156] Stormblood Berserker
+1 [ISD:164] Stromkirk Noble
+1 [HOU:83] Abrade
+1 [EMN:130a] Hanweir Garrison
+1 [RNA:29] Unbreakable Formation
+1 [MM3:98] Hellrider
+1 [ELD:138] Robber of the Rich
+1 [GRN:103] Goblin Cratermaker
+1 [THB:148] Phoenix of Ash
+1 [V13:8] Tangle Wire
+1 [KLD:235] Smuggler's Copter
+1 [AER:87] Kari Zev, Skyship Raider
+1 [GTC:148] Boros Charm
+1 [UMA:155] Young Pyromancer
+1 [MH1:244] Prismatic Vista
+1 [EXP:14] Sacred Foundry
+13 [THB:253] Mountain
+1 [THB:250] Plains
+SB: 1 [AVR:166] Zealous Conscripts
+SB: 1 [DD2:42] Flametongue Kavu
+SB: 1 [NPH:42] Phyrexian Metamorph
+SB: 1 [RIX:111] Rekindling Phoenix
+SB: 1 [GPT:164] Steam Vents
+SB: 1 [RIX:99] Dire Fleet Daredevil
+SB: 1 [ELD:101] Rankle, Master of Pranks
+SB: 1 [UMA:104] Liliana of the Veil
+SB: 1 [NPH:9] Elesh Norn, Grand Cenobite
+SB: 1 [DTK:224] Kolaghan's Command
+SB: 1 [RNA:185] Judith, the Scourge Diva
+SB: 1 [ODY:117] Braids, Cabal Minion
+SB: 1 [CHK:175] Kiki-Jiki, Mirror Breaker
+SB: 1 [DOM:1] Karn, Scion of Urza
+SB: 1 [M20:200] Voracious Hydra
+SB: 1 [5DN:86] Eternal Witness
+SB: 1 [MBS:92] Thrun, the Last Troll
+SB: 1 [RTR:172] Izzet Charm
+SB: 1 [ORI:157] Pia and Kiran Nalaar
+LAYOUT MAIN:(1,6)(CMC,false,69)|([MH1:244],[EXP:14],[THB:253],[THB:253],[THB:253],[THB:253],[THB:253],[THB:253],[THB:253],[THB:253],[THB:253],[THB:253],[THB:253],[THB:253],[THB:253],[THB:250])([M12:145],[A25:141],[THS:122],[ZEN:119],[ISD:164])([HOU:90],[M12:156],[HOU:83],[ELD:138],[GRN:103],[KLD:235],[AER:87],[GTC:148],[UMA:155])([M15:145],[M20:126],[EMN:130a],[RNA:29],[THB:148],[V13:8])([ALA:154],[KLD:110],[MM3:98])([AKH:134])
+LAYOUT SIDEBOARD:(1,6)(CMC,false,50)|([GPT:164])([RIX:99],[M20:200],[RTR:172])([UMA:104],[DTK:224],[RNA:185],[5DN:86])([DD2:42],[NPH:42],[RIX:111],[ELD:101],[ODY:117],[DOM:1],[MBS:92],[ORI:157])([AVR:166],[CHK:175])([NPH:9])

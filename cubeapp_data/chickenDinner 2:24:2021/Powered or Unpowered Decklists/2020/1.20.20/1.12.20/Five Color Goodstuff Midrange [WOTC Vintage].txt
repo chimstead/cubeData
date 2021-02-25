@@ -1,0 +1,51 @@
+1 [DIS:166] Simic Signet
+1 [MMQ:61] Brainstorm
+1 [8ED:272] Plow Under
+1 [AER:181] Walking Ballista
+1 [ZEN:172] Oracle of Mul Daya
+1 [ROE:53] Wall of Omens
+1 [HOU:129] Ramunap Excavator
+1 [SHM:229] Kitchen Finks
+1 [ULG:101] Deranged Hermit
+1 [DIS:165] Rakdos Signet
+1 [WWK:31] Jace, the Mind Sculptor
+1 [M11:172] Fauna Shaman
+1 [ELD:191] Garruk, Cursed Huntsman
+1 [RTR:200] Sphinx's Revelation
+1 [RAV:161] Elves of Deep Shadow
+1 [SOM:48] Trinket Mage
+1 [ELD:235] Stonecoil Serpent
+1 [3ED:274] Sol Ring
+1 [GRN:208] Trostani Discordant
+1 [ORI:229] Hangarback Walker
+1 [PCA:104] Shardless Agent
+1 [RAV:270] Selesnya Signet
+1 [MH1:217] Wrenn and Six
+1 [3ED:287] Taiga
+1 [GRN:257] Steam Vents
+1 [RNA:251] Hallowed Fountain
+1 [ZEN:223] Scalding Tarn
+1 [2ED:266] Mox Sapphire
+1 [KLD:249] Spirebluff Canal
+1 [SOM:228] Razorverge Thicket
+1 [KTK:249] Wooded Foothills
+1 [RNA:246] Breeding Pool
+1 [3ED:288] Tropical Island
+1 [GRN:258] Temple Garden
+1 [BFZ:244] Shambling Vent
+1 [WWK:139] Lavaclaw Reaches
+2 [UST:216] Forest
+1 [UST:212] Plains
+1 [UST:214] Swamp
+SB: 1 [DIS:133] Trygon Predator
+SB: 1 [NPH:4] Blade Splicer
+SB: 1 [TMP:183] Jackal Pup
+SB: 1 [MRD:134] Tooth and Nail
+SB: 1 [SCG:41] Mind's Desire
+SB: 1 [BBD:33] Arcane Artisan
+SB: 1 [OGW:110] Goblin Dark-Dwellers
+SB: 1 [UDS:135] Metalworker
+SB: 1 [THS:223] Nykthos, Shrine to Nyx
+SB: 1 [UST:213] Island
+LAYOUT MAIN:(2,8)(CMC,true,57)|()([AER:181],[ELD:235],[ORI:229])([RAV:161])([ROE:53],[M11:172])([HOU:129],[SHM:229],[SOM:48],[PCA:104])([ZEN:172])([ULG:101],[GRN:208])()([3ED:287],[GRN:257],[RNA:251],[ZEN:223],[2ED:266],[KLD:249],[SOM:228],[KTK:249],[RNA:246],[3ED:288],[GRN:258],[BFZ:244],[WWK:139],[UST:216],[UST:216],[UST:212],[UST:214])([RTR:200])([MMQ:61],[3ED:274])([DIS:166],[DIS:165],[RAV:270],[MH1:217])()([WWK:31])([8ED:272])([ELD:191])
+LAYOUT SIDEBOARD:(1,6)(COLOR_IDENTITY,false,50)|([UDS:135],[THS:223])([MRD:134])([TMP:183],[OGW:110])([SCG:41],[BBD:33],[UST:213])([DIS:133])([NPH:4])

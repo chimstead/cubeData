@@ -1,0 +1,52 @@
+2021
+1.31.21
+1 [MB1:440] Mystic Confluence
+1 [FUT:46] Venser, Shaper Savant
+1 [DIS:159] Azorius Signet
+1 [DOM:207] Teferi, Hero of Dominaria
+1 [RNA:186] Kaya, Orzhov Usurper
+1 [C20:106] Unexpectedly Absent
+1 [NEM:30] Daze
+1 [M21:96] Duress
+1 [CON:15] Path to Exile
+1 [TOR:69] Mesmeric Fiend
+1 [THB:4] Banishing Light
+1 [EVE:22] Glen Elendra Archmage
+1 [LEG:65] Mana Drain
+1 [WAR:221*] Teferi, Time Raveler
+1 [4ED:147] Mind Twist
+1 [VIS:34] Impulse
+1 [M21:239] Solemn Simulacrum
+1 [EMN:85] Collective Brutality
+1 [2XM:110] Toxic Deluge
+1 [FRF:20] Monastery Mentor
+1 [GPT:155] Orzhov Signet
+1 [XLN:48] Chart a Course
+1 [ROE:53] Wall of Omens
+1 [ZEN:219] Marsh Flats
+1 [RNA:251] Hallowed Fountain
+1 [WWK:133] Celestial Colonnade
+1 [ARN:76] Library of Alexandria
+1 [SUM:286] Scrubland
+5 [UNH:137] Island
+2 [UNH:136] Plains
+5 [UNH:138] Swamp
+SB: 1 [ODY:132] Entomb
+SB: 1 [WWK:115] Terastodon
+SB: 1 [M19:208] Vivien Reid
+SB: 1 [ROE:47] Student of Warfare
+SB: 1 [KLD:13] Fairgrounds Warden
+SB: 1 [M13:150] Thundermaw Hellkite
+SB: 1 [ARB:92] Maelstrom Pulse
+SB: 1 [M12:23] Honor of the Pure
+SB: 1 [SOI:5] Archangel Avacyn
+SB: 1 [KLD:4] Angel of Invention
+SB: 1 [BNG:5] Brimaz, King of Oreskos
+SB: 1 [KLD:243] Blooming Marsh
+SB: 1 [SUM:285] Savannah
+SB: 1 [WWK:144] Stirring Wildwood
+SB: 1 [WWK:139] Lavaclaw Reaches
+SB: 1 [M21:340] Baneslayer Angel
+SB: 1 [MOR:22] Reveillark
+LAYOUT MAIN:(1,7)(CMC,false,51)|([UNH:137],[UNH:137],[UNH:137],[UNH:137],[UNH:137],[UNH:136],[UNH:136],[UNH:138],[UNH:138],[UNH:138],[UNH:138],[UNH:138])([WWK:133],[RNA:251],[ARN:76],[ZEN:219],[SUM:286])([M21:96],[CON:15])([DIS:159],[XLN:48],[EMN:85],[NEM:30],[VIS:34],[LEG:65],[TOR:69],[GPT:155],[ROE:53],[C20:106])([THB:4],[RNA:186],[FRF:20],[WAR:221*],[2XM:110])([EVE:22],[M21:239],[FUT:46])([MB1:440],[DOM:207],[4ED:147])
+LAYOUT SIDEBOARD:(1,6)(CMC,false,50)|([ODY:132],[ROE:47])([M12:23])([KLD:13],[ARB:92],[BNG:5])([M19:208],[M13:150],[SOI:5],[KLD:4],[M21:340])([WWK:115],[MOR:22])([KLD:243],[SUM:285],[WWK:144],[WWK:139])

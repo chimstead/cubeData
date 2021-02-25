@@ -1,0 +1,29 @@
+8 Swamp
+5 Plains
+1 Aether Hub
+1 Shambling Vent
+1 Undiscovered Paradise
+1 Dread Wanderer
+1 Gnarled Scarhide
+1 Gravecrawler
+1 Mother of Runes
+1 Sarcomancy
+1 Skullclamp
+1 Mardu Woe-Reaper
+1 Imperial Seal
+1 Swords to Plowshares
+1 Dark Confidant
+1 Hymn to Tourach
+1 Scrapheap Scrounger
+1 Sinkhole
+1 Stoneforge Mystic
+1 Thalia, Guardian of Thraben
+1 Banishing Light
+1 Lingering Souls
+1 Ophiomancer
+1 Porcelain Legionnaire
+1 Sword of Fire and Ice
+1 Tangle Wire
+1 Braids, Cabal Minion
+1 Snuff Out
+1 Sorin, Lord of Innistrad

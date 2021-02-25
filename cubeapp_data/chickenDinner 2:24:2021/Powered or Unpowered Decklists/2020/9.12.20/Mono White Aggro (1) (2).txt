@@ -1,0 +1,48 @@
+1 [THS:32] Soldier of the Pantheon
+1 [ULG:14] Mother of Runes
+1 [CHK:19] Isamaru, Hound of Konda
+1 [EVE:139] Figure of Destiny
+1 [DOM:14] Dauntless Bodyguard
+1 [DTK:36] Secure the Wastes
+1 [PLC:25] Mana Tithe
+1 [ELD:335] Charming Prince
+1 [M21:34] Seasoned Hallowblade
+1 [SOI:12] Declaration in Stone
+1 [EMN:40] Selfless Spirit
+1 [MBS:1] Accorder Paladin
+1 [WWK:20] Stoneforge Mystic
+1 [M19:33] Remorseful Cleric
+1 [NPH:130] Batterskull
+1 [DST:148] Sword of Fire and Ice
+1 [THB:14] Elspeth, Sun's Nemesis
+1 [BFZ:29] Gideon, Ally of Zendikar
+1 [P02:12] Armageddon
+1 [CN2:18] Palace Jailer
+1 [ALA:9] Elspeth, Knight-Errant
+1 [WAR:13] Gideon Blackblade
+1 [EMN:46] Thalia, Heretic Cathar
+1 [EVE:6] Flickerwisp
+1 [FUT:177] Horizon Canopy
+1 [MH1:247] Sunbaked Canyon
+1 [LEG:303] Karakas
+1 [ATQ:80a] Mishra's Factory
+1 [MOR:148] Mutavault
+11 [UGL:84] Plains
+SB: 1 [CN2:22] Recruiter of the Guard
+SB: 1 [ISD:170] Avacyn's Pilgrim
+SB: 1 [M11:35] Sun Titan
+SB: 1 [DKA:93] Hellrider
+SB: 1 [NEM:17] Parallax Wave
+SB: 1 [ROE:21] Gideon Jura
+SB: 1 [LEG:28] Moat
+SB: 1 [CON:30] Inkwell Leviathan
+SB: 1 [SHM:229] Kitchen Finks
+SB: 1 [LRW:34] Oblivion Ring
+SB: 1 [NPH:161] Sword of War and Peace
+SB: 1 [WAR:98] Liliana's Triumph
+SB: 1 [BNG:5] Brimaz, King of Oreskos
+SB: 1 [M21:183] Garruk, Unleashed
+SB: 1 [WWK:144] Stirring Wildwood
+SB: 1 [VIS:66] Nekrataal
+LAYOUT MAIN:(1,6)(CMC,false,50)|([FUT:177],[MH1:247],[LEG:303],[ATQ:80a],[MOR:148],[UGL:84],[UGL:84],[UGL:84],[UGL:84],[UGL:84],[UGL:84],[UGL:84],[UGL:84],[UGL:84],[UGL:84],[UGL:84])([THS:32],[ULG:14],[CHK:19],[EVE:139],[DOM:14],[DTK:36],[PLC:25])([ELD:335],[M21:34],[SOI:12],[EMN:40],[MBS:1],[WWK:20],[M19:33])([DST:148],[WAR:13],[EMN:46],[EVE:6])([THB:14],[BFZ:29],[P02:12],[CN2:18],[ALA:9])([NPH:130])
+LAYOUT SIDEBOARD:(1,8)(CMC,false,45)|([WWK:144])([ISD:170])([WAR:98])([CN2:22],[SHM:229],[LRW:34],[NPH:161],[BNG:5])([DKA:93],[NEM:17],[LEG:28],[M21:183],[VIS:66])([ROE:21])([M11:35])([CON:30])

@@ -1,0 +1,49 @@
+1 [LRW:139] Shriekmaw
+1 [AVR:106] Griselbrand
+1 [ULG:49] Bone Shredder
+1 [AKH:97] Liliana, Death's Majesty
+1 [MBS:46] Massacre Wurm
+1 [HOU:145] The Scarab God
+1 [NPH:9] Elesh Norn, Grand Cenobite
+1 [KLD:84] Gonti, Lord of Luxury
+1 [ZEN:13] Iona, Shield of Emeria
+1 [USG:96] Show and Tell
+1 [TSP:259] Lotus Bloom
+1 [USG:318] Worn Powerstone
+1 [USG:134] Exhume
+1 [EMN:85] Collective Brutality
+1 [9ED:152] Phyrexian Arena
+1 [VIS:64] Necromancy
+1 [LRW:124] Makeshift Mannequin
+1 [TMP:142] Living Death
+1 [LRW:133] Oona's Prowler
+1 [EXO:72] Recurring Nightmare
+1 [JR:109] Imperial Seal
+1 [ODY:118] Buried Alive
+1 [ODY:132] Entomb
+1 [M12:98] Grave Titan
+1 [SOM:229] Seachrome Coast
+1 [LRW:272] Shelldock Isle
+4 [UST:213] Island
+10 [UST:214] Swamp
+SB: 1 [CON:15] Path to Exile
+SB: 1 [M20:69] Negate
+SB: 1 [ISD:122] Unburial Rites
+SB: 1 [M11:11] Condemn
+SB: 1 [LEG:185] Eureka
+SB: 1 [NPH:4] Blade Splicer
+SB: 1 [XLN:179] Carnage Tyrant
+SB: 1 [THS:33] Spear of Heliod
+SB: 1 [10E:163] Nekrataal
+SB: 1 [EXO:129] Survival of the Fittest
+SB: 1 [UMA:11] Containment Priest
+SB: 1 [ORI:23] Kytheon, Hero of Akros
+SB: 1 [DKA:24] Thalia, Guardian of Thraben
+SB: 1 [THS:9] Elspeth, Sun's Champion
+SB: 1 [ZEN:114] Vampire Hexmage
+SB: 1 [AVR:36] Silverblade Paladin
+SB: 1 [5DN:86] Eternal Witness
+SB: 1 [M10:100] Hypnotic Specter
+SB: 1 [WAR:98] Liliana's Triumph
+LAYOUT MAIN:(1,5)(CMC,false,69)|([TSP:259],[SOM:229],[LRW:272],[UST:213],[UST:213],[UST:213],[UST:213],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214])([JR:109],[ODY:132],[USG:134],[EMN:85],[LRW:133])([ULG:49],[USG:96],[USG:318],[9ED:152],[VIS:64],[EXO:72],[ODY:118],[KLD:84],[LRW:124])([LRW:139],[AKH:97],[HOU:145],[TMP:142])([MBS:46],[M12:98],[NPH:9],[AVR:106],[ZEN:13])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([CON:15],[M20:69],[ISD:122],[M11:11],[LEG:185],[NPH:4],[XLN:179],[THS:33],[10E:163],[EXO:129],[UMA:11],[ORI:23],[DKA:24],[THS:9],[ZEN:114],[AVR:36],[5DN:86],[M10:100],[WAR:98])

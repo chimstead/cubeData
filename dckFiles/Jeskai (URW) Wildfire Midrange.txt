@@ -1,8 +1,11 @@
+2017
+12.17
+12.3.17
 6 Island
 5 Mountain
 1 Battlefield Forge
 1 Flooded Strand
-1 Mirrodin’s Core
+1 Mirrodin's Core
 1 Sacred Foundry
 1 Shivan Reef
 1 Steam Vents
@@ -12,7 +15,7 @@
 1 Counterspell
 1 Grim Monolith
 1 Lightning Strike
-1 Miscalculation 
+1 Miscalculation
 1 Orzhov Signet
 1 Remand
 1 Mulldrifter
@@ -29,4 +32,3 @@
 1 Wildfire
 1 Dig Through Time
 1 Emrakul, the Promised End
-

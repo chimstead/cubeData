@@ -1,0 +1,34 @@
+1 Brushland
+1 Verdant Catacombs
+1 Llanowar Wastes
+1 Stirring Wildwood
+1 Bayou
+1 Godless Shrine
+1 Overgrown Tomb
+4 Forest
+1 Plains
+4 Swamp
+1 Skullclamp
+1 Inquisition of Kozilek
+1 Duress
+1 Oath of Nissa
+1 Lotus Cobra
+1 Den Protector
+1 Dark Confidant
+1 Golgari Signet
+1 Sylvan Library
+1 Demonic Tutor
+1 Bitterblossom
+1 Reclamation Sage
+1 Tireless Tracker
+1 Recurring Nightmare
+1 Sword of War and Peace
+1 Maelstrom Pulse
+1 Nissa, Voice of Zendikar
+1 Liliana, the Last Hope
+1 Vindicate
+1 Ravenous Chupacabra
+1 Sorin, Lord of Innistrad
+1 Deranged Hermit
+1 Thragtusk
+1 Wurmcoil Engine

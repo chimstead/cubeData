@@ -1,0 +1,53 @@
+1 [TMP:330] Wasteland
+1 [MBS:43] Go for the Throat
+1 [DOM:87] Divest
+1 [V12:10] Maze of Ith
+1 [C13:96] Toxic Deluge
+2 [ZEN:241] Swamp
+2 [ZEN:242] Mountain
+1 [ZEN:243] Mountain
+1 [ZEN:244] Mountain
+1 [USG:309] Smokestack
+1 [M19:136] Dismissive Pyromancer
+1 [FEM:38a] Hymn to Tourach
+1 [C16:56] Ash Barrens
+1 [ZEN:229] Verdant Catacombs
+1 [MBS:138] Sword of Feast and Famine
+1 [DTK:224] Kolaghan's Command
+1 [NPH:57] Dismember
+1 [PLS:60] Flametongue Kavu
+1 [MMQ:162] Snuff Out
+1 [M11:97] Grave Titan
+1 [ISD:105] Liliana of the Veil
+1 [XLN:248] Sorcerous Spyglass
+1 [MOR:148] Mutavault
+1 [MMQ:324] Rishadan Port
+1 [PTK:78] Imperial Seal
+1 [C13:84] Ophiomancer
+1 [STH:143] Volrath's Stronghold
+1 [RTR:157] Dreadbore
+3 [ZEN:238] Swamp
+1 [ZEN:239] Swamp
+1 [HOU:83] Abrade
+1 [ZEN:116] Vampire Nighthawk
+1 [LEG:113] Nether Void
+1 [DKA:87] Faithless Looting
+1 [USG:132] Duress
+1 [MBS:122] Phyrexian Revoker
+SB: 1 [CHK:225] Kodama's Reach
+SB: 1 [M19:33] Remorseful Cleric
+SB: 1 [5DN:114] Crucible of Worlds
+SB: 1 [LEA:3] Balance
+SB: 1 [THS:108] Tormented Hero
+SB: 1 [ODY:292] Psychatog
+SB: 1 [WTH:101] Firestorm
+SB: 1 [M14:169] Elvish Mystic
+SB: 1 [EVE:80] Wickerbough Elder
+SB: 1 [CNS:16] Council's Judgment
+SB: 1 [GTC:148] Boros Charm
+SB: 1 [LEG:26] Land Tax
+SB: 1 [HOU:90] Earthshaker Khenra
+SB: 1 [NPH:19] Porcelain Legionnaire
+SB: 1 [THS:32] Soldier of the Pantheon
+LAYOUT MAIN:(1,8)(CMC,false,48)|([ZEN:244],[ZEN:242],[ZEN:243],[ZEN:242],[ZEN:241],[ZEN:238],[ZEN:238],[ZEN:241],[ZEN:238],[ZEN:239])([C16:56],[MOR:148],[ZEN:229],[MMQ:324],[STH:143],[TMP:330])([V12:10])([DOM:87],[USG:132],[PTK:78],[DKA:87])([XLN:248],[HOU:83],[MBS:43],[RTR:157],[M19:136],[FEM:38a],[MBS:122])([MBS:138],[ISD:105],[DTK:224],[C13:96],[C13:84],[NPH:57],[ZEN:116])([USG:309],[PLS:60],[LEG:113],[MMQ:162])([M11:97])
+LAYOUT SIDEBOARD:(1,6)(COLOR,false,56)|([5DN:114])([THS:108])([CHK:225],[EVE:80],[M14:169])([HOU:90],[WTH:101])([CNS:16],[LEG:26],[NPH:19],[M19:33],[THS:32],[LEA:3])([ODY:292],[GTC:148])

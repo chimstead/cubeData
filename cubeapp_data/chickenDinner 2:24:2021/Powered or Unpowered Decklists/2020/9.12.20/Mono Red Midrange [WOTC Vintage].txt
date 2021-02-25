@@ -1,0 +1,31 @@
+14 [KTK:262] Mountain
+1 [SUM:274] Sol Ring
+1 [2ED:265] Mox Ruby
+1 [KTK:230] Bloodstained Mire
+1 [LEB:260] Mana Vault
+1 [DTK:169] Zurgo Bellstriker
+1 [PAKH:148s] Soul-Scar Mage
+1 [C14:239] Everflowing Chalice
+1 [DIS:165] Rakdos Signet
+1 [CMA:223] Orzhov Signet
+1 [GRN:115] Runaway Steam-Kin
+1 [DPA:48] Incinerate
+1 [3ED:185] Wheel of Fortune
+1 [SCG:106] Sulfuric Vortex
+1 [KLD:110] Chandra, Torch of Defiance
+1 [SOM:94] Koth of the Hammer
+1 [AKH:136] Hazoret the Fervent
+1 [WWK:127] Lodestone Golem
+1 [ORI:157] Pia and Kiran Nalaar
+1 [DKA:93] Hellrider
+1 [M21:164] Terror of the Peaks
+1 [M13:150] Thundermaw Hellkite
+1 [DOM:143] Siege-Gang Commander
+1 [NPH:130] Batterskull
+1 [CHK:163] Desperate Ritual
+1 [M11:153] Pyretic Ritual
+1 [AER:181] Walking Ballista
+SB: 1 [CMA:218] Golgari Signet
+SB: 1 [ELD:122] Embereth Shieldbreaker
+LAYOUT MAIN:(1,6)(CMC,false,50)|([KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[2ED:265],[KTK:230],[C14:239],[AER:181])([SUM:274],[LEB:260],[DTK:169],[PAKH:148s])([DIS:165],[CMA:223],[GRN:115],[DPA:48],[CHK:163],[M11:153])([3ED:185],[SCG:106])([KLD:110],[SOM:94],[AKH:136],[WWK:127],[ORI:157],[DKA:93])([M21:164],[M13:150],[DOM:143],[NPH:130])
+LAYOUT SIDEBOARD:(1,1)(CMC,false,48)|([CMA:218],[ELD:122])

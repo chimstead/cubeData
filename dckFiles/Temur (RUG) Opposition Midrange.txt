@@ -1,9 +1,12 @@
+2017
+12.17
+12.3.17
 4 Forest
 2 Mountain
 2 Island
 1 City of Brass
 1 Faerie Conclave
-1 Grand Coliseum 
+1 Grand Coliseum
 1 Lumbering Falls
 1 Scalding Tarn
 1 Shivan Reef
@@ -31,5 +34,5 @@
 1 Whirler Rogue
 1 Xenagos, the Reveler
 1 Mulldrifter
-1 Mystic Confliuence
+1 Mystic Confluence
 1 Plow Under

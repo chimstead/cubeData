@@ -1,0 +1,49 @@
+1 [DST:140] Skullclamp
+1 [MH1:168] Hexdrinker
+1 [CON:87] Noble Hierarch
+1 [ISD:170] Avacyn's Pilgrim
+1 [ICE:244] Fyndhorn Elves
+1 [6ED:239] Llanowar Elves
+1 [CON:15] Path to Exile
+1 [ZEN:168] Lotus Cobra
+1 [M11:172] Fauna Shaman
+1 [M20:200] Voracious Hydra
+1 [CMD:170] Scavenging Ooze
+1 [CNS:16] Council's Judgment
+1 [CN2:22] Recruiter of the Guard
+1 [GRN:183] Knight of Autumn
+1 [WTH:153] Mind Stone
+1 [CN2:18] Palace Jailer
+1 [BFZ:29] Gideon, Ally of Zendikar
+1 [NEM:17] Parallax Wave
+1 [LRW:213] Garruk Wildspeaker
+1 [ELD:171] Questing Beast
+1 [ULG:101] Deranged Hermit
+1 [MH1:161] Deep Forest Hermit
+1 [XLN:179] Carnage Tyrant
+1 [WWK:144] Stirring Wildwood
+1 [ZEN:229] Verdant Catacombs
+8 [GUR:1] Forest
+7 [GUR:4] Plains
+SB: 1 [MH1:228] Sword of Sinew and Steel
+SB: 1 [M14:22] Imposing Sovereign
+SB: 1 [LEA:214] Regrowth
+SB: 1 [ISD:97] Diregraf Ghoul
+SB: 1 [M20:185] Nightpack Ambusher
+SB: 1 [5DN:126] Grafted Wargear
+SB: 1 [M15:187] Nissa, Worldwaker
+SB: 1 [UDS:124] Yavimaya Elder
+SB: 1 [MOR:22] Reveillark
+SB: 1 [MOR:148] Mutavault
+SB: 1 [AKH:16] Glory-Bound Initiate
+SB: 1 [M11:188] Obstinate Baloth
+SB: 1 [C14:22] Flesh Carver
+SB: 1 [WAR:137] Krenko, Tin Street Kingpin
+SB: 1 [C13:25] Unexpectedly Absent
+SB: 1 [LEB:232] Basalt Monolith
+SB: 1 [WAR:160] Finale of Devastation
+SB: 1 [SOM:223] Wurmcoil Engine
+SB: 1 [MH1:249] Waterlogged Grove
+SB: 1 [M14:169] Elvish Mystic
+LAYOUT MAIN:(1,8)(CMC,false,81)|([GUR:1],[GUR:1],[GUR:1],[GUR:1],[GUR:1],[GUR:1],[GUR:1],[GUR:1],[GUR:4],[GUR:4],[GUR:4],[GUR:4],[GUR:4],[GUR:4],[GUR:4])([WWK:144],[ZEN:229])([ISD:170],[ICE:244],[MH1:168],[6ED:239],[CON:87],[CON:15],[DST:140])([M11:172],[ZEN:168],[WTH:153],[CMD:170],[M20:200])([CNS:16],[GRN:183],[CN2:22])([LRW:213],[BFZ:29],[CN2:18],[NEM:17],[ELD:171])([MH1:161],[ULG:101])([XLN:179])
+LAYOUT SIDEBOARD:(1,7)(CMC,false,79)|([MOR:148],[MH1:249])([ISD:97],[M14:169])([M14:22],[LEA:214],[AKH:16],[C13:25],[WAR:160])([MH1:228],[5DN:126],[UDS:124],[C14:22],[WAR:137],[LEB:232])([M20:185],[M11:188])([M15:187],[MOR:22])([SOM:223])

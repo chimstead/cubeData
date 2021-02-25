@@ -1,0 +1,35 @@
+3 Island
+4 Plains
+1 Swamp
+1 Bloodstained Mire
+1 Fetid Pools
+1 Grand Coliseum
+1 Hallowed Fountain
+1 Karakas
+1 Scrubland
+1 Shambling Vent
+1 Watery Grave
+1 Windswept Heath
+1 Brainstorm
+1 Land Tax
+1 Path to Exile
+1 Sensei's Divining Top
+1 Journey to Nowhere
+1 Talisman of Indulgence
+1 Unexpectedly Absent
+1 Blade Splicer
+1 Forbid
+1 Gideon of the Trials
+1 Lingering Souls
+1 Monastery Mentor
+1 Elspeth, Knight-Errant
+1 Glen Elendra Archmage
+1 Jace, the Mind Sculptor
+1 Parallax Wave
+1 Sorin, Lord of Innistrad
+1 Venser, Shaper Savant
+1 Custodi Lich
+1 Gideon Jura
+1 Meloku the Clouded Mirror
+1 Teferi, Hero of Dominaria
+1 Eternal Dragon

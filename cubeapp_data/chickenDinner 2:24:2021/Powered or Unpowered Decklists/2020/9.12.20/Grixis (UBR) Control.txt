@@ -1,0 +1,34 @@
+1 Arid Mesa
+1 Ash Barrens
+1 Badlands
+1 Blood Crypt
+6 Island
+1 Mana Confluence
+2 Mountain
+1 Steam Vents
+1 Swamp
+1 Verdant Catacombs
+1 Wooded Foothills
+1 Condescend
+1 Lightning Bolt
+1 Ponder
+1 Cast Down
+1 Counterspell
+1 Izzet Charm
+1 Remand
+1 Snapcaster Mage
+1 Baral, Chief of Compliance
+1 Char
+1 Goblin Rabblemaster
+1 Kolaghan's Command
+1 Man-o'-War
+1 Phoenix of Ash
+1 Toxic Deluge
+1 Chandra, Torch of Defiance
+1 Control Magic
+1 Dack's Duplicate
+1 Fact or Fiction
+1 Fiery Confluence
+1 Pia and Kiran Nalaar
+1 Frost Titan
+1 Dig Through Time

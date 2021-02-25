@@ -1,0 +1,51 @@
+1 [SOI:92] Thing in the Ice
+1 [RAV:63] Remand
+1 [2ED:265] Mox Ruby
+1 [RAV:255] Boros Signet
+1 [2ED:264] Mox Pearl
+1 [ODY:113] Upheaval
+1 [M12:73] Ponder
+1 [RNA:251] Hallowed Fountain
+1 [ULG:49] Bone Shredder
+1 [KTK:239] Polluted Delta
+1 [MBS:43] Go for the Throat
+1 [WWK:133] Celestial Colonnade
+1 [2ED:233] Black Lotus
+1 [THS:90] Hero's Downfall
+1 [GPT:32] Repeal
+1 [RNA:47] Pteramander
+1 [NPH:57] Dismember
+1 [C17:37] Fractured Identity
+1 [WAR:61] Narset, Parter of Veils
+1 [XLN:74] Search for Azcanta
+1 [MBS:21] Consecrated Sphinx
+1 [M11:70] Preordain
+1 [BBD:41] Spellseeker
+1 [WWK:31] Jace, the Mind Sculptor
+1 [SOM:48] Trinket Mage
+1 [3ED:290] Underground Sea
+1 [RAV:262] Golgari Signet
+1 [E01:80] Baleful Strix
+1 [M20:97] Duress
+1 [DST:146] Sundering Titan
+4 [3ED:297] Island
+2 [3ED:296] Island
+1 [3ED:300] Swamp
+3 [3ED:299] Swamp
+SB: 1 [WAR:169] Nissa, Who Shakes the World
+SB: 1 [NPH:33] Deceiver Exarch
+SB: 1 [WAR:79] Bolas's Citadel
+SB: 1 [MIR:307] Lion's Eye Diamond
+SB: 1 [DGM:135] Wear // Tear
+SB: 1 [KLD:13] Fairgrounds Warden
+SB: 1 [FEM:38a] Hymn to Tourach
+SB: 1 [FEM:18a] High Tide
+SB: 1 [JOU:94] Eidolon of the Great Revel
+SB: 1 [10E:61] Wrath of God
+SB: 1 [ODY:193] Firebolt
+SB: 1 [3ED:284] Plateau
+SB: 1 [WAR:244] Blast Zone
+SB: 1 [KLD:4] Angel of Invention
+SB: 1 [MBS:46] Massacre Wurm
+LAYOUT MAIN:(2,7)(CMC,true,71)|([KTK:239],[RNA:251],[3ED:290],[WWK:133],[2ED:265],[2ED:264],[2ED:233])([RNA:47])([SOI:92],[E01:80])([ULG:49],[BBD:41],[SOM:48])()()([MBS:21],[DST:146])([3ED:297],[3ED:296],[3ED:296],[3ED:297],[3ED:297],[3ED:297],[3ED:300],[3ED:299],[3ED:299],[3ED:299])([M12:73],[GPT:32],[M11:70],[M20:97])([RAV:63],[RAV:255],[MBS:43],[XLN:74],[RAV:262])([THS:90],[NPH:57],[WAR:61])([WWK:31])([C17:37])([ODY:113])
+LAYOUT SIDEBOARD:(2,4)(CMC,true,51)|([WAR:244],[NPH:33])([KLD:4],[KLD:13])([MBS:46],[FEM:38a])([WAR:169],[JOU:94])()([10E:61],[DGM:135])([WAR:79])([MIR:307],[FEM:18a],[ODY:193],[3ED:284])

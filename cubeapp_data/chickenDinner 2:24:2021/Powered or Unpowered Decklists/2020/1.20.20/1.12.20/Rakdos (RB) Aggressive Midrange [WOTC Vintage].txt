@@ -1,0 +1,49 @@
+1 [3ED:185] Wheel of Fortune
+1 [DIS:165] Rakdos Signet
+1 [M12:98] Grave Titan
+1 [MEDM:GR3] Daretti, Ingenious Iconoclast
+1 [LRW:139] Shriekmaw
+1 [DKA:93] Hellrider
+1 [TMP:183] Jackal Pup
+1 [ARB:46] Terminate
+1 [RNA:109] Rix Maadi Reveler
+1 [AVR:166] Zealous Conscripts
+1 [NPH:153] Shrine of Burning Rage
+1 [RNA:107] Light Up the Stage
+1 [AKH:134] Glorybringer
+1 [5ED:388] Mana Vault
+1 [M12:151] Manic Vandal
+1 [PLS:60] Flametongue Kavu
+1 [M14:163] Young Pyromancer
+1 [RIX:82] Ravenous Chupacabra
+1 [RTR:188] Rakdos's Return
+1 [ORI:127] Abbot of Keral Keep
+1 [KTK:118] Monastery Swiftspear
+1 [AKH:136] Hazoret the Fervent
+1 [ROE:115] Inquisition of Kozilek
+1 [MPS:16] Mana Crypt
+1 [KTK:230] Bloodstained Mire
+1 [KTK:249] Wooded Foothills
+1 [RNA:245] Blood Crypt
+1 [ZEN:229] Verdant Catacombs
+1 [2ED:263] Mox Jet
+1 [TMP:315] Ancient Tomb
+7 [UST:215] Mountain
+3 [UST:214] Swamp
+SB: 1 [MBS:8] Hero of Bladehold
+SB: 1 [AER:57] Fatal Push
+SB: 1 [ROE:145] Flame Slash
+SB: 1 [ODY:118] Buried Alive
+SB: 1 [JOU:163] Mana Confluence
+SB: 1 [FUT:101] Magus of the Moon
+SB: 1 [KLD:4] Angel of Invention
+SB: 1 [BOK:71] Ink-Eyes, Servant of Oni
+SB: 1 [9ED:228] Wildfire
+SB: 1 [XLN:110] Kitesail Freebooter
+SB: 1 [KLD:245] Concealed Courtyard
+SB: 1 [ULG:49] Bone Shredder
+SB: 1 [V14:2] Burning of Xinye
+SB: 1 [SHM:211] Manamorphose
+SB: 1 [MOR:22] Reveillark
+LAYOUT MAIN:(1,7)(CMC,false,69)|([MPS:16],[KTK:230],[KTK:249],[RNA:245],[ZEN:229],[2ED:263],[TMP:315],[UST:215],[UST:215],[UST:215],[UST:215],[UST:215],[UST:215],[UST:215],[UST:214],[UST:214],[UST:214])([TMP:183],[5ED:388],[KTK:118],[ROE:115])([DIS:165],[ARB:46],[RNA:109],[NPH:153],[M14:163],[RTR:188],[ORI:127])([3ED:185],[MEDM:GR3],[RNA:107],[M12:151])([DKA:93],[PLS:60],[RIX:82],[AKH:136])([LRW:139],[AVR:166],[AKH:134])([M12:98])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([MBS:8],[AER:57],[ROE:145],[ODY:118],[JOU:163],[FUT:101],[KLD:4],[BOK:71],[9ED:228],[XLN:110],[KLD:245],[ULG:49],[V14:2],[SHM:211],[MOR:22])

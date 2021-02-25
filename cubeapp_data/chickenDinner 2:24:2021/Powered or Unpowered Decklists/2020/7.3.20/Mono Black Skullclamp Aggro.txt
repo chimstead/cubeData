@@ -1,0 +1,48 @@
+1 [M20:105] Knight of the Ebon Legion
+1 [SCG:59] Carrion Feeder
+1 [M19:92] Diregraf Ghoul
+1 [M20:97] Duress
+1 [DST:140] Skullclamp
+1 [EXO:53] Carnophage
+1 [RTR:220] Rakdos Cackler
+1 [DKA:64] Gravecrawler
+1 [AER:62] Glint-Sleeve Siphoner
+1 [DOM:81] Cast Down
+1 [ZEN:83] Bloodghast
+1 [ZEN:114] Vampire Hexmage
+1 [KLD:231] Scrapheap Scrounger
+1 [FEM:38a] Hymn to Tourach
+1 [WAR:86] Dreadhorde Invasion
+1 [NPH:19] Porcelain Legionnaire
+1 [THS:90] Hero's Downfall
+1 [M20:96] Dread Presence
+1 [ELD:101] Rankle, Master of Pranks
+1 [RIX:82] Ravenous Chupacabra
+1 [ELD:287] Murderous Rider
+1 [WAR:228] Ashiok, Dream Render
+1 [C14:22] Flesh Carver
+1 [M14:228] Mutavault
+1 [4ED:361] Mishra's Factory
+1 [ELD:241] Castle Locthwain
+1 [CSP:145] Dark Depths
+1 [ONS:312] Barren Moor
+1 [MH1:243] Nurturing Peatland
+1 [GTC:248] Thespian's Stage
+10 [UGL:86] Swamp
+SB: 1 [AKH:239] Canyon Slough
+SB: 1 [M19:208] Vivien Reid
+SB: 1 [THS:122] Firedrinker Satyr
+SB: 1 [MH1:214] Soulherder
+SB: 1 [RIX:136] Jadelight Ranger
+SB: 1 [AVR:106] Griselbrand
+SB: 1 [C18:57] Retrofitter Foundry
+SB: 1 [C18:43] Lord Windgrace
+SB: 1 [UMA:11] Containment Priest
+SB: 1 [M14:195] Scavenging Ooze
+SB: 1 [NEM:139] Tangle Wire
+SB: 1 [ORI:40] Vryn Wingmare
+SB: 1 [NPH:35] Gitaxian Probe
+SB: 1 [SOM:48] Trinket Mage
+SB: 1 [ALA:202] Tidehollow Sculler
+LAYOUT MAIN:(1,6)(CMC,false,50)|([M14:228],[4ED:361],[ELD:241],[CSP:145],[ONS:312],[MH1:243],[GTC:248],[UGL:86],[UGL:86],[UGL:86],[UGL:86],[UGL:86],[UGL:86],[UGL:86],[UGL:86],[UGL:86],[UGL:86])([M20:105],[SCG:59],[M19:92],[M20:97],[DST:140],[EXO:53],[RTR:220],[DKA:64])([AER:62],[DOM:81],[ZEN:83],[ZEN:114],[KLD:231],[FEM:38a],[WAR:86],[NPH:19])([THS:90],[WAR:228],[C14:22])([M20:96],[ELD:101],[RIX:82])([ELD:287])
+LAYOUT SIDEBOARD:(1,6)(CMC,false,50)|([AKH:239])([THS:122],[C18:57],[NPH:35])([UMA:11],[M14:195],[ALA:202])([MH1:214],[RIX:136],[NEM:139],[ORI:40],[SOM:48])([M19:208],[C18:43])([AVR:106])

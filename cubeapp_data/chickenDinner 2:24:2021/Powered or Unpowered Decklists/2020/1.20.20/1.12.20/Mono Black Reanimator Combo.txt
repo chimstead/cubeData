@@ -1,0 +1,51 @@
+1 [THS:90] Hero's Downfall
+1 [AKH:88] Dread Wanderer
+1 [APC:130] Life // Death
+1 [DST:149] Sword of Light and Shadow
+1 [5DN:55] Night's Whisper
+1 [ODY:117] Braids, Cabal Minion
+1 [CELD:287] Murderous Rider
+1 [ULG:126] Grim Monolith
+1 [ODY:132] Entomb
+1 [PLC:85] Damnation
+1 [M11:97] Grave Titan
+1 [LRW:133] Oona's Prowler
+1 [ZEN:83] Bloodghast
+1 [RIX:82] Ravenous Chupacabra
+1 [CELD:356] Rankle, Master of Pranks
+1 [USG:309] Smokestack
+1 [MH1:100] Plague Engineer
+1 [SOI:116] Heir of Falkenrath
+1 [DKA:64] Gravecrawler
+1 [CN2:41] Custodi Lich
+1 [BFZ:15] Ulamog, the Ceaseless Hunger
+1 [TMP:142] Living Death
+1 [FEM:38a] Hymn to Tourach
+1 [TMP:151] Reanimate
+1 [MOR:148] Mutavault
+1 [ATQ:80a] Mishra's Factory
+3 [THS:239] Swamp
+2 [THS:238] Swamp
+6 [THS:240] Swamp
+3 [THS:241] Swamp
+SB: 1 [C13:63] True-Name Nemesis
+SB: 1 [ALA:202] Tidehollow Sculler
+SB: 1 [10E:61] Wrath of God
+SB: 1 [ROE:165] Splinter Twin
+SB: 1 [C15:26] Fiery Confluence
+SB: 1 [EXO:115] Oath of Druids
+SB: 1 [ULG:101] Deranged Hermit
+SB: 1 [ODY:70] Careful Study
+SB: 1 [ISD:97] Diregraf Ghoul
+SB: 1 [NEM:17] Parallax Wave
+SB: 1 [TMP:154] Sarcomancy
+SB: 1 [STH:143] Volrath's Stronghold
+SB: 1 [MMQ:324] Rishadan Port
+SB: 1 [PC2:84] Bloodbraid Elf
+SB: 1 [XLN:248] Sorcerous Spyglass
+SB: 1 [C13:96] Toxic Deluge
+SB: 1 [NEM:139] Tangle Wire
+SB: 1 [DTK:216] Dragonlord Atarka
+SB: 1 [WTH:153] Mind Stone
+LAYOUT MAIN:(1,8)(CMC,false,45)|([MOR:148],[ATQ:80a],[THS:239],[THS:238],[THS:240],[THS:240],[THS:241],[THS:240],[THS:240],[THS:239],[THS:238],[THS:241],[THS:240],[THS:241],[THS:240],[THS:239])([AKH:88],[ODY:132],[DKA:64],[TMP:151])([5DN:55],[ULG:126],[LRW:133],[ZEN:83],[SOI:116],[FEM:38a])([THS:90],[APC:130],[DST:149],[CELD:287],[MH1:100])([ODY:117],[PLC:85],[RIX:82],[CELD:356],[USG:309])([CN2:41],[TMP:142])([M11:97])([BFZ:15])
+LAYOUT SIDEBOARD:(1,7)(CMC,false,50)|([STH:143],[MMQ:324])([ODY:70],[ISD:97],[TMP:154])([ALA:202],[EXO:115],[XLN:248],[WTH:153])([C13:63],[C13:96],[NEM:139])([10E:61],[ROE:165],[C15:26],[NEM:17],[PC2:84])([ULG:101])([DTK:216])

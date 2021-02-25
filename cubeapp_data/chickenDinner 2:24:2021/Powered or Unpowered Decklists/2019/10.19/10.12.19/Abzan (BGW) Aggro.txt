@@ -1,0 +1,50 @@
+1 [ISD:6] Champion of the Parish
+1 [EVE:139] Figure of Destiny
+1 [RIX:21] Skymarcher Aspirant
+1 [DOM:14] Dauntless Bodyguard
+1 [PLC:25] Mana Tithe
+1 [FRF:18] Mardu Woe-Reaper
+1 [ICE:54] Swords to Plowshares
+1 [KLD:235] Smuggler's Copter
+1 [MBS:1] Accorder Paladin
+1 [M15:225] Phyrexian Revoker
+1 [XLN:1] Adanto Vanguard
+1 [RNA:29] Unbreakable Formation
+1 [WAR:13] Gideon Blackblade
+1 [LRW:31] Mirror Entity
+1 [NPH:19] Porcelain Legionnaire
+1 [BNG:5] Brimaz, King of Oreskos
+1 [MH1:26] Serra the Benevolent
+1 [MBS:8] Hero of Bladehold
+1 [KLD:214] Fleetwheel Cruiser
+1 [C17:43] Mirri, Weatherlight Duelist
+1 [IMA:159] Curse of Predation
+1 [DGM:114] Voice of Resurgence
+1 [CMA:27] Unexpectedly Absent
+1 [MH1:246] Silent Clearing
+1 [M14:228] Mutavault
+1 [MRD:152] Chrome Mox
+1 [FUT:177] Horizon Canopy
+1 [4ED:361] Mishra's Factory
+3 [UGL:88] Forest
+6 [UGL:84] Plains
+1 [DKA:12] Lingering Souls
+1 [RNA:248] Godless Shrine
+1 [ZEN:219] Marsh Flats
+SB: 1 [AKH:1] Angel of Sanctions
+SB: 1 [GTC:142] Assemble the Legion
+SB: 1 [4ED:6] Balance
+SB: 1 [V14:10] Rolling Earthquake
+SB: 1 [GTC:148] Boros Charm
+SB: 1 [AER:129] Hidden Stockpile
+SB: 1 [NPH:130] Batterskull
+SB: 1 [LRW:88] Sower of Temptation
+SB: 1 [MH1:217] Wrenn and Six
+SB: 1 [MBS:131] Signal Pest
+SB: 1 [MEDM:GR3] Daretti, Ingenious Iconoclast
+SB: 1 [DKA:138] Falkenrath Aristocrat
+SB: 1 [RIX:60] Warkite Marauder
+SB: 1 [NPH:57] Dismember
+SB: 1 [UGL:84] Plains
+LAYOUT MAIN:(1,5)(CMC,false,50)|([MH1:246],[M14:228],[MRD:152],[FUT:177],[4ED:361],[UGL:88],[UGL:88],[UGL:88],[UGL:84],[UGL:84],[UGL:84],[UGL:84],[UGL:84],[UGL:84],[RNA:248],[ZEN:219])([ISD:6],[EVE:139],[RIX:21],[DOM:14],[PLC:25],[FRF:18],[ICE:54])([KLD:235],[MBS:1],[M15:225],[XLN:1],[WAR:13],[NPH:19],[DGM:114],[CMA:27])([RNA:29],[LRW:31],[BNG:5],[C17:43],[IMA:159],[DKA:12])([MH1:26],[MBS:8],[KLD:214])
+LAYOUT SIDEBOARD:(1,6)(CMC,false,50)|([UGL:84])([V14:10],[MBS:131])([4ED:6],[GTC:148],[AER:129],[MH1:217],[RIX:60])([MEDM:GR3],[NPH:57])([LRW:88],[DKA:138])([AKH:1],[GTC:142],[NPH:130])

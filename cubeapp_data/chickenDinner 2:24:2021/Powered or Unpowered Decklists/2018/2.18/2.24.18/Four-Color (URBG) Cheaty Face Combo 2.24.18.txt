@@ -1,0 +1,37 @@
+2 Forest
+2 Swamp
+2 Island
+1 Mountain
+1 Bayou
+1 Breeding Pool
+1 Everflowing Chalice
+1 Gemstone Mine
+1 Mana Confluence
+1 Raging Ravine
+1 Steam Vents
+1 Sulfurous Springs
+1 Taiga
+1 Verdant Catacombs
+1 Volcanic Island
+1 Inquisition of Kozilek
+1 Preordain
+1 Rolling Earthquake
+1 Sensei's Divining Top
+1 Demonic Tutor
+1 Go for the Throat
+1 Oath of Druids
+1 Sorcerous Spyglass
+1 Sylvan Library
+1 Kodama's Reach
+1 Maelstrom Pulse
+1 Show and Tell
+1 Sneak Attack
+1 Through the Breach
+1 Selvala's Stampede
+1 Dragonlord Atarka
+1 Hornet Queen
+1 Myr Battlesphere
+1 Sundering Titan
+1 Woodfall Primus
+1 Ulamog, the Ceaseless Hunger
+1 Emrakul, the Promised End

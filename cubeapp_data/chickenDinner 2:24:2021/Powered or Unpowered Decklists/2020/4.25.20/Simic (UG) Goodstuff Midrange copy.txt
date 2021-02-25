@@ -1,0 +1,51 @@
+1 [STH:138] Mox Diamond
+1 [MH1:168] Hexdrinker
+1 [6ED:217] Birds of Paradise
+1 [ROE:190] Joraga Treespeaker
+1 [MBS:81] Green Sun's Zenith
+1 [MMQ:61] Brainstorm
+1 [THS:180] Sylvan Caryatid
+1 [M11:172] Fauna Shaman
+1 [AKH:204] Nissa, Steward of Elements
+1 [MH1:232] Talisman of Curiosity
+1 [AKH:175] Manglehorn
+1 [M15:194] Reclamation Sage
+1 [M20:68] Mu Yanling, Sky Dancer
+1 [4ED:64] Control Magic
+1 [ISD:181] Garruk Relentless
+1 [ORI:83] Whirler Rogue
+1 [ELD:171] Questing Beast
+1 [KLD:214] Fleetwheel Cruiser
+1 [XLN:179] Carnage Tyrant
+1 [M10:165] Acidic Slime
+1 [WAR:169] Nissa, Who Shakes the World
+1 [ELD:281] Brazen Borrower
+1 [CHK:74] Meloku the Clouded Mirror
+1 [JOU:163] Mana Confluence
+1 [ONS:316] Flooded Strand
+1 [ONS:328] Windswept Heath
+1 [LEB:285] Tundra
+1 [ZEN:220] Misty Rainforest
+1 [TMP:315] Ancient Tomb
+1 [LEB:281] Savannah
+1 [ATQ:80a] Mishra's Factory
+6 [GUR:1] Forest
+3 [GUR:2] Island
+SB: 1 [GRN:103] Goblin Cratermaker
+SB: 1 [EVE:6] Flickerwisp
+SB: 1 [WWK:144] Stirring Wildwood
+SB: 1 [AVR:172] Craterhoof Behemoth
+SB: 1 [USG:174] Arc Lightning
+SB: 1 [NPH:19] Porcelain Legionnaire
+SB: 1 [RIX:99] Dire Fleet Daredevil
+SB: 1 [ELD:238] Castle Ardenvale
+SB: 1 [DTK:216] Dragonlord Atarka
+SB: 1 [ARB:110] Sphinx of the Steel Wind
+SB: 1 [ROE:66] Enclave Cryptologist
+SB: 1 [5DN:36] Serum Visions
+SB: 1 [LEA:3] Balance
+SB: 1 [RAV:279] Overgrown Tomb
+SB: 1 [GUR:1] Forest
+SB: 1 [GUR:2] Island
+LAYOUT MAIN:(1,8)(CMC,false,79)|([GUR:1],[GUR:1],[GUR:1],[GUR:1],[GUR:1],[GUR:1],[GUR:2],[GUR:2],[GUR:2])([TMP:315],[ONS:316],[JOU:163],[ATQ:80a],[ZEN:220],[LEB:281],[LEB:285],[ONS:328])([STH:138],[6ED:217],[MMQ:61],[MBS:81],[MH1:168],[ROE:190])([M11:172],[AKH:204],[THS:180],[MH1:232])([AKH:175],[M20:68],[M15:194])([4ED:64],[KLD:214],[ISD:181],[ELD:171],[ORI:83])([M10:165],[ELD:281],[CHK:74],[WAR:169])([XLN:179])
+LAYOUT SIDEBOARD:(1,6)(CMC,false,79)|([WWK:144],[GUR:1],[GUR:2],[ELD:238],[RAV:279])([ROE:66],[5DN:36])([GRN:103],[RIX:99],[LEA:3])([EVE:6],[USG:174],[NPH:19])([DTK:216])([AVR:172],[ARB:110])

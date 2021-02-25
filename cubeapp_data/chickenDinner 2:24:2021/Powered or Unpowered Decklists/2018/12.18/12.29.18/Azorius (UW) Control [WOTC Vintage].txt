@@ -1,0 +1,52 @@
+1 [PLC:25] Mana Tithe
+1 [EVE:22] Glen Elendra Archmage
+1 [MBS:21] Consecrated Sphinx
+1 [AKH:8] Cast Out
+1 [ZEN:220] Misty Rainforest
+1 [XLN:74] Search for Azcanta
+1 [ISD:78] Snapcaster Mage
+1 [3ED:289] Tundra
+1 [CON:15] Path to Exile
+1 [DIS:159] Azorius Signet
+1 [FRF:1] Ugin, the Spirit Dragon
+1 [MPS:16] Mana Crypt
+1 [INV:57] Fact or Fiction
+2 [7ED:343] Plains
+1 [THS:9] Elspeth, Sun's Champion
+3 [7ED:342] Plains
+1 [BFZ:29] Gideon, Ally of Zendikar
+1 [AVR:79] Tamiyo, the Moon Sage
+1 [LRW:76] Mulldrifter
+1 [RTR:241] Hallowed Fountain
+1 [2ED:84] Time Walk
+1 [KTK:233] Flooded Strand
+1 [7ED:67] Counterspell
+1 [MOR:55] Vendilion Clique
+1 [UDS:50] Treachery
+1 [TSP:66] Looter il-Kor
+1 [VMA:20] Council's Judgment
+1 [SOM:229] Seachrome Coast
+1 [7ED:335] Island
+2 [7ED:332] Island
+4 [7ED:333] Island
+1 [ULG:126] Grim Monolith
+1 [FRF:27] Soulfire Grand Master
+SB: 1 [KLD:67] Torrential Gearhulk
+SB: 1 [THS:223] Nykthos, Shrine to Nyx
+SB: 1 [BFZ:239] Lumbering Falls
+SB: 1 [WWK:144] Stirring Wildwood
+SB: 1 [DOM:26] Lyra Dawnbringer
+SB: 1 [ICE:244] Fyndhorn Elves
+SB: 1 [WWK:134] Creeping Tar Pit
+SB: 1 [TSP:269] Academy Ruins
+SB: 1 [XLN:90] Arguel's Blood Fast
+SB: 1 [MMQ:82] Gush
+SB: 1 [RAV:270] Selesnya Signet
+SB: 1 [ZEN:13] Iona, Shield of Emeria
+SB: 1 [DTK:217] Dragonlord Dromoka
+SB: 1 [DTK:219] Dragonlord Ojutai
+SB: 1 [M11:21] Leyline of Sanctity
+SB: 1 [SOI:12] Declaration in Stone
+SB: 1 [THS:172] Polukranos, World Eater
+LAYOUT MAIN:(1,7)(CMC,false,51)|([KTK:233],[RTR:241],[7ED:333],[7ED:333],[7ED:333],[7ED:333],[7ED:332],[7ED:335],[7ED:332],[MPS:16],[ZEN:220],[7ED:342],[7ED:342],[7ED:343],[7ED:342],[7ED:343],[SOM:229],[3ED:289])([PLC:25],[CON:15])([DIS:159],[7ED:67],[ULG:126],[TSP:66],[XLN:74],[ISD:78],[FRF:27],[2ED:84])([VMA:20],[MOR:55])([AKH:8],[INV:57],[BFZ:29],[EVE:22])([LRW:76],[AVR:79],[UDS:50])([MBS:21],[THS:9],[FRF:1])
+LAYOUT SIDEBOARD:(1,7)(CMC,false,50)|([BFZ:239],[WWK:144],[THS:223],[WWK:134],[TSP:269])([ICE:244])([RAV:270],[XLN:90],[SOI:12])([M11:21],[THS:172])([DOM:26],[MMQ:82])([KLD:67],[DTK:217],[DTK:219])([ZEN:13])

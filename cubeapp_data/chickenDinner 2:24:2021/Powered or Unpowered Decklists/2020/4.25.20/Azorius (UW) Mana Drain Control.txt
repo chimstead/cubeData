@@ -1,0 +1,49 @@
+1 [LRW:88] Sower of Temptation
+1 [HOU:49] Supreme Will
+1 [V09:11] Serendib Efreet
+1 [THB:305] Nadir Kraken
+1 [M11:70] Preordain
+1 [ELD:281] Brazen Borrower
+1 [CON:15] Path to Exile
+1 [SHM:229] Kitchen Finks
+1 [ICE:54] Swords to Plowshares
+1 [EMA:59] Man-o'-War
+1 [RAV:63] Remand
+1 [SS1:4] Counterspell
+1 [KLD:67] Torrential Gearhulk
+1 [MRD:253] Talisman of Dominance
+1 [IMA:65] Mana Drain
+1 [SOM:180] Myr Battlesphere
+1 [C18:57] Retrofitter Foundry
+1 [SOM:223] Wurmcoil Engine
+1 [LRW:79] Ponder
+1 [RAV:40] Compulsive Research
+1 [DDF:1] Elspeth, Knight-Errant
+1 [MIR:14] Enlightened Tutor
+1 [BBD:94] Land Tax
+1 [V12:10] Maze of Ith
+1 [A25:236] Ash Barrens
+1 [WWK:133] Celestial Colonnade
+1 [RTR:241] Hallowed Fountain
+1 [MM3:239] Marsh Flats
+1 [ZEN:223] Scalding Tarn
+7 [THB:251] Island
+4 [THB:250] Plains
+SB: 1 [V09:2] Berserk
+SB: 1 [BFZ:239] Lumbering Falls
+SB: 1 [IMA:140] Monastery Swiftspear
+SB: 1 [DOM:143] Siege-Gang Commander
+SB: 1 [BFZ:244] Shambling Vent
+SB: 1 [USG:330] Tolarian Academy
+SB: 1 [A25:186] Rancor
+SB: 1 [SOI:155] Falkenrath Gorger
+SB: 1 [C13:177] Baleful Strix
+SB: 1 [C14:22] Flesh Carver
+SB: 1 [EMA:108] Toxic Deluge
+SB: 1 [A25:219] Vindicate
+SB: 1 [ROE:66] Enclave Cryptologist
+SB: 1 [AER:28] Baral, Chief of Compliance
+SB: 1 [TSP:66] Looter il-Kor
+SB: 1 [M19:34] Resplendent Angel
+LAYOUT MAIN:(2,8)(CMC,true,35)|()()()()([SHM:229],[EMA:59],[THB:305],[V09:11])([LRW:88])([KLD:67],[SOM:223])([SOM:180])([THB:251],[THB:251],[THB:251],[THB:251],[THB:251],[THB:251],[THB:251],[THB:250],[THB:250],[THB:250],[THB:250])([V12:10],[A25:236],[WWK:133],[RTR:241],[MM3:239],[ZEN:223])([MIR:14],[BBD:94],[CON:15],[LRW:79],[M11:70],[C18:57],[ICE:54])([ELD:281],[SS1:4],[IMA:65],[RAV:63],[MRD:253])([RAV:40],[HOU:49])([DDF:1])()()
+LAYOUT SIDEBOARD:(1,8)(COLOR_IDENTITY,false,25)|([V09:2],[A25:186])([IMA:140],[DOM:143],[SOI:155])([C14:22],[EMA:108])([ROE:66],[AER:28],[TSP:66],[BFZ:244],[USG:330])([BFZ:239])([C13:177])([M19:34])([A25:219])

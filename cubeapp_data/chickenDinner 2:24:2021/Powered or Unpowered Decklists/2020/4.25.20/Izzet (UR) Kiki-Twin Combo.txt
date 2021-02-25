@@ -1,0 +1,51 @@
+1 [STH:138] Mox Diamond
+1 [P02:46] Sleight of Hand
+1 [M11:70] Preordain
+1 [M10:68] Ponder
+1 [LEA:161] Lightning Bolt
+1 [5DN:27] Condescend
+1 [MRD:256] Talisman of Progress
+1 [MRD:253] Talisman of Dominance
+1 [MMQ:69] Counterspell
+1 [ULG:36] Miscalculation
+1 [RTR:172] Izzet Charm
+1 [NEM:30] Daze
+1 [M14:163] Young Pyromancer
+1 [MOR:55] Vendilion Clique
+1 [LRW:78] Pestermite
+1 [HOU:49] Supreme Will
+1 [PTK:113] Imperial Recruiter
+1 [ROE:165] Splinter Twin
+1 [APC:128] Fire // Ice
+1 [INV:57] Fact or Fiction
+1 [ELD:115] Bonecrusher Giant
+1 [CHK:175] Kiki-Jiki, Mirror Breaker
+1 [UDS:50] Treachery
+1 [C15:14] Mystic Confluence
+8 [GUR:2] Island
+6 [GUR:3] Mountain
+1 [DTK:248] Evolving Wilds
+1 [ELD:244] Fabled Passage
+SB: 1 [WAR:2] Ugin, the Ineffable
+SB: 1 [ORI:83] Whirler Rogue
+SB: 1 [C18:44] Saheeli, the Gifted
+SB: 1 [ELD:138] Robber of the Rich
+SB: 1 [THB:305] Nadir Kraken
+SB: 1 [TSP:66] Looter il-Kor
+SB: 1 [M13:147] Searing Spear
+SB: 1 [RIX:99] Dire Fleet Daredevil
+SB: 1 [DST:149] Sword of Light and Shadow
+SB: 1 [GPT:165] Stomping Ground
+SB: 1 [EXO:115] Oath of Druids
+SB: 1 [NPH:33] Deceiver Exarch
+SB: 1 [KTK:119] Sarkhan, the Dragonspeaker
+SB: 1 [WAR:244] Blast Zone
+SB: 1 [GRN:109] Legion Warboss
+SB: 1 [FRF:143] Warden of the First Tree
+SB: 1 [AKH:136] Hazoret the Fervent
+SB: 1 [5DN:36] Serum Visions
+SB: 1 [LRW:71] Jace Beleren
+SB: 1 [GUR:3] Mountain
+SB: 1 [GUR:2] Island
+LAYOUT MAIN:(1,7)(CMC,false,82)|([GUR:2],[GUR:2],[GUR:2],[GUR:2],[GUR:2],[GUR:2],[GUR:2],[GUR:2],[GUR:3],[GUR:3],[GUR:3],[GUR:3],[GUR:3],[GUR:3])([DTK:248],[ELD:244])([STH:138],[5DN:27],[LEA:161],[M10:68],[M11:70],[P02:46])([MMQ:69],[NEM:30],[RTR:172],[ULG:36],[MRD:253],[MRD:256],[M14:163])([PTK:113],[LRW:78],[HOU:49],[MOR:55])([INV:57],[APC:128],[ROE:165])([ELD:115],[CHK:175],[C15:14],[UDS:50])
+LAYOUT SIDEBOARD:(1,7)(CMC,false,73)|([GPT:165],[5DN:36],[WAR:244],[GUR:3],[GUR:2])([FRF:143])([ELD:138],[TSP:66],[M13:147],[RIX:99],[EXO:115])([THB:305],[DST:149],[NPH:33],[LRW:71],[GRN:109])([ORI:83],[C18:44],[AKH:136])([KTK:119])([WAR:2])

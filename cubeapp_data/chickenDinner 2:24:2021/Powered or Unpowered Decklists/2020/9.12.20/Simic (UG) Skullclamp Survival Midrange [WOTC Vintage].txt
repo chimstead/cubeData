@@ -1,0 +1,49 @@
+1 [M13:160] Arbor Elf
+1 [M12:165] Birds of Paradise
+1 [M11:70] Preordain
+1 [DST:140] Skullclamp
+1 [M12:72] Phantasmal Image
+1 [EXO:129] Survival of the Fittest
+1 [DIS:166] Simic Signet
+1 [TSB:89] Wall of Roots
+1 [XLN:48] Chart a Course
+1 [SOI:233] Tireless Tracker
+1 [M19:196] Reclamation Sage
+1 [SOM:208] Sword of Body and Mind
+1 [THB:229] Uro, Titan of Nature's Wrath
+1 [IKO:319] Shark Typhoon
+1 [LRW:88] Sower of Temptation
+1 [ISD:181] Garruk Relentless
+1 [NPH:42] Phyrexian Metamorph
+1 [INV:57] Fact or Fiction
+1 [EVE:22] Glen Elendra Archmage
+1 [ELD:281] Brazen Borrower
+1 [LRW:76] Mulldrifter
+1 [M13:193] Thragtusk
+1 [SUM:288] Tropical Island
+1 [ZEN:229] Verdant Catacombs
+1 [KTK:249] Wooded Foothills
+1 [ZEN:220] Misty Rainforest
+7 [PGRU:5] Forest
+6 [PGRU:2] Island
+1 [ALL:28] Force of Will
+SB: 1 [MH1:13] Giver of Runes
+SB: 1 [2XM:191] Baleful Strix
+SB: 1 [5ED:249] Mana Flare
+SB: 1 [RNA:251] Hallowed Fountain
+SB: 1 [OGW:171] Hissing Quagmire
+SB: 1 [DOM:143] Siege-Gang Commander
+SB: 1 [WWK:139] Lavaclaw Reaches
+SB: 1 [ELD:171] Questing Beast
+SB: 1 [GRN:257] Steam Vents
+SB: 1 [ORI:105] Languish
+SB: 1 [BFZ:29] Gideon, Ally of Zendikar
+SB: 1 [DOM:207] Teferi, Hero of Dominaria
+SB: 1 [HOU:145] The Scarab God
+SB: 1 [XLN:81] Spell Pierce
+SB: 1 [5DN:86] Eternal Witness
+SB: 1 [TSP:216] Search for Tomorrow
+SB: 1 [RAV:270] Selesnya Signet
+SB: 1 [ULG:126] Grim Monolith
+LAYOUT MAIN:(1,8)(CMC,false,81)|([PGRU:5],[PGRU:5],[PGRU:5],[PGRU:5],[PGRU:5],[PGRU:5],[PGRU:5],[PGRU:2],[PGRU:2],[PGRU:2],[PGRU:2],[PGRU:2],[PGRU:2])([ZEN:220],[SUM:288],[ZEN:229],[KTK:249])([M13:160],[M12:165],[M11:70],[DST:140])([XLN:48],[M12:72],[DIS:166],[EXO:129],[TSB:89])([M19:196],[SOM:208],[SOI:233],[THB:229])([INV:57],[ISD:181],[EVE:22],[NPH:42],[LRW:88])([ELD:281],[LRW:76],[M13:193],[ALL:28])([IKO:319])
+LAYOUT SIDEBOARD:(1,6)(CMC,false,77)|([RNA:251],[OGW:171],[WWK:139],[GRN:257])([MH1:13],[XLN:81],[RAV:270])([2XM:191],[5DN:86],[TSP:216],[ULG:126])([5ED:249])([ELD:171],[ORI:105],[BFZ:29])([DOM:143],[DOM:207],[HOU:145])

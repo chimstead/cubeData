@@ -1,0 +1,50 @@
+1 [ODY:132] Entomb
+1 [ROE:66] Enclave Cryptologist
+1 [LEA:92] Animate Dead
+1 [XLN:48] Chart a Course
+1 [PC2:82] Baleful Strix
+1 [TSP:66] Looter il-Kor
+1 [MRD:253] Talisman of Dominance
+1 [MH1:233] Talisman of Hierarchy
+1 [EXO:72] Recurring Nightmare
+1 [VIS:64] Necromancy
+1 [THB:305] Nadir Kraken
+1 [ODY:292] Psychatog
+1 [LRW:71] Jace Beleren
+1 [MMQ:162] Snuff Out
+1 [FUT:46] Venser, Shaper Savant
+1 [LRW:88] Sower of Temptation
+1 [INV:57] Fact or Fiction
+1 [ORI:83] Whirler Rogue
+1 [4ED:64] Control Magic
+1 [SOM:78] Skinrender
+1 [AKH:97] Liliana, Death's Majesty
+1 [AVR:106] Griselbrand
+1 [SOM:223] Wurmcoil Engine
+1 [TSP:279] Terramorphic Expanse
+1 [C16:56] Ash Barrens
+1 [JOU:163] Mana Confluence
+1 [WWK:134] Creeping Tar Pit
+7 [GUR:2] Island
+6 [GUR:5] Swamp
+SB: 1 [LEG:137] Chain Lightning
+SB: 1 [KLD:231] Scrapheap Scrounger
+SB: 1 [DTK:169] Zurgo Bellstriker
+SB: 1 [RNA:76] Gutterbones
+SB: 1 [XLN:74] Search for Azcanta
+SB: 1 [C13:25] Unexpectedly Absent
+SB: 1 [WAR:97] Liliana, Dreadhorde General
+SB: 1 [ELD:288] Order of Midnight
+SB: 1 [M15:145] Goblin Rabblemaster
+SB: 1 [ZEN:83] Bloodghast
+SB: 1 [EXO:129] Survival of the Fittest
+SB: 1 [USG:174] Arc Lightning
+SB: 1 [UDS:124] Yavimaya Elder
+SB: 1 [PLC:85] Damnation
+SB: 1 [CON:30] Inkwell Leviathan
+SB: 1 [MH1:116] Yawgmoth, Thran Physician
+SB: 1 [AER:57] Fatal Push
+SB: 1 [ONS:319] Grand Coliseum
+SB: 3 [GUR:3] Mountain
+LAYOUT MAIN:(1,9)(CMC,false,73)|([GUR:2],[GUR:2],[GUR:2],[GUR:2],[GUR:2],[GUR:2],[GUR:2],[GUR:5],[GUR:5],[GUR:5],[GUR:5],[GUR:5],[GUR:5])([C16:56],[WWK:134],[JOU:163],[TSP:279])([ROE:66],[ODY:132])([LEA:92],[PC2:82],[XLN:48],[TSP:66],[MRD:253],[MH1:233])([LRW:71],[THB:305],[VIS:64],[ODY:292],[EXO:72])([4ED:64],[INV:57],[SOM:78],[MMQ:162],[LRW:88],[FUT:46],[ORI:83])([AKH:97])([SOM:223])([AVR:106])
+LAYOUT SIDEBOARD:(1,7)(CMC,false,73)|([ONS:319],[GUR:3],[GUR:3],[GUR:3])([LEG:137],[DTK:169],[RNA:76],[AER:57])([KLD:231],[XLN:74],[C13:25],[ZEN:83],[EXO:129])([M15:145],[USG:174],[UDS:124])([ELD:288],[PLC:85],[MH1:116])([WAR:97])([CON:30])

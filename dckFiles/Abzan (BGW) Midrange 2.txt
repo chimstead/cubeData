@@ -1,8 +1,11 @@
+2017
+12.17
+12.3.17
 7 Forest
 2 Swamp
 1 Plains
 1 Arid Mesa
-1 Concealed Courtyard 
+1 Concealed Courtyard
 1 Godless Shrine
 1 Hissing Quagmire
 1 Overgrown Tomb
@@ -10,13 +13,13 @@
 1 Strip Mine
 1 Enlightened Tutor
 1 Joraga Treespeaker
-1 Swords to Splowshares
+1 Swords to Plowshares
 1 Fauna Shaman
 1 Orzhov Signet
 1 Sakura-Tribe Elder
 1 Survival of the Fittest
 1 Tarmogoyf
-1 Umezawa’s Jitte
+1 Umezawa's Jitte
 1 Coalition Relic
 1 Courser of Kruphix
 1 Eternal Witness
@@ -31,4 +34,3 @@
 1 Acidic Slime
 1 Wurmcoil Engine
 1 Woodfall Primus
-

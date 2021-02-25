@@ -1,0 +1,49 @@
+1 [MH1:168] Hexdrinker
+1 [5DN:27] Condescend
+1 [ICE:244] Fyndhorn Elves
+1 [6ED:217] Birds of Paradise
+1 [RAV:163] Farseek
+1 [RAV:63] Remand
+1 [LEG:207] Sylvan Library
+1 [THS:180] Sylvan Caryatid
+1 [M11:172] Fauna Shaman
+1 [ZEN:168] Lotus Cobra
+1 [THB:305] Nadir Kraken
+1 [BNG:119] Courser of Kruphix
+1 [4ED:64] Control Magic
+1 [ELD:171] Questing Beast
+1 [LRW:88] Sower of Temptation
+1 [FUT:46] Venser, Shaper Savant
+1 [UDS:40] Opposition
+1 [MBS:92] Thrun, the Last Troll
+1 [M10:191] Master of the Wild Hunt
+1 [CHK:74] Meloku the Clouded Mirror
+1 [ULG:101] Deranged Hermit
+1 [ELD:281] Brazen Borrower
+1 [M12:72] Phantasmal Image
+1 [ZEN:223] Scalding Tarn
+1 [LEB:283] Taiga
+1 [ONS:319] Grand Coliseum
+8 [GUR:1] Forest
+6 [GUR:2] Island
+SB: 1 [EXO:35] Forbid
+SB: 1 [CN2:18] Palace Jailer
+SB: 1 [DST:149] Sword of Light and Shadow
+SB: 1 [ZEN:14] Journey to Nowhere
+SB: 1 [HOU:129] Ramunap Excavator
+SB: 1 [MIR:255] Worldly Tutor
+SB: 1 [LEG:185] Eureka
+SB: 1 [KTK:59] Treasure Cruise
+SB: 1 [RAV:284] Temple Garden
+SB: 1 [LEG:28] Moat
+SB: 1 [MH1:229] Sword of Truth and Justice
+SB: 1 [RAV:117] Char
+SB: 1 [USG:96] Show and Tell
+SB: 1 [ODY:70] Careful Study
+SB: 1 [ATQ:80a] Mishra's Factory
+SB: 1 [M11:188] Obstinate Baloth
+SB: 1 [DTK:169] Zurgo Bellstriker
+SB: 1 [THS:108] Tormented Hero
+SB: 1 [TOR:100] Grim Lavamancer
+LAYOUT MAIN:(1,7)(CMC,false,71)|([GUR:1],[GUR:1],[GUR:1],[GUR:1],[GUR:1],[GUR:1],[GUR:1],[GUR:1],[GUR:2],[GUR:2],[GUR:2],[GUR:2],[GUR:2],[GUR:2])([ONS:319],[ZEN:223],[LEB:283])([6ED:217],[5DN:27],[ICE:244],[MH1:168])([RAV:163],[M11:172],[ZEN:168],[M12:72],[RAV:63],[THS:180],[LEG:207])([BNG:119],[THB:305],[ELD:281])([4ED:64],[M10:191],[UDS:40],[ELD:171],[LRW:88],[MBS:92],[FUT:46])([ULG:101],[CHK:74])
+LAYOUT SIDEBOARD:(1,6)(CMC,false,64)|([RAV:284],[ATQ:80a])([MIR:255],[ODY:70],[DTK:169],[THS:108],[TOR:100])([ZEN:14])([EXO:35],[DST:149],[HOU:129],[MH1:229],[RAV:117],[USG:96])([CN2:18],[LEG:185],[LEG:28],[M11:188])([KTK:59])

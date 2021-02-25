@@ -1,0 +1,49 @@
+1 [M11:149] Lightning Bolt
+1 [ZEN:119] Burst Lightning
+1 [ISD:170] Avacyn's Pilgrim
+1 [MH1:217] Wrenn and Six
+1 [DIS:166] Simic Signet
+1 [CHK:239] Sakura-Tribe Elder
+1 [M19:152] Lightning Strike
+1 [GPT:152] Izzet Signet
+1 [RAV:262] Golgari Signet
+1 [RAV:255] Boros Signet
+1 [CHK:225] Kodama's Reach
+1 [MH1:145] Seasoned Pyromancer
+1 [DKA:140] Huntmaster of the Fells
+1 [DKA:93] Hellrider
+1 [ISD:181] Garruk Relentless
+1 [ARB:50] Bloodbraid Elf
+1 [FRF:145] Whisperwood Elemental
+1 [M19:208] Vivien Reid
+1 [AKH:134] Glorybringer
+1 [SOM:223] Wurmcoil Engine
+1 [XLN:179] Carnage Tyrant
+1 [DTK:216] Dragonlord Atarka
+1 [ZEN:211] Arid Mesa
+1 [SOM:225] Copperline Gorge
+1 [4ED:361] Mishra's Factory
+1 [2ED:266] Mox Sapphire
+1 [M14:228] Mutavault
+1 [WWK:141] Raging Ravine
+1 [3ED:287] Taiga
+1 [KTK:249] Wooded Foothills
+1 [AER:181] Walking Ballista
+5 [THB:254] Forest
+4 [THB:253] Mountain
+SB: 1 [FUT:101] Magus of the Moon
+SB: 1 [M11:153] Pyretic Ritual
+SB: 1 [DOM:26] Lyra Dawnbringer
+SB: 1 [WWK:108] Nature's Claim
+SB: 1 [NEM:139] Tangle Wire
+SB: 1 [OGW:175] Needle Spires
+SB: 1 [KTK:36] Dig Through Time
+SB: 1 [NPH:4] Blade Splicer
+SB: 1 [THS:187] Ashen Rider
+SB: 1 [DOM:207] Teferi, Hero of Dominaria
+SB: 1 [BBD:25] Brightling
+SB: 1 [MBS:10] Leonin Relic-Warder
+SB: 1 [DST:148] Sword of Fire and Ice
+SB: 1 [UDS:124] Yavimaya Elder
+LAYOUT MAIN:(1,6)(CMC,false,62)|([ZEN:211],[SOM:225],[4ED:361],[2ED:266],[M14:228],[WWK:141],[3ED:287],[KTK:249],[THB:254],[THB:254],[THB:254],[THB:254],[THB:254],[THB:253],[THB:253],[THB:253],[THB:253])([M11:149],[ZEN:119],[ISD:170])([MH1:217],[DIS:166],[CHK:239],[M19:152],[GPT:152],[RAV:262],[RAV:255])([CHK:225],[MH1:145])([DKA:140],[DKA:93],[ISD:181],[ARB:50],[AER:181])([FRF:145],[M19:208],[AKH:134],[SOM:223],[XLN:179],[DTK:216])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,61)|([THS:187],[NPH:4],[BBD:25],[KTK:36],[MBS:10],[DOM:26],[FUT:101],[WWK:108],[OGW:175],[M11:153],[DST:148],[NEM:139],[DOM:207],[UDS:124])

@@ -1,0 +1,49 @@
+1 [THS:122] Firedrinker Satyr
+1 [MM3:96] Goblin Guide
+1 [MH1:13] Giver of Runes
+1 [XLN:22] Legion's Landing
+1 [IMA:140] Monastery Swiftspear
+1 [ROE:146] Forked Bolt
+1 [ORI:23] Kytheon, Hero of Akros
+1 [2XM:35] Thraben Inspector
+1 [DD2:49] Firebolt
+1 [KLD:235] Smuggler's Copter
+1 [ELD:138] Robber of the Rich
+1 [M19:152] Lightning Strike
+1 [MMA:179] Lightning Helix
+1 [C13:179] Boros Charm
+1 [THS:128] Magma Jet
+1 [GRN:103] Goblin Cratermaker
+1 [GRN:204] Tajic, Legion's Edge
+1 [RAV:117] Char
+1 [M20:126] Chandra, Acolyte of Flame
+1 [THB:148] Phoenix of Ash
+1 [PPRE:38] Ajani Vengeant
+1 [MMA:117] Greater Gargadon
+1 [A25:128] Eidolon of the Great Revel
+1 [ELD:239] Castle Embereth
+1 [GTC:245] Sacred Foundry
+1 [ORI:244] Battlefield Forge
+1 [MH1:246] Silent Clearing
+1 [KLD:246] Inspiring Vantage
+1 [KTK:249] Wooded Foothills
+1 [MM3:244] Scalding Tarn
+5 [UGL:87] Mountain
+4 [UGL:84] Plains
+1 [PISD:140] Devil's Play
+SB: 1 [MM2:219] Lodestone Golem
+SB: 1 [KLD:214] Fleetwheel Cruiser
+SB: 1 [THS:33] Spear of Heliod
+SB: 1 [ALL:139] Kjeldoran Outpost
+SB: 1 [XLN:74] Search for Azcanta
+SB: 1 [C13:110] Goblin Bombardment
+SB: 1 [KLD:15] Fumigate
+SB: 1 [IKO:21] Luminous Broodmoth
+SB: 1 [CM2:16] Angel of Serenity
+SB: 1 [PMBS:8] Hero of Bladehold
+SB: 1 [EMA:223] Isochron Scepter
+SB: 1 [M14:139] Flames of the Firebrand
+SB: 1 [PNPH:73] Sheoldred, Whispering One
+SB: 1 [DKA:24] Thalia, Guardian of Thraben
+LAYOUT MAIN:(1,6)(CMC,false,50)|([ELD:239],[GTC:245],[ORI:244],[MH1:246],[KLD:246],[KTK:249],[MM3:244],[UGL:87],[UGL:87],[UGL:87],[UGL:87],[UGL:87],[UGL:84],[UGL:84],[UGL:84],[UGL:84])([THS:122],[MM3:96],[MH1:13],[XLN:22],[IMA:140],[ROE:146],[ORI:23],[2XM:35],[DD2:49],[PISD:140])([KLD:235],[ELD:138],[M19:152],[MMA:179],[C13:179],[THS:128],[GRN:103],[A25:128])([GRN:204],[RAV:117],[M20:126],[THB:148])([PPRE:38])([MMA:117])
+LAYOUT SIDEBOARD:(1,6)(CMC,false,45)|([ALL:139])([XLN:74],[C13:110],[EMA:223],[DKA:24])([THS:33],[M14:139])([MM2:219],[KLD:214],[IKO:21],[PMBS:8])([KLD:15])([CM2:16],[PNPH:73])

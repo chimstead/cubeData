@@ -1,0 +1,30 @@
+7 Mountain
+5 Plains
+1 Marsh Flats
+1 Mutavault
+1 Sacred Foundry
+1 Chain Lightning
+1 Goblin Guide
+1 Lightning Bolt
+1 Rakdos Cackler
+1 Skullclamp
+1 Swords to Plowshares
+1 Abrade
+1 Boros Charm
+1 Earthshaker Khenra
+1 Harsh Mentor
+1 Incinerate
+1 Journey to Nowhere
+1 Kari Zev, Skyship Raider
+1 Lightning Strike
+1 Magma Jet
+1 Umezawa's Jitte
+1 Banishing Light
+1 Char
+1 Gideon of the Trials
+1 Goblin Rabblemaster
+1 Wheel of Fortune
+1 Ajani Vengeant
+1 Hellrider
+1 Hero of Bladehold
+1 Fireblast

@@ -1,0 +1,37 @@
+1 Breeding Pool
+3 Forest
+1 Island
+1 Lumbering Falls
+2 Mountain
+1 Raging Ravine
+1 Scalding Tarn
+1 Stomping Ground
+1 Tropical Island
+1 Terramorphic Expanse
+1 Taiga
+1 Volcanic Island
+1 Yavimaya Coast
+1 Earthquake
+1 Oath of Nissa
+1 Engineered Explosives
+1 Arc Trail
+1 Channel
+1 Dire Fleet Daredevil
+1 Fauna Shaman
+1 Prismatic Lens
+1 Rampant Growth
+1 Char
+1 Deceiver Exarch
+1 Mimic Vat
+1 Eureka
+1 Fact or Fiction
+1 Polukranos, World Eater
+1 Sneak Attack
+1 Solemn Simulacrum
+1 Splinter Twin
+1 Batterskull
+1 Verdurous Gearhulk
+1 Dragonlord Atarka
+1 Karn Liberated
+1 Greater Gargadon
+1 Ulamog, the Infinite Gyre

@@ -1,0 +1,53 @@
+1 [2ED:264] Mox Pearl
+1 [EMA:199] Dack Fayden
+1 [KLD:244] Botanical Sanctum
+1 [C16:195] Edric, Spymaster of Trest
+1 [BFZ:209] Bring to Light
+3 [UNH:140] Forest
+1 [JR:109] Imperial Seal
+1 [MMQ:61] Brainstorm
+1 [GPT:111] Electrolyze
+3 [UNH:139] Mountain
+1 [CN2:77] Leovold, Emissary of Trest
+1 [A25:136] Imperial Recruiter
+1 [MPS:16] Mana Crypt
+1 [GPT:150] Gruul Signet
+1 [INV:57] Fact or Fiction
+1 [AKH:175] Manglehorn
+3 [UNH:137] Island
+2 [UNH:138] Swamp
+1 [6ED:161] Vampiric Tutor
+1 [CHK:175] Kiki-Jiki, Mirror Breaker
+1 [LRW:78] Pestermite
+1 [DST:140] Skullclamp
+1 [RAV:161] Elves of Deep Shadow
+1 [RTR:141] Abrupt Decay
+1 [M12:165] Birds of Paradise
+1 [ROE:165] Splinter Twin
+1 [DOM:1] Karn, Scion of Urza
+1 [ALL:28] Force of Will
+1 [DST:148] Sword of Fire and Ice
+1 [KTK:230] Bloodstained Mire
+1 [NPH:42] Phyrexian Metamorph
+1 [2ED:48] Ancestral Recall
+1 [JOU:163] Mana Confluence
+SB: 1 [VIS:64] Necromancy
+SB: 1 [SCG:75] Tendrils of Agony
+SB: 1 [AER:57] Fatal Push
+SB: 1 [TSB:55] Avalanche Riders
+SB: 1 [ODY:117] Braids, Cabal Minion
+SB: 1 [KTK:118] Monastery Swiftspear
+SB: 1 [FUT:101] Magus of the Moon
+SB: 1 [CSP:96] Rite of Flame
+SB: 1 [M12:146] Incinerate
+SB: 1 [MIR:307] Lion's Eye Diamond
+SB: 1 [KTK:267] Forest
+SB: 1 [TSP:152] Empty the Warrens
+SB: 1 [DST:149] Sword of Light and Shadow
+SB: 1 [ODY:113] Upheaval
+SB: 1 [M13:43] Augur of Bolas
+SB: 1 [RTR:44] Jace, Architect of Thought
+SB: 1 [USG:171] Yawgmoth's Will
+SB: 1 [UNH:137] Island
+LAYOUT MAIN:(1,6)(CMC,false,50)|([KTK:230],[JOU:163],[2ED:264],[KLD:244],[MPS:16],[UNH:140],[UNH:140],[UNH:137],[UNH:137],[UNH:137],[UNH:139],[UNH:139],[UNH:139],[UNH:138],[UNH:138],[UNH:140])([6ED:161],[JR:109],[MMQ:61],[DST:140],[2ED:48],[RAV:161],[M12:165])([RTR:141],[GPT:150])([CN2:77],[DST:148],[AKH:175],[LRW:78],[GPT:111],[EMA:199],[C16:195],[A25:136])([ROE:165],[INV:57],[NPH:42],[DOM:1])([CHK:175],[BFZ:209],[ALL:28])
+LAYOUT SIDEBOARD:(1,6)(CMC,false,50)|([MIR:307],[UNH:137],[KTK:267])([KTK:118],[CSP:96],[AER:57])([M13:43],[M12:146])([USG:171],[FUT:101],[VIS:64],[DST:149])([SCG:75],[TSB:55],[TSP:152],[ODY:117],[RTR:44])([ODY:113])

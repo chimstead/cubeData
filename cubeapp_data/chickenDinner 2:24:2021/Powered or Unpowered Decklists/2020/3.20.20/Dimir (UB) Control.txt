@@ -1,0 +1,57 @@
+1 [UMA:58] Glen Elendra Archmage
+1 [ROE:115] Inquisition of Kozilek
+1 [UMA:50] Dig Through Time
+1 [BBD:122] Mystic Confluence
+1 [M20:68] Mu Yanling, Sky Dancer
+1 [IMA:110] Thoughtseize
+1 [DOM:81] Cast Down
+1 [XLN:110] Kitesail Freebooter
+1 [MRD:253] Talisman of Dominance
+1 [M20:52] Cavalier of Gales
+1 [STH:36] Mana Leak
+1 [MM2:55] Remand
+1 [MMQ:162] Snuff Out
+1 [V17:12a] Jace, Vryn's Prodigy
+1 [M12:72] Phantasmal Image
+1 [KLD:67] Torrential Gearhulk
+1 [BBD:131] Sower of Temptation
+1 [WAR:61] Narset, Parter of Veils
+1 [ULG:36] Miscalculation
+1 [IMA:47] Consecrated Sphinx
+1 [M11:70] Preordain
+1 [4ED:64] Control Magic
+1 [FEM:38a] Hymn to Tourach
+1 [MH1:244] Prismatic Vista
+1 [UMA:239] Creeping Tar Pit
+3 [BFZ:257] Island
+1 [BFZ:256] Island
+1 [BFZ:255] Island
+2 [BFZ:259] Island
+2 [BFZ:258] Island
+2 [BFZ:263] Swamp
+1 [BFZ:264] Swamp
+1 [BFZ:262] Swamp
+1 [BFZ:260] Swamp
+1 [BFZ:261] Swamp
+SB: 1 [KTK:249] Wooded Foothills
+SB: 1 [OGW:104] Chandra, Flamecaller
+SB: 1 [MH1:76] Watcher for Tomorrow
+SB: 1 [RNA:248] Godless Shrine
+SB: 1 [GNT:36] Zulaport Cutthroat
+SB: 1 [RNA:185] Judith, the Scourge Diva
+SB: 1 [KTK:230] Bloodstained Mire
+SB: 1 [USG:218] Sneak Attack
+SB: 1 [WAR:185] Angrath's Rampage
+SB: 1 [ODY:70] Careful Study
+SB: 1 [M14:22] Imposing Sovereign
+SB: 1 [ELD:101] Rankle, Master of Pranks
+SB: 1 [RNA:76] Gutterbones
+SB: 1 [AVR:36] Silverblade Paladin
+SB: 1 [THB:83] Agonizing Remorse
+SB: 1 [UNH:51] Booster Tutor
+SB: 1 [SOM:175] Mimic Vat
+SB: 1 [XLN:48] Chart a Course
+SB: 1 [ORI:105] Languish
+SB: 1 [AKH:97] Liliana, Death's Majesty
+LAYOUT MAIN:(1,8)(CMC,false,50)|([MH1:244],[UMA:239],[BFZ:257],[BFZ:256],[BFZ:257],[BFZ:257],[BFZ:255],[BFZ:259],[BFZ:258],[BFZ:259],[BFZ:258],[BFZ:263],[BFZ:264],[BFZ:262],[BFZ:260],[BFZ:263],[BFZ:261])([ROE:115],[IMA:110],[M11:70],[MMQ:162])([DOM:81],[XLN:110],[MRD:253],[STH:36],[MM2:55],[V17:12a],[M12:72],[ULG:36],[FEM:38a])([M20:68],[WAR:61])([UMA:58],[BBD:131],[4ED:64])([BBD:122],[M20:52])([KLD:67],[IMA:47])([UMA:50])
+LAYOUT SIDEBOARD:(1,7)(CMC,false,50)|([KTK:249],[RNA:248],[KTK:230])([ODY:70],[RNA:76],[UNH:51])([MH1:76],[GNT:36],[WAR:185],[M14:22],[THB:83],[XLN:48])([RNA:185],[AVR:36],[SOM:175])([USG:218],[ELD:101],[ORI:105])([AKH:97])([OGW:104])

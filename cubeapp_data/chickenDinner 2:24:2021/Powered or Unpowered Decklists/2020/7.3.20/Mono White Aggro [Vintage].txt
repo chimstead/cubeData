@@ -1,0 +1,50 @@
+1 [ROE:47] Student of Warfare
+1 [ME2:27] Ravages of War
+1 [FRF:20] Monastery Mentor
+1 [LEB:264] Mox Pearl
+1 [5DN:126] Grafted Wargear
+1 [CHK:19] Isamaru, Hound of Konda
+1 [M14:228] Mutavault
+1 [DOM:6] Benalish Marshal
+1 [MH1:13] Giver of Runes
+1 [NEM:139] Tangle Wire
+1 [EVE:6] Flickerwisp
+1 [ORI:23] Kytheon, Hero of Akros
+1 [MBS:8] Hero of Bladehold
+1 [XLN:1] Adanto Vanguard
+1 [RIX:21] Skymarcher Aspirant
+1 [ELD:235] Stonecoil Serpent
+1 [ISD:6] Champion of the Parish
+1 [ELD:35] Venerable Knight
+1 [THB:4] Banishing Light
+1 [MH1:210] Nature's Chant
+1 [SHM:23] Spectral Procession
+1 [LEB:276] Winter Orb
+1 [GPX:2016b] Sword of Feast and Famine
+1 [CON:15] Path to Exile
+1 [DOM:14] Dauntless Bodyguard
+7 [LEB:290] Plains
+3 [LEB:289] Plains
+5 [LEB:288] Plains
+SB: 1 [M11:70] Preordain
+SB: 1 [ZEN:220] Misty Rainforest
+SB: 1 [LEB:162] Lightning Bolt
+SB: 1 [RTR:247] Steam Vents
+SB: 1 [CN2:41] Custodi Lich
+SB: 1 [WAR:171] Paradise Druid
+SB: 1 [M12:12] Day of Judgment
+SB: 1 [ELD:171] Questing Beast
+SB: 1 [ULG:101] Deranged Hermit
+SB: 1 [DRK:117] Maze of Ith
+SB: 1 [EMN:93] Liliana, the Last Hope
+SB: 1 [MH1:168] Hexdrinker
+SB: 1 [C13:84] Ophiomancer
+SB: 1 [RAV:213] Lightning Helix
+SB: 1 [M15:178] Hornet Queen
+SB: 1 [SCG:41] Mind's Desire
+SB: 1 [MRD:254] Talisman of Impulse
+SB: 1 [DDR:61] Smallpox
+SB: 1 [MH1:161] Deep Forest Hermit
+SB: 1 [ODY:118] Buried Alive
+LAYOUT MAIN:(1,6)(CMC,false,70)|([LEB:264],[M14:228],[ELD:235],[LEB:290],[LEB:289],[LEB:288],[LEB:290],[LEB:288],[LEB:289],[LEB:288],[LEB:288],[LEB:290],[LEB:290],[LEB:290],[LEB:288],[LEB:290],[LEB:290],[LEB:289])([ROE:47],[CHK:19],[MH1:13],[ORI:23],[RIX:21],[ISD:6],[ELD:35],[CON:15],[DOM:14])([XLN:1],[MH1:210],[LEB:276])([FRF:20],[5DN:126],[DOM:6],[NEM:139],[EVE:6],[THB:4],[GPX:2016b])([ME2:27],[MBS:8])([SHM:23])
+LAYOUT SIDEBOARD:(1,7)(COLOR,false,70)|([ZEN:220],[RTR:247],[DRK:117],[MRD:254])([CN2:41],[EMN:93],[C13:84],[DDR:61],[ODY:118])([M11:70],[SCG:41])([WAR:171],[ELD:171],[ULG:101],[MH1:168],[M15:178],[MH1:161])([LEB:162])([M12:12])([RAV:213])

@@ -1,0 +1,52 @@
+1 [ZNR:12] Emeria's Call
+1 [IKO:319] Shark Typhoon
+1 [PZ2:65681] Fractured Identity
+1 [THB:208] Ashiok, Nightmare Muse
+1 [ORI:83] Whirler Rogue
+1 [M12:12] Day of Judgment
+1 [10E:61] Wrath of God
+1 [PLC:85] Damnation
+1 [2XM:11] Council's Judgment
+1 [MH1:100] Plague Engineer
+1 [APC:126] Vindicate
+1 [MH1:52] Force of Negation
+1 [7ED:76] Force Spike
+1 [5DN:36] Serum Visions
+1 [M21:96] Duress
+1 [2XM:191] Baleful Strix
+1 [RAV:63] Remand
+1 [ZEN:14] Journey to Nowhere
+1 [CSP:46] Rune Snag
+1 [ROE:53] Wall of Omens
+1 [7ED:67] Counterspell
+1 [ORI:105] Languish
+1 [ZNR:115] Nighthawk Scavenger
+1 [10E:362] Underground River
+1 [WWK:134] Creeping Tar Pit
+1 [10E:347] Adarkar Wastes
+1 [MH1:246] Silent Clearing
+1 [ZEN:211] Arid Mesa
+1 [KTK:230] Bloodstained Mire
+1 [BFZ:244] Shambling Vent
+1 [GRN:259] Watery Grave
+1 [WWK:133] Celestial Colonnade
+1 [RNA:251] Hallowed Fountain
+1 [KTK:239] Polluted Delta
+1 [3ED:297] Island
+1 [3ED:295] Island
+1 [3ED:294] Plains
+1 [3ED:292] Plains
+2 [3ED:298] Swamp
+SB: 1 [ELD:335] Charming Prince
+SB: 1 [RAV:117] Char
+SB: 1 [MRD:146] Bonesplitter
+SB: 1 [EXO:53] Carnophage
+SB: 1 [RNA:183] Hydroid Krasis
+SB: 1 [KTK:118] Monastery Swiftspear
+SB: 1 [AVR:205] Wolfir Avenger
+SB: 1 [RNA:122] Biogenic Ooze
+SB: 1 [OGW:171] Hissing Quagmire
+SB: 1 [RIX:99] Dire Fleet Daredevil
+SB: 1 [AER:28] Baral, Chief of Compliance
+LAYOUT MAIN:(1,7)(CMC,false,50)|([10E:362],[WWK:134],[10E:347],[MH1:246],[ZEN:211],[KTK:230],[BFZ:244],[GRN:259],[WWK:133],[RNA:251],[KTK:239],[ZNR:12],[3ED:297],[3ED:295],[3ED:294],[3ED:292],[3ED:298],[3ED:298])([7ED:76],[5DN:36],[M21:96])([2XM:191],[RAV:63],[ZEN:14],[CSP:46],[ROE:53],[7ED:67])([2XM:11],[MH1:100],[APC:126],[MH1:52],[ZNR:115])([ORI:83],[M12:12],[10E:61],[PLC:85],[ORI:105])([PZ2:65681],[THB:208])([IKO:319])
+LAYOUT SIDEBOARD:(1,5)(CMC,false,50)|([OGW:171])([MRD:146],[EXO:53],[KTK:118])([ELD:335],[RNA:183],[RIX:99],[AER:28])([RAV:117],[AVR:205])([RNA:122])

@@ -1,0 +1,49 @@
+1 [M12:73] Ponder
+1 [KTK:36] Dig Through Time
+1 [ROE:145] Flame Slash
+1 [ROE:165] Splinter Twin
+1 [AVR:166] Zealous Conscripts
+1 [BBD:41] Spellseeker
+1 [RAV:63] Remand
+1 [A25:136] Imperial Recruiter
+1 [ULG:36] Miscalculation
+1 [MMQ:61] Brainstorm
+1 [RAV:40] Compulsive Research
+1 [WAR:61] Narset, Parter of Veils
+1 [GPT:32] Repeal
+1 [MH1:230] Talisman of Conviction
+1 [TSP:66] Looter il-Kor
+1 [ORI:157] Pia and Kiran Nalaar
+1 [BBD:122] Mystic Confluence
+1 [KLD:235] Smuggler's Copter
+1 [FUT:161] Coalition Relic
+1 [M14:163] Young Pyromancer
+1 [NPH:33] Deceiver Exarch
+1 [AER:28] Baral, Chief of Compliance
+1 [2ED:48] Ancestral Recall
+1 [GRN:257] Steam Vents
+1 [JOU:163] Mana Confluence
+1 [2ED:263] Mox Jet
+1 [3ED:288] Tropical Island
+1 [KTK:230] Bloodstained Mire
+1 [TMP:315] Ancient Tomb
+1 [KTK:249] Wooded Foothills
+5 [UNH:137] Island
+5 [UNH:139] Mountain
+SB: 1 [2ED:85] Timetwister
+SB: 1 [EMA:108] Toxic Deluge
+SB: 1 [EXO:115] Oath of Druids
+SB: 1 [FEM:18a] High Tide
+SB: 1 [KTK:81] Murderous Cut
+SB: 1 [MH1:116] Yawgmoth, Thran Physician
+SB: 1 [USG:96] Show and Tell
+SB: 1 [M14:22] Imposing Sovereign
+SB: 1 [RAV:213] Lightning Helix
+SB: 1 [JOU:94] Eidolon of the Great Revel
+SB: 1 [SOM:224] Blackcleave Cliffs
+SB: 1 [WWK:141] Raging Ravine
+SB: 1 [ULG:38] Palinchron
+SB: 1 [MH1:75] Urza, Lord High Artificer
+SB: 1 [ELD:122] Embereth Shieldbreaker
+LAYOUT MAIN:(1,8)(CMC,false,44)|([UNH:137],[UNH:137],[UNH:137],[UNH:137],[UNH:137],[UNH:139],[UNH:139],[UNH:139],[UNH:139],[UNH:139])([TMP:315],[KTK:230],[JOU:163],[GRN:257],[3ED:288],[KTK:249],[2ED:263])([2ED:48],[MMQ:61],[ROE:145],[M12:73],[GPT:32])([AER:28],[TSP:66],[ULG:36],[RAV:63],[KLD:235],[MH1:230],[M14:163])([FUT:161],[RAV:40],[NPH:33],[A25:136],[WAR:61],[BBD:41])([ORI:157],[ROE:165])([BBD:122],[AVR:166])([KTK:36])
+LAYOUT SIDEBOARD:(1,7)(CMC,false,50)|([FEM:18a])([EXO:115],[M14:22],[RAV:213],[JOU:94],[ELD:122])([2ED:85],[EMA:108],[USG:96])([MH1:116],[MH1:75])([KTK:81])([ULG:38])([SOM:224],[WWK:141])

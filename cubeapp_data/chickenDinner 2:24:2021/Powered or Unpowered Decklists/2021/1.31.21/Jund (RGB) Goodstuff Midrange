@@ -1,0 +1,53 @@
+1 [DDU:7] Elvish Mystic
+1 [IMA:110] Thoughtseize
+1 [UMA:162] Devoted Druid
+1 [M19:152] Lightning Strike
+1 [C15:200] Sakura-Tribe Elder
+1 [THS:180] Sylvan Caryatid
+1 [A25:164] Courser of Kruphix
+1 [A25:165] Cultivate
+1 [2XM:178] Reclamation Sage
+1 [DTK:224] Kolaghan's Command
+1 [MH1:230] Talisman of Conviction
+1 [M20:200] Voracious Hydra
+1 [ELD:181] Wicked Wolf
+1 [JMP:319] Flametongue Kavu
+1 [XLN:232] Vraska, Relic Seeker
+1 [MM3:143] Thragtusk
+1 [MH1:161] Deep Forest Hermit
+1 [ISD:181] Garruk Relentless
+1 [MB1:456] Phyrexian Metamorph
+1 [MM2:75] Dark Confidant
+1 [KLD:110] Chandra, Torch of Defiance
+1 [RTR:238] Blood Crypt
+1 [MM3:249] Verdant Catacombs
+1 [JMP:78] Terramorphic Expanse
+1 [AKH:248] Sheltered Thicket
+1 [OGW:171] Hissing Quagmire
+1 [SOM:225] Copperline Gorge
+1 [KLD:243] Blooming Marsh
+1 [DDU:34] Forest
+1 [DDU:31] Forest
+3 [DDU:33] Forest
+2 [DDU:75] Mountain
+1 [M15:261] Swamp
+1 [IMA:149] Thundermaw Hellkite
+1 [DDU:76] Mountain
+1 [UMA:164] Fauna Shaman
+1 [C16:166] Scavenging Ooze
+SB: 1 [IMA:28] Restoration Angel
+SB: 1 [ROE:165] Splinter Twin
+SB: 1 [WAR:13*] Gideon Blackblade
+SB: 1 [IMA:66] Mana Leak
+SB: 1 [MH1:103] Ransack the Lab
+SB: 1 [EMN:6] Emrakul, the Promised End
+SB: 1 [EMA:148] Sneak Attack
+SB: 1 [AKH:117] Ahn-Crop Crasher
+SB: 1 [RIX:148] Thrashing Brontodon
+SB: 1 [THB:108] Nightmare Shepherd
+SB: 1 [ISD:105] Liliana of the Veil
+SB: 1 [WAR:180*] Vivien, Champion of the Wilds
+SB: 1 [THS:90] Hero's Downfall
+SB: 1 [RTR:73] Pack Rat
+LAYOUT MAIN:(1,7)(CMC,false,74)|([RTR:238],[KLD:243],[SOM:225],[DDU:34],[DDU:31],[DDU:33],[DDU:33],[DDU:33],[OGW:171],[DDU:75],[DDU:75],[DDU:76],[AKH:248],[M15:261],[JMP:78],[MM3:249])([DDU:7],[IMA:110])([MM2:75],[UMA:162],[M19:152],[C15:200],[THS:180],[MH1:230],[UMA:164],[C16:166])([A25:164],[A25:165],[DTK:224],[2XM:178])([KLD:110],[JMP:319],[ISD:181],[MB1:456],[ELD:181],[M20:200])([MH1:161],[MM3:143],[IMA:149])([XLN:232])
+LAYOUT SIDEBOARD:(1,1)(COLOR,false,88)|([EMN:6],[THS:90],[ISD:105],[THB:108],[RTR:73],[MH1:103],[IMA:66],[RIX:148],[WAR:180*],[AKH:117],[EMA:148],[ROE:165],[WAR:13*],[IMA:28])

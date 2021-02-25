@@ -1,0 +1,50 @@
+1 [OGW:182] Wandering Fumarole
+1 [RNA:245] Blood Crypt
+1 [ZEN:223] Scalding Tarn
+1 [2ED:263] Mox Jet
+1 [RNA:259] Stomping Ground
+1 [KLD:243] Blooming Marsh
+1 [BFZ:239] Lumbering Falls
+1 [KTK:249] Wooded Foothills
+1 [WWK:141] Raging Ravine
+1 [GRN:257] Steam Vents
+1 [3ED:287] Taiga
+1 [SOM:224] Blackcleave Cliffs
+1 [XLN:81] Spell Pierce
+1 [GPT:152] Izzet Signet
+1 [DIS:165] Rakdos Signet
+1 [THB:221] Kroxa, Titan of Death's Hunger
+1 [RAV:81] Dark Confidant
+1 [THS:180] Sylvan Caryatid
+1 [M15:225] Phyrexian Revoker
+1 [NEM:30] Daze
+1 [M12:146] Incinerate
+1 [ZEN:168] Lotus Cobra
+1 [WAR:98] Liliana's Triumph
+1 [SHM:229] Kitchen Finks
+1 [LRW:78] Pestermite
+1 [HOU:129] Ramunap Excavator
+1 [VIS:64] Necromancy
+1 [M15:145] Goblin Rabblemaster
+1 [WWK:31] Jace, the Mind Sculptor
+1 [DKA:140] Huntmaster of the Fells
+1 [NPH:42] Phyrexian Metamorph
+1 [ELD:171] Questing Beast
+1 [APC:128] Fire // Ice
+1 [MB1:440] Mystic Confluence
+1 [M13:150] Thundermaw Hellkite
+1 [XLN:179] Carnage Tyrant
+1 [THB:254] Forest
+2 [THB:251] Island
+1 [THB:253] Mountain
+SB: 1 [AKH:97] Liliana, Death's Majesty
+SB: 1 [CON:113] Knight of the Reliquary
+SB: 1 [BNG:5] Brimaz, King of Oreskos
+SB: 1 [ZEN:172] Oracle of Mul Daya
+SB: 1 [MOR:55] Vendilion Clique
+SB: 1 [RAV:262] Golgari Signet
+SB: 1 [KLD:4] Angel of Invention
+SB: 1 [NEM:17] Parallax Wave
+SB: 1 [XLN:22] Legion's Landing
+LAYOUT MAIN:(1,11)(COLOR_IDENTITY,false,51)|([M15:225],[ZEN:223],[KTK:249])([XLN:179],[ZEN:168],[ELD:171],[HOU:129],[THS:180],[THB:254])([M15:145],[M12:146],[M13:150],[THB:253])([DKA:140],[WWK:141],[RNA:259],[3ED:287])([RAV:81],[WAR:98],[2ED:263],[VIS:64])([KLD:243])([SOM:224],[RNA:245],[THB:221],[DIS:165])([NEM:30],[WWK:31],[MB1:440],[LRW:78],[NPH:42],[XLN:81],[THB:251],[THB:251])([BFZ:239])([APC:128],[GPT:152],[GRN:257],[OGW:182])([SHM:229])
+LAYOUT SIDEBOARD:(1,5)(CMC,false,26)|([XLN:22])([RAV:262])([CON:113],[BNG:5],[MOR:55])([ZEN:172],[NEM:17])([AKH:97],[KLD:4])

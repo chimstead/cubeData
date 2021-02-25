@@ -1,0 +1,54 @@
+1 [AER:76] Aether Chaser
+1 [ORI:127] Abbot of Keral Keep
+1 [IMA:140] Monastery Swiftspear
+1 [XLN:22] Legion's Landing
+1 [AKH:200] Honored Crop-Captain
+1 [SOI:155] Falkenrath Gorger
+1 [WAR:26] Prison Realm
+1 [DDT:38] Foundry Street Denizen
+1 [KLD:235] Smuggler's Copter
+1 [KLD:214] Fleetwheel Cruiser
+1 [KLD:4] Angel of Invention
+1 [THB:4] Banishing Light
+1 [THB:148] Phoenix of Ash
+1 [M19:152] Lightning Strike
+1 [RNA:114] Skarrgan Hellkite
+1 [KLD:199] Bomat Courier
+1 [AER:87] Kari Zev, Skyship Raider
+1 [KLD:13] Fairgrounds Warden
+1 [OGW:162] Captain's Claws
+1 [DTK:169] Zurgo Bellstriker
+1 [ELD:35] Venerable Knight
+1 [M19:33] Remorseful Cleric
+1 [EMN:46] Thalia, Heretic Cathar
+1 [XLN:136] Captain Lannery Storm
+1 [ELD:239] Castle Embereth
+4 [ORI:267] Mountain
+3 [ORI:268] Mountain
+1 [ORI:266] Mountain
+1 [ORI:265] Mountain
+2 [ORI:256] Plains
+3 [ORI:254] Plains
+1 [ORI:255] Plains
+SB: 1 [OGW:157] Reflector Mage
+SB: 1 [AKH:46] Censor
+SB: 1 [AKH:65] Pull from Tomorrow
+SB: 1 [CM2:77] Sign in Blood
+SB: 1 [RTR:231] Pithing Needle
+SB: 1 [ORI:143] Exquisite Firecraft
+SB: 1 [GNT:8] Benalish Marshal
+SB: 1 [M15:225] Phyrexian Revoker
+SB: 1 [DTK:2] Anafenza, Kin-Tree Spirit
+SB: 1 [E01:18] Precinct Captain
+SB: 1 [HOU:2] Adorned Pouncer
+SB: 1 [GTC:142] Assemble the Legion
+SB: 1 [ELD:273] Ardenvale Tactician
+SB: 1 [KTK:97] Arc Lightning
+SB: 1 [DOM:21] History of Benalia
+SB: 1 [DDN:16] Ogre Battledriver
+SB: 1 [C19:61] Angel of Sanctions
+SB: 1 [IMA:37] Topan Freeblade
+SB: 1 [GRN:103] Goblin Cratermaker
+SB: 1 [FRF:118] Wild Slash
+LAYOUT MAIN:(1,6)(CMC,false,54)|([ELD:239],[ORI:267],[ORI:268],[ORI:268],[ORI:268],[ORI:267],[ORI:267],[ORI:266],[ORI:267],[ORI:265],[ORI:256],[ORI:254],[ORI:256],[ORI:255],[ORI:254],[ORI:254])([IMA:140],[XLN:22],[SOI:155],[DDT:38],[KLD:199],[DTK:169],[ELD:35])([AER:76],[ORI:127],[AKH:200],[KLD:235],[M19:152],[AER:87],[OGW:162],[M19:33])([WAR:26],[THB:4],[THB:148],[KLD:13],[EMN:46],[XLN:136])([KLD:214])([KLD:4],[RNA:114])
+LAYOUT SIDEBOARD:(1,5)(CMC,false,58)|([RTR:231],[FRF:118])([AKH:46],[AKH:65],[CM2:77],[M15:225],[DTK:2],[E01:18],[HOU:2],[IMA:37],[GRN:103])([OGW:157],[ORI:143],[GNT:8],[KTK:97],[DOM:21])([DDN:16])([GTC:142],[ELD:273],[C19:61])

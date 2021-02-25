@@ -1,7 +1,10 @@
+2018
+4.18
+4.1.18
 6 Island
 1 Mountain
 4 Swamp
-1 Sulfurous Spring
+1 Sulfurous Springs
 1 Wandering Fumarole
 1 Terramorphic Expanse
 1 Evolving Wilds

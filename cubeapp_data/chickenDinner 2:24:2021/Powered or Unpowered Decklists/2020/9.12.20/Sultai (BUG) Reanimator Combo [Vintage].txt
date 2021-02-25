@@ -1,0 +1,54 @@
+1 [FEM:38a] Hymn to Tourach
+1 [MH1:234] Talisman of Resilience
+1 [EMA:108] Toxic Deluge
+1 [THS:188] Ashiok, Nightmare Weaver
+1 [MH1:199] Fallen Shinobi
+1 [E01:80] Baleful Strix
+1 [MOR:55] Vendilion Clique
+1 [MH1:100] Plague Engineer
+1 [JOU:62] Brain Maggot
+1 [VMA:266] Coercive Portal
+1 [EMN:6] Emrakul, the Promised End
+1 [ZEN:13] Iona, Shield of Emeria
+1 [USG:134] Exhume
+1 [M12:73] Ponder
+1 [XLN:48] Chart a Course
+1 [CN2:77] Leovold, Emissary of Trest
+1 [TMP:151] Reanimate
+1 [MBS:43] Go for the Throat
+1 [PLC:85] Damnation
+1 [KTK:59] Treasure Cruise
+1 [5DN:55] Night's Whisper
+1 [AER:57] Fatal Push
+1 [ARN:70] Bazaar of Baghdad
+1 [EXO:115] Oath of Druids
+1 [LEB:264] Mox Pearl
+1 [RAV:279] Overgrown Tomb
+1 [JOU:163] Mana Confluence
+1 [THS:249] Forest
+1 [THS:237] Island
+1 [THS:235] Island
+2 [THS:234] Island
+5 [THS:240] Swamp
+2 [THS:241] Swamp
+1 [THS:239] Swamp
+SB: 1 [ALA:9] Elspeth, Knight-Errant
+SB: 1 [MBS:14] Mirran Crusader
+SB: 1 [M19:152] Lightning Strike
+SB: 1 [RNA:107] Light Up the Stage
+SB: 1 [LEB:46] Wrath of God
+SB: 1 [CMA:27] Unexpectedly Absent
+SB: 1 [THB:169] Dryad of the Ilysian Grove
+SB: 1 [GTC:242] Godless Shrine
+SB: 1 [RAV:81] Dark Confidant
+SB: 1 [SOI:242] Anguished Unmaking
+SB: 1 [M15:225] Phyrexian Revoker
+SB: 1 [M13:22] Oblivion Ring
+SB: 1 [M15:145] Goblin Rabblemaster
+SB: 1 [EXO:129] Survival of the Fittest
+SB: 1 [MH1:13] Giver of Runes
+SB: 1 [EVE:6] Flickerwisp
+SB: 1 [MH1:233] Talisman of Hierarchy
+SB: 1 [IKO:227] Lutri, the Spellchaser
+LAYOUT MAIN:(1,10)(CMC,false,50)|([LEB:264],[RAV:279],[JOU:163],[THS:249],[THS:237],[THS:235],[THS:234],[THS:234],[THS:240],[THS:241],[THS:241],[THS:240],[THS:240],[THS:240],[THS:240],[THS:239])([ARN:70])([M12:73],[TMP:151],[AER:57])([FEM:38a],[MH1:234],[E01:80],[JOU:62],[USG:134],[XLN:48],[MBS:43],[5DN:55],[EXO:115])([EMA:108],[THS:188],[MOR:55],[MH1:100],[CN2:77])([VMA:266],[PLC:85])([MH1:199])([KTK:59])([ZEN:13])([EMN:6])
+LAYOUT SIDEBOARD:(1,6)(CMC,false,50)|([GTC:242])([MH1:13])([M19:152],[CMA:27],[RAV:81],[M15:225],[EXO:129],[MH1:233])([MBS:14],[RNA:107],[THB:169],[SOI:242],[M13:22],[M15:145],[EVE:6])([ALA:9],[LEB:46])([IKO:227])

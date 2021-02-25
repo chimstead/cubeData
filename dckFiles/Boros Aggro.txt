@@ -1,6 +1,9 @@
-9 Plains 
+2019
+9.19
+9.15.19
+9 Plains
 6 Mountain
-1 Plateau 
+1 Plateau
 1 Kytheon, Hero of Akros
 1 Path to Exile
 1 Dauntless Bodyguard
@@ -12,7 +15,7 @@
 1 Kari Zev, Skyship Raider
 1 Adanto Vanguard
 1 Incinerate
-1 Smuggler’s Copter
+1 Smuggler's Copter
 1 Accorder Paladin
 1 Magma Jet
 1 Imposing Sovereign
@@ -25,4 +28,3 @@
 1 Ravages of War
 1 Hellrider
 1 Armageddon
-

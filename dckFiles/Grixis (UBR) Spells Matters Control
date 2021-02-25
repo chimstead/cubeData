@@ -1,0 +1,60 @@
+2021
+1.31.21
+1 [SS1:4] Counterspell
+1 [HOU:83] Abrade
+1 [MM3:50] Snapcaster Mage
+1 [KLD:110] Chandra, Torch of Defiance
+1 [RAV:63] Remand
+1 [5DN:27] Condescend
+1 [M21:150] Heartfire Immolator
+1 [CMD:40] Brainstorm
+1 [LRW:79] Ponder
+1 [MM2:67] Vendilion Clique
+1 [MM2:109] Burst Lightning
+1 [DD2:23] Daze
+1 [UMA:155] Young Pyromancer
+1 [XLN:48] Chart a Course
+1 [V17:12] Jace, Vryn's Prodigy
+1 [M11:70] Preordain
+1 [10E:213] Incinerate
+1 [SOM:81] Arc Trail
+1 [NPH:57] Dismember
+1 [M13:147] Searing Spear
+1 [TPR:58] Mana Leak
+1 [A25:141] Lightning Bolt
+1 [VMA:69] Force of Will
+1 [PD2:1] Grim Lavamancer
+1 [V10:10] Mox Diamond
+1 [VMA:289] Ancient Tomb
+1 [GPT:164] Steam Vents
+1 [VMA:291] Badlands
+1 [KTK:239] Polluted Delta
+5 [PARL:2] Island
+4 [PARL:4] Mountain
+1 [PARL:3] Swamp
+1 [MM2:75] Dark Confidant
+SB: 1 [IKO:176] Wilt
+SB: 1 [VMA:209] Fastbond
+SB: 1 [PD3:15] Reanimate
+SB: 1 [RNA:157] Bedevil
+SB: 1 [M19:196] Reclamation Sage
+SB: 1 [C17:43] Mirri, Weatherlight Duelist
+SB: 1 [IKO:227] Lutri, the Spellchaser
+SB: 1 [ORI:83] Whirler Rogue
+SB: 1 [MRD:255] Talisman of Indulgence
+SB: 1 [M21:232] Mazemind Tome
+SB: 1 [HOU:31] Champion of Wits
+SB: 1 [NPH:42] Phyrexian Metamorph
+SB: 1 [WWK:133] Celestial Colonnade
+SB: 1 [MM3:100] Magma Jet
+SB: 1 [C18:57] Retrofitter Foundry
+SB: 3 [3ED:296] Island
+SB: 2 [3ED:295] Island
+SB: 1 [3ED:297] Island
+SB: 1 [3ED:301] Mountain
+SB: 1 [3ED:302] Mountain
+SB: 2 [3ED:303] Mountain
+SB: 1 [3ED:300] Swamp
+SB: 1 [PARL:2] Island
+LAYOUT MAIN:(1,6)(CMC,false,50)|([VMA:289],[GPT:164],[VMA:291],[KTK:239],[PARL:2],[PARL:2],[PARL:2],[PARL:2],[PARL:2],[PARL:4],[PARL:4],[PARL:4],[PARL:4],[PARL:3])([V10:10],[DD2:23],[VMA:69])([5DN:27],[CMD:40],[LRW:79],[MM2:109],[M11:70],[A25:141],[PD2:1],[NPH:57])([SS1:4],[HOU:83],[MM3:50],[RAV:63],[M21:150],[UMA:155],[XLN:48],[V17:12],[10E:213],[SOM:81],[M13:147],[TPR:58],[MM2:75])([MM2:67])([KLD:110])
+LAYOUT SIDEBOARD:(1,6)(CMC,false,50)|([WWK:133],[PARL:2])([VMA:209],[PD3:15],[C18:57])([IKO:176],[MRD:255],[M21:232],[MM3:100])([RNA:157],[M19:196],[C17:43],[HOU:31])([IKO:227])([ORI:83],[NPH:42])

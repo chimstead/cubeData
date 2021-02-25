@@ -1,0 +1,50 @@
+1 [ROE:47] Student of Warfare
+1 [MBS:8] Hero of Bladehold
+1 [LRW:78] Pestermite
+1 [RNA:27] Tithe Taker
+1 [KLD:110] Chandra, Torch of Defiance
+1 [M19:152] Lightning Strike
+1 [CHK:175] Kiki-Jiki, Mirror Breaker
+1 [AVR:166] Zealous Conscripts
+1 [M11:7] Baneslayer Angel
+1 [RAV:213] Lightning Helix
+1 [THS:33] Spear of Heliod
+1 [NPH:33] Deceiver Exarch
+1 [SHM:211] Manamorphose
+1 [SOI:5] Archangel Avacyn
+1 [ODY:193] Firebolt
+1 [DOM:26] Lyra Dawnbringer
+1 [ROE:165] Splinter Twin
+1 [AVR:32] Restoration Angel
+1 [FRF:27] Soulfire Grand Master
+1 [BNG:5] Brimaz, King of Oreskos
+1 [M14:163] Young Pyromancer
+1 [ZEN:119] Burst Lightning
+1 [KLD:4] Angel of Invention
+1 [M14:228] Mutavault
+1 [3ED:284] Plateau
+1 [3ED:289] Tundra
+1 [ZEN:223] Scalding Tarn
+1 [LEG:303] Karakas
+1 [STH:138] Mox Diamond
+1 [KLD:246] Inspiring Vantage
+1 [GRN:257] Steam Vents
+1 [4ED:361] Mishra's Factory
+1 [THB:251] Island
+3 [THB:253] Mountain
+4 [THB:250] Plains
+SB: 1 [7ED:92] Opposition
+SB: 1 [M14:195] Scavenging Ooze
+SB: 1 [4ED:34] Land Tax
+SB: 1 [M12:39] Sun Titan
+SB: 1 [PLC:25] Mana Tithe
+SB: 1 [GRN:174] Goblin Electromancer
+SB: 1 [AKH:149] Sweltering Suns
+SB: 1 [WAR:13] Gideon Blackblade
+SB: 1 [CMA:27] Unexpectedly Absent
+SB: 1 [EVE:6] Flickerwisp
+SB: 1 [M20:14] Disenchant
+SB: 1 [M11:153] Pyretic Ritual
+SB: 1 [ORI:23] Kytheon, Hero of Akros
+LAYOUT MAIN:(1,6)(CMC,false,62)|([M14:228],[3ED:284],[3ED:289],[ZEN:223],[LEG:303],[STH:138],[KLD:246],[GRN:257],[4ED:361],[THB:251],[THB:253],[THB:253],[THB:253],[THB:250],[THB:250],[THB:250],[THB:250])([ROE:47],[ODY:193],[ZEN:119])([RNA:27],[M19:152],[RAV:213],[SHM:211],[FRF:27],[M14:163])([LRW:78],[THS:33],[NPH:33],[BNG:5])([MBS:8],[KLD:110],[ROE:165],[AVR:32])([CHK:175],[AVR:166],[M11:7],[SOI:5],[DOM:26],[KLD:4])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,61)|([7ED:92],[M14:195],[4ED:34],[M12:39],[PLC:25],[GRN:174],[AKH:149],[WAR:13],[ORI:23],[CMA:27],[EVE:6],[M11:153],[M20:14])

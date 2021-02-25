@@ -1,0 +1,50 @@
+1 [CN2:140] Inquisition of Kozilek
+1 [IKO:43] Boon of the Wish-Giver
+1 [CON:30] Inkwell Leviathan
+1 [ZNR:260] Clearwater Pathway
+1 [NPH:57] Dismember
+1 [GRN:259] Watery Grave
+1 [VIS:64] Necromancy
+1 [ODY:70] Careful Study
+1 [ICE:118] Dance of the Dead
+1 [UMA:4] Emrakul, the Aeons Torn
+1 [USG:96] Show and Tell
+1 [NPH:35] Gitaxian Probe
+1 [ICE:61] Brainstorm
+1 [TOR:77] Putrid Imp
+1 [AVR:106] Griselbrand
+1 [ALL:28] Force of Will
+1 [LRW:133] Oona's Prowler
+1 [MIR:141] Shallow Grave
+1 [UMA:195] Woodfall Primus
+1 [IKO:259] Zagoth Triome
+1 [USG:132] Duress
+1 [ELD:244] Fabled Passage
+1 [UMA:79] Treasure Cruise
+1 [JMP:185] Thought Scour
+1 [LRW:272] Shelldock Isle
+1 [ODY:132] Entomb
+1 [M12:98] Grave Titan
+1 [APC:130] Life // Death
+1 [3ED:105] Demonic Tutor
+1 [IKO:59] Neutralize
+3 [UST:213] Island
+7 [UST:214] Swamp
+SB: 1 [PGPX:2016] Stoneforge Mystic
+SB: 1 [RTR:157] Dreadbore
+SB: 1 [ZNR:27] Maul of the Skyclaves
+SB: 1 [FUT:176] Grove of the Burnwillows
+SB: 1 [UMA:249] Raging Ravine
+SB: 1 [RNA:259] Stomping Ground
+SB: 1 [MRD:135] Troll Ascetic
+SB: 1 [PC2:84] Bloodbraid Elf
+SB: 1 [ORI:127] Abbot of Keral Keep
+SB: 1 [IKO:211] Sprite Dragon
+SB: 1 [SHM:277] Mystic Gate
+SB: 1 [M13:193] Thragtusk
+SB: 1 [ELD:169] Once Upon a Time
+SB: 1 [ZNR:125] Skyclave Shade
+SB: 1 [MMQ:162] Snuff Out
+SB: 1 [UST:213] Island
+LAYOUT MAIN:(1,5)(CMC,false,64)|([ZNR:260],[GRN:259],[IKO:259],[ELD:244],[LRW:272],[UST:213],[UST:213],[UST:213],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214])([ICE:61],[JMP:185],[UMA:79],[ALL:28],[ODY:70],[IKO:43],[IKO:59],[NPH:35],[USG:132],[CN2:140],[NPH:57],[TOR:77],[ODY:132])([ICE:118],[LRW:133],[APC:130],[3ED:105],[MIR:141])([VIS:64],[USG:96])([AVR:106],[UMA:195],[M12:98],[CON:30],[UMA:4])
+LAYOUT SIDEBOARD:(1,6)(COLOR,false,100)|([FUT:176],[UMA:249],[RNA:259],[SHM:277],[UST:213])([MMQ:162],[ZNR:125])([MRD:135],[M13:193],[ELD:169])([ORI:127])([PGPX:2016],[ZNR:27])([RTR:157],[PC2:84],[IKO:211])

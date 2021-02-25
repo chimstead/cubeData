@@ -1,0 +1,48 @@
+1 [CON:15] Path to Exile
+1 [LEG:26] Land Tax
+1 [EVE:139] Figure of Destiny
+1 [PLC:25] Mana Tithe
+1 [ROE:47] Student of Warfare
+1 [THS:32] Soldier of the Pantheon
+1 [DOM:14] Dauntless Bodyguard
+1 [WWK:20] Stoneforge Mystic
+1 [5DN:126] Grafted Wargear
+1 [NPH:161] Sword of War and Peace
+1 [MH1:37] Winds of Abandon
+1 [MBS:1] Accorder Paladin
+1 [C13:25] Unexpectedly Absent
+1 [M19:33] Remorseful Cleric
+1 [XLN:1] Adanto Vanguard
+1 [AKH:14] Gideon of the Trials
+1 [BNG:5] Brimaz, King of Oreskos
+1 [EVE:6] Flickerwisp
+1 [THB:14] Elspeth, Sun's Nemesis
+1 [SHM:23] Spectral Procession
+1 [MH1:26] Serra the Benevolent
+1 [CN2:18] Palace Jailer
+1 [P02:12] Armageddon
+1 [MRD:146] Bonesplitter
+1 [TMP:330] Wasteland
+1 [LEG:303] Karakas
+1 [ELD:238] Castle Ardenvale
+1 [MOR:148] Mutavault
+12 [UGL:84] Plains
+SB: 1 [CMD:170] Scavenging Ooze
+SB: 1 [ZEN:211] Arid Mesa
+SB: 1 [DIS:174] Hallowed Fountain
+SB: 1 [MIR:326] Flood Plain
+SB: 1 [NEM:141] Kor Haven
+SB: 1 [FUT:153] Tarmogoyf
+SB: 1 [TSB:6] Disenchant
+SB: 1 [AVR:32] Restoration Angel
+SB: 1 [TMP:142] Living Death
+SB: 1 [THB:302] Shatter the Sky
+SB: 1 [AER:62] Glint-Sleeve Siphoner
+SB: 1 [DOM:207] Teferi, Hero of Dominaria
+SB: 1 [ODY:193] Firebolt
+SB: 1 [AKH:204] Nissa, Steward of Elements
+SB: 1 [MBS:92] Thrun, the Last Troll
+SB: 1 [ELD:115] Bonecrusher Giant
+SB: 1 [PTK:17] Ravages of War
+LAYOUT MAIN:(1,5)(CMC,false,50)|([TMP:330],[LEG:303],[ELD:238],[MOR:148],[UGL:84],[UGL:84],[UGL:84],[UGL:84],[UGL:84],[UGL:84],[UGL:84],[UGL:84],[UGL:84],[UGL:84],[UGL:84],[UGL:84])([CON:15],[LEG:26],[EVE:139],[PLC:25],[ROE:47],[THS:32],[DOM:14],[MRD:146])([WWK:20],[MH1:37],[MBS:1],[C13:25],[M19:33],[XLN:1])([5DN:126],[NPH:161],[AKH:14],[BNG:5],[EVE:6],[SHM:23])([THB:14],[MH1:26],[CN2:18],[P02:12])
+LAYOUT SIDEBOARD:(1,5)(CMC,false,45)|([ZEN:211],[DIS:174],[MIR:326],[NEM:141])([ODY:193])([CMD:170],[FUT:153],[TSB:6],[AER:62],[AKH:204])([AVR:32],[THB:302],[MBS:92],[PTK:17])([TMP:142],[DOM:207],[ELD:115])

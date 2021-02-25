@@ -1,0 +1,35 @@
+4 Swamp
+3 Plains
+1 Bloodstained Mire
+1 Caves of Koilos
+1 Gemstone Mine
+1 Mana Confluence
+1 Mishra's Factory
+1 Rishadan Port
+1 Scrubland
+1 Tendo Ice Bridge
+1 Wasteland
+1 Diregraf Ghoul
+1 Gnarled Scarhide
+1 Gravecrawler
+1 Imperial Seal
+1 Inquisition of Kozilek
+1 Isamaru, Hound of Konda
+1 Land Tax
+1 Mardu Woe-Reaper
+1 Path to Exile
+1 Dark Confidant
+1 Glory-Bound Initiate
+1 Pack Rat
+1 Scrapheap Scrounger
+1 Selfless Spirit
+1 Winter Orb
+1 Banishing Light
+1 Dismember
+1 Grafted Wargear
+1 Ophiomancer
+1 Tangle Wire
+1 Ravages of War
+1 Smokestack
+1 Snuff Out
+1 Sorin, Lord of Innistrad

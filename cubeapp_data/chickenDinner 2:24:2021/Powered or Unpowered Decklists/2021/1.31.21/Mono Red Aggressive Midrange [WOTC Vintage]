@@ -1,0 +1,50 @@
+1 [MM3:116] Zealous Conscripts
+1 [C18:222] Sol Ring
+1 [KLD:110] Chandra, Torch of Defiance
+1 [CM2:98] Fiery Confluence
+1 [A25:246] Rishadan Port
+1 [UMA:236] Ancient Tomb
+1 [TMP:294] Lotus Petal
+1 [MM2:109] Burst Lightning
+1 [A25:141] Lightning Bolt
+1 [MM3:96] Goblin Guide
+1 [THS:223] Nykthos, Shrine to Nyx
+1 [WAR:125] Dreadhorde Arcanist
+1 [MRD:152] Chrome Mox
+1 [VMA:159] Fireblast
+1 [XLN:254] Field of Ruin
+1 [A25:128] Eidolon of the Great Revel
+1 [DDI:44] Koth of the Hammer
+1 [MH1:122] Firebolt
+1 [XLN:154] Rampaging Ferocidon
+1 [CM2:109] Inferno Titan
+1 [V16:14] Umezawa's Jitte
+1 [EMA:150] Sulfuric Vortex
+1 [PGRN:115p] Runaway Steam-Kin
+1 [MM3:98] Hellrider
+1 [CM2:99] Flametongue Kavu
+1 [DDU:47] Pia and Kiran Nalaar
+1 [E01:50] Grim Lavamancer
+1 [AKH:136] Hazoret the Fervent
+1 [RIX:99] Dire Fleet Daredevil
+6 [C18:304] Mountain
+3 [C18:302] Mountain
+2 [C18:303] Mountain
+SB: 1 [FRF:20] Monastery Mentor
+SB: 1 [KLD:246] Inspiring Vantage
+SB: 1 [M21:34] Seasoned Hallowblade
+SB: 1 [MM2:33] Spectral Procession
+SB: 1 [EMN:40] Selfless Spirit
+SB: 1 [GK1:90] Lightning Helix
+SB: 1 [MBS:138] Sword of Feast and Famine
+SB: 1 [SOI:247] Nahiri, the Harbinger
+SB: 1 [MH1:190] Wall of Blossoms
+SB: 1 [EMA:207] Sphinx of the Steel Wind
+SB: 1 [IMA:177] Nature's Claim
+SB: 1 [RNA:107] Light Up the Stage
+SB: 1 [DDG:70] Seething Song
+SB: 1 [VMA:308] Plateau
+SB: 1 [GK1:32] Mizzium Mortars
+SB: 1 [ULG:74] Avalanche Riders
+LAYOUT MAIN:(1,7)(CMC,false,67)|([A25:246],[UMA:236],[TMP:294],[THS:223],[MRD:152],[XLN:254],[C18:304],[C18:302],[C18:304],[C18:302],[C18:304],[C18:304],[C18:303],[C18:303],[C18:304],[C18:302],[C18:304])([C18:222],[MM2:109],[A25:141],[MM3:96],[MH1:122],[E01:50])([WAR:125],[A25:128],[V16:14],[PGRN:115p],[RIX:99])([XLN:154],[EMA:150])([KLD:110],[CM2:98],[DDI:44],[MM3:98],[CM2:99],[DDU:47],[AKH:136])([MM3:116])([VMA:159],[CM2:109])
+LAYOUT SIDEBOARD:(1,5)(COLOR,false,50)|([KLD:246],[MBS:138],[VMA:308])([MH1:190],[IMA:177])([RNA:107],[DDG:70],[GK1:32],[ULG:74])([FRF:20],[M21:34],[MM2:33],[EMN:40])([GK1:90],[SOI:247],[EMA:207])

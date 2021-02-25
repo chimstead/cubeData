@@ -1,0 +1,51 @@
+1 [EMA:240] Karakas
+1 [M13:23] Odric, Master Tactician
+1 [VMA:20] Council's Judgment
+1 [EVE:6] Flickerwisp
+1 [CON:15] Path to Exile
+1 [C17:76] Swords to Plowshares
+1 [CHK:19] Isamaru, Hound of Konda
+1 [SOI:5] Archangel Avacyn
+1 [MOR:22] Reveillark
+1 [MBS:1] Accorder Paladin
+1 [MH1:13] Giver of Runes
+1 [MRD:152] Chrome Mox
+1 [MH1:7] Ephemerate
+1 [ORI:229] Hangarback Walker
+1 [EMN:40] Selfless Spirit
+1 [NEM:17] Parallax Wave
+1 [M19:34] Resplendent Angel
+1 [RIX:21] Skymarcher Aspirant
+1 [DTK:36] Secure the Wastes
+1 [V10:10] Mox Diamond
+1 [AER:181] Walking Ballista
+1 [C14:8] Hallowed Spiritkeeper
+1 [XLN:1] Adanto Vanguard
+1 [M20:22] Hanged Executioner
+1 [MH1:37] Winds of Abandon
+1 [EMN:46] Thalia, Heretic Cathar
+1 [BNG:5] Brimaz, King of Oreskos
+3 [M13:231] Plains
+4 [M13:230] Plains
+5 [M13:233] Plains
+1 [M13:232] Plains
+SB: 1 [UDS:40] Opposition
+SB: 1 [ORI:189] Nissa, Vastwood Seer
+SB: 1 [LRW:199] Briarhorn
+SB: 1 [MM3:91] Bonfire of the Damned
+SB: 1 [SOI:155] Falkenrath Gorger
+SB: 1 [ZEN:126] Goblin Guide
+SB: 1 [GTC:240] Breeding Pool
+SB: 1 [DTK:162] Thunderbreak Regent
+SB: 1 [ORI:157] Pia and Kiran Nalaar
+SB: 1 [OGW:175] Needle Spires
+SB: 1 [RIX:186] Evolving Wilds
+SB: 1 [GRN:153] Aurelia, Exemplar of Justice
+SB: 1 [MRD:255] Talisman of Indulgence
+SB: 1 [MRD:254] Talisman of Impulse
+SB: 1 [IMA:18] Elesh Norn, Grand Cenobite
+SB: 1 [EMA:235] Worn Powerstone
+SB: 1 [AKH:1] Angel of Sanctions
+SB: 1 [M19:33] Remorseful Cleric
+LAYOUT MAIN:(1,6)(CMC,false,50)|([EMA:240],[MRD:152],[V10:10],[M13:231],[M13:231],[M13:230],[M13:233],[M13:233],[M13:233],[M13:230],[M13:233],[M13:230],[M13:232],[M13:230],[M13:231],[M13:233])([MH1:7],[MH1:13],[CHK:19],[CON:15],[DTK:36],[RIX:21],[C17:76])([MBS:1],[XLN:1],[EMN:40],[MH1:37],[AER:181],[ORI:229])([BNG:5],[VMA:20],[EVE:6],[C14:8],[M20:22],[M19:34],[EMN:46])([M13:23],[NEM:17])([SOI:5],[MOR:22])
+LAYOUT SIDEBOARD:(1,7)(CMC,false,50)|([GTC:240],[OGW:175],[RIX:186])([MM3:91],[SOI:155],[ZEN:126])([MRD:255],[MRD:254],[M19:33])([ORI:189],[EMA:235])([LRW:199],[UDS:40],[DTK:162],[ORI:157],[GRN:153])([AKH:1])([IMA:18])

@@ -1,0 +1,50 @@
+1 [ICE:326] Jeweled Amulet
+1 [M10:68] Ponder
+1 [NPH:35] Gitaxian Probe
+1 [M11:70] Preordain
+1 [PTK:122] Rolling Earthquake
+1 [5DN:73] Magma Jet
+1 [ALL:22a] Arcane Denial
+1 [HOU:83] Abrade
+1 [WTH:153] Mind Stone
+1 [CSP:136] Coldsteel Heart
+1 [ULG:126] Grim Monolith
+1 [MOR:55] Vendilion Clique
+1 [M13:132] Flames of the Firebrand
+1 [EMN:65] Imprisoned in the Moon
+1 [WWK:31] Jace, the Mind Sculptor
+1 [FUT:46] Venser, Shaper Savant
+1 [4ED:64] Control Magic
+1 [UDS:139] Thran Dynamo
+1 [M13:150] Thundermaw Hellkite
+1 [HOU:145] The Scarab God
+1 [ODY:113] Upheaval
+1 [USG:228] Wildfire
+1 [OGW:104] Chandra, Flamecaller
+1 [ELD:244] Fabled Passage
+1 [TSP:279] Terramorphic Expanse
+1 [ONS:313] Bloodstained Mire
+1 [JOU:163] Mana Confluence
+1 [LEB:278] Badlands
+1 [C16:56] Ash Barrens
+1 [WWK:139] Lavaclaw Reaches
+7 [GUR:2] Island
+2 [GUR:3] Mountain
+1 [GUR:5] Swamp
+SB: 1 [ODY:132] Entomb
+SB: 1 [AVR:166] Zealous Conscripts
+SB: 1 [ROE:66] Enclave Cryptologist
+SB: 1 [DKA:87] Faithless Looting
+SB: 1 [SCG:103] Siege-Gang Commander
+SB: 1 [SOM:175] Mimic Vat
+SB: 1 [ATQ:80a] Mishra's Factory
+SB: 1 [MOR:148] Mutavault
+SB: 1 [ORI:229] Hangarback Walker
+SB: 1 [MMQ:162] Snuff Out
+SB: 1 [AER:181] Walking Ballista
+SB: 1 [MH1:217] Wrenn and Six
+SB: 1 [TSP:66] Looter il-Kor
+SB: 1 [THB:123] Woe Strider
+SB: 1 [THB:157] Storm's Wrath
+LAYOUT MAIN:(1,8)(CMC,false,79)|([GUR:2],[GUR:2],[GUR:2],[GUR:2],[GUR:2],[GUR:2],[GUR:2],[GUR:3],[GUR:3],[GUR:5])([C16:56],[LEB:278],[ONS:313],[ELD:244],[WWK:139],[JOU:163],[TSP:279])([ICE:326],[NPH:35],[M10:68],[M11:70],[PTK:122])([HOU:83],[ALL:22a],[CSP:136],[ULG:126],[5DN:73],[WTH:153])([M13:132],[EMN:65],[MOR:55])([4ED:64],[WWK:31],[UDS:139],[FUT:46])([HOU:145],[M13:150])([OGW:104],[ODY:113],[USG:228])
+LAYOUT SIDEBOARD:(1,6)(CMC,false,76)|([ATQ:80a],[MOR:148],[ORI:229],[AER:181])([ODY:132],[ROE:66],[DKA:87])([MH1:217],[TSP:66])([SOM:175],[THB:123])([MMQ:162],[THB:157])([AVR:166],[SCG:103])

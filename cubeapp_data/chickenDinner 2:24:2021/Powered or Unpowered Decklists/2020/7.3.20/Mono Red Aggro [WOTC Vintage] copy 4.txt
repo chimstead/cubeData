@@ -1,0 +1,48 @@
+1 [A25:128] Eidolon of the Great Revel
+1 [AKH:134] Glorybringer
+1 [V16:14] Umezawa's Jitte
+1 [GK1:28] Char
+1 [ULG:74] Avalanche Riders
+1 [GRN:115] Runaway Steam-Kin
+1 [RNA:107] Light Up the Stage
+1 [ORI:127] Abbot of Keral Keep
+1 [MH1:145] Seasoned Pyromancer
+1 [A25:139] Jackal Pup
+1 [MM3:96] Goblin Guide
+1 [A25:141] Lightning Bolt
+1 [ELD:122] Embereth Shieldbreaker
+1 [TPR:228] Mox Diamond
+1 [KLD:110] Chandra, Torch of Defiance
+1 [MM2:109] Burst Lightning
+1 [M19:130] Banefire
+1 [WAR:125] Dreadhorde Arcanist
+1 [VMA:159] Fireblast
+1 [CM2:98] Fiery Confluence
+1 [BBD:171] Chain Lightning
+1 [IMA:140] Monastery Swiftspear
+1 [NPH:35] Gitaxian Probe
+1 [CM2:99] Flametongue Kavu
+1 [MM2:79] Dismember
+15 [UST:215] Mountain
+SB: 1 [UMA:93] Demonic Tutor
+SB: 1 [WAR:79] Bolas's Citadel
+SB: 1 [UMA:57] Frantic Search
+SB: 1 [GRN:253] Overgrown Tomb
+SB: 1 [MMA:208] Lotus Bloom
+SB: 1 [IMA:66] Mana Leak
+SB: 1 [ULG:36] Miscalculation
+SB: 1 [WAR:185] Angrath's Rampage
+SB: 1 [XLN:1] Adanto Vanguard
+SB: 1 [KLD:249] Spirebluff Canal
+SB: 1 [EMA:100] Night's Whisper
+SB: 1 [FRF:145] Whisperwood Elemental
+SB: 1 [C13:84] Ophiomancer
+SB: 1 [ALA:154] Ajani Vengeant
+SB: 1 [MH1:116] Yawgmoth, Thran Physician
+SB: 1 [BBD:25] Brightling
+SB: 1 [NPH:42] Phyrexian Metamorph
+SB: 1 [M15:225] Phyrexian Revoker
+SB: 1 [KTK:249] Wooded Foothills
+SB: 1 [IMA:149] Thundermaw Hellkite
+LAYOUT MAIN:(1,7)(CMC,false,62)|([TPR:228],[UST:215],[UST:215],[UST:215],[UST:215],[UST:215],[UST:215],[UST:215],[UST:215],[UST:215],[UST:215],[UST:215],[UST:215],[UST:215],[UST:215],[UST:215])([A25:139],[MM3:96],[A25:141],[MM2:109],[BBD:171],[IMA:140],[NPH:35],[M19:130])([A25:128],[V16:14],[GRN:115],[ORI:127],[WAR:125])([GK1:28],[RNA:107],[MH1:145],[ELD:122],[MM2:79])([ULG:74],[KLD:110],[CM2:98],[CM2:99])([AKH:134])([VMA:159])
+LAYOUT SIDEBOARD:(1,7)(COLOR,false,93)|([GRN:253],[MMA:208],[KLD:249],[M15:225],[KTK:249])([UMA:93],[WAR:79],[EMA:100],[C13:84],[MH1:116])([UMA:57],[IMA:66],[ULG:36],[NPH:42])([FRF:145])([IMA:149])([XLN:1],[BBD:25])([WAR:185],[ALA:154])

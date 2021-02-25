@@ -1,0 +1,30 @@
+5 Plains
+7 Swamp
+1 Bloodstained Mire
+1 Mana Confluence
+1 Undiscovered Paradise
+1 Chrome Mox
+1 Carnophage
+1 Duress
+1 Enlightened Tutor
+1 Gravecrawler
+1 Isamaru, Hound of Konda
+1 Land Tax
+1 Mardu Woe-Reaper
+1 Mind Twist
+1 Path to Exile
+1 Sarcomancy
+1 Soldier of the Pantheon
+1 Dark Confidant
+1 Diabolic Edict
+1 Glint-Sleeve Siphoner
+1 Hymn to Tourach
+1 Sinkhole
+1 Umezawa's Jitte
+1 Winter Orb
+1 Dismember
+1 Vindicate
+1 Braids, Cabal Minion
+1 Gideon, Ally of Zendikar
+1 Ravages of War
+1 Smokestack

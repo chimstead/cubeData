@@ -1,0 +1,55 @@
+2021
+1.31.21
+1 [EMA:175] Llanowar Elves
+1 [C15:101] Preordain
+1 [PELD:160p] Gilded Goose
+1 [MM2:230] Spellskite
+1 [PWAR:171] Paradise Druid
+1 [C15:200] Sakura-Tribe Elder
+1 [RNA:183] Hydroid Krasis
+1 [AER:46] Skyship Plunderer
+1 [MOR:55] Vendilion Clique
+1 [MPS:53] Vedalken Shackles
+1 [THB:305] Nadir Kraken
+1 [BNG:119] Courser of Kruphix
+1 [M21:348] Barrin, Tolarian Archmage
+1 [DDR:1] Nissa, Voice of Zendikar
+1 [LRW:88] Sower of Temptation
+1 [ELD:171] Questing Beast
+1 [ISD:181] Garruk Relentless
+1 [CNS:97] Fact or Fiction
+1 [PWP09:30] Mind Control
+1 [CNS:187] Edric, Spymaster of Trest
+1 [C20:66] Slippery Bogbonder
+1 [EMA:220] Duplicant
+1 [IKO:59] Neutralize
+1 [MH1:249] Waterlogged Grove
+1 [KLD:244] Botanical Sanctum
+2 [C15:341] Forest
+4 [C15:340] Forest
+1 [C15:342] Forest
+1 [C15:327] Island
+4 [C15:328] Island
+3 [C15:329] Island
+SB: 1 [EMN:93] Liliana, the Last Hope
+SB: 1 [RTR:247] Steam Vents
+SB: 1 [MPS:3] Noxious Gearhulk
+SB: 1 [VMA:137] Recurring Nightmare
+SB: 1 [C14:145] Grave Titan
+SB: 1 [M15:178] Hornet Queen
+SB: 1 [ORI:251] Shivan Reef
+SB: 1 [RAV:117] Char
+SB: 1 [KLD:176] Cloudblazer
+SB: 1 [M12:214] Quicksilver Amulet
+SB: 1 [C13:135] Avenger of Zendikar
+SB: 1 [IKO:176] Wilt
+SB: 1 [V17:12] Jace, Vryn's Prodigy
+SB: 1 [MM3:244] Scalding Tarn
+SB: 1 [EMA:60] Memory Lapse
+SB: 1 [V14:13] Upheaval
+SB: 1 [M20:226] Golos, Tireless Pilgrim
+SB: 1 [SS1:1] Jace Beleren
+SB: 1 [C18:57] Retrofitter Foundry
+SB: 1 [MRD:159] Crystal Shard
+LAYOUT MAIN:(1,7)(CMC,false,87)|([C15:341],[C15:341],[C15:340],[C15:340],[C15:340],[C15:340],[C15:342],[C15:327],[C15:328],[C15:328],[C15:328],[C15:328],[C15:329],[C15:329],[C15:329])([EMA:175],[C15:101],[PELD:160p])([MM2:230],[PWAR:171],[C15:200],[AER:46],[IKO:59])([MOR:55],[MPS:53],[THB:305],[BNG:119],[M21:348],[DDR:1],[CNS:187])([LRW:88],[ELD:171],[ISD:181],[CNS:97],[C20:66])([PWP09:30],[EMA:220],[RNA:183])([MH1:249],[KLD:244])
+LAYOUT SIDEBOARD:(1,7)(CMC,false,88)|([MM3:244],[ORI:251],[RTR:247],[C18:57])([V17:12],[EMA:60],[IKO:176],[MRD:159])([RAV:117],[SS1:1],[EMN:93],[VMA:137])([M12:214])([KLD:176],[M20:226])([C14:145],[MPS:3],[V14:13])([C13:135],[M15:178])

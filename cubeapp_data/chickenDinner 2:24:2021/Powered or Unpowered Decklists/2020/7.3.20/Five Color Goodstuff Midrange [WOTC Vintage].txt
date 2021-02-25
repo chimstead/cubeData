@@ -1,0 +1,52 @@
+1 [BOK:163] Umezawa's Jitte
+1 [WWK:20] Stoneforge Mystic
+1 [2ED:84] Time Walk
+1 [GPT:152] Izzet Signet
+1 [MEDM:RA6] Dack Fayden
+1 [FRF:27] Soulfire Grand Master
+1 [AVR:38] Terminus
+1 [MH1:37] Winds of Abandon
+1 [WWK:133] Celestial Colonnade
+1 [3ED:214] Regrowth
+1 [UMA:244] Karakas
+1 [M11:70] Preordain
+1 [APC:128] Fire // Ice
+1 [3ED:274] Sol Ring
+1 [THB:13] Elspeth Conquers Death
+1 [SOI:44] Thraben Inspector
+1 [KTK:248] Windswept Heath
+1 [C17:37] Fractured Identity
+1 [ARB:50] Bloodbraid Elf
+1 [M12:39] Sun Titan
+1 [SOM:228] Razorverge Thicket
+1 [OGW:171] Hissing Quagmire
+1 [3ED:283] Bayou
+1 [3ED:286] Scrubland
+1 [WWK:134] Creeping Tar Pit
+1 [OGW:175] Needle Spires
+1 [3ED:291] Volcanic Island
+1 [ZEN:223] Scalding Tarn
+1 [CM2:98] Fiery Confluence
+1 [APC:126] Vindicate
+1 [GRN:213] Vraska, Golgari Queen
+1 [MM2:75] Dark Confidant
+1 [6ED:161] Vampiric Tutor
+1 [HOU:83] Abrade
+1 [UST:216] Forest
+1 [UST:213] Island
+1 [UST:215] Mountain
+2 [UST:212] Plains
+1 [UST:214] Swamp
+SB: 1 [WAR:244] Blast Zone
+SB: 1 [TOR:77] Putrid Imp
+SB: 1 [ARN:70] Bazaar of Baghdad
+SB: 1 [RNA:149] Wilderness Reclamation
+SB: 1 [RTR:188] Rakdos's Return
+SB: 1 [AVR:129] Bonfire of the Damned
+SB: 1 [DKA:87] Faithless Looting
+SB: 1 [MH1:145] Seasoned Pyromancer
+SB: 1 [5DN:86] Eternal Witness
+SB: 1 [M14:228] Mutavault
+SB: 1 [SOI:5] Archangel Avacyn
+LAYOUT MAIN:(1,7)(CMC,false,71)|([WWK:133],[UMA:244],[KTK:248],[SOM:228],[OGW:171],[3ED:283],[3ED:286],[WWK:134],[OGW:175],[3ED:291],[ZEN:223],[UST:216],[UST:213],[UST:215],[UST:212],[UST:212],[UST:214])([M11:70],[3ED:274],[SOI:44],[6ED:161])([BOK:163],[WWK:20],[2ED:84],[GPT:152],[FRF:27],[MH1:37],[3ED:214],[MM2:75],[HOU:83])([MEDM:RA6],[APC:126])([APC:128],[ARB:50],[CM2:98],[GRN:213])([THB:13],[C17:37])([AVR:38],[M12:39])
+LAYOUT SIDEBOARD:(1,6)(CMC,false,100)|([WAR:244],[ARN:70],[M14:228])([TOR:77],[AVR:129],[DKA:87])([RTR:188])([MH1:145],[5DN:86])([RNA:149])([SOI:5])

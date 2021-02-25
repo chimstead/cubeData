@@ -1,0 +1,53 @@
+1 [LEB:287] Volcanic Island
+1 [4ED:64] Control Magic
+1 [M10:68] Ponder
+1 [PTK:113] Imperial Recruiter
+1 [ORI:60] Jace, Vryn's Prodigy
+1 [SOI:92] Thing in the Ice
+1 [RTR:172] Izzet Charm
+1 [MOR:55] Vendilion Clique
+1 [LEG:58] Force Spike
+1 [USG:174] Arc Lightning
+1 [GPT:164] Steam Vents
+1 [MIR:184] Incinerate
+1 [CHK:175] Kiki-Jiki, Mirror Breaker
+1 [LRW:78] Pestermite
+1 [FUT:46] Venser, Shaper Savant
+1 [NPH:33] Deceiver Exarch
+1 [M20:52] Cavalier of Gales
+1 [MMQ:62] Bribery
+1 [AKH:125] Combat Celebrant
+1 [XLN:74] Search for Azcanta
+1 [LRW:56] Cryptic Command
+1 [OGW:182] Wandering Fumarole
+1 [ALL:28] Force of Will
+1 [M20:56] Drawn from Dreams
+1 [CHK:74] Meloku the Clouded Mirror
+1 [DGM:11] Aetherling
+2 [LEB:291] Island
+2 [LEB:293] Island
+5 [LEB:292] Island
+3 [LEB:299] Mountain
+1 [LEB:297] Mountain
+1 [LEB:298] Mountain
+SB: 1 [TMP:128] Diabolic Edict
+SB: 1 [XLN:1] Adanto Vanguard
+SB: 1 [BFZ:109] Drana, Liberator of Malakir
+SB: 1 [WWK:134] Creeping Tar Pit
+SB: 1 [AKH:97] Liliana, Death's Majesty
+SB: 1 [AKH:16] Glory-Bound Initiate
+SB: 1 [GRN:69] Doom Whisperer
+SB: 1 [C14:22] Flesh Carver
+SB: 1 [AER:76] Aether Chaser
+SB: 1 [AER:87] Kari Zev, Skyship Raider
+SB: 1 [CON:30] Inkwell Leviathan
+SB: 1 [ULG:45] Tinker
+SB: 1 [C14:35] Feldon of the Third Path
+SB: 1 [C18:44] Saheeli, the Gifted
+SB: 1 [ZEN:119] Burst Lightning
+SB: 1 [WAR:137] Krenko, Tin Street Kingpin
+SB: 1 [PLS:60] Flametongue Kavu
+SB: 1 [THS:127] Lightning Strike
+SB: 1 [TMP:308] Scroll Rack
+LAYOUT MAIN:(1,7)(CMC,false,50)|([LEB:287],[GPT:164],[OGW:182],[LEB:291],[LEB:291],[LEB:293],[LEB:292],[LEB:292],[LEB:292],[LEB:293],[LEB:292],[LEB:299],[LEB:299],[LEB:297],[LEB:299],[LEB:298],[LEB:292])([M10:68],[LEG:58])([ORI:60],[SOI:92],[RTR:172],[MIR:184],[XLN:74])([PTK:113],[MOR:55],[USG:174],[LRW:78],[NPH:33],[AKH:125])([4ED:64],[FUT:46],[LRW:56],[M20:56])([CHK:175],[M20:52],[MMQ:62],[ALL:28],[CHK:74])([DGM:11])
+LAYOUT SIDEBOARD:(1,7)(CMC,false,50)|([WWK:134])([ZEN:119])([TMP:128],[XLN:1],[AKH:16],[AER:76],[AER:87],[THS:127],[TMP:308])([BFZ:109],[C14:22],[ULG:45],[C14:35],[WAR:137])([C18:44],[PLS:60])([AKH:97],[GRN:69])([CON:30])

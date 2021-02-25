@@ -1,0 +1,35 @@
+1 Forest
+3 Island
+4 Mountain
+1 Plains
+1 Faerie Conclave
+1 Grand Coliseum
+1 City of Brass
+1 Ash Barrens
+1 Battlefield Forge
+1 Karplusan Forest
+1 Flooded Strand
+1 Steam Vents
+1 Swords to Plowshares
+1 Mother of Runes
+1 Pithing Needle
+1 Spellskite
+1 Magma Jet
+1 Abrade
+1 Nissa, Steward of Elements
+1 Thought Vessel
+1 Talisman of Dominance
+1 Recruiter of the Guard
+1 Pestermite
+1 True-Name Nemesis
+1 Reclamation Sage
+1 Man-o'-War
+1 Mystic Snake
+1 Flametongue Kavu
+1 Restoration Angel
+1 Sower of Temptation
+1 Kiki-Jiki, Mirror Breaker
+1 Thundermaw Hellkite
+1 Sarkhan, the Dragonspeaker
+1 Zealous Conscripts
+1 Greater Gargadon

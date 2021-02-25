@@ -1,0 +1,33 @@
+6 Island
+2 Mountain
+2 Swamp
+1 Lavaclaw Reaches
+1 Steam Vents
+1 Aether Hub
+1 Sulfurous Springs
+1 Faerie Conclave
+1 Mana Confluence
+1 City of Brass
+1 Pithing Needle
+1 Sensei's Divining Top
+1 Imperial Seal
+1 Brainstorm
+1 Coldsteel Heart
+1 Ratchet Bomb
+1 Talisman of Dominance
+1 Thought Vessel
+1 Go for the Throat
+1 Walking Ballista
+1 Shriekmaw
+1 Tinker
+1 Toxic Deluge
+1 Control Magic
+1 Fiery Confluence
+1 Deep Analysis
+1 Ral Zarek
+1 Tezzeret, Agent of Bolas
+1 Mystic Confluence
+1 Bribery
+1 Upheaval
+1 Triskelion
+1 Bosh, Iron Golem

@@ -1,0 +1,49 @@
+1 [M15:173] Elvish Mystic
+1 [ELD:149] Beanstalk Giant
+1 [RIX:136] Jadelight Ranger
+1 [M20:197] Thrashing Brontodon
+1 [ELD:181] Wicked Wolf
+1 [AVR:205] Wolfir Avenger
+1 [WAR:171] Paradise Druid
+1 [THB:148] Phoenix of Ash
+1 [AKH:248] Sheltered Thicket
+1 [ZNR:209] Tajuru Paragon
+1 [THS:224] Temple of Abandon
+1 [IKO:116] Fire Prophecy
+1 [DGM:99] Ruric Thar, the Unbowed
+1 [MM3:143] Thragtusk
+1 [RNA:131] Incubation Druid
+1 [RNA:179] Gruul Spellbreaker
+1 [DOM:142] Shivan Fire
+1 [FRF:145] Whisperwood Elemental
+1 [OGW:144] Sylvan Advocate
+1 [M13:147] Searing Spear
+1 [SOI:203] Duskwatch Recruiter
+1 [KLD:124] Pia Nalaar
+1 [AKH:134] Glorybringer
+1 [IKO:251] Raugrin Triome
+1 [THS:226] Temple of Mystery
+1 [M15:249] Yavimaya Coast
+1 [M15:246] Shivan Reef
+7 [UST:216] Forest
+3 [UST:215] Mountain
+1 [AKH:172] Honored Hydra
+1 [RTR:101] Mizzium Mortars
+1 [XLN:203] Ripjaw Raptor
+SB: 1 [KLD:13] Fairgrounds Warden
+SB: 1 [KTK:118] Monastery Swiftspear
+SB: 1 [M13:185] Rancor
+SB: 1 [RNA:195] Prime Speaker Vannifar
+SB: 1 [OGW:141] Pulse of Murasa
+SB: 1 [RNA:48] Quench
+SB: 1 [XLN:250] Treasure Map
+SB: 1 [EMN:2] Decimator of the Provinces
+SB: 1 [SOI:155] Falkenrath Gorger
+SB: 1 [M11:161] Acidic Slime
+SB: 1 [ORI:83] Whirler Rogue
+SB: 1 [M15:178] Hornet Queen
+SB: 1 [WAR:213] Roalesk, Apex Hybrid
+SB: 1 [DOM:240] Hinterland Harbor
+SB: 1 [DGM:134] Turn // Burn
+LAYOUT MAIN:(1,8)(CMC,false,64)|([AKH:248],[THS:224],[IKO:251],[THS:226],[M15:249],[M15:246],[UST:216],[UST:216],[UST:216],[UST:216],[UST:216],[UST:216],[UST:216],[UST:215],[UST:215],[UST:215])([M15:173],[DOM:142])([WAR:171],[ZNR:209],[IKO:116],[RNA:131],[OGW:144],[M13:147],[SOI:203],[RTR:101])([RIX:136],[M20:197],[AVR:205],[THB:148],[RNA:179],[KLD:124])([ELD:181],[XLN:203])([MM3:143],[FRF:145],[AKH:134])([DGM:99],[AKH:172])([ELD:149])
+LAYOUT SIDEBOARD:(1,6)(COLOR,false,100)|([XLN:250],[EMN:2],[DOM:240])([RNA:48],[ORI:83])([M13:185],[OGW:141],[M11:161],[M15:178])([KTK:118],[SOI:155])([KLD:13])([RNA:195],[WAR:213],[DGM:134])

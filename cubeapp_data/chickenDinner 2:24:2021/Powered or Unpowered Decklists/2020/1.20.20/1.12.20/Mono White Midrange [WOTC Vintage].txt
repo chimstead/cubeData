@@ -1,0 +1,46 @@
+1 [M14:228] Mutavault
+16 [ELD:250] Plains
+1 [AER:181] Walking Ballista
+1 [WWK:123] Everflowing Chalice
+1 [TSP:259] Lotus Bloom
+1 [DOM:14] Dauntless Bodyguard
+1 [UMA:11] Containment Priest
+1 [EMN:40] Selfless Spirit
+1 [KLD:235] Smuggler's Copter
+1 [RNA:27] Tithe Taker
+1 [JOU:5] Banishing Light
+1 [BBD:25] Brightling
+1 [FUT:161] Coalition Relic
+1 [AKH:14] Gideon of the Trials
+1 [SHM:229] Kitchen Finks
+1 [FRF:20] Monastery Mentor
+1 [M13:22] Oblivion Ring
+1 [AVR:36] Silverblade Paladin
+1 [THS:33] Spear of Heliod
+1 [USG:318] Worn Powerstone
+1 [SOI:5] Archangel Avacyn
+1 [M11:7] Baneslayer Angel
+1 [M12:39] Sun Titan
+1 [SOM:223] Wurmcoil Engine
+1 [MBS:138] Sword of Feast and Famine
+SB: 1 [6ED:4] Armageddon
+SB: 1 [FRF:27] Soulfire Grand Master
+SB: 1 [RAV:262] Golgari Signet
+SB: 1 [M12:151] Manic Vandal
+SB: 1 [3ED:105] Demonic Tutor
+SB: 1 [10E:163] Nekrataal
+SB: 1 [TSP:73] Riftwing Cloudskate
+SB: 1 [DTK:124] Ultimate Price
+SB: 1 [KLD:84] Gonti, Lord of Luxury
+SB: 1 [DKA:93] Hellrider
+SB: 1 [THS:90] Hero's Downfall
+SB: 1 [WWK:139] Lavaclaw Reaches
+SB: 1 [ATQ:81] Mishra's Workshop
+SB: 1 [BFZ:244] Shambling Vent
+SB: 1 [DOM:143] Siege-Gang Commander
+SB: 1 [WAR:180] Vivien, Champion of the Wilds
+SB: 1 [9ED:228] Wildfire
+SB: 1 [RNA:186] Kaya, Orzhov Usurper
+SB: 1 [AKH:97] Liliana, Death's Majesty
+LAYOUT MAIN:(1,7)(CARD_TYPE,false,62)|([AER:181],[SOM:223])([THS:33])([WWK:123],[TSP:259],[KLD:235],[FUT:161],[USG:318],[MBS:138])([DOM:14],[UMA:11],[EMN:40],[RNA:27],[BBD:25],[SHM:229],[FRF:20],[AVR:36],[SOI:5],[M11:7],[M12:39])([JOU:5],[M13:22])([M14:228],[ELD:250],[ELD:250],[ELD:250],[ELD:250],[ELD:250],[ELD:250],[ELD:250],[ELD:250],[ELD:250],[ELD:250],[ELD:250],[ELD:250],[ELD:250],[ELD:250],[ELD:250],[ELD:250])([AKH:14])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,61)|([6ED:4],[FRF:27],[RAV:262],[M12:151],[3ED:105],[10E:163],[TSP:73],[DTK:124],[KLD:84],[DKA:93],[THS:90],[WWK:139],[ATQ:81],[BFZ:244],[DOM:143],[WAR:180],[9ED:228],[RNA:186],[AKH:97])

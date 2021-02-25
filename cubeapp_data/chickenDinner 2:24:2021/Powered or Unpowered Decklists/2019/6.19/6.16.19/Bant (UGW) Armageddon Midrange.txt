@@ -1,0 +1,32 @@
+7 Plains
+3 Forest
+1 Island
+1 Horizon Canopy
+1 Strip Mine
+1 Undiscovered Paradise
+1 Tropical Island
+1 Savannah
+1 Celestial Colonnade
+1 Mox Diamond
+1 Llanowar Elves
+1 Warden of the First Tree
+1 Path to Exile
+1 Student of Warfare
+1 Birds of Paradise
+1 Elvish Mystic
+1 Journey to Nowhere
+1 Coldsteel Heart
+1 Winter Orb
+1 Talisman of Conviction
+1 Ramunap Excavator
+1 Gideon of the Trials
+1 Sword of Body and Mind
+1 Knight of the Reliquary
+1 Gideon Blackblade
+1 Geist of Saint Traft
+1 Ravages of War
+1 Whirler Rogue
+1 Gideon, Ally of Zendikar
+1 Palace Jailer
+1 Armageddon
+1 Deep Forest Hermit

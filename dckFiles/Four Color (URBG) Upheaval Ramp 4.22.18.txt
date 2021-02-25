@@ -1,3 +1,6 @@
+2018
+4.18
+4.22.18
 1 Yavimaya Coast
 1 Taiga
 1 Bayou
@@ -18,7 +21,7 @@
 1 Courser of Kruphix
 1 Nissa, Vastwood Seer
 1 Bloodbraid Elf
-1 Oracle of Mul Day
+1 Oracle of Mul Daya
 1 Primeval Titan
 1 Terastodon
 1 Fastbond

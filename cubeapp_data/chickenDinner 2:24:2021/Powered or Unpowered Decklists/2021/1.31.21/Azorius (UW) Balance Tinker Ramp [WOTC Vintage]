@@ -1,0 +1,50 @@
+1 [C18:82] Brainstorm
+1 [DDU:41] Trinket Mage
+1 [DOM:207] Teferi, Hero of Dominaria
+1 [C18:91] Inkwell Leviathan
+1 [EMA:234] Winter Orb
+1 [MH1:37] Winds of Abandon
+1 [ULG:45] Tinker
+1 [C18:106] Thirst for Knowledge
+1 [MM2:219] Lodestone Golem
+1 [C18:230] Worn Powerstone
+1 [EMA:2] Balance
+1 [CM2:231] Wurmcoil Engine
+1 [C18:212] Myr Battlesphere
+1 [ALL:28] Force of Will
+1 [C17:58] Condemn
+1 [UMA:50] Dig Through Time
+1 [UDS:135] Metalworker
+1 [EMA:34] Wall of Omens
+1 [THB:13] Elspeth Conquers Death
+1 [JVC:23] Daze
+1 [CM2:188] Everflowing Chalice
+1 [WAR:221*] Teferi, Time Raveler
+7 [UGL:85] Island
+7 [UGL:84] Plains
+1 [MRD:152] Chrome Mox
+1 [VMA:272] Mana Crypt
+1 [RNA:251] Hallowed Fountain
+1 [SOM:229] Seachrome Coast
+SB: 1 [M21:43] Vryn Wingmare
+SB: 1 [DST:148] Sword of Fire and Ice
+SB: 1 [THB:12] Eidolon of Obstruction
+SB: 1 [UMA:119] Unburial Rites
+SB: 1 [KLD:67] Torrential Gearhulk
+SB: 1 [CM2:18] Banishing Light
+SB: 1 [FRF:27] Soulfire Grand Master
+SB: 1 [E02:2] Day of Judgment
+SB: 1 [RIX:77] Mastermind's Acquisition
+SB: 1 [MBS:46] Massacre Wurm
+SB: 1 [MM3:46] Phantasmal Image
+SB: 1 [M20:14] Disenchant
+SB: 1 [UMA:163] Eternal Witness
+SB: 1 [MMA:59] Pestermite
+SB: 1 [ROE:21] Gideon Jura
+SB: 1 [EMA:207] Sphinx of the Steel Wind
+SB: 1 [WAR:79] Bolas's Citadel
+SB: 1 [A25:76] Vendilion Clique
+SB: 1 [MMA:208] Lotus Bloom
+SB: 1 [UGL:85] Island
+LAYOUT MAIN:(2,11)(CMC,true,50)|()()()([EMA:34])([DDU:41],[UDS:135])([MM2:219])()([CM2:231])([C18:212])()([C18:91])([UGL:85],[UGL:85],[UGL:85],[UGL:85],[UGL:85],[UGL:85],[UGL:85],[UGL:84],[UGL:84],[UGL:84],[UGL:84],[UGL:84],[UGL:84],[UGL:84],[MRD:152],[VMA:272],[RNA:251],[SOM:229])([ALL:28])([C18:82],[C17:58])([EMA:234],[MH1:37],[EMA:2],[JVC:23],[CM2:188])([ULG:45],[C18:106],[C18:230],[WAR:221*])()([DOM:207],[THB:13])()()([UMA:50])()
+LAYOUT SIDEBOARD:(1,8)(COLOR,false,50)|([KLD:67])([CM2:18])([ROE:21])([EMA:207])([WAR:79])([A25:76])([MMA:208])([UGL:85])

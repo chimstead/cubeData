@@ -1,0 +1,49 @@
+1 [LEG:65] Mana Drain
+1 [AER:181] Walking Ballista
+1 [ULG:36] Miscalculation
+1 [4ED:363] Strip Mine
+1 [MH1:75] Urza, Lord High Artificer
+1 [THS:9] Elspeth, Sun's Champion
+1 [ALA:9] Elspeth, Knight-Errant
+1 [MB1:440] Mystic Confluence
+1 [M11:70] Preordain
+1 [2ED:264] Mox Pearl
+1 [WWK:31] Jace, the Mind Sculptor
+1 [7ED:67] Counterspell
+1 [ICE:54] Swords to Plowshares
+1 [2ED:266] Mox Sapphire
+1 [MRD:53] Thirst for Knowledge
+1 [PLC:25] Mana Tithe
+1 [DOM:1] Karn, Scion of Urza
+1 [CON:15] Path to Exile
+1 [ORI:60] Jace, Vryn's Prodigy
+1 [WAR:221] Teferi, Time Raveler
+1 [XLN:81] Spell Pierce
+1 [KLD:67] Torrential Gearhulk
+1 [MH1:244] Prismatic Vista
+1 [NEM:17] Parallax Wave
+1 [MBS:10] Leonin Relic-Warder
+1 [KLD:4] Angel of Invention
+8 [UST:213] Island
+6 [UST:212] Plains
+SB: 1 [XLN:1] Adanto Vanguard
+SB: 1 [5ED:408] Winter Orb
+SB: 1 [M12:165] Birds of Paradise
+SB: 1 [XLN:22] Legion's Landing
+SB: 1 [6ED:19] Enlightened Tutor
+SB: 1 [M12:23] Honor of the Pure
+SB: 1 [APC:114] Pernicious Deed
+SB: 1 [CON:113] Knight of the Reliquary
+SB: 1 [M21:96] Duress
+SB: 1 [KLD:84] Gonti, Lord of Luxury
+SB: 1 [RTR:1] Angel of Serenity
+SB: 1 [BFZ:239] Lumbering Falls
+SB: 1 [GRN:254] Sacred Foundry
+SB: 1 [ULG:38] Palinchron
+SB: 1 [RNA:186] Kaya, Orzhov Usurper
+SB: 1 [APC:126] Vindicate
+SB: 1 [EMA:108] Toxic Deluge
+SB: 1 [GRN:224] Expansion // Explosion
+SB: 1 [M11:11] Condemn
+LAYOUT MAIN:(1,7)(CMC,false,71)|([AER:181],[4ED:363],[2ED:264],[2ED:266],[MH1:244],[UST:213],[UST:213],[UST:213],[UST:213],[UST:213],[UST:213],[UST:213],[UST:212],[UST:212],[UST:212],[UST:212],[UST:212],[UST:212],[UST:213])([M11:70],[ICE:54],[PLC:25],[CON:15],[XLN:81])([LEG:65],[ULG:36],[7ED:67],[ORI:60],[MBS:10])([MRD:53],[WAR:221])([MH1:75],[ALA:9],[WWK:31],[DOM:1],[NEM:17])([MB1:440],[KLD:4])([THS:9],[KLD:67])
+LAYOUT SIDEBOARD:(1,7)(CMC,false,100)|([BFZ:239],[GRN:254])([M12:165],[XLN:22],[6ED:19],[M21:96],[M11:11])([XLN:1],[5ED:408],[M12:23])([APC:114],[CON:113],[RNA:186],[APC:126],[EMA:108])([KLD:84])([GRN:224])([RTR:1],[ULG:38])

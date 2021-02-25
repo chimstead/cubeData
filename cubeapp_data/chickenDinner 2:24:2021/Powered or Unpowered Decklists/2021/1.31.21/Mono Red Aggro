@@ -1,0 +1,53 @@
+1 [DDL:3] Figure of Destiny
+1 [MM2:109] Burst Lightning
+1 [ORI:127] Abbot of Keral Keep
+1 [MM3:96] Goblin Guide
+1 [A25:128] Eidolon of the Great Revel
+1 [ZNR:161] Shatterskull Smashing
+1 [E01:50] Grim Lavamancer
+1 [JVC:51] Incinerate
+1 [DDT:46] Goblin Rabblemaster
+1 [DTK:169] Zurgo Bellstriker
+1 [GK1:28] Char
+1 [CM2:98] Fiery Confluence
+1 [ELD:122] Embereth Shieldbreaker
+1 [NPH:19] Porcelain Legionnaire
+1 [EMA:150] Sulfuric Vortex
+1 [HOU:90] Earthshaker Khenra
+1 [NPH:153] Shrine of Burning Rage
+1 [CN2:157] Flame Slash
+1 [XLN:154] Rampaging Ferocidon
+1 [MM3:98] Hellrider
+1 [C17:222] Skullclamp
+1 [BBD:171] Chain Lightning
+1 [MOR:148] Mutavault
+1 [MMA:191] Manamorphose
+1 [MM2:79] Dismember
+4 [DDL:75] Mountain
+3 [DDL:35] Mountain
+3 [DDL:77] Mountain
+2 [DDL:36] Mountain
+1 [DDL:38] Mountain
+1 [DDL:74] Mountain
+1 [KLD:110] Chandra, Torch of Defiance
+SB: 1 [MRD:152] Chrome Mox
+SB: 1 [BBD:110] Swords to Plowshares
+SB: 1 [ZNR:12] Emeria's Call
+SB: 1 [M21:34] Seasoned Hallowblade
+SB: 1 [THB:13] Elspeth Conquers Death
+SB: 1 [WAR:244] Blast Zone
+SB: 1 [GNT:42] Siege-Gang Commander
+SB: 1 [GRN:77] Midnight Reaper
+SB: 1 [ULG:74] Avalanche Riders
+SB: 1 [XLN:1] Adanto Vanguard
+SB: 1 [CMA:27] Unexpectedly Absent
+SB: 1 [GRN:254] Sacred Foundry
+SB: 1 [DGM:135] Wear // Tear
+SB: 1 [VMA:308] Plateau
+SB: 1 [A25:36] Thalia, Guardian of Thraben
+SB: 1 [IKO:12] Fight as One
+SB: 1 [GK1:90] Lightning Helix
+SB: 1 [VMA:294] Bazaar of Baghdad
+SB: 1 [M19:130] Banefire
+LAYOUT MAIN:(1,5)(CMC,false,50)|([MOR:148],[ZNR:161],[DDL:75],[DDL:75],[DDL:35],[DDL:77],[DDL:77],[DDL:75],[DDL:36],[DDL:35],[DDL:36],[DDL:38],[DDL:75],[DDL:77],[DDL:74],[DDL:35])([DDL:3],[MM2:109],[MM3:96],[E01:50],[DTK:169],[CN2:157],[C17:222],[BBD:171],[ELD:122],[MM2:79])([ORI:127],[A25:128],[JVC:51],[HOU:90],[NPH:153],[NPH:19],[MMA:191])([DDT:46],[GK1:28],[EMA:150],[XLN:154])([CM2:98],[MM3:98],[KLD:110])
+LAYOUT SIDEBOARD:(1,5)(COLOR,false,50)|([MRD:152],[WAR:244],[GRN:254],[VMA:308],[VMA:294])([GRN:77])([GNT:42],[ULG:74],[M19:130])([BBD:110],[ZNR:12],[M21:34],[THB:13],[XLN:1],[CMA:27],[A25:36],[IKO:12])([DGM:135],[GK1:90])

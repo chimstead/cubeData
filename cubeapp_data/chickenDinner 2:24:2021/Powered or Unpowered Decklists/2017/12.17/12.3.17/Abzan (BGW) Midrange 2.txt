@@ -1,0 +1,33 @@
+7 Forest
+2 Swamp
+1 Plains
+1 Arid Mesa
+1 Concealed Courtyard
+1 Godless Shrine
+1 Hissing Quagmire
+1 Overgrown Tomb
+1 Razorverge Thicket
+1 Strip Mine
+1 Enlightened Tutor
+1 Joraga Treespeaker
+1 Swords to Plowshares
+1 Fauna Shaman
+1 Orzhov Signet
+1 Sakura-Tribe Elder
+1 Survival of the Fittest
+1 Tarmogoyf
+1 Umezawa's Jitte
+1 Coalition Relic
+1 Courser of Kruphix
+1 Eternal Witness
+1 Lingering Souls
+1 Reclamation Sage
+1 Recurring Nightmare
+1 Sword of Fire and Ice
+1 Elspeth, Knight-Errant
+1 Garruk Relentless
+1 Restoration Angel
+1 Thrun, the Last Troll
+1 Acidic Slime
+1 Wurmcoil Engine
+1 Woodfall Primus

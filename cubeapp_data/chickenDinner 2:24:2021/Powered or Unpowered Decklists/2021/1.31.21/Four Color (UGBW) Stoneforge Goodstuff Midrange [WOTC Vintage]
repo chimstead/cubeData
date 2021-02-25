@@ -1,0 +1,51 @@
+1 [NPH:4] Blade Splicer
+1 [4ED:147] Mind Twist
+1 [TOR:69] Mesmeric Fiend
+1 [STH:125] Wall of Blossoms
+1 [5ED:388] Mana Vault
+1 [WWK:20] Stoneforge Mystic
+1 [6ED:161] Vampiric Tutor
+1 [WAR:169*] Nissa, Who Shakes the World
+1 [M12:55] Frost Titan
+1 [M12:98] Grave Titan
+1 [THS:188] Ashiok, Nightmare Weaver
+1 [GRN:152] Assassin's Trophy
+1 [DKA:12] Lingering Souls
+1 [LEG:65] Mana Drain
+1 [DST:148] Sword of Fire and Ice
+1 [MOR:55] Vendilion Clique
+1 [MH1:199] Fallen Shinobi
+1 [2XM:191] Baleful Strix
+1 [SOM:208] Sword of Body and Mind
+1 [BNG:5] Brimaz, King of Oreskos
+1 [ZNR:322] Skyclave Apparition
+1 [THS:107] Thoughtseize
+1 [ISD:181] Garruk Relentless
+1 [ZNR:12] Emeria's Call
+1 [ZNR:215] Turntimber Symbiosis
+1 [KLD:243] Blooming Marsh
+1 [SUM:283] Bayou
+1 [SUM:289] Tundra
+1 [2ED:262] Mox Emerald
+1 [LEG:303] Karakas
+1 [BFZ:244] Shambling Vent
+1 [RNA:248] Godless Shrine
+1 [KTK:233] Flooded Strand
+1 [KTK:248] Windswept Heath
+1 [SUM:290] Underground Sea
+1 [OGW:171] Hissing Quagmire
+1 [NPH:174] Forest
+1 [NPH:168] Island
+1 [NPH:166] Plains
+1 [NPH:171] Swamp
+SB: 1 [KLD:67] Torrential Gearhulk
+SB: 1 [WAR:79] Bolas's Citadel
+SB: 1 [ULG:49] Bone Shredder
+SB: 1 [ZNR:10] Disenchant
+SB: 1 [GRN:224] Expansion // Explosion
+SB: 1 [ORI:23] Kytheon, Hero of Akros
+SB: 1 [SHM:23] Spectral Procession
+SB: 1 [M11:172] Fauna Shaman
+SB: 1 [MH1:37] Winds of Abandon
+LAYOUT MAIN:(1,8)(CMC,false,38)|([KLD:243],[SUM:283],[SUM:289],[2ED:262],[LEG:303],[BFZ:244],[RNA:248],[KTK:233],[KTK:248],[SUM:290],[OGW:171],[NPH:174],[NPH:168],[NPH:166],[NPH:171])([4ED:147],[5ED:388],[6ED:161],[THS:107])([TOR:69],[STH:125],[WWK:20],[GRN:152],[LEG:65],[2XM:191])([NPH:4],[THS:188],[DKA:12],[DST:148],[MOR:55],[SOM:208],[BNG:5],[ZNR:322])([ISD:181])([WAR:169*],[MH1:199])([M12:55],[M12:98])([ZNR:12],[ZNR:215])
+LAYOUT SIDEBOARD:(1,4)(CMC,false,58)|([ORI:23])([ZNR:10],[M11:172],[MH1:37])([ULG:49])([KLD:67],[WAR:79],[GRN:224],[SHM:23])

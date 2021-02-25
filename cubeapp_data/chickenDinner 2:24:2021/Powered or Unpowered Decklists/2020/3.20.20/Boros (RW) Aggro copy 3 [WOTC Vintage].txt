@@ -1,0 +1,53 @@
+1 [CN2:18] Palace Jailer
+1 [KTK:97] Arc Lightning
+1 [KTK:249] Wooded Foothills
+1 [8ED:322] City of Brass
+1 [MM3:98] Hellrider
+1 [MBS:1] Accorder Paladin
+1 [3ED:284] Plateau
+1 [CON:15] Path to Exile
+1 [A25:246] Rishadan Port
+1 [M12:131] Fireball
+1 [CHK:19] Isamaru, Hound of Konda
+1 [M20:160] Shock
+1 [MM3:244] Scalding Tarn
+1 [TSB:119] Gemstone Mine
+1 [IMA:143] Rift Bolt
+1 [A25:36] Thalia, Guardian of Thraben
+1 [M20:14] Disenchant
+1 [AER:87] Kari Zev, Skyship Raider
+1 [RTR:96] Gore-House Chainwalker
+1 [MM3:96] Goblin Guide
+1 [ELD:115] Bonecrusher Giant
+1 [GK1:84] Boros Charm
+1 [FRF:18] Mardu Woe-Reaper
+1 [2ED:265] Mox Ruby
+1 [DDL:3] Figure of Destiny
+1 [M11:149] Lightning Bolt
+1 [EMA:136] Keldon Marauders
+1 [ROE:47] Student of Warfare
+1 [M12:151] Manic Vandal
+1 [NPH:153] Shrine of Burning Rage
+2 [LEB:297] Mountain
+2 [LEB:298] Mountain
+1 [LEB:299] Mountain
+2 [LEB:289] Plains
+1 [LEB:290] Plains
+1 [LEB:288] Plains
+1 [ALA:9] Elspeth, Knight-Errant
+SB: 1 [UDS:118] Rofellos, Llanowar Emissary
+SB: 1 [C18:96] Ponder
+SB: 1 [KLD:172] Verdurous Gearhulk
+SB: 1 [GRN:183] Knight of Autumn
+SB: 1 [4ED:147] Mind Twist
+SB: 1 [3ED:290] Underground Sea
+SB: 1 [EMA:241] Maze of Ith
+SB: 1 [C16:285] Caves of Koilos
+SB: 1 [E01:9] Flickerwisp
+SB: 1 [10E:17] Glorious Anthem
+SB: 1 [NEM:17] Parallax Wave
+SB: 1 [7ED:182] Final Fortune
+SB: 1 [ARB:46] Terminate
+SB: 1 [ORI:151] Goblin Piledriver
+LAYOUT MAIN:(1,6)(CMC,false,67)|([KTK:249],[8ED:322],[3ED:284],[A25:246],[MM3:244],[TSB:119],[2ED:265],[LEB:297],[LEB:298],[LEB:299],[LEB:298],[LEB:297],[LEB:289],[LEB:290],[LEB:289],[LEB:288])([CON:15],[M12:131],[CHK:19],[M20:160],[MM3:96],[FRF:18],[DDL:3],[M11:149],[ROE:47])([MBS:1],[A25:36],[M20:14],[AER:87],[RTR:96],[GK1:84],[EMA:136],[NPH:153])([KTK:97],[IMA:143],[M12:151])([CN2:18],[MM3:98],[ALA:9])([ELD:115])
+LAYOUT SIDEBOARD:(1,6)(CMC,false,50)|([3ED:290],[EMA:241],[C16:285])([C18:96],[4ED:147])([UDS:118],[7ED:182],[ARB:46],[ORI:151])([GRN:183],[E01:9],[10E:17])([NEM:17])([KLD:172])

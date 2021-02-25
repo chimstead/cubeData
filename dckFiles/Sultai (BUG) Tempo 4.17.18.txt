@@ -1,3 +1,6 @@
+2018
+4.18
+4.17.18
 4 Forest
 3 Island
 4 Swamp
@@ -15,7 +18,7 @@
 1 Fatal Push
 1 Baleful Strix
 1 Demonic Tutor
-1 Hymn to Touch
+1 Hymn to Tourach
 1 Ultimate Price
 1 Remand
 1 Sylvan Caryatid

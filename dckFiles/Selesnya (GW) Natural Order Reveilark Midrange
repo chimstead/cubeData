@@ -1,0 +1,51 @@
+2021
+1.31.21
+1 [OGW:140] Oath of Nissa
+1 [ELD:160] Gilded Goose
+1 [3ED:41] Swords to Plowshares
+1 [2XM:177] Noble Hierarch
+1 [ZEN:168] Lotus Cobra
+1 [WAR:171] Paradise Druid
+1 [M20:200] Voracious Hydra
+1 [THS:180] Sylvan Caryatid
+1 [SOI:12] Declaration in Stone
+1 [CM1:17] Sylvan Library
+1 [MMA:144] Eternal Witness
+1 [EVE:6] Flickerwisp
+1 [ZNR:39] Skyclave Apparition
+1 [M11:175] Garruk Wildspeaker
+1 [NEM:17] Parallax Wave
+1 [ELD:171] Questing Beast
+1 [DDF:1] Elspeth, Knight-Errant
+1 [VIS:114] Natural Order
+1 [MMA:26] Reveillark
+1 [KLD:4] Angel of Invention
+1 [MH1:161] Deep Forest Hermit
+1 [M13:193] Thragtusk
+1 [M15:178] Hornet Queen
+1 [ZNR:215] Turntimber Symbiosis
+1 [ZNR:12] Emeria's Call
+1 [UMA:251] Stirring Wildwood
+1 [SOM:228] Razorverge Thicket
+1 [AKH:247] Scattered Groves
+1 [IKO:248] Indatha Triome
+1 [JOU:163] Mana Confluence
+6 [PGRU:5] Forest
+4 [PGRU:1] Plains
+SB: 1 [SOM:223] Wurmcoil Engine
+SB: 1 [THB:261] Thassa, Deep-Dwelling
+SB: 1 [2XM:343] Fatal Push
+SB: 1 [IKO:220] Fiend Artisan
+SB: 1 [DDM:68] Night's Whisper
+SB: 1 [XLN:223] Hostage Taker
+SB: 1 [ULG:14] Mother of Runes
+SB: 1 [EMN:85] Collective Brutality
+SB: 1 [KLD:246] Inspiring Vantage
+SB: 1 [SOM:176] Mindslaver
+SB: 1 [CM2:16] Angel of Serenity
+SB: 1 [EVE:139] Figure of Destiny
+SB: 1 [MBS:97] Tezzeret, Agent of Bolas
+SB: 1 [WWK:20] Stoneforge Mystic
+SB: 1 [C19:165] Farseek
+LAYOUT MAIN:(1,8)(CMC,false,80)|([PGRU:5],[PGRU:5],[PGRU:5],[PGRU:5],[PGRU:5],[PGRU:5])([IKO:248],[JOU:163],[PGRU:1],[PGRU:1],[PGRU:1],[PGRU:1],[SOM:228],[AKH:247],[UMA:251])([ELD:160],[2XM:177],[OGW:140],[3ED:41])([SOI:12],[ZEN:168],[WAR:171],[THS:180],[CM1:17],[M20:200])([MMA:144],[EVE:6],[ZNR:39])([DDF:1],[M11:175],[VIS:114],[NEM:17],[ELD:171])([KLD:4],[MH1:161],[MMA:26],[M13:193])([ZNR:12],[M15:178],[ZNR:215])
+LAYOUT SIDEBOARD:(1,6)(CMC,false,73)|([KLD:246])([2XM:343],[ULG:14],[EVE:139])([IKO:220],[DDM:68],[EMN:85],[WWK:20],[C19:165])([THB:261],[XLN:223],[MBS:97])([SOM:223],[SOM:176])([CM2:16])

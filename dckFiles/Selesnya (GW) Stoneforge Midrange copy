@@ -1,0 +1,51 @@
+2021
+1.31.21
+1 [ICE:54] Swords to Plowshares
+1 [MH1:168] Hexdrinker
+1 [ULG:14] Mother of Runes
+1 [MH1:230] Talisman of Conviction
+1 [ROE:53] Wall of Omens
+1 [EMN:40] Selfless Spirit
+1 [BOK:163] Umezawa's Jitte
+1 [WWK:20] Stoneforge Mystic
+1 [C13:25] Unexpectedly Absent
+1 [MRD:256] Talisman of Progress
+1 [SOI:12] Declaration in Stone
+1 [ZNR:322] Skyclave Apparition
+1 [EVE:6] Flickerwisp
+1 [SHM:229] Kitchen Finks
+1 [CNS:16] Council's Judgment
+1 [NPH:4] Blade Splicer
+1 [AVR:32] Restoration Angel
+1 [BFZ:29] Gideon, Ally of Zendikar
+1 [NEM:17] Parallax Wave
+1 [KHM:15] Halvar, God of Battle
+1 [AKH:8] Cast Out
+1 [ALA:9] Elspeth, Knight-Errant
+1 [CMR:16] Court of Grace
+1 [ONS:328] Windswept Heath
+1 [MRD:152] Chrome Mox
+1 [MOR:148] Mutavault
+1 [LEB:281] Savannah
+1 [ONS:330] Wooded Foothills
+1 [RAV:284] Temple Garden
+1 [ZNR:12] Emeria's Call
+4 [PGRU:5] Forest
+6 [PGRU:1] Plains
+SB: 1 [ORI:60] Jace, Vryn's Prodigy
+SB: 1 [THS:9] Elspeth, Sun's Champion
+SB: 1 [CMR:68] Fall from Favor
+SB: 1 [NPH:161] Sword of War and Peace
+SB: 1 [AKH:134] Glorybringer
+SB: 1 [APC:126] Vindicate
+SB: 1 [ORI:105] Languish
+SB: 1 [ORI:23] Kytheon, Hero of Akros
+SB: 1 [XLN:179] Carnage Tyrant
+SB: 1 [LEG:26] Land Tax
+SB: 1 [ELD:171] Questing Beast
+SB: 1 [ULG:101] Deranged Hermit
+SB: 1 [ARB:75] Qasali Pridemage
+SB: 1 [TMP:245] Rampant Growth
+SB: 1 [MOR:22] Reveillark
+LAYOUT MAIN:(1,7)(CMC,false,86)|([PGRU:5],[PGRU:5],[PGRU:5],[PGRU:5],[PGRU:1],[PGRU:1],[PGRU:1],[PGRU:1],[PGRU:1],[PGRU:1])([MOR:148],[LEB:281],[RAV:284],[ONS:328],[ONS:330])([MRD:152],[MH1:168],[ULG:14],[ICE:54])([SOI:12],[EMN:40],[WWK:20],[MH1:230],[MRD:256],[BOK:163],[C13:25],[ROE:53])([NPH:4],[CNS:16],[EVE:6],[SHM:229],[ZNR:322])([AKH:8],[CMR:16],[ALA:9],[BFZ:29],[KHM:15],[NEM:17],[AVR:32])([ZNR:12])
+LAYOUT SIDEBOARD:(1,6)(CMC,false,50)|([ORI:23],[LEG:26])([ORI:60],[ARB:75],[TMP:245])([CMR:68],[NPH:161],[APC:126])([ORI:105],[ELD:171])([AKH:134],[ULG:101],[MOR:22])([THS:9],[XLN:179])

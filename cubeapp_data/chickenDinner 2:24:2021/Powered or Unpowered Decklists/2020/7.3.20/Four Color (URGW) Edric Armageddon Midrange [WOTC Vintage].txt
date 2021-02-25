@@ -1,0 +1,50 @@
+1 [STH:138] Mox Diamond
+1 [ODY:113] Upheaval
+1 [M19:196] Reclamation Sage
+1 [M15:145] Goblin Rabblemaster
+1 [ZEN:168] Lotus Cobra
+1 [CON:87] Noble Hierarch
+1 [SOI:233] Tireless Tracker
+1 [M19:208] Vivien Reid
+1 [UDS:118] Rofellos, Llanowar Emissary
+1 [LRW:76] Mulldrifter
+1 [JR:97] Ravages of War
+1 [ARB:50] Bloodbraid Elf
+1 [WAR:180] Vivien, Champion of the Wilds
+1 [ELD:171] Questing Beast
+1 [EVE:22] Glen Elendra Archmage
+1 [RNA:122] Biogenic Ooze
+1 [C16:195] Edric, Spymaster of Trest
+1 [M19:314] Llanowar Elves
+1 [DIS:133] Trygon Predator
+1 [UDS:50] Treachery
+1 [USG:318] Worn Powerstone
+1 [ICE:244] Fyndhorn Elves
+1 [2ED:262] Mox Emerald
+1 [3ED:287] Taiga
+1 [RNA:259] Stomping Ground
+1 [2ED:265] Mox Ruby
+1 [KTK:230] Bloodstained Mire
+6 [UGL:88] Forest
+5 [UGL:85] Island
+1 [UGL:87] Mountain
+1 [M12:63] Mana Leak
+SB: 1 [M13:112] Vampire Nighthawk
+SB: 1 [LRW:124] Makeshift Mannequin
+SB: 1 [ARN:70] Bazaar of Baghdad
+SB: 1 [M11:58] Jace Beleren
+SB: 1 [ULG:49] Bone Shredder
+SB: 1 [AKH:136] Hazoret the Fervent
+SB: 1 [GRN:224] Expansion // Explosion
+SB: 1 [AVR:36] Silverblade Paladin
+SB: 1 [VIS:114] Natural Order
+SB: 1 [AKH:134] Glorybringer
+SB: 1 [VIS:64] Necromancy
+SB: 1 [FRF:145] Whisperwood Elemental
+SB: 1 [NPH:103] Beast Within
+SB: 1 [CON:113] Knight of the Reliquary
+SB: 1 [M14:195] Scavenging Ooze
+SB: 1 [RNA:47] Pteramander
+SB: 1 [NPH:130] Batterskull
+LAYOUT MAIN:(2,4)(CMC,false,52)|([UGL:88],[UGL:88],[UGL:88],[UGL:88],[UGL:88],[UGL:88],[RNA:259],[3ED:287],[KTK:230],[UGL:87])([CON:87],[M19:314],[ICE:244])([M19:196],[M15:145],[SOI:233],[WAR:180],[C16:195],[DIS:133],[USG:318],[LRW:76])([M19:208],[RNA:122],[UDS:50])([STH:138],[2ED:262],[2ED:265],[UGL:85],[UGL:85],[UGL:85],[UGL:85],[UGL:85])([ZEN:168],[UDS:118],[M12:63])([JR:97],[ARB:50],[ELD:171],[EVE:22])([ODY:113])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([M13:112],[LRW:124],[ARN:70],[M11:58],[ULG:49],[AKH:136],[GRN:224],[AVR:36],[VIS:114],[AKH:134],[VIS:64],[FRF:145],[NPH:103],[CON:113],[M14:195],[RNA:47],[NPH:130])

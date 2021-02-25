@@ -1,0 +1,48 @@
+1 [M13:150] Thundermaw Hellkite
+1 [M19:130] Banefire
+1 [MH1:145] Seasoned Pyromancer
+1 [ORI:157] Pia and Kiran Nalaar
+1 [NPH:57] Dismember
+1 [LEG:137] Chain Lightning
+1 [RAV:117] Char
+1 [NPH:153] Shrine of Burning Rage
+1 [AKH:134] Glorybringer
+1 [ZEN:126] Goblin Guide
+1 [KLD:235] Smuggler's Copter
+1 [ZEN:119] Burst Lightning
+1 [M12:147] Inferno Titan
+1 [DST:149] Sword of Light and Shadow
+1 [KLD:199] Bomat Courier
+1 [RIX:99] Dire Fleet Daredevil
+1 [M12:146] Incinerate
+1 [KTK:118] Monastery Swiftspear
+1 [M11:149] Lightning Bolt
+1 [VIS:79] Fireblast
+1 [TMP:183] Jackal Pup
+1 [FUT:101] Magus of the Moon
+1 [KLD:110] Chandra, Torch of Defiance
+1 [EVE:139] Figure of Destiny
+1 [MRD:152] Chrome Mox
+1 [M14:228] Mutavault
+1 [2ED:265] Mox Ruby
+13 [UST:215] Mountain
+SB: 1 [5ED:329] Sylvan Library
+SB: 1 [KLD:84] Gonti, Lord of Luxury
+SB: 1 [NPH:161] Sword of War and Peace
+SB: 1 [ZEN:11] Emeria Angel
+SB: 1 [ZEN:114] Vampire Hexmage
+SB: 1 [AKH:1] Angel of Sanctions
+SB: 1 [ISD:170] Avacyn's Pilgrim
+SB: 1 [ISD:181] Garruk Relentless
+SB: 1 [WWK:115] Terastodon
+SB: 1 [ELD:171] Questing Beast
+SB: 1 [M12:12] Day of Judgment
+SB: 1 [NPH:9] Elesh Norn, Grand Cenobite
+SB: 1 [M13:193] Thragtusk
+SB: 1 [BNG:119] Courser of Kruphix
+SB: 1 [XLN:22] Legion's Landing
+SB: 1 [DIS:133] Trygon Predator
+SB: 1 [PLS:60] Flametongue Kavu
+SB: 1 [WAR:125] Dreadhorde Arcanist
+LAYOUT MAIN:(1,7)(CMC,false,62)|([MRD:152],[M14:228],[2ED:265],[UST:215],[UST:215],[UST:215],[UST:215],[UST:215],[UST:215],[UST:215],[UST:215],[UST:215],[UST:215],[UST:215],[UST:215],[UST:215])([M19:130],[LEG:137],[ZEN:126],[ZEN:119],[KLD:199],[KTK:118],[M11:149],[TMP:183],[EVE:139])([NPH:153],[KLD:235],[RIX:99],[M12:146])([MH1:145],[NPH:57],[RAV:117],[DST:149],[FUT:101])([ORI:157],[KLD:110])([M13:150],[AKH:134])([M12:147],[VIS:79])
+LAYOUT SIDEBOARD:(1,2)(NONE,false,61)|([5ED:329],[KLD:84],[NPH:161],[ZEN:11],[ZEN:114],[AKH:1],[ISD:170],[ISD:181],[WWK:115],[ELD:171],[M12:12],[NPH:9],[M13:193],[BNG:119],[XLN:22],[DIS:133])([PLS:60],[WAR:125])

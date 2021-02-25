@@ -1,0 +1,52 @@
+1 [EMA:112] Vampiric Tutor
+1 [THS:107] Thoughtseize
+1 [C18:57] Retrofitter Foundry
+1 [LRW:79] Ponder
+1 [M20:97] Duress
+1 [C13:177] Baleful Strix
+1 [CM2:181] Coldsteel Heart
+1 [UMA:93] Demonic Tutor
+1 [RNA:183] Hydroid Krasis
+1 [CMD:17] Journey to Nowhere
+1 [EMA:2] Balance
+1 [EMA:108] Toxic Deluge
+1 [MH1:100] Plague Engineer
+1 [DKA:12] Lingering Souls
+1 [GRN:183] Knight of Autumn
+1 [ORI:83] Whirler Rogue
+1 [V13:9] Fact or Fiction
+1 [EMA:42] Control Magic
+1 [MRD:152] Chrome Mox
+1 [LRW:139] Shriekmaw
+1 [ELD:281] Brazen Borrower
+1 [MRD:256] Talisman of Progress
+1 [DDO:1] Elspeth, Sun's Champion
+1 [KTK:249] Wooded Foothills
+1 [VMA:323] Underground Sea
+1 [VMA:322] Tundra
+1 [KTK:230] Bloodstained Mire
+1 [VMA:321] Tropical Island
+1 [VMA:313] Scrubland
+1 [VMA:311] Savannah
+1 [JOU:163] Mana Confluence
+1 [GTC:242] Godless Shrine
+1 [ELD:244] Fabled Passage
+1 [GTC:240] Breeding Pool
+1 [THS:237] Island
+1 [THS:234] Island
+1 [THS:233] Plains
+1 [THS:241] Swamp
+1 [THS:240] Swamp
+1 [M19:79] Tezzeret, Artifice Master
+SB: 1 [BNG:119] Courser of Kruphix
+SB: 1 [AER:62] Glint-Sleeve Siphoner
+SB: 1 [10E:252] Birds of Paradise
+SB: 1 [V12:10] Maze of Ith
+SB: 1 [NPH:19] Porcelain Legionnaire
+SB: 1 [VMA:293] Bayou
+SB: 1 [EMA:9] Enlightened Tutor
+SB: 1 [EMN:40] Selfless Spirit
+SB: 1 [MRD:257] Talisman of Unity
+SB: 1 [XLN:223] Hostage Taker
+LAYOUT MAIN:(1,6)(CMC,false,85)|([KTK:230],[GTC:240],[MRD:152],[ELD:244],[GTC:242],[THS:237],[THS:234],[JOU:163],[THS:233],[VMA:311],[VMA:313],[THS:241],[THS:240],[VMA:321],[VMA:322],[VMA:323],[KTK:249])([M20:97],[LRW:79],[C18:57],[THS:107],[EMA:112])([EMA:2],[C13:177],[CM2:181],[UMA:93],[RNA:183],[CMD:17],[MRD:256],[LRW:139],[ELD:281])([GRN:183],[DKA:12],[MH1:100],[EMA:108])([EMA:42],[V13:9],[ORI:83])([DDO:1],[M19:79])
+LAYOUT SIDEBOARD:(1,4)(CMC,false,88)|([10E:252],[EMA:9],[MRD:257])([AER:62],[EMN:40],[NPH:19],[VMA:293])([BNG:119],[XLN:223])([V12:10])

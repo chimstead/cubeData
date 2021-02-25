@@ -1,3 +1,6 @@
+2017
+12.17
+12.3.17
 5 Plains
 6 Swamp
 1 Mana Confluence
@@ -19,7 +22,7 @@
 1 Pack Rat
 1 Sinkhole
 1 Soltari Priest
-1 Umezawa’s Jitte
+1 Umezawa's Jitte
 1 Lingering Souls
 1 Oblivion Ring
 1 Sword of Body and Mind
@@ -29,4 +32,3 @@
 1 Fleetwheel Cruiser
 1 Ravages of War
 1 Smokestack
-

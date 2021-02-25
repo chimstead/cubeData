@@ -1,0 +1,34 @@
+5 Island
+3 Swamp
+1 Creeping Tar Pit
+1 Lavaclaw Reaches
+1 Maze of Ith
+1 Polluted Delta
+1 Steam Vents
+1 Underground Sea
+1 Verdant Catacombs
+1 Volrath's Stronghold
+1 Wandering Fumarole
+1 Preordain
+1 Thoughtseize
+1 Counterspell
+1 Miscalculation
+1 Remand
+1 Jace, Vryn's Prodigy
+1 Snapcaster Mage
+1 Chart a Course
+1 Go for the Throat
+1 Hymn to Torach
+1 Incinerate
+1 True-Name Nemesis
+1 Dismember
+1 Liliana, the Last Hope
+1 Supreme Will
+1 Kalitas, Traitor of Ghet
+1 Cryptic Command
+1 Fact or Fiction
+1 Jace, the Mind Sculptor
+1 Snuff Out
+1 Mulldrifter
+1 Mystic Confluence
+1 Condescend

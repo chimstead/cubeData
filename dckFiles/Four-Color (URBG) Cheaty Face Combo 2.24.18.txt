@@ -1,3 +1,6 @@
+2018
+2.18
+2.24.18
 2 Forest
 2 Swamp
 2 Island
@@ -16,18 +19,18 @@
 1 Inquisition of Kozilek
 1 Preordain
 1 Rolling Earthquake
-1 Sensei’s Diving Top
+1 Sensei's Divining Top
 1 Demonic Tutor
 1 Go for the Throat
 1 Oath of Druids
 1 Sorcerous Spyglass
 1 Sylvan Library
-1 Kodama’s Reach
+1 Kodama's Reach
 1 Maelstrom Pulse
 1 Show and Tell
 1 Sneak Attack
 1 Through the Breach
-1 Selvala’s Stampede
+1 Selvala's Stampede
 1 Dragonlord Atarka
 1 Hornet Queen
 1 Myr Battlesphere

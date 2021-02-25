@@ -1,0 +1,48 @@
+1 [WAR:169] Nissa, Who Shakes the World
+1 [DTK:216] Dragonlord Atarka
+1 [M13:159] Acidic Slime
+1 [ISD:181] Garruk Relentless
+1 [BNG:119] Courser of Kruphix
+1 [M19:196] Reclamation Sage
+1 [M13:160] Arbor Elf
+1 [SHM:135] Woodfall Primus
+1 [NPH:103] Beast Within
+1 [ZEN:168] Lotus Cobra
+1 [RAV:255] Boros Signet
+1 [AVR:172] Craterhoof Behemoth
+1 [5ED:329] Sylvan Library
+1 [M19:314] Llanowar Elves
+1 [PLC:149] Harmonize
+1 [BOK:163] Umezawa's Jitte
+1 [MBS:81] Green Sun's Zenith
+1 [VIS:114] Natural Order
+1 [8ED:272] Plow Under
+1 [UDS:118] Rofellos, Llanowar Emissary
+1 [ZEN:172] Oracle of Mul Daya
+1 [RAV:270] Selesnya Signet
+1 [TSB:89] Wall of Roots
+1 [M10:191] Master of the Wild Hunt
+1 [TMP:315] Ancient Tomb
+1 [4ED:363] Strip Mine
+1 [USG:321] Gaea's Cradle
+1 [SOM:225] Copperline Gorge
+1 [WWK:141] Raging Ravine
+11 [UNH:140] Forest
+SB: 1 [AVR:32] Restoration Angel
+SB: 1 [RNA:27] Tithe Taker
+SB: 1 [LRW:139] Shriekmaw
+SB: 1 [AKH:136] Hazoret the Fervent
+SB: 1 [4ED:236] Channel
+SB: 1 [ROE:6] Kozilek, Butcher of Truth
+SB: 1 [M13:174] Garruk, Primal Hunter
+SB: 1 [M12:147] Inferno Titan
+SB: 1 [ODY:193] Firebolt
+SB: 1 [OGW:110] Goblin Dark-Dwellers
+SB: 1 [ELD:122] Embereth Shieldbreaker
+SB: 1 [NEM:30] Daze
+SB: 1 [LEG:137] Chain Lightning
+SB: 1 [RIX:111] Rekindling Phoenix
+SB: 1 [5DN:86] Eternal Witness
+SB: 1 [HOU:129] Ramunap Excavator
+LAYOUT MAIN:(1,7)(CMC,false,44)|([TMP:315],[4ED:363],[USG:321],[SOM:225],[WWK:141],[UNH:140],[UNH:140],[UNH:140],[UNH:140],[UNH:140],[UNH:140],[UNH:140],[UNH:140],[UNH:140],[UNH:140],[UNH:140])([M13:160],[M19:314])([RAV:255],[ZEN:168],[UDS:118],[RAV:270],[5ED:329],[BOK:163],[TSB:89])([NPH:103],[BNG:119],[M19:196])([ISD:181],[PLC:149],[VIS:114],[M10:191],[ZEN:172])([M13:159],[WAR:169],[8ED:272])([AVR:172],[SHM:135],[MBS:81],[DTK:216])
+LAYOUT SIDEBOARD:(1,7)(CMC,false,50)|([ODY:193],[LEG:137])([RNA:27],[4ED:236],[NEM:30])([ELD:122],[5DN:86],[HOU:129])([AVR:32],[AKH:136],[RIX:111])([LRW:139],[M13:174],[OGW:110])([M12:147])([ROE:6])

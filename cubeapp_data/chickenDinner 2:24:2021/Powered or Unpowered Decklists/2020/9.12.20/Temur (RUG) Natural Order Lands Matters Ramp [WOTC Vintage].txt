@@ -1,0 +1,53 @@
+1 [M12:188] Primeval Titan
+1 [ISD:170] Avacyn's Pilgrim
+1 [MB1:1603] Mana Crypt
+1 [BOK:163] Umezawa's Jitte
+1 [ARB:50] Bloodbraid Elf
+1 [ELD:122] Embereth Shieldbreaker
+1 [CON:121] Progenitus
+1 [XLN:48] Chart a Course
+1 [HOU:129] Ramunap Excavator
+1 [M21:204] Scavenging Ooze
+1 [8ED:64] Bribery
+1 [5ED:329] Sylvan Library
+1 [M13:160] Arbor Elf
+1 [UDS:118] Rofellos, Llanowar Emissary
+1 [MOR:55] Vendilion Clique
+1 [MBS:81] Green Sun's Zenith
+1 [MH1:217] Wrenn and Six
+1 [M15:173] Elvish Mystic
+1 [M19:314] Llanowar Elves
+1 [M11:175] Garruk Wildspeaker
+1 [IKO:175] Vivien, Monsters' Advocate
+1 [MMQ:61] Brainstorm
+1 [VIS:114] Natural Order
+1 [AVR:172] Craterhoof Behemoth
+1 [4ED:363] Strip Mine
+1 [KLD:244] Botanical Sanctum
+1 [BFZ:239] Lumbering Falls
+1 [ZEN:211] Arid Mesa
+1 [USG:321] Gaea's Cradle
+1 [WWK:141] Raging Ravine
+1 [3ED:287] Taiga
+3 [M12:248] Forest
+2 [M12:249] Forest
+2 [M12:234] Island
+1 [M12:236] Island
+1 [M12:245] Mountain
+SB: 1 [SOM:224] Blackcleave Cliffs
+SB: 1 [USG:309] Smokestack
+SB: 1 [MH1:116] Yawgmoth, Thran Physician
+SB: 1 [M11:154] Pyroclasm
+SB: 1 [RTR:1] Angel of Serenity
+SB: 1 [USG:330] Tolarian Academy
+SB: 1 [3ED:286] Scrubland
+SB: 1 [DTK:216] Dragonlord Atarka
+SB: 1 [PLC:149] Harmonize
+SB: 1 [DKA:140] Huntmaster of the Fells
+SB: 1 [SOM:223] Wurmcoil Engine
+SB: 1 [DIS:165] Rakdos Signet
+SB: 1 [BFZ:15] Ulamog, the Ceaseless Hunger
+SB: 1 [M13:193] Thragtusk
+SB: 1 [M12:242] Mountain
+LAYOUT MAIN:(1,9)(CMC,false,56)|([MB1:1603],[4ED:363],[KLD:244],[BFZ:239],[ZEN:211],[USG:321],[WWK:141],[3ED:287],[M12:248],[M12:248],[M12:249],[M12:248],[M12:234],[M12:234],[M12:236],[M12:245],[M12:249])([ISD:170],[M13:160],[MBS:81],[M15:173],[M19:314],[MMQ:61],[ELD:122])([BOK:163],[XLN:48],[M21:204],[5ED:329],[UDS:118],[MH1:217])([HOU:129],[MOR:55])([ARB:50],[M11:175],[VIS:114])([8ED:64],[IKO:175])([M12:188])([AVR:172])([CON:121])
+LAYOUT SIDEBOARD:(1,7)(CMC,false,58)|([SOM:224],[USG:330],[3ED:286],[M12:242])([M11:154],[DIS:165])([USG:309],[MH1:116],[PLC:149],[DKA:140])([M13:193])([SOM:223])([RTR:1],[DTK:216])([BFZ:15])

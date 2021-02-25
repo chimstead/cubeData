@@ -1,0 +1,50 @@
+1 [ONS:313] Bloodstained Mire
+1 [MIR:253] Wall of Roots
+1 [BFZ:223] Hedron Archive
+1 [LEA:188] Channel
+1 [GPT:165] Stomping Ground
+1 [M15:187] Nissa, Worldwaker
+1 [LEG:207] Sylvan Library
+1 [ROE:12] Ulamog, the Infinite Gyre
+1 [CON:87] Noble Hierarch
+1 [6ED:217] Birds of Paradise
+1 [LEB:283] Taiga
+1 [THB:220] Klothys, God of Destiny
+1 [ULG:143] Treetop Village
+1 [ONS:328] Windswept Heath
+1 [WWK:123] Everflowing Chalice
+1 [TMP:315] Ancient Tomb
+1 [WWK:141] Raging Ravine
+1 [ROE:6] Kozilek, Butcher of Truth
+1 [MH1:217] Wrenn and Six
+1 [WAR:169*] Nissa, Who Shakes the World
+1 [SOI:233] Tireless Tracker
+1 [DST:146] Sundering Titan
+1 [C15:26] Fiery Confluence
+1 [THS:209] Xenagos, the Reveler
+1 [THB:151] Purphoros's Intervention
+1 [ULG:126] Grim Monolith
+1 [STH:138] Mox Diamond
+1 [M20:127] Chandra, Awakened Inferno
+1 [6ED:239] Llanowar Elves
+1 [5DN:73] Magma Jet
+6 [UST:216] Forest
+3 [UST:215] Mountain
+1 [MIR:184] Incinerate
+SB: 1 [LEG:65] Mana Drain
+SB: 1 [MH1:100] Plague Engineer
+SB: 1 [THB:302] Shatter the Sky
+SB: 1 [LEB:193] Fastbond
+SB: 1 [GPT:164] Steam Vents
+SB: 1 [IKO:253] Savai Triome
+SB: 1 [WAR:185] Angrath's Rampage
+SB: 1 [EXO:115] Oath of Druids
+SB: 1 [BFZ:239] Lumbering Falls
+SB: 1 [ORI:157] Pia and Kiran Nalaar
+SB: 1 [MRD:256] Talisman of Progress
+SB: 1 [SCG:106] Sulfuric Vortex
+SB: 1 [UST:215] Mountain
+SB: 1 [IKO:227] Lutri, the Spellchaser
+SB: 1 [OGW:140] Oath of Nissa
+LAYOUT MAIN:(1,10)(CMC,false,64)|([ONS:313],[GPT:165],[LEB:283],[ULG:143],[ONS:328],[WWK:123],[TMP:315],[WWK:141],[STH:138],[UST:216],[UST:216],[UST:216],[UST:216],[UST:216],[UST:216],[UST:215],[UST:215],[UST:215])([CON:87],[6ED:217],[THB:151],[6ED:239])([MIR:253],[LEA:188],[LEG:207],[MH1:217],[ULG:126],[5DN:73],[MIR:184])([THB:220],[SOI:233])([BFZ:223],[C15:26],[THS:209])([M15:187],[WAR:169*])([M20:127])([DST:146])([ROE:6])([ROE:12])
+LAYOUT SIDEBOARD:(1,7)(COLOR,false,100)|([GPT:164],[IKO:253],[BFZ:239],[MRD:256],[UST:215])([MH1:100])([LEG:65])([LEB:193],[EXO:115],[OGW:140])([ORI:157],[SCG:106])([THB:302])([WAR:185],[IKO:227])

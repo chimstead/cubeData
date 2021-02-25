@@ -1,0 +1,53 @@
+1 [MMA:144] Eternal Witness
+1 [ROE:190] Joraga Treespeaker
+1 [VMA:289] Ancient Tomb
+1 [IKO:237] The Ozolith
+1 [RTR:243] Overgrown Tomb
+1 [ELD:171] Questing Beast
+1 [ELD:101] Rankle, Master of Pranks
+1 [SOM:223] Wurmcoil Engine
+1 [VMA:293] Bayou
+1 [M19:314] Llanowar Elves
+1 [BNG:119] Courser of Kruphix
+1 [AER:122] Rishkar, Peema Renegade
+1 [C20:66] Slippery Bogbonder
+1 [DDR:1] Nissa, Voice of Zendikar
+1 [VMA:229] Rofellos, Llanowar Emissary
+1 [IKO:220] Fiend Artisan
+1 [M14:195] Scavenging Ooze
+1 [MH1:161] Deep Forest Hermit
+1 [KTK:248] Windswept Heath
+1 [MM2:71] Bitterblossom
+1 [A25:236] Ash Barrens
+1 [MM3:122] Craterhoof Behemoth
+1 [SHM:229] Kitchen Finks
+1 [KTK:133] Hardened Scales
+1 [ORI:229] Hangarback Walker
+1 [A25:223] Coalition Relic
+1 [V13:4] Fyndhorn Elves
+1 [C16:157] Managorger Hydra
+2 [ROE:248] Forest
+4 [ROE:247] Forest
+2 [ROE:246] Forest
+1 [ROE:245] Forest
+2 [ROE:238] Swamp
+1 [ROE:239] Swamp
+SB: 1 [PD3:15] Reanimate
+SB: 1 [AKH:88] Dread Wanderer
+SB: 1 [CNS:16] Council's Judgment
+SB: 1 [M20:127] Chandra, Awakened Inferno
+SB: 1 [M12:156] Stormblood Berserker
+SB: 1 [GRN:69] Doom Whisperer
+SB: 1 [EMA:82] Braids, Cabal Minion
+SB: 1 [VMA:319] Tolarian Academy
+SB: 1 [PD3:14] Entomb
+SB: 1 [MH1:81] Carrion Feeder
+SB: 1 [ORI:157] Pia and Kiran Nalaar
+SB: 1 [ZEN:126] Goblin Guide
+SB: 1 [THB:302] Shatter the Sky
+SB: 1 [SHM:135] Woodfall Primus
+SB: 1 [ARB:50] Bloodbraid Elf
+SB: 1 [EMA:81] Blood Artist
+SB: 1 [DTK:177] Collected Company
+LAYOUT MAIN:(1,6)(CMC,false,69)|([VMA:289],[RTR:243],[VMA:293],[KTK:248],[A25:236],[ROE:248],[ROE:248],[ROE:247],[ROE:246],[ROE:246],[ROE:247],[ROE:247],[ROE:245],[ROE:238],[ROE:238],[ROE:239],[ROE:247])([ROE:190],[IKO:237],[M19:314],[KTK:133],[V13:4])([VMA:229],[IKO:220],[M14:195],[MM2:71],[ORI:229])([MMA:144],[BNG:119],[AER:122],[DDR:1],[SHM:229],[A25:223],[C16:157])([ELD:171],[ELD:101],[C20:66])([MH1:161],[SOM:223],[MM3:122])
+LAYOUT SIDEBOARD:(1,6)(COLOR,false,50)|([VMA:319])([PD3:15],[AKH:88],[GRN:69],[EMA:82],[PD3:14],[MH1:81],[EMA:81])([SHM:135],[DTK:177])([M20:127],[M12:156],[ORI:157],[ZEN:126])([CNS:16],[THB:302])([ARB:50])

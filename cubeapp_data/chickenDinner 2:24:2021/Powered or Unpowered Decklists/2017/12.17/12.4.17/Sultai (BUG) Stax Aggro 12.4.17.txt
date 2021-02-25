@@ -1,0 +1,33 @@
+5 Swamp
+3 Island
+2 Forest
+1 Maze of Ith
+1 Lumbering Falls
+1 Marsh Flats
+1 Watery Grave
+1 Creeping Tar Pit
+1 Terramorphic Expanse
+1 Mana Confluence
+1 Delver of Secrets
+1 Bloodsoaked Champion
+1 Bitterblossom
+1 Scrapheap Scrounger
+1 Mana Leak
+1 Counterspell
+1 Baleful Strix
+1 Blood Artist
+1 Abrupt Decay
+1 Filigree Familiar
+1 Flesh Carver
+1 Shadowmage Infiltrator
+1 Vampire Nighthawk
+1 Ammit Eternal
+1 Ophiomancer
+1 Master Biomancer
+1 Kalitas, Traitor of Ghet
+1 Braids, Cabal Minion
+1 Meren of Clan Nel Toth
+1 Ezuri, Claw of Progress
+1 Smokestack
+1 Control Magic
+1 Prognostic Sphinx

@@ -1,0 +1,30 @@
+8 Island
+3 Plains
+1 Swamp
+1 Caves of Koilos
+1 Godless Shrine
+1 Scrubland
+1 Terramorphic Expanse
+1 Tundra
+1 Brainstorm
+1 Condescend
+1 Land Tax
+1 Mind Twist
+1 Ancestral Vision
+1 Coldsteel Heart
+1 Mana Leak
+1 Memory Lapse
+1 Scroll Rack
+1 Banishing Light
+1 Coalition Relic
+1 Forbid
+1 Jace Beleren
+1 Psychatog
+1 True-Name Nemesis
+1 Control Magic
+1 Elspeth, Knight-Errant
+1 Supreme Verdict
+1 Cloudgoat Ranger
+1 Aetherling
+1 Catastrophe
+1 Eternal Dragon

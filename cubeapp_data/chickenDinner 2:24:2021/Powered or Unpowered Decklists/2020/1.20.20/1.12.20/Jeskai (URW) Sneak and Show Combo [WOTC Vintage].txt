@@ -1,0 +1,50 @@
+1 [SOM:48] Trinket Mage
+1 [NPH:4] Blade Splicer
+1 [CHK:193] Through the Breach
+1 [VMA:20] Council's Judgment
+1 [6ED:19] Enlightened Tutor
+1 [2ED:84] Time Walk
+1 [2ED:233] Black Lotus
+1 [ROE:4] Emrakul, the Aeons Torn
+1 [NEM:17] Parallax Wave
+1 [EVE:22] Glen Elendra Archmage
+1 [BBD:33] Arcane Artisan
+1 [M11:7] Baneslayer Angel
+1 [LRW:76] Mulldrifter
+1 [MBS:21] Consecrated Sphinx
+1 [SOI:247] Nahiri, the Harbinger
+1 [SOM:223] Wurmcoil Engine
+1 [USG:218] Sneak Attack
+1 [M12:39] Sun Titan
+1 [SOM:180] Myr Battlesphere
+1 [TSP:73] Riftwing Cloudskate
+1 [TSP:259] Lotus Bloom
+1 [CON:15] Path to Exile
+1 [GRN:254] Sacred Foundry
+1 [LEG:303] Karakas
+5 [UST:213] Island
+2 [UST:215] Mountain
+7 [UST:212] Plains
+1 [M12:16] Gideon Jura
+1 [DKA:24] Thalia, Guardian of Thraben
+SB: 1 [M12:23] Honor of the Pure
+SB: 1 [WWK:134] Creeping Tar Pit
+SB: 1 [DTK:216] Dragonlord Atarka
+SB: 1 [UMA:11] Containment Priest
+SB: 1 [CMA:27] Unexpectedly Absent
+SB: 1 [GRN:208] Trostani Discordant
+SB: 1 [V14:2] Burning of Xinye
+SB: 1 [ULG:129] Memory Jar
+SB: 1 [ZEN:126] Goblin Guide
+SB: 1 [ROE:190] Joraga Treespeaker
+SB: 1 [ODY:113] Upheaval
+SB: 1 [TSP:269] Academy Ruins
+SB: 1 [M15:187] Nissa, Worldwaker
+SB: 1 [SOM:176] Mindslaver
+SB: 1 [UDS:135] Metalworker
+SB: 1 [MBS:8] Hero of Bladehold
+SB: 1 [LRW:88] Sower of Temptation
+SB: 1 [MOR:22] Reveillark
+SB: 1 [MBS:99] Blightsteel Colossus
+LAYOUT MAIN:(1,5)(CMC,false,69)|([2ED:233],[TSP:259],[GRN:254],[LEG:303],[UST:213],[UST:213],[UST:213],[UST:213],[UST:213],[UST:215],[UST:215],[UST:212],[UST:212],[UST:212],[UST:212],[UST:212],[UST:212],[UST:212])([6ED:19],[CON:15],[2ED:84],[DKA:24],[SOM:48],[NPH:4],[VMA:20],[BBD:33])([NEM:17],[EVE:22],[SOI:247],[USG:218])([CHK:193],[M11:7],[LRW:76],[TSP:73],[M12:16])([MBS:21],[SOM:223],[M12:39],[SOM:180],[ROE:4])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([M12:23],[WWK:134],[DTK:216],[UMA:11],[CMA:27],[GRN:208],[V14:2],[ULG:129],[ZEN:126],[ROE:190],[ODY:113],[TSP:269],[M15:187],[SOM:176],[UDS:135],[MBS:8],[LRW:88],[MOR:22],[MBS:99])

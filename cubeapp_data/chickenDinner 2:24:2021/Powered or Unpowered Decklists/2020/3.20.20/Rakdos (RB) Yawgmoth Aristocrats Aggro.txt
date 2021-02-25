@@ -1,0 +1,51 @@
+1 [MBS:43] Go for the Throat
+1 [RNA:185] Judith, the Scourge Diva
+1 [DOM:81] Cast Down
+1 [THS:135] Purphoros, God of the Forge
+1 [MH1:116] Yawgmoth, Thran Physician
+1 [RTR:157] Dreadbore
+1 [M19:152] Lightning Strike
+1 [M20:126] Chandra, Acolyte of Flame
+1 [THS:107] Thoughtseize
+1 [MM3:98] Hellrider
+1 [M10:100] Hypnotic Specter
+1 [KTK:66] Bloodsoaked Champion
+1 [C13:110] Goblin Bombardment
+1 [M14:163] Young Pyromancer
+1 [MMA:202] Bonesplitter
+1 [M13:150] Thundermaw Hellkite
+1 [RNA:76] Gutterbones
+1 [THS:128] Magma Jet
+1 [AKH:88] Dread Wanderer
+1 [ELD:115] Bonecrusher Giant
+1 [WAR:137] Krenko, Tin Street Kingpin
+1 [RIX:99] Dire Fleet Daredevil
+1 [AVR:86] Blood Artist
+1 [AKH:239] Canyon Slough
+1 [RTR:238] Blood Crypt
+1 [WWK:139] Lavaclaw Reaches
+1 [10E:359] Sulfurous Springs
+3 [MBS:152] Mountain
+3 [MBS:153] Mountain
+6 [MBS:150] Swamp
+1 [C14:176] Flametongue Kavu
+SB: 1 [OGW:157] Reflector Mage
+SB: 1 [AER:181] Walking Ballista
+SB: 1 [EVE:139] Figure of Destiny
+SB: 1 [GTC:97] Legion Loyalist
+SB: 1 [ISD:164] Stromkirk Noble
+SB: 1 [IMA:137] Kiln Fiend
+SB: 1 [MH1:197] Eladamri's Call
+SB: 1 [EMN:123] Collective Defiance
+SB: 1 [M20:111] Rotting Regisaur
+SB: 1 [MMA:117] Greater Gargadon
+SB: 1 [M12:86] Cemetery Reaper
+SB: 1 [DKA:76] Tragic Slip
+SB: 1 [EMA:136] Keldon Marauders
+SB: 1 [A25:128] Eidolon of the Great Revel
+SB: 1 [M14:103] Liliana's Reaver
+SB: 1 [SOI:131] Relentless Dead
+SB: 1 [C14:145] Grave Titan
+SB: 1 [MBS:152] Mountain
+LAYOUT MAIN:(1,6)(CMC,false,32)|([AKH:239],[RTR:238],[WWK:139],[10E:359],[MBS:152],[MBS:152],[MBS:153],[MBS:153],[MBS:153],[MBS:152],[MBS:150],[MBS:150],[MBS:150],[MBS:150],[MBS:150],[MBS:150])([THS:107],[KTK:66],[MMA:202],[RNA:76],[AKH:88])([MBS:43],[DOM:81],[RTR:157],[M19:152],[C13:110],[M14:163],[THS:128],[RIX:99],[AVR:86])([RNA:185],[M20:126],[M10:100],[WAR:137])([THS:135],[MH1:116],[MM3:98],[C14:176])([M13:150],[ELD:115])
+LAYOUT SIDEBOARD:(1,7)(CMC,false,50)|([AER:181],[MBS:152])([EVE:139],[GTC:97],[ISD:164],[DKA:76])([IMA:137],[MH1:197],[EMA:136],[A25:128],[SOI:131])([OGW:157],[EMN:123],[M20:111],[M12:86])([M14:103])([C14:145])([MMA:117])

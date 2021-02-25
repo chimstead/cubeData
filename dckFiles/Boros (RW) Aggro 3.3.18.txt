@@ -1,3 +1,6 @@
+2018
+3.18
+3.31.18
 4 Mountain
 10 Plains
 1 Sacred Foundry
@@ -14,7 +17,7 @@
 1 Journey to Nowhere
 1 Lightning Helix
 1 Selfless Spirit
-1 Stormblood Beserker
+1 Stormblood Berserker
 1 Thalia, Guardian of Thraben
 1 Char
 1 Gideon of the Trials
@@ -25,4 +28,4 @@
 1 Hero of Bladehold
 1 Palace Jailer
 1 Purphoros, God of the Forge
-1 Elspeth, Sun’s Champion
+1 Elspeth, Sun's Champion

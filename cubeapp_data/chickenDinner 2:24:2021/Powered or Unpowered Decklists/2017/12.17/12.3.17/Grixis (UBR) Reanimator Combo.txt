@@ -1,0 +1,30 @@
+1 Island
+5 Mountain
+7 Plains
+1 City of Brass
+1 Maze of Ith
+1 Shivan Reef
+1 Wandering Fumarole
+1 Underground Sea
+1 Faithless Looting
+1 Imperial Seal
+1 Inquisition of Kozilek
+1 Animate Dead
+1 Collective Brutality
+1 Diabolic Edict
+1 Exhume
+1 Go for the Throat
+1 Hymn to Tourach
+1 Izzet Charm
+1 Thought Vessel
+1 Arc Lightning
+1 Toxic Deluge
+1 Rolling Earthquake
+1 The Abyss
+1 Liliana, Death's Majesty
+1 Through the Breach
+1 Chandra, Flamecaller
+1 Wurmcoil Engine
+1 Nicol Bolas, God-Pharaoh
+1 Griselbrand
+1 Inkwell Leviathan

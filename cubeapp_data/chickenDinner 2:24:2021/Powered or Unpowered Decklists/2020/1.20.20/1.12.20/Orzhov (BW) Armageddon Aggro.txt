@@ -1,0 +1,49 @@
+1 [ULG:14] Mother of Runes
+1 [MH1:13] Giver of Runes
+1 [CON:15] Path to Exile
+1 [ORI:23] Kytheon, Hero of Akros
+1 [THS:32] Soldier of the Pantheon
+1 [THS:108] Tormented Hero
+1 [MOR:58] Bitterblossom
+1 [ALA:202] Tidehollow Sculler
+1 [KLD:231] Scrapheap Scrounger
+1 [RAV:81] Dark Confidant
+1 [RTR:73] Pack Rat
+1 [BOK:163] Umezawa's Jitte
+1 [WWK:20] Stoneforge Mystic
+1 [5ED:408] Winter Orb
+1 [C13:25] Unexpectedly Absent
+1 [EMN:40] Selfless Spirit
+1 [THB:14] Elspeth, Sun's Nemesis
+1 [ALA:9] Elspeth, Knight-Errant
+1 [CN2:18] Palace Jailer
+1 [PTK:17] Ravages of War
+1 [WAR:13] Gideon Blackblade
+1 [DKA:12] Lingering Souls
+1 [NPH:4] Blade Splicer
+1 [NEM:139] Tangle Wire
+1 [LEB:282] Scrubland
+1 [ATQ:80a] Mishra's Factory
+1 [MH1:246] Silent Clearing
+7 [GUR:4] Plains
+6 [GUR:5] Swamp
+SB: 1 [THB:55] Nadir Kraken
+SB: 1 [LRW:139] Shriekmaw
+SB: 1 [WTH:164] Gemstone Mine
+SB: 1 [CELD:335] Charming Prince
+SB: 1 [EMN:164] Noose Constrictor
+SB: 1 [RIX:99] Dire Fleet Daredevil
+SB: 1 [MBS:8] Hero of Bladehold
+SB: 1 [MH1:100] Plague Engineer
+SB: 1 [C16:56] Ash Barrens
+SB: 1 [ZEN:9] Day of Judgment
+SB: 1 [ROE:47] Student of Warfare
+SB: 1 [AVR:32] Restoration Angel
+SB: 1 [DTK:10] Dragon Hunter
+SB: 1 [ARB:75] Qasali Pridemage
+SB: 1 [AER:57] Fatal Push
+SB: 1 [M14:22] Imposing Sovereign
+SB: 1 [THS:90] Hero's Downfall
+SB: 1 [5DN:126] Grafted Wargear
+LAYOUT MAIN:(1,6)(CMC,false,89)|([GUR:4],[GUR:4],[GUR:4],[GUR:4],[GUR:4],[GUR:4],[GUR:4],[GUR:5],[GUR:5],[GUR:5],[GUR:5],[GUR:5],[GUR:5])([ATQ:80a],[LEB:282],[MH1:246])([MH1:13],[ORI:23],[ULG:14],[CON:15],[THS:32],[THS:108])([MOR:58],[RAV:81],[RTR:73],[KLD:231],[EMN:40],[WWK:20],[ALA:202],[BOK:163],[C13:25],[5ED:408])([NPH:4],[WAR:13],[DKA:12],[NEM:139])([ALA:9],[THB:14],[CN2:18],[PTK:17])
+LAYOUT SIDEBOARD:(1,6)(CMC,false,75)|([WTH:164],[C16:56])([ROE:47],[DTK:10],[AER:57])([CELD:335],[EMN:164],[RIX:99],[ARB:75],[M14:22])([THB:55],[MH1:100],[5DN:126],[THS:90])([MBS:8],[ZEN:9],[AVR:32])([LRW:139])

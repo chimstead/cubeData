@@ -1,0 +1,50 @@
+1 [KTK:248] Windswept Heath
+1 [MM3:240] Misty Rainforest
+1 [MH1:244] Prismatic Vista
+1 [SOM:229] Seachrome Coast
+1 [KLD:244] Botanical Sanctum
+1 [GTC:240] Breeding Pool
+1 [RTR:241] Hallowed Fountain
+1 [WWK:133] Celestial Colonnade
+1 [10E:349] Brushland
+1 [6ED:19] Enlightened Tutor
+1 [GRN:141] Pelt Collector
+1 [THS:180] Sylvan Caryatid
+1 [EMA:34] Wall of Omens
+1 [MM2:55] Remand
+1 [A25:41] Arcane Denial
+1 [DKA:24] Thalia, Guardian of Thraben
+1 [ELD:182] Wildborn Preserver
+1 [MM3:200] Voice of Resurgence
+1 [MH1:214] Soulherder
+1 [XLN:19] Kinjalli's Sunwing
+1 [M19:55] Exclusion Mage
+1 [SOM:175] Mimic Vat
+1 [KLD:212] Filigree Familiar
+1 [C19:5] Sevinne's Reclamation
+1 [AKH:5] Aven Mindcensor
+1 [AKH:8] Cast Out
+1 [THB:261] Thassa, Deep-Dwelling
+1 [MM3:20] Restoration Angel
+1 [NEM:17] Parallax Wave
+1 [MM3:55] Venser, Shaper Savant
+1 [NPH:42] Phyrexian Metamorph
+1 [KLD:176] Cloudblazer
+1 [C16:74] Reveillark
+1 [THB:254] Forest
+4 [THB:251] Island
+4 [THB:250] Plains
+SB: 1 [M20:226] Golos, Tireless Pilgrim
+SB: 1 [C16:159] Oath of Druids
+SB: 1 [IKO:237] The Ozolith
+SB: 1 [GRN:69] Doom Whisperer
+SB: 1 [SOI:5] Archangel Avacyn
+SB: 1 [KTK:133] Hardened Scales
+SB: 1 [M14:22] Imposing Sovereign
+SB: 1 [KLD:172] Verdurous Gearhulk
+SB: 1 [HOU:129] Ramunap Excavator
+SB: 1 [10E:354] Karplusan Forest
+SB: 1 [CNS:41] Brago, King Eternal
+SB: 1 [MM2:230] Spellskite
+LAYOUT MAIN:(1,6)(CMC,false,64)|([KTK:248],[MM3:240],[MH1:244],[SOM:229],[KLD:244],[GTC:240],[RTR:241],[WWK:133],[10E:349],[THB:254],[THB:251],[THB:251],[THB:251],[THB:251],[THB:250],[THB:250],[THB:250],[THB:250])([6ED:19],[GRN:141])([THS:180],[EMA:34],[MM2:55],[A25:41],[DKA:24],[ELD:182],[MM3:200])([MH1:214],[XLN:19],[M19:55],[SOM:175],[KLD:212],[C19:5],[AKH:5])([AKH:8],[THB:261],[MM3:20],[NEM:17],[MM3:55],[NPH:42])([KLD:176],[C16:74])
+LAYOUT SIDEBOARD:(1,6)(CMC,false,54)|([10E:354])([IKO:237],[KTK:133])([C16:159],[M14:22],[MM2:230])([HOU:129])([CNS:41])([M20:226],[GRN:69],[SOI:5],[KLD:172])

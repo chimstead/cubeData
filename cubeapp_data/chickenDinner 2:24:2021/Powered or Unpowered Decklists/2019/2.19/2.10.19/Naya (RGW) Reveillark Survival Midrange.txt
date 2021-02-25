@@ -1,0 +1,56 @@
+1 [ICE:244] Fyndhorn Elves
+1 [GRN:183] Knight of Autumn
+1 [EXO:129] Survival of the Fittest
+1 [M15:173] Elvish Mystic
+1 [THS:128] Magma Jet
+1 [M15:250] Plains
+1 [M15:251] Plains
+2 [M15:252] Plains
+1 [M15:265] Mountain
+2 [M15:266] Forest
+1 [MOR:22] Reveillark
+1 [ISD:181] Garruk Relentless
+1 [M15:268] Forest
+1 [ZEN:168] Lotus Cobra
+1 [M15:269] Forest
+1 [M19:208] Vivien Reid
+1 [GRN:208] Trostani Discordant
+1 [CN2:18] Palace Jailer
+1 [PLS:60] Flametongue Kavu
+1 [BFZ:236] Evolving Wilds
+1 [PC2:84] Bloodbraid Elf
+1 [BFZ:29] Gideon, Ally of Zendikar
+1 [FUT:161] Coalition Relic
+1 [3ED:41] Swords to Plowshares
+1 [M12:147] Inferno Titan
+1 [M15:262] Mountain
+1 [3ED:285] Savannah
+1 [10E:354] Karplusan Forest
+1 [M15:264] Mountain
+1 [HOU:83] Abrade
+1 [ZEN:219] Marsh Flats
+1 [CON:87] Noble Hierarch
+1 [DDG:34] Oblivion Ring
+1 [5DN:86] Eternal Witness
+1 [ULG:101] Deranged Hermit
+1 [JOU:163] Mana Confluence
+1 [ULG:143] Treetop Village
+1 [CHK:239] Sakura-Tribe Elder
+SB: 1 [RAV:81] Dark Confidant
+SB: 1 [M19:79] Tezzeret, Artifice Master
+SB: 1 [BNG:5] Brimaz, King of Oreskos
+SB: 1 [ROE:190] Joraga Treespeaker
+SB: 1 [BFZ:109] Drana, Liberator of Malakir
+SB: 1 [EMA:33] Unexpectedly Absent
+SB: 1 [C18:57] Retrofitter Foundry
+SB: 1 [C18:44] Saheeli, the Gifted
+SB: 1 [EMN:93] Liliana, the Last Hope
+SB: 1 [APC:114] Pernicious Deed
+SB: 1 [KTK:230] Bloodstained Mire
+SB: 1 [GRN:109] Legion Warboss
+SB: 1 [RNA:166] Domri, Chaos Bringer
+SB: 1 [WWK:31] Jace, the Mind Sculptor
+SB: 1 [IMA:157] Channel
+SB: 1 [AKH:175] Manglehorn
+LAYOUT MAIN:(1,7)(CMC,false,30)|([BFZ:236],[M15:266],[M15:266],[M15:268],[M15:269],[10E:354],[JOU:163],[ZEN:219],[M15:262],[M15:265],[M15:264],[M15:250],[M15:251],[M15:252],[M15:252],[3ED:285],[ULG:143])([M15:173],[ICE:244],[CON:87],[3ED:41])([HOU:83],[ZEN:168],[THS:128],[CHK:239],[EXO:129])([FUT:161],[5DN:86],[GRN:183],[DDG:34])([PC2:84],[PLS:60],[ISD:181],[BFZ:29],[CN2:18])([ULG:101],[MOR:22],[GRN:208],[M19:208])([M12:147])
+LAYOUT SIDEBOARD:(1,6)(COLOR,false,50)|([RAV:81],[BFZ:109],[EMN:93])([AKH:175],[RNA:166],[C18:57])([WWK:31],[M19:79],[BNG:5],[ROE:190])([IMA:157],[EMA:33])([GRN:109],[KTK:230])([APC:114],[C18:44])

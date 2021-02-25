@@ -1,0 +1,53 @@
+1 [TSP:48] Ancestral Vision
+1 [ZEN:172] Oracle of Mul Daya
+1 [NPH:1] Karn Liberated
+1 [8ED:64] Bribery
+1 [M13:159] Acidic Slime
+1 [UDS:139] Thran Dynamo
+1 [ROE:190] Joraga Treespeaker
+1 [USG:318] Worn Powerstone
+1 [VMA:266] Coercive Portal
+1 [M19:306] Nexus of Fate
+1 [3ED:274] Sol Ring
+1 [CHK:239] Sakura-Tribe Elder
+1 [5DN:86] Eternal Witness
+1 [NPH:57] Dismember
+1 [CHK:225] Kodama's Reach
+1 [SHM:135] Woodfall Primus
+1 [PCA:104] Shardless Agent
+1 [ZEN:168] Lotus Cobra
+1 [XLN:74] Search for Azcanta
+1 [DST:148] Sword of Fire and Ice
+1 [M12:72] Phantasmal Image
+1 [UDS:50] Treachery
+1 [3ED:214] Regrowth
+1 [5ED:388] Mana Vault
+1 [RNA:246] Breeding Pool
+1 [TMP:330] Wasteland
+1 [2ED:265] Mox Ruby
+1 [XLN:254] Field of Ruin
+1 [KLD:244] Botanical Sanctum
+1 [ARN:76] Library of Alexandria
+2 [TSP:298] Forest
+2 [TSP:299] Forest
+2 [TSP:301] Forest
+1 [TSP:287] Island
+2 [TSP:286] Island
+1 [TSP:289] Island
+SB: 1 [DOM:207] Teferi, Hero of Dominaria
+SB: 1 [SOI:92] Thing in the Ice
+SB: 1 [MOR:55] Vendilion Clique
+SB: 1 [XLN:248] Sorcerous Spyglass
+SB: 1 [WWK:20] Stoneforge Mystic
+SB: 1 [DOM:14] Dauntless Bodyguard
+SB: 1 [RTR:141] Abrupt Decay
+SB: 1 [USG:134] Exhume
+SB: 1 [3ED:285] Savannah
+SB: 1 [RNA:259] Stomping Ground
+SB: 1 [SOM:122] Genesis Wave
+SB: 1 [CON:113] Knight of the Reliquary
+SB: 1 [CHK:268] Sensei's Divining Top
+SB: 1 [RAV:161] Elves of Deep Shadow
+SB: 1 [AKH:175] Manglehorn
+LAYOUT MAIN:(1,8)(CMC,false,50)|([TSP:48],[RNA:246],[TMP:330],[2ED:265],[XLN:254],[KLD:244],[ARN:76],[TSP:298],[TSP:298],[TSP:299],[TSP:301],[TSP:299],[TSP:301],[TSP:287],[TSP:286],[TSP:286],[TSP:289])([ROE:190],[3ED:274],[5ED:388],[NPH:57])([CHK:239],[ZEN:168],[XLN:74],[M12:72],[3ED:214])([USG:318],[5DN:86],[CHK:225],[PCA:104],[DST:148])([ZEN:172],[UDS:139],[VMA:266])([8ED:64],[M13:159],[UDS:50])([NPH:1],[M19:306])([SHM:135])
+LAYOUT SIDEBOARD:(1,4)(NONE,false,50)|([DOM:207],[SOI:92],[MOR:55],[XLN:248],[WWK:20],[DOM:14],[RTR:141],[USG:134],[SOM:122],[CON:113],[CHK:268])([3ED:285],[RNA:259])([RAV:161])([AKH:175])

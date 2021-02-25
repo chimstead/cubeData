@@ -1,0 +1,49 @@
+1 [LEG:137] Chain Lightning
+1 [ROE:145] Flame Slash
+1 [ZEN:126] Goblin Guide
+1 [KTK:118] Monastery Swiftspear
+1 [DTK:169] Zurgo Bellstriker
+1 [CHK:268] Sensei's Divining Top
+1 [RIX:99] Dire Fleet Daredevil
+1 [RAV:213] Lightning Helix
+1 [BOK:163] Umezawa's Jitte
+1 [M14:163] Young Pyromancer
+1 [RAV:117] Char
+1 [ELD:122] Embereth Shieldbreaker
+1 [M15:145] Goblin Rabblemaster
+1 [RNA:107] Light Up the Stage
+1 [ALA:154] Ajani Vengeant
+1 [TSB:55] Avalanche Riders
+1 [DKA:93] Hellrider
+1 [RIX:111] Rekindling Phoenix
+1 [AVR:32] Restoration Angel
+1 [JR:97] Ravages of War
+1 [DST:148] Sword of Fire and Ice
+1 [AKH:1] Angel of Sanctions
+1 [M11:7] Baneslayer Angel
+1 [TMP:330] Wasteland
+1 [OGW:175] Needle Spires
+1 [M14:228] Mutavault
+1 [2ED:265] Mox Ruby
+1 [4ED:361] Mishra's Factory
+1 [KLD:246] Inspiring Vantage
+7 [UGL:87] Mountain
+4 [UGL:84] Plains
+SB: 1 [WWK:141] Raging Ravine
+SB: 1 [M12:16] Gideon Jura
+SB: 1 [M11:154] Pyroclasm
+SB: 1 [ELD:281] Brazen Borrower
+SB: 1 [RNA:47] Pteramander
+SB: 1 [ALA:218] Relic of Progenitus
+SB: 1 [ODY:132] Entomb
+SB: 1 [GRN:207] Thousand-Year Storm
+SB: 1 [DST:149] Sword of Light and Shadow
+SB: 1 [M19:208] Vivien Reid
+SB: 1 [SCG:41] Mind's Desire
+SB: 1 [9ED:228] Wildfire
+SB: 1 [KLD:249] Spirebluff Canal
+SB: 1 [ISD:181] Garruk Relentless
+SB: 1 [UDS:75] Yawgmoth's Bargain
+SB: 1 [5ED:408] Winter Orb
+LAYOUT MAIN:(1,6)(CMC,false,50)|([TMP:330],[OGW:175],[M14:228],[2ED:265],[4ED:361],[KLD:246],[UGL:87],[UGL:87],[UGL:87],[UGL:87],[UGL:87],[UGL:87],[UGL:87],[UGL:84],[UGL:84],[UGL:84],[UGL:84])([LEG:137],[ROE:145],[ZEN:126],[KTK:118],[DTK:169],[CHK:268])([RIX:99],[RAV:213],[BOK:163],[M14:163])([RAV:117],[ELD:122],[M15:145],[RNA:107],[DST:148])([ALA:154],[TSB:55],[DKA:93],[RIX:111],[AVR:32],[JR:97])([AKH:1],[M11:7])
+LAYOUT SIDEBOARD:(1,7)(CMC,false,50)|([WWK:141],[KLD:249])([RNA:47],[ALA:218],[ODY:132])([M11:154],[5ED:408])([DST:149])([ISD:181])([M12:16],[ELD:281],[M19:208])([GRN:207],[SCG:41],[9ED:228],[UDS:75])

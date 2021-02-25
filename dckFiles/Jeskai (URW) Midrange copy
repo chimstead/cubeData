@@ -1,0 +1,58 @@
+2021
+1.31.21
+1 [PDOM:60] Opt
+1 [SLD:29] Serum Visions
+1 [PTC:bl52] Swords to Plowshares
+1 [PORI:21s] Knight of the White Orchid
+1 [F03:9] Whipcorder
+1 [POGW:20] Immolating Glare
+1 [M21:296] Teferi's Tutelage
+1 [P07:4] Psionic Blast
+1 [PTHB:55p] Nadir Kraken
+1 [F09:3] Kitchen Finks
+1 [F14:3] Banisher Priest
+1 [ELD:281] Brazen Borrower
+1 [ELD:283] Hypnotic Sprite
+1 [PWP09:30] Mind Control
+1 [PM19:79s] Tezzeret, Artifice Master
+1 [PKLD:15s] Fumigate
+1 [PGRN:6] Conclave Tribunal
+1 [PRES:49*] Curator of Mysteries
+1 [ELD:14] Giant Killer
+1 [F05:3] Flametongue Kavu
+1 [F14:6] Dissolve
+1 [PKTK:13s] High Sentinels of Arashin
+1 [PXLN:255p] Glacial Fortress
+1 [PDOM:247p] Sulfur Falls
+1 [PKLD:249s] Spirebluff Canal
+1 [WC01:ar142] Shivan Reef
+1 [J19:8] Reflecting Pool
+1 [ZNR:263] Needleverge Pathway
+2 [PTC:shr368] Island
+2 [PTC:ml367] Island
+1 [PTC:shr367] Island
+1 [PTC:pp366] Plains
+1 [PTC:et364] Plains
+1 [PTC:pp364] Plains
+1 [PTC:mj364] Plains
+1 [PTC:bl364] Plains
+1 [PTC:shr366] Plains
+1 [ELD:235] Stonecoil Serpent
+SB: 1 [ZNR:261] Cragcrown Pathway
+SB: 1 [IKO:168] Mythos of Brokkos
+SB: 1 [IKO:275] Zilortha, Strength Incarnate
+SB: 1 [PEMN:56s] Docent of Perfection
+SB: 1 [THB:314] Gravebreaker Lamia
+SB: 1 [F16:12] Call the Bloodline
+SB: 1 [PBBD:21s] Ley Weaver
+SB: 1 [PBBD:12s] Toothy, Imaginary Friend
+SB: 1 [PWP11:77] Auramancer
+SB: 1 [PXLN:252p] Dragonskull Summit
+SB: 1 [SLD:534] Saheeli, Sublime Artificer
+SB: 1 [PJOU:*122] Eidolon of Blossoms
+SB: 1 [PGRN:179p] Ionize
+SB: 1 [PPRO:2011] Ajani Goldmane
+SB: 1 [P08:4] Mana Tithe
+SB: 1 [PNPH:42] Phyrexian Metamorph
+LAYOUT MAIN:(1,6)(CMC,false,85)|([PXLN:255p],[PTC:shr368],[PTC:ml367],[PTC:ml367],[PTC:shr367],[PTC:shr368],[ZNR:263],[PTC:pp366],[PTC:et364],[PTC:pp364],[PTC:mj364],[PTC:bl364],[PTC:shr366],[J19:8],[WC01:ar142],[PKLD:249s],[PDOM:247p])([PDOM:60],[SLD:29],[PTC:bl52],[ELD:14],[ELD:235])([POGW:20],[PORI:21s],[F03:9],[ELD:281],[ELD:283])([F14:3],[F14:6],[F09:3],[PTHB:55p],[P07:4],[M21:296])([PGRN:6],[PRES:49*],[F05:3],[PKTK:13s])([PKLD:15s],[PWP09:30],[PM19:79s])
+LAYOUT SIDEBOARD:(1,5)(CMC,false,100)|([PXLN:252p])([F16:12],[P08:4],[ZNR:261])([PWP11:77],[PGRN:179p],[SLD:534],[PPRO:2011],[PNPH:42])([PJOU:*122],[PBBD:21s],[IKO:168],[PBBD:12s])([PEMN:56s],[THB:314],[IKO:275])

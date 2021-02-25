@@ -1,0 +1,48 @@
+1 [LEG:137] Chain Lightning
+1 [DDI:44] Koth of the Hammer
+1 [KTK:118] Monastery Swiftspear
+1 [LEB:162] Lightning Bolt
+1 [NPH:19] Porcelain Legionnaire
+1 [DTK:169] Zurgo Bellstriker
+1 [ELD:138] Robber of the Rich
+1 [HOU:90] Earthshaker Khenra
+1 [SOM:81] Arc Trail
+1 [RAV:213] Lightning Helix
+1 [THS:127] Lightning Strike
+1 [BBD:62] Najeela, the Blade-Blossom
+1 [MH1:145] Seasoned Pyromancer
+1 [M15:145] Goblin Rabblemaster
+1 [RTR:220] Rakdos Cackler
+1 [AER:87] Kari Zev, Skyship Raider
+1 [ZEN:126] Goblin Guide
+1 [NEM:139] Tangle Wire
+1 [RTR:86] Ash Zealot
+1 [ODY:193] Firebolt
+1 [RIX:99] Dire Fleet Daredevil
+1 [TOR:100] Grim Lavamancer
+1 [PLS:60] Flametongue Kavu
+1 [MH1:238] Fiery Islet
+1 [LEA:279] Plateau
+15 [UST:215] Mountain
+SB: 1 [WAR:13] Gideon Blackblade
+SB: 1 [WWK:20] Stoneforge Mystic
+SB: 1 [ULG:14] Mother of Runes
+SB: 1 [DKA:24] Thalia, Guardian of Thraben
+SB: 1 [ZEN:14] Journey to Nowhere
+SB: 1 [PTK:78] Imperial Seal
+SB: 1 [M20:3] Ancestral Blade
+SB: 1 [DOM:21] History of Benalia
+SB: 1 [ELD:101] Rankle, Master of Pranks
+SB: 1 [XLN:1] Adanto Vanguard
+SB: 1 [RAV:279] Overgrown Tomb
+SB: 1 [5DN:27] Condescend
+SB: 1 [ALA:20] Oblivion Ring
+SB: 1 [NPH:4] Blade Splicer
+SB: 1 [LEA:186] Birds of Paradise
+SB: 1 [MBS:75] Slagstorm
+SB: 1 [M14:22] Imposing Sovereign
+SB: 1 [WAR:191] Domri, Anarch of Bolas
+SB: 1 [FRF:20] Monastery Mentor
+SB: 1 [EMN:133] Incendiary Flow
+LAYOUT MAIN:(1,5)(CMC,false,69)|([MH1:238],[LEA:279],[UST:215],[UST:215],[UST:215],[UST:215],[UST:215],[UST:215],[UST:215],[UST:215],[UST:215],[UST:215],[UST:215],[UST:215],[UST:215],[UST:215],[UST:215])([LEG:137],[KTK:118],[LEB:162],[DTK:169],[RTR:220],[ZEN:126],[ODY:193],[TOR:100])([ELD:138],[HOU:90],[SOM:81],[RAV:213],[THS:127],[AER:87],[RTR:86],[RIX:99])([NPH:19],[BBD:62],[MH1:145],[M15:145],[NEM:139])([DDI:44],[PLS:60])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([WAR:13],[WWK:20],[ULG:14],[DKA:24],[ZEN:14],[PTK:78],[M20:3],[DOM:21],[ELD:101],[XLN:1],[RAV:279],[5DN:27],[ALA:20],[NPH:4],[LEA:186],[MBS:75],[M14:22],[WAR:191],[FRF:20],[EMN:133])

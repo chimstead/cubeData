@@ -1,0 +1,52 @@
+1 [WWK:108] Nature's Claim
+1 [FRF:145] Whisperwood Elemental
+1 [WAR:180] Vivien, Champion of the Wilds
+1 [ODY:113] Upheaval
+1 [WAR:169] Nissa, Who Shakes the World
+1 [CON:121] Progenitus
+1 [3ED:214] Regrowth
+1 [CON:87] Noble Hierarch
+1 [M15:173] Elvish Mystic
+1 [ELD:171] Questing Beast
+1 [PLC:149] Harmonize
+1 [ISD:170] Avacyn's Pilgrim
+1 [3ED:274] Sol Ring
+1 [ULG:101] Deranged Hermit
+1 [PUMA:U22] Leovold, Emissary of Trest
+1 [UDS:118] Rofellos, Llanowar Emissary
+1 [BNG:119] Courser of Kruphix
+1 [WAR:160] Finale of Devastation
+1 [VIS:114] Natural Order
+1 [4ED:236] Channel
+1 [3ED:288] Tropical Island
+1 [BFZ:239] Lumbering Falls
+1 [2ED:265] Mox Ruby
+1 [GRN:253] Overgrown Tomb
+1 [LRW:272] Shelldock Isle
+3 [3ED:306] Forest
+5 [3ED:305] Forest
+2 [3ED:304] Forest
+1 [3ED:297] Island
+1 [3ED:298] Swamp
+1 [DST:146] Sundering Titan
+1 [NPH:57] Dismember
+1 [SOM:176] Mindslaver
+SB: 1 [3ED:282] Badlands
+SB: 1 [ISD:78] Snapcaster Mage
+SB: 1 [TSP:269] Academy Ruins
+SB: 1 [CM2:4] Daretti, Scrap Savant
+SB: 1 [DKA:93] Hellrider
+SB: 1 [RNA:259] Stomping Ground
+SB: 1 [USG:309] Smokestack
+SB: 1 [KLD:4] Angel of Invention
+SB: 1 [ULG:14] Mother of Runes
+SB: 1 [ZEN:119] Burst Lightning
+SB: 1 [KLD:199] Bomat Courier
+SB: 1 [9ED:228] Wildfire
+SB: 1 [LRW:139] Shriekmaw
+SB: 1 [MH1:217] Wrenn and Six
+SB: 1 [ELD:191] Garruk, Cursed Huntsman
+SB: 1 [GRN:213] Vraska, Golgari Queen
+SB: 1 [LEG:65] Mana Drain
+LAYOUT MAIN:(2,8)(CMC,true,63)|()([ISD:170],[M15:173],[CON:87])([UDS:118])([BNG:119],[PUMA:U22])([ELD:171])([ULG:101],[FRF:145])()([DST:146],[CON:121])([3ED:306],[3ED:306],[3ED:306],[3ED:305],[3ED:305],[3ED:305],[3ED:305],[3ED:305],[3ED:304],[3ED:304],[3ED:297],[BFZ:239],[2ED:265],[GRN:253],[LRW:272],[3ED:298],[3ED:288])([WWK:108],[3ED:274])([4ED:236],[WAR:160],[3ED:214])([NPH:57],[WAR:180])([PLC:149],[VIS:114])([WAR:169])([SOM:176],[ODY:113])()
+LAYOUT SIDEBOARD:(2,3)(COLOR,true,52)|()([LRW:139])([DKA:93],[KLD:199],[MH1:217],[KLD:4],[ULG:14])([ISD:78],[LEG:65])([GRN:213],[ELD:191])([CM2:4],[ZEN:119],[9ED:228],[3ED:282],[TSP:269],[RNA:259],[USG:309])

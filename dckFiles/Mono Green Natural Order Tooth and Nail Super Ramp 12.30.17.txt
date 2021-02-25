@@ -1,12 +1,15 @@
-1 Gaea’s Cradle
+2017
+12.17
+12.30.17
+1 Gaea's Cradle
 16 Forest
 1 Llanowar Elves
 1 Elvish Mystic
 1 Skullclamp
-1 Green Sun’s Zenith
+1 Green Sun's Zenith
 1 Arbor Elf
 1 Noble Hierarch
-1 Rofellos, Llanowar Emmisary
+1 Rofellos, Llanowar Emissary
 1 Fauna Shaman
 1 Sylvan Caryatid
 1 Manglehorn

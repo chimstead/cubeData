@@ -1,0 +1,31 @@
+6 Island
+5 Mountain
+1 Battlefield Forge
+1 Flooded Strand
+1 Mirrodin's Core
+1 Sacred Foundry
+1 Shivan Reef
+1 Steam Vents
+1 Lightning Bolt
+1 Phantasmal Image
+1 Boros Signet
+1 Counterspell
+1 Grim Monolith
+1 Lightning Strike
+1 Miscalculation
+1 Orzhov Signet
+1 Remand
+1 Mulldrifter
+1 Pia Nalaar
+1 Earthquake
+1 Banishing Light
+1 Sower of Temptation
+1 Ajani Vengeant
+1 Chandra, Torch of Defiance
+1 Jace, the Mind Sculptor
+1 Fiery Confluence
+1 Koth of the Hammer
+1 Torrential Gearhulk
+1 Wildfire
+1 Dig Through Time
+1 Emrakul, the Promised End

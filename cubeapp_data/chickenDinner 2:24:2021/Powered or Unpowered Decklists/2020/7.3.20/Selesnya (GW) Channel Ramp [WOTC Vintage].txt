@@ -1,0 +1,52 @@
+1 [THS:180] Sylvan Caryatid
+1 [M11:175] Garruk Wildspeaker
+1 [C17:151] Harmonize
+1 [TPR:228] Mox Diamond
+1 [UMA:229] Mana Vault
+1 [M19:208] Vivien Reid
+1 [UMA:174] Noble Hierarch
+1 [UDS:117] Plow Under
+1 [MM3:12] Lingering Souls
+1 [ELD:171] Questing Beast
+1 [EMA:187] Sylvan Library
+1 [WAR:169] Nissa, Who Shakes the World
+1 [DDU:7] Elvish Mystic
+1 [UMA:6] Kozilek, Butcher of Truth
+1 [IMA:157] Channel
+1 [VMA:20] Council's Judgment
+1 [GK1:56] Elves of Deep Shadow
+1 [VMA:229] Rofellos, Llanowar Emissary
+1 [SOM:208] Sword of Body and Mind
+1 [V17:9a] Garruk Relentless
+1 [MBS:99] Blightsteel Colossus
+1 [GK1:123] Selesnya Signet
+1 [C18:222] Sol Ring
+1 [ULG:14] Mother of Runes
+1 [M10:4] Baneslayer Angel
+1 [GRN:258] Temple Garden
+1 [VMA:311] Savannah
+1 [SOM:228] Razorverge Thicket
+1 [UMA:236] Ancient Tomb
+1 [KTK:248] Windswept Heath
+2 [THS:248] Forest
+3 [THS:246] Forest
+1 [THS:249] Forest
+2 [THS:247] Forest
+2 [THS:233] Plains
+SB: 1 [MB1:206] Recruiter of the Guard
+SB: 1 [UDS:135] Metalworker
+SB: 1 [CM2:16] Angel of Serenity
+SB: 1 [MM3:132] Primal Command
+SB: 1 [UMA:152] Through the Breach
+SB: 1 [V14:2] Burning of Xinye
+SB: 1 [EMA:231] Relic of Progenitus
+SB: 1 [C17:58] Condemn
+SB: 1 [IMA:149] Thundermaw Hellkite
+SB: 1 [EMA:248] Wasteland
+SB: 1 [ELD:110] Wishclaw Talisman
+SB: 1 [UMA:31] Reveillark
+SB: 1 [GRN:208] Trostani Discordant
+SB: 1 [EMA:34] Wall of Omens
+SB: 1 [GRN:183] Knight of Autumn
+LAYOUT MAIN:(1,8)(CMC,false,44)|([TPR:228],[GRN:258],[VMA:311],[SOM:228],[UMA:236],[KTK:248],[THS:248],[THS:246],[THS:249],[THS:247],[THS:246],[THS:246],[THS:248],[THS:247],[THS:233],[THS:233])([UMA:229],[UMA:174],[DDU:7],[GK1:56],[C18:222],[ULG:14])([THS:180],[EMA:187],[IMA:157],[VMA:229],[GK1:123])([MM3:12],[VMA:20],[SOM:208])([M11:175],[C17:151],[ELD:171],[V17:9a])([M19:208],[UDS:117],[WAR:169],[M10:4])([UMA:6])([MBS:99])
+LAYOUT SIDEBOARD:(1,7)(CMC,false,58)|([EMA:248])([EMA:231],[C17:58])([ELD:110],[EMA:34])([MB1:206],[UDS:135],[GRN:183])([MM3:132],[UMA:152],[IMA:149],[UMA:31],[GRN:208])([V14:2])([CM2:16])

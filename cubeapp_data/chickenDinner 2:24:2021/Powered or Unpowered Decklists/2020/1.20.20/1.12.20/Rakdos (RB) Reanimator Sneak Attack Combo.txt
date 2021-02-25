@@ -1,0 +1,49 @@
+1 [ELD:101] Rankle, Master of Pranks
+1 [UMA:152] Through the Breach
+1 [2ED:93] Animate Dead
+1 [EMN:85] Collective Brutality
+1 [USG:134] Exhume
+1 [AKH:134] Glorybringer
+1 [CELD:288] Order of Midnight
+1 [EXO:72] Recurring Nightmare
+1 [BFZ:15] Ulamog, the Ceaseless Hunger
+1 [AVR:106] Griselbrand
+1 [LRW:145] Thoughtseize
+1 [M15:145] Goblin Rabblemaster
+1 [VIS:64] Necromancy
+1 [ZEN:83] Bloodghast
+1 [LRW:133] Oona's Prowler
+1 [C13:84] Ophiomancer
+1 [ODY:132] Entomb
+1 [DST:140] Skullclamp
+1 [TMP:151] Reanimate
+1 [USG:218] Sneak Attack
+1 [PTK:78] Imperial Seal
+1 [SOM:180] Myr Battlesphere
+1 [VIS:66] Nekrataal
+1 [RTR:238] Blood Crypt
+1 [CELD:291] Bonecrusher Giant
+5 [UST:215] Mountain
+10 [UST:214] Swamp
+SB: 1 [ROE:12] Ulamog, the Infinite Gyre
+SB: 1 [PTK:122] Rolling Earthquake
+SB: 1 [EMN:6] Emrakul, the Promised End
+SB: 1 [DDQ:54] Diregraf Ghoul
+SB: 1 [KLD:231] Scrapheap Scrounger
+SB: 1 [ROE:115] Inquisition of Kozilek
+SB: 1 [PLC:85] Damnation
+SB: 1 [EMN:130a] Hanweir Garrison
+SB: 1 [C15:26] Fiery Confluence
+SB: 1 [STH:143] Volrath's Stronghold
+SB: 1 [ISD:164] Stromkirk Noble
+SB: 1 [EMN:93] Liliana, the Last Hope
+SB: 1 [CELD:292] Embereth Shieldbreaker
+SB: 1 [ORI:157] Pia and Kiran Nalaar
+SB: 1 [ORI:83] Whirler Rogue
+SB: 1 [5ED:408] Winter Orb
+SB: 1 [CN2:22] Recruiter of the Guard
+SB: 1 [CN2:41] Custodi Lich
+SB: 1 [USG:309] Smokestack
+SB: 1 [KLD:235] Smuggler's Copter
+LAYOUT MAIN:(1,5)(CMC,false,69)|([RTR:238],[UST:215],[UST:215],[UST:215],[UST:215],[UST:215],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214])([ODY:132],[PTK:78],[TMP:151],[DST:140],[LRW:145])([2ED:93],[ZEN:83],[EMN:85],[USG:134],[LRW:133],[CELD:288])([CELD:291],[M15:145],[VIS:64],[C13:84],[EXO:72])([VIS:66],[ELD:101],[USG:218],[AKH:134],[AVR:106],[SOM:180],[UMA:152],[BFZ:15])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([ROE:12],[PTK:122],[EMN:6],[DDQ:54],[KLD:231],[ROE:115],[PLC:85],[EMN:130a],[C15:26],[STH:143],[ISD:164],[EMN:93],[CELD:292],[ORI:157],[ORI:83],[5ED:408],[CN2:22],[CN2:41],[USG:309],[KLD:235])

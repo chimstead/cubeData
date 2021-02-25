@@ -1,3 +1,6 @@
+2019
+5.19
+5.26.19
 2 Island
 2 Forest
 2 Mountain
@@ -15,7 +18,7 @@
 1 Mox Diamond
 1 Burst Lightning
 1 Falkenrath Gorger
-1 Firedrinker Satyr 
+1 Firedrinker Satyr
 1 Goblin Glory Chaser
 1 Skullclamp
 1 Zurgo Bellstriker

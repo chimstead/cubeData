@@ -1,0 +1,50 @@
+NAME:UG OPPOSITION-SLAVER
+1 [DTK:181] Den Protector
+1 [UDS:118] Rofellos, Llanowar Emissary
+1 [ORI:229] Hangarback Walker
+1 [7ED:92] Opposition
+1 [KTK:249] Wooded Foothills
+1 [RAV:270] Selesnya Signet
+1 [ROE:176] Awakening Zone
+1 [RIX:148] Thrashing Brontodon
+1 [M13:174] Garruk, Primal Hunter
+1 [ISD:181] Garruk Relentless
+1 [3ED:288] Tropical Island
+1 [PCA:104] Shardless Agent
+1 [MBS:138] Sword of Feast and Famine
+1 [DIS:133] Trygon Predator
+1 [USG:321] Gaea's Cradle
+1 [SOM:176] Mindslaver
+1 [BFZ:239] Lumbering Falls
+1 [ARN:76] Library of Alexandria
+1 [RIX:136] Jadelight Ranger
+1 [TSP:269] Academy Ruins
+1 [DST:140] Skullclamp
+1 [M12:188] Primeval Titan
+1 [4ED:64] Control Magic
+1 [RAV:161] Elves of Deep Shadow
+9 [GUR:1] Forest
+1 [KTK:36] Dig Through Time
+1 [M12:165] Birds of Paradise
+3 [GUR:2] Island
+1 [ULG:101] Deranged Hermit
+1 [VIS:114] Natural Order
+SB: 1 [MMQ:324] Rishadan Port
+SB: 1 [XLN:254] Field of Ruin
+SB: 1 [DOM:197] Jhoira, Weatherlight Captain
+SB: 1 [RTR:241] Hallowed Fountain
+SB: 1 [TMP:183] Jackal Pup
+SB: 1 [WWK:108] Nature's Claim
+SB: 1 [ISD:78] Snapcaster Mage
+SB: 1 [9ED:228] Wildfire
+SB: 1 [DOM:207] Teferi, Hero of Dominaria
+SB: 1 [M11:172] Fauna Shaman
+SB: 1 [4ED:361] Mishra's Factory
+SB: 1 [SOI:12] Declaration in Stone
+SB: 1 [THS:172] Polukranos, World Eater
+SB: 1 [M13:43] Augur of Bolas
+SB: 1 [AKH:175] Manglehorn
+SB: 1 [LRW:124] Makeshift Mannequin
+SB: 1 [FRF:27] Soulfire Grand Master
+LAYOUT MAIN:(1,8)(CMC,false,86)|([TSP:269],[GUR:1],[GUR:1],[GUR:1],[GUR:1],[GUR:1],[GUR:1],[GUR:1],[GUR:1],[GUR:1],[USG:321],[GUR:2],[GUR:2],[GUR:2],[ARN:76],[BFZ:239],[3ED:288],[KTK:249])([M12:165],[RAV:161],[DST:140])([DTK:181],[UDS:118],[RAV:270],[ORI:229])([ROE:176],[RIX:136],[PCA:104],[MBS:138],[RIX:148],[DIS:133])([4ED:64],[ISD:181],[VIS:114],[7ED:92])([ULG:101],[M13:174])([SOM:176],[M12:188])([KTK:36])
+LAYOUT SIDEBOARD:(1,7)(COLOR,false,88)|([XLN:254],[RTR:241],[4ED:361],[MMQ:324])([LRW:124])([M13:43],[ISD:78])([M11:172],[AKH:175],[WWK:108],[THS:172])([TMP:183],[9ED:228])([SOI:12],[FRF:27])([DOM:197],[DOM:207])

@@ -1,0 +1,49 @@
+1 [MMA:221] City of Brass
+1 [KTK:239] Polluted Delta
+1 [GPT:164] Steam Vents
+1 [V10:10] Mox Diamond
+1 [VMA:324] Volcanic Island
+1 [AER:181] Walking Ballista
+1 [KTK:230] Bloodstained Mire
+1 [VMA:291] Badlands
+1 [VMA:153] Chain Lightning
+1 [SS1:6] Mystical Tutor
+1 [PD2:1] Grim Lavamancer
+1 [A25:141] Lightning Bolt
+1 [KLD:199] Bomat Courier
+1 [THB:151] Purphoros's Intervention
+1 [PD3:15] Reanimate
+1 [MM3:50] Snapcaster Mage
+1 [M21:150] Heartfire Immolator
+1 [RTR:86] Ash Zealot
+1 [ELD:138] Robber of the Rich
+1 [MBS:122] Phyrexian Revoker
+1 [RAV:63] Remand
+1 [RTR:172] Izzet Charm
+1 [HOU:90] Earthshaker Khenra
+1 [TPR:58] Mana Leak
+1 [THB:148] Phoenix of Ash
+1 [THB:305] Nadir Kraken
+1 [EMN:130a] Hanweir Garrison
+1 [DTK:224] Kolaghan's Command
+1 [DKA:93] Hellrider
+1 [C15:26] Fiery Confluence
+1 [ELD:115] Bonecrusher Giant
+3 [THB:251] Island
+6 [THB:253] Mountain
+SB: 1 [V17:12] Jace, Vryn's Prodigy
+SB: 1 [MM3:76] Liliana of the Veil
+SB: 1 [MRD:255] Talisman of Indulgence
+SB: 1 [M21:179] Elder Gargaroth
+SB: 1 [ORI:83] Whirler Rogue
+SB: 1 [EMA:78] Animate Dead
+SB: 1 [IKO:237] The Ozolith
+SB: 1 [IKO:216] Winota, Joiner of Forces
+SB: 1 [AER:28] Baral, Chief of Compliance
+SB: 1 [GRN:183] Knight of Autumn
+SB: 1 [CNS:187] Edric, Spymaster of Trest
+SB: 1 [IMA:159] Curse of Predation
+SB: 1 [TSP:66] Looter il-Kor
+SB: 1 [IKO:319] Shark Typhoon
+LAYOUT MAIN:(1,6)(CMC,false,58)|([VMA:291],[KTK:230],[MMA:221],[THB:251],[THB:251],[THB:251],[THB:253],[THB:253],[THB:253],[THB:253],[THB:253],[THB:253],[V10:10],[KTK:239],[GPT:164],[VMA:324],[AER:181])([KLD:199],[VMA:153],[PD2:1],[A25:141],[SS1:6],[THB:151],[PD3:15])([RTR:86],[HOU:90],[M21:150],[RTR:172],[TPR:58],[MBS:122],[RAV:63],[ELD:138],[MM3:50])([EMN:130a],[DTK:224],[THB:305],[THB:148])([C15:26],[DKA:93])([ELD:115])
+LAYOUT SIDEBOARD:(1,6)(CMC,false,44)|([IKO:237])([V17:12],[MRD:255],[EMA:78],[AER:28],[TSP:66])([MM3:76],[GRN:183],[CNS:187],[IMA:159])([ORI:83],[IKO:216])([M21:179])([IKO:319])

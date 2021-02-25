@@ -1,0 +1,49 @@
+1 [HOU:90] Earthshaker Khenra
+1 [TMP:183] Jackal Pup
+1 [M15:145] Goblin Rabblemaster
+1 [5ED:408] Winter Orb
+1 [THS:127] Lightning Strike
+1 [M13:147] Searing Spear
+1 [VIS:79] Fireblast
+1 [XLN:1] Adanto Vanguard
+1 [ORI:23] Kytheon, Hero of Akros
+1 [3ED:162] Lightning Bolt
+1 [ZEN:126] Goblin Guide
+1 [RTR:220] Rakdos Cackler
+1 [EVE:139] Figure of Destiny
+1 [3ED:2] Armageddon
+1 [NPH:19] Porcelain Legionnaire
+1 [MRD:254] Talisman of Impulse
+1 [SCG:106] Sulfuric Vortex
+1 [M12:156] Stormblood Berserker
+1 [AER:87] Kari Zev, Skyship Raider
+1 [OGW:116] Reckless Bushwhacker
+1 [KTK:118] Monastery Swiftspear
+1 [FRF:27] Soulfire Grand Master
+1 [DKA:93] Hellrider
+1 [KLD:110] Chandra, Torch of Defiance
+1 [GTC:245] Sacred Foundry
+1 [APC:139] Battlefield Forge
+11 [UNH:139] Mountain
+3 [UNH:136] Plains
+SB: 1 [MM3:20] Restoration Angel
+SB: 1 [XLN:19] Kinjalli's Sunwing
+SB: 1 [CN2:18] Palace Jailer
+SB: 1 [10E:61] Wrath of God
+SB: 1 [DTK:10] Dragon Hunter
+SB: 1 [MBS:8] Hero of Bladehold
+SB: 1 [4ED:361] Mishra's Factory
+SB: 1 [ARB:50] Bloodbraid Elf
+SB: 1 [DKA:24] Thalia, Guardian of Thraben
+SB: 1 [NPH:4] Blade Splicer
+SB: 1 [BNG:5] Brimaz, King of Oreskos
+SB: 1 [ZEN:119] Burst Lightning
+SB: 1 [MH1:37] Winds of Abandon
+SB: 1 [GRN:183] Knight of Autumn
+SB: 1 [ROE:145] Flame Slash
+SB: 1 [DST:140] Skullclamp
+SB: 1 [KLD:124] Pia Nalaar
+SB: 1 [SOI:21] Hanweir Militia Captain
+SB: 1 [CHK:19] Isamaru, Hound of Konda
+LAYOUT MAIN:(1,6)(CMC,false,69)|([GTC:245],[APC:139],[UNH:139],[UNH:139],[UNH:139],[UNH:139],[UNH:139],[UNH:139],[UNH:139],[UNH:139],[UNH:139],[UNH:139],[UNH:139],[UNH:136],[UNH:136],[UNH:136])([TMP:183],[ORI:23],[3ED:162],[ZEN:126],[RTR:220],[EVE:139],[KTK:118])([HOU:90],[5ED:408],[THS:127],[M13:147],[XLN:1],[MRD:254],[M12:156],[AER:87],[FRF:27])([M15:145],[NPH:19],[SCG:106],[OGW:116])([3ED:2],[DKA:93],[KLD:110])([VIS:79])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([MM3:20],[XLN:19],[CN2:18],[10E:61],[DTK:10],[MBS:8],[4ED:361],[ARB:50],[DKA:24],[NPH:4],[BNG:5],[ZEN:119],[MH1:37],[GRN:183],[ROE:145],[DST:140],[KLD:124],[SOI:21],[CHK:19])

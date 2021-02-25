@@ -1,0 +1,56 @@
+2021
+1.31.21
+1 [V12:10] Maze of Ith
+1 [EMN:46] Thalia, Heretic Cathar
+1 [VMA:293] Bayou
+1 [LRW:139] Shriekmaw
+1 [PD3:17] Exhume
+1 [IKO:247] Evolving Wilds
+1 [THS:90] Hero's Downfall
+1 [SOM:180] Myr Battlesphere
+1 [M21:34] Seasoned Hallowblade
+1 [AKH:97] Liliana, Death's Majesty
+1 [V17:10] Gisela, the Broken Blade
+1 [ZEN:229] Verdant Catacombs
+1 [AVR:106] Griselbrand
+1 [EMN:85] Collective Brutality
+1 [GTC:242] Godless Shrine
+1 [IKO:220] Fiend Artisan
+1 [MM3:239] Marsh Flats
+1 [WAR:99] Massacre Girl
+1 [M13:112] Vampire Nighthawk
+1 [A25:35] Swords to Plowshares
+1 [PD3:15] Reanimate
+1 [BBD:94] Land Tax
+1 [UMA:244] Karakas
+1 [CON:15] Path to Exile
+1 [RNA:205] Seraph of the Scales
+1 [NPH:4] Blade Splicer
+1 [EMN:6] Emrakul, the Promised End
+1 [PD3:14] Entomb
+1 [EMA:112] Vampiric Tutor
+1 [MM3:76] Liliana of the Veil
+1 [LRW:285] Plains
+2 [LRW:283] Plains
+1 [LRW:284] Plains
+2 [LRW:292] Swamp
+1 [LRW:293] Swamp
+2 [LRW:290] Swamp
+1 [LRW:291] Swamp
+SB: 1 [DOM:1] Karn, Scion of Urza
+SB: 1 [M20:200] Voracious Hydra
+SB: 1 [DTK:210] Surrak, the Hunt Caller
+SB: 1 [AER:122] Rishkar, Peema Renegade
+SB: 1 [ORI:157] Pia and Kiran Nalaar
+SB: 1 [RAV:117] Char
+SB: 1 [THB:148] Phoenix of Ash
+SB: 1 [RTR:86] Ash Zealot
+SB: 1 [C13:84] Ophiomancer
+SB: 1 [C17:43] Mirri, Weatherlight Duelist
+SB: 1 [BNG:119] Courser of Kruphix
+SB: 1 [M12:156] Stormblood Berserker
+SB: 1 [C14:22] Flesh Carver
+SB: 1 [DTK:36] Secure the Wastes
+SB: 1 [M12:217] Solemn Simulacrum
+LAYOUT MAIN:(1,7)(CMC,false,67)|([V12:10],[VMA:293],[IKO:247],[ZEN:229],[GTC:242],[MM3:239],[UMA:244],[LRW:285],[LRW:283],[LRW:283],[LRW:284],[LRW:292],[LRW:292],[LRW:293],[LRW:290],[LRW:290],[LRW:291])([A25:35],[PD3:15],[BBD:94],[CON:15],[PD3:14],[EMA:112])([PD3:17],[M21:34],[EMN:85],[IKO:220])([EMN:46],[THS:90],[M13:112],[NPH:4],[MM3:76])([V17:10],[RNA:205])([LRW:139],[AKH:97],[WAR:99])([SOM:180],[AVR:106],[EMN:6])
+LAYOUT SIDEBOARD:(1,6)(COLOR,false,50)|([DOM:1],[M12:217])([C13:84],[C14:22])([M20:200],[DTK:210],[AER:122],[BNG:119])([ORI:157],[RAV:117],[THB:148],[RTR:86],[M12:156])([DTK:36])([C17:43])

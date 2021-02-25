@@ -1,0 +1,50 @@
+1 [DKA:87] Faithless Looting
+1 [M11:149] Lightning Bolt
+1 [EVE:139] Figure of Destiny
+1 [DOM:143] Siege-Gang Commander
+1 [OGW:182] Wandering Fumarole
+1 [2ED:84] Time Walk
+1 [KTK:118] Monastery Swiftspear
+1 [2ED:48] Ancestral Recall
+1 [VIS:79] Fireblast
+1 [DST:140] Skullclamp
+1 [AKH:136] Hazoret the Fervent
+1 [ZEN:126] Goblin Guide
+1 [RIX:99] Dire Fleet Daredevil
+1 [2ED:85] Timetwister
+1 [M15:145] Goblin Rabblemaster
+1 [HOU:83] Abrade
+1 [GRN:115] Runaway Steam-Kin
+1 [M14:228] Mutavault
+1 [CM2:98] Fiery Confluence
+1 [ZEN:119] Burst Lightning
+1 [3ED:185] Wheel of Fortune
+1 [M14:163] Young Pyromancer
+1 [M13:150] Thundermaw Hellkite
+1 [KLD:199] Bomat Courier
+1 [TMP:183] Jackal Pup
+2 [M11:235] Island
+3 [M11:244] Mountain
+4 [M11:245] Mountain
+4 [M11:242] Mountain
+2 [M11:243] Mountain
+SB: 1 [THS:107] Thoughtseize
+SB: 1 [3ED:282] Badlands
+SB: 1 [FEM:38a] Hymn to Tourach
+SB: 1 [TOR:69] Mesmeric Fiend
+SB: 1 [CON:121] Progenitus
+SB: 1 [DTK:216] Dragonlord Atarka
+SB: 1 [KTK:230] Bloodstained Mire
+SB: 1 [NPH:57] Dismember
+SB: 1 [OGW:110] Goblin Dark-Dwellers
+SB: 1 [DIS:165] Rakdos Signet
+SB: 1 [WAR:207] Nicol Bolas, Dragon-God
+SB: 1 [RNA:248] Godless Shrine
+SB: 1 [SOM:48] Trinket Mage
+SB: 1 [CMA:27] Unexpectedly Absent
+SB: 1 [ZEN:211] Arid Mesa
+SB: 1 [GRN:174] Goblin Electromancer
+SB: 1 [AER:28] Baral, Chief of Compliance
+SB: 1 [RNA:47] Pteramander
+SB: 1 [NPH:35] Gitaxian Probe
+SB: 1 [CHK:62] Gifts Ungiven

@@ -1,0 +1,30 @@
+6 Island
+6 Plains
+1 Bloodstained Mire
+1 City of Brass
+1 Shambling Vent
+1 Tundra
+1 Watery Grave
+1 Maze of Ith
+1 Duress
+1 Fatal Push
+1 Path to Exile
+1 Sensei's Divining Top
+1 Serum Visions
+1 Counterspell
+1 Declaration in Stone
+1 Mana Leak
+1 Remand
+1 Search for Azcanta
+1 Vendilion Clique
+1 Coalition Relic
+1 Forbid
+1 Liliana, the Last Hope
+1 Venser, Shaper Savant
+1 Moat
+1 Wrath of God
+1 Archangel Avacyn
+1 Gideon Jura
+1 Mystic Confluence
+1 Elspeth, Sun's Champion
+1 Dig Through Time

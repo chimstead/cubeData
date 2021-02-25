@@ -1,0 +1,49 @@
+1 [GRN:213] Vraska, Golgari Queen
+1 [THS:180] Sylvan Caryatid
+1 [EMA:177] Natural Order
+1 [ORI:189] Nissa, Vastwood Seer
+1 [MBS:92] Thrun, the Last Troll
+1 [M14:195] Scavenging Ooze
+1 [ELD:160] Gilded Goose
+1 [5DN:86] Eternal Witness
+1 [MH1:168] Hexdrinker
+1 [HOU:129] Ramunap Excavator
+1 [MBS:81] Green Sun's Zenith
+1 [M13:193] Thragtusk
+1 [BNG:119] Courser of Kruphix
+1 [ROE:190] Joraga Treespeaker
+1 [NPH:130] Batterskull
+1 [MM2:71] Bitterblossom
+1 [ISD:105] Liliana of the Veil
+1 [3ED:105] Demonic Tutor
+1 [THB:123] Woe Strider
+1 [AKH:88] Dread Wanderer
+1 [RNA:76] Gutterbones
+1 [CELD:288] Order of Midnight
+1 [EXO:72] Recurring Nightmare
+9 [GRN:264] Forest
+6 [GRN:262] Swamp
+1 [MMA:180] Maelstrom Pulse
+1 [THS:90] Hero's Downfall
+SB: 1 [AVR:32] Restoration Angel
+SB: 1 [LRW:78] Pestermite
+SB: 1 [4ED:34] Land Tax
+SB: 1 [M13:147] Searing Spear
+SB: 1 [BFZ:15] Ulamog, the Ceaseless Hunger
+SB: 1 [UGIN:97] Arc Lightning
+SB: 1 [AKH:136] Hazoret the Fervent
+SB: 1 [4ED:6] Balance
+SB: 1 [LRW:133] Oona's Prowler
+SB: 1 [RAV:81] Dark Confidant
+SB: 1 [4ED:129] Dark Ritual
+SB: 1 [UDS:117] Plow Under
+SB: 1 [IMA:157] Channel
+SB: 1 [7ED:131] Duress
+SB: 1 [M10:165] Acidic Slime
+SB: 1 [MMA:166] Tarmogoyf
+SB: 1 [USG:134] Exhume
+SB: 1 [M20:185] Nightpack Ambusher
+SB: 1 [3ED:194] Fastbond
+SB: 1 [M15:187] Nissa, Worldwaker
+LAYOUT MAIN:(1,9)(CARD_TYPE,false,50)|([NPH:130])([BNG:119])([THS:180],[ORI:189],[MBS:92],[M14:195],[ELD:160],[5DN:86],[MH1:168],[HOU:129],[M13:193],[ROE:190],[THB:123],[AKH:88],[RNA:76],[CELD:288])([MM2:71])([EXO:72])([THS:90])([GRN:264],[GRN:264],[GRN:264],[GRN:264],[GRN:264],[GRN:264],[GRN:264],[GRN:264],[GRN:264],[GRN:262],[GRN:262],[GRN:262],[GRN:262],[GRN:262],[GRN:262])([GRN:213],[ISD:105])([EMA:177],[MBS:81],[3ED:105],[MMA:180])
+LAYOUT SIDEBOARD:(1,6)(COLOR_IDENTITY,false,50)|([BFZ:15])([UDS:117],[IMA:157],[M10:165],[MMA:166],[M20:185],[3ED:194],[M15:187])([M13:147],[UGIN:97],[AKH:136])([LRW:133],[RAV:81],[4ED:129],[7ED:131],[USG:134])([LRW:78])([AVR:32],[4ED:34],[4ED:6])

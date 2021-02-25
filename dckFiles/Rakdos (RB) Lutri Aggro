@@ -1,0 +1,49 @@
+2021
+1.31.21
+1 [DIS:171] Blood Crypt
+1 [KTK:230] Bloodstained Mire
+1 [V09:7] Lotus Petal
+1 [VMA:291] Badlands
+1 [ME4:243] City of Brass
+1 [PGPX:2018] Mutavault
+1 [MH1:244] Prismatic Vista
+1 [ISD:164] Stromkirk Noble
+1 [KLD:199] Bomat Courier
+1 [SOI:155] Falkenrath Gorger
+1 [VMA:145] Vampiric Tutor
+1 [AKR:127] Thoughtseize
+1 [VMA:153] Chain Lightning
+1 [AKR:175] Soul-Scar Mage
+1 [ZEN:126] Goblin Guide
+1 [F13:1] Searing Spear
+1 [PCA:39] Arc Trail
+1 [KLD:231] Scrapheap Scrounger
+1 [ZNR:145] Kargan Intimidator
+1 [MM3:100] Magma Jet
+1 [ELD:138] Robber of the Rich
+1 [GRN:103] Goblin Cratermaker
+1 [UMA:155] Young Pyromancer
+1 [MB1:837] Alesha, Who Smiles at Death
+1 [DTK:224] Kolaghan's Command
+1 [PTHB:148p] Phoenix of Ash
+1 [BRB:5] Arc Lightning
+1 [NPH:57] Dismember
+1 [PWAR:137p] Krenko, Tin Street Kingpin
+1 [ICE:289] Fire Covenant
+1 [EMN:130a] Hanweir Garrison
+1 [MB1:456] Phyrexian Metamorph
+SB: 1 [ZNR:341] Nighthawk Scavenger
+SB: 1 [CMA:68] Shriekmaw
+SB: 1 [ZEN:83] Bloodghast
+SB: 1 [AKR:103] Dread Wanderer
+SB: 1 [ZNR:334] Sea Gate Stormcaller
+SB: 1 [IKO:227] Lutri, the Spellchaser
+SB: 1 [EMA:169] Green Sun's Zenith
+SB: 1 [IMA:149] Thundermaw Hellkite
+SB: 1 [MB1:233] Skymarcher Aspirant
+SB: 1 [IKO:226] Lurrus of the Dream-Den
+SB: 1 [ORI:229] Hangarback Walker
+SB: 1 [ZNR:262] Crawling Barrens
+SB: 1 [PZ2:73] Throne of the High City
+LAYOUT MAIN:(1,5)(CMC,false,67)|([DIS:171],[KTK:230],[V09:7],[VMA:291],[ME4:243],[PGPX:2018],[MH1:244])([ISD:164],[KLD:199],[SOI:155],[VMA:145],[AKR:127],[VMA:153],[AKR:175],[ZEN:126])([F13:1],[PCA:39],[KLD:231],[ZNR:145],[MM3:100],[ELD:138],[GRN:103],[UMA:155])([MB1:837],[DTK:224],[PTHB:148p],[BRB:5],[NPH:57],[PWAR:137p],[ICE:289],[EMN:130a])([MB1:456])
+LAYOUT SIDEBOARD:(1,5)(CMC,false,50)|([ORI:229],[ZNR:262],[PZ2:73])([AKR:103],[EMA:169],[MB1:233])([ZEN:83],[ZNR:334])([ZNR:341],[IKO:227],[IKO:226])([CMA:68],[IMA:149])

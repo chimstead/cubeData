@@ -1,0 +1,48 @@
+1 [KLD:199] Bomat Courier
+1 [ZEN:119] Burst Lightning
+1 [LEG:137] Chain Lightning
+1 [SOI:155] Falkenrath Gorger
+1 [EVE:139] Figure of Destiny
+1 [THS:122] Firedrinker Satyr
+1 [ZEN:126] Goblin Guide
+1 [TOR:100] Grim Lavamancer
+1 [LEB:162] Lightning Bolt
+1 [KTK:118] Monastery Swiftspear
+1 [HOU:83] Abrade
+1 [GRN:103] Goblin Cratermaker
+1 [EMN:133] Incendiary Flow
+1 [ICE:194] Incinerate
+1 [AER:87] Kari Zev, Skyship Raider
+1 [THS:127] Lightning Strike
+1 [AKH:117] Ahn-Crop Crasher
+1 [M20:126] Chandra, Acolyte of Flame
+1 [RAV:117] Char
+1 [RNA:107] Light Up the Stage
+1 [SCG:106] Sulfuric Vortex
+1 [WAR:137] Krenko, Tin Street Kingpin
+1 [KLD:110] Chandra, Torch of Defiance
+1 [C15:26] Fiery Confluence
+1 [KLD:235] Smuggler's Copter
+1 [MH1:247] Sunbaked Canyon
+1 [MOR:148] Mutavault
+1 [ATQ:80a] Mishra's Factory
+1 [EXP:24] Arid Mesa
+11 [UGL:87] Mountain
+SB: 1 [WAR:171] Paradise Druid
+SB: 1 [PTK:122] Rolling Earthquake
+SB: 1 [5DN:126] Grafted Wargear
+SB: 1 [EMN:86] Cryptbreaker
+SB: 1 [C18:57] Retrofitter Foundry
+SB: 1 [WWK:20] Stoneforge Mystic
+SB: 1 [GRN:113] Risk Factor
+SB: 1 [5ED:424] Sulfurous Springs
+SB: 1 [CNS:43] Dack's Duplicate
+SB: 1 [MBS:122] Phyrexian Revoker
+SB: 1 [RTR:220] Rakdos Cackler
+SB: 1 [AKH:1] Angel of Sanctions
+SB: 1 [RIX:99] Dire Fleet Daredevil
+SB: 1 [XLN:19] Kinjalli's Sunwing
+SB: 1 [NEM:17] Parallax Wave
+SB: 1 [ISD:97] Diregraf Ghoul
+LAYOUT MAIN:(1,5)(CMC,false,52)|([MH1:247],[MOR:148],[ATQ:80a],[EXP:24],[UGL:87],[UGL:87],[UGL:87],[UGL:87],[UGL:87],[UGL:87],[UGL:87],[UGL:87],[UGL:87],[UGL:87],[UGL:87])([KLD:199],[ZEN:119],[LEG:137],[SOI:155],[EVE:139],[THS:122],[ZEN:126],[TOR:100],[LEB:162],[KTK:118])([HOU:83],[GRN:103],[EMN:133],[ICE:194],[AER:87],[THS:127],[KLD:235])([AKH:117],[M20:126],[RAV:117],[RNA:107],[SCG:106],[WAR:137])([KLD:110],[C15:26])
+LAYOUT SIDEBOARD:(1,6)(CMC,false,52)|([5ED:424])([PTK:122],[EMN:86],[C18:57],[RTR:220],[ISD:97])([WAR:171],[WWK:20],[MBS:122],[RIX:99])([5DN:126],[GRN:113],[XLN:19])([CNS:43],[NEM:17])([AKH:1])

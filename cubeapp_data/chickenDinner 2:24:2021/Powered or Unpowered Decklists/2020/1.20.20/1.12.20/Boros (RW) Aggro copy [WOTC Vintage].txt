@@ -1,0 +1,49 @@
+1 [M12:145] Grim Lavamancer
+1 [SOM:94] Koth of the Hammer
+1 [DOM:1] Karn, Scion of Urza
+1 [NEM:139] Tangle Wire
+1 [KLD:110] Chandra, Torch of Defiance
+1 [NPH:153] Shrine of Burning Rage
+1 [M15:145] Goblin Rabblemaster
+1 [MH1:145] Seasoned Pyromancer
+1 [WAR:125] Dreadhorde Arcanist
+1 [CM2:98] Fiery Confluence
+1 [SCG:106] Sulfuric Vortex
+1 [M12:146] Incinerate
+1 [RAV:213] Lightning Helix
+1 [BOK:163] Umezawa's Jitte
+1 [VIS:79] Fireblast
+1 [RIX:99] Dire Fleet Daredevil
+1 [JOU:94] Eidolon of the Great Revel
+1 [EVE:139] Figure of Destiny
+1 [KLD:199] Bomat Courier
+1 [M11:149] Lightning Bolt
+1 [DTK:169] Zurgo Bellstriker
+1 [DST:148] Sword of Fire and Ice
+1 [RNA:27] Tithe Taker
+1 [OGW:175] Needle Spires
+1 [2ED:264] Mox Pearl
+1 [MMQ:324] Rishadan Port
+12 [THB:253] Mountain
+2 [THB:250] Plains
+SB: 1 [M14:195] Scavenging Ooze
+SB: 1 [ZEN:219] Marsh Flats
+SB: 1 [ODY:132] Entomb
+SB: 1 [LRW:233] Primal Command
+SB: 1 [CON:113] Knight of the Reliquary
+SB: 1 [AVR:129] Bonfire of the Damned
+SB: 1 [KTK:233] Flooded Strand
+SB: 1 [AKH:136] Hazoret the Fervent
+SB: 1 [EMN:85] Collective Brutality
+SB: 1 [ORI:23] Kytheon, Hero of Akros
+SB: 1 [THB:4] Banishing Light
+SB: 1 [JR:109] Imperial Seal
+SB: 1 [MBS:46] Massacre Wurm
+SB: 1 [5ED:140] Animate Dead
+SB: 1 [VIS:64] Necromancy
+SB: 1 [BBD:25] Brightling
+SB: 1 [KLD:13] Fairgrounds Warden
+SB: 1 [ELD:110] Wishclaw Talisman
+SB: 1 [EMN:40] Selfless Spirit
+LAYOUT MAIN:(1,5)(CMC,false,57)|([OGW:175],[2ED:264],[MMQ:324],[THB:253],[THB:253],[THB:253],[THB:253],[THB:253],[THB:253],[THB:253],[THB:253],[THB:253],[THB:253],[THB:253],[THB:253],[THB:250],[THB:250])([M12:145],[EVE:139],[KLD:199],[M11:149],[DTK:169])([NPH:153],[WAR:125],[M12:146],[RAV:213],[BOK:163],[RIX:99],[JOU:94],[RNA:27])([NEM:139],[M15:145],[MH1:145],[SCG:106],[DST:148])([SOM:94],[DOM:1],[KLD:110],[CM2:98],[VIS:79])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([M14:195],[ZEN:219],[ODY:132],[LRW:233],[CON:113],[AVR:129],[KTK:233],[AKH:136],[EMN:85],[ORI:23],[THB:4],[JR:109],[MBS:46],[5ED:140],[VIS:64],[BBD:25],[KLD:13],[ELD:110],[EMN:40])

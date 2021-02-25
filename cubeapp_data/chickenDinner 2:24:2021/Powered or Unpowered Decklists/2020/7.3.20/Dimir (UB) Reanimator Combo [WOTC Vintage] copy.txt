@@ -1,0 +1,49 @@
+1 [LRW:124] Makeshift Mannequin
+1 [ULG:32] Frantic Search
+1 [CHK:268] Sensei's Divining Top
+1 [2ED:84] Time Walk
+1 [TSP:66] Looter il-Kor
+1 [ARB:110] Sphinx of the Steel Wind
+1 [5ED:140] Animate Dead
+1 [ODY:118] Buried Alive
+1 [USG:134] Exhume
+1 [3ED:105] Demonic Tutor
+1 [RAV:260] Dimir Signet
+1 [LRW:76] Mulldrifter
+1 [NPH:73] Sheoldred, Whispering One
+1 [TMP:151] Reanimate
+1 [GRN:205] Thief of Sanity
+1 [ODY:132] Entomb
+1 [LRW:88] Sower of Temptation
+1 [MH1:199] Fallen Shinobi
+1 [M12:98] Grave Titan
+1 [LRW:133] Oona's Prowler
+1 [CON:30] Inkwell Leviathan
+1 [AVR:106] Griselbrand
+1 [ULG:45] Tinker
+1 [C13:84] Ophiomancer
+1 [SOM:226] Darkslick Shores
+6 [THB:251] Island
+9 [THB:252] Swamp
+SB: 1 [ELD:191] Garruk, Cursed Huntsman
+SB: 1 [NPH:57] Dismember
+SB: 1 [FRF:87] Tasigur, the Golden Fang
+SB: 1 [ISD:155] Past in Flames
+SB: 1 [TMP:142] Living Death
+SB: 1 [BOK:71] Ink-Eyes, Servant of Oni
+SB: 1 [FRF:20] Monastery Mentor
+SB: 1 [WWK:123] Everflowing Chalice
+SB: 1 [ELD:342] Emry, Lurker of the Loch
+SB: 1 [THS:172] Polukranos, World Eater
+SB: 1 [SOM:224] Blackcleave Cliffs
+SB: 1 [TSP:259] Lotus Bloom
+SB: 1 [NPH:33] Deceiver Exarch
+SB: 1 [DKA:140] Huntmaster of the Fells
+SB: 1 [M12:23] Honor of the Pure
+SB: 1 [USG:96] Show and Tell
+SB: 1 [ORI:90] Dark Petition
+SB: 1 [TOR:69] Mesmeric Fiend
+SB: 1 [ULG:49] Bone Shredder
+SB: 1 [LEG:65] Mana Drain
+LAYOUT MAIN:(2,5)(CMC,false,57)|([THB:252],[THB:252],[THB:252],[THB:252],[THB:252],[THB:252],[THB:252],[THB:252],[THB:252])([CHK:268],[TMP:151],[ODY:132])([ULG:32],[ODY:118],[GRN:205],[ULG:45],[C13:84],[LRW:76])([M12:98])([ARB:110],[AVR:106])([SOM:226],[THB:251],[THB:251],[THB:251],[THB:251],[THB:251],[THB:251])([2ED:84],[TSP:66],[5ED:140],[USG:134],[3ED:105],[RAV:260],[LRW:133])([LRW:124],[LRW:88],[MH1:199])([NPH:73])([CON:30])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([ELD:191],[NPH:57],[FRF:87],[ISD:155],[TMP:142],[BOK:71],[FRF:20],[WWK:123],[ELD:342],[THS:172],[SOM:224],[TSP:259],[NPH:33],[DKA:140],[M12:23],[USG:96],[ORI:90],[TOR:69],[ULG:49],[LEG:65])

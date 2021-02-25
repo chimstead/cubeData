@@ -1,0 +1,38 @@
+1 [MMQ:324] Rishadan Port
+1 [WTH:164] Gemstone Mine
+1 [10E:361] Treetop Village
+1 [ZEN:211] Arid Mesa
+1 [WAR:244] Blast Zone
+1 [WWK:141] Raging Ravine
+1 [MH1:168] Hexdrinker
+1 [TOR:100] Grim Lavamancer
+1 [DKA:87] Faithless Looting
+1 [ROE:190] Joraga Treespeaker
+1 [SOM:81] Arc Trail
+1 [ULG:126] Grim Monolith
+1 [M11:172] Fauna Shaman
+1 [MRD:257] Talisman of Unity
+1 [MMA:216] Sword of Fire and Ice
+1 [ORI:189] Nissa, Vastwood Seer
+1 [PTK:113] Imperial Recruiter
+1 [M19:196] Reclamation Sage
+1 [WAR:137] Krenko, Tin Street Kingpin
+1 [EMN:130a] Hanweir Garrison
+1 [MMA:144] Eternal Witness
+1 [MBS:92] Thrun, the Last Troll
+1 [ORI:157] Pia and Kiran Nalaar
+1 [THS:209] Xenagos, the Reveler
+1 [DOM:1] Karn, Scion of Urza
+1 [AVR:166] Zealous Conscripts
+1 [MH1:161] Deep Forest Hermit
+1 [VMA:202] Deranged Hermit
+1 [M11:146] Inferno Titan
+1 [ZEN:247] Forest
+2 [ZEN:248] Forest
+2 [ZEN:246] Forest
+1 [ZEN:249] Forest
+2 [ZEN:242] Mountain
+2 [ZEN:245] Mountain
+1 [ZEN:243] Mountain
+LAYOUT MAIN:(1,7)(CMC,false,68)|([MMQ:324],[WTH:164],[10E:361],[ZEN:211],[WAR:244],[WWK:141],[ZEN:247],[ZEN:248],[ZEN:246],[ZEN:249],[ZEN:248],[ZEN:246],[ZEN:242],[ZEN:245],[ZEN:245],[ZEN:243],[ZEN:242])([MH1:168],[TOR:100],[DKA:87],[ROE:190])([SOM:81],[ULG:126],[M11:172],[MRD:257])([MMA:216],[ORI:189],[PTK:113],[M19:196],[WAR:137],[EMN:130a],[MMA:144])([MBS:92],[ORI:157],[THS:209],[DOM:1])([AVR:166],[MH1:161],[VMA:202])([M11:146])
+LAYOUT SIDEBOARD:(0,0)(CMC,false,70)|

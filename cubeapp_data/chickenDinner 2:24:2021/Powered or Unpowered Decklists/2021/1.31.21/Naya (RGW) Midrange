@@ -1,0 +1,56 @@
+1 [ISD:170] Avacyn's Pilgrim
+1 [IKO:250] Ketria Triome
+1 [ISD:238] Clifftop Retreat
+1 [RIX:136] Jadelight Ranger
+1 [IKO:116] Fire Prophecy
+1 [ELD:181] Wicked Wolf
+1 [MM3:143] Thragtusk
+1 [M13:147] Searing Spear
+1 [AVR:205] Wolfir Avenger
+1 [AKH:247] Scattered Groves
+1 [THS:127] Lightning Strike
+1 [OGW:144] Sylvan Advocate
+1 [THS:228] Temple of Triumph
+1 [BNG:165] Temple of Plenty
+1 [AKH:248] Sheltered Thicket
+1 [GRN:141] Pelt Collector
+1 [M15:173] Elvish Mystic
+1 [RTR:101] Mizzium Mortars
+1 [KLD:242] Aether Hub
+1 [GTC:119] Experiment One
+1 [M13:170] Farseek
+1 [M20:185] Nightpack Ambusher
+1 [ELD:160] Gilded Goose
+1 [WAR:12] Finale of Glory
+1 [GRN:208] Trostani Discordant
+1 [RNA:179] Gruul Spellbreaker
+1 [THS:152] Boon Satyr
+5 [UST:216] Forest
+2 [UST:215] Mountain
+2 [UST:212] Plains
+1 [DOM:143] Siege-Gang Commander
+1 [GRN:183] Knight of Autumn
+1 [FRF:28] Valorous Stance
+1 [M15:34] Soul of Theros
+1 [ISD:176] Daybreak Ranger
+SB: 1 [M11:95] Doom Blade
+SB: 1 [M15:246] Shivan Reef
+SB: 1 [ELD:35] Venerable Knight
+SB: 1 [DOM:14] Dauntless Bodyguard
+SB: 1 [DGM:11] Aetherling
+SB: 1 [AKH:200] Honored Crop-Captain
+SB: 1 [AKH:16] Glory-Bound Initiate
+SB: 1 [C19:161] Den Protector
+SB: 1 [ISD:264] Forest
+SB: 3 [ISD:263] Forest
+SB: 1 [ISD:262] Forest
+SB: 2 [ISD:261] Mountain
+SB: 1 [ISD:251] Plains
+SB: 1 [ISD:252] Plains
+SB: 1 [ZNR:16] Felidar Retreat
+SB: 1 [RTR:194] Selesnya Charm
+SB: 1 [AER:87] Kari Zev, Skyship Raider
+SB: 1 [XLN:1] Adanto Vanguard
+SB: 1 [M19:23] Leonin Warleader
+LAYOUT MAIN:(1,7)(CMC,false,64)|([IKO:250],[ISD:238],[AKH:247],[THS:228],[BNG:165],[AKH:248],[KLD:242],[UST:216],[UST:216],[UST:216],[UST:216],[UST:216],[UST:215],[UST:215],[UST:212],[UST:212])([ISD:170],[GRN:141],[M15:173],[GTC:119],[ELD:160])([IKO:116],[M13:147],[THS:127],[OGW:144],[RTR:101],[M13:170],[WAR:12],[FRF:28])([RIX:136],[AVR:205],[RNA:179],[THS:152],[GRN:183],[ISD:176])([ELD:181],[M20:185])([MM3:143],[GRN:208],[DOM:143])([M15:34])
+LAYOUT SIDEBOARD:(1,7)(COLOR,false,100)|([M15:246],[ISD:264],[ISD:263],[ISD:262],[ISD:263],[ISD:263],[ISD:261],[ISD:261],[ISD:251],[ISD:252])([M11:95])([DGM:11])([C19:161])([AER:87])([ELD:35],[DOM:14],[AKH:16],[ZNR:16],[XLN:1],[M19:23])([AKH:200],[RTR:194])

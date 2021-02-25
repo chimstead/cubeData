@@ -1,0 +1,54 @@
+1 [VMA:266] Coercive Portal
+1 [C16:195] Edric, Spymaster of Trest
+1 [SHM:110] Devoted Druid
+1 [M21:177] Cultivate
+1 [M12:165] Birds of Paradise
+1 [LRW:88] Sower of Temptation
+1 [M13:193] Thragtusk
+1 [NPH:1] Karn Liberated
+1 [ELD:281] Brazen Borrower
+1 [PUMA:U22] Leovold, Emissary of Trest
+1 [WAR:160] Finale of Devastation
+1 [M19:314] Llanowar Elves
+1 [STH:125] Wall of Blossoms
+1 [TSP:216] Search for Tomorrow
+1 [MRD:134] Tooth and Nail
+1 [EXO:129] Survival of the Fittest
+1 [NEM:30] Daze
+1 [SHM:135] Woodfall Primus
+1 [M15:173] Elvish Mystic
+1 [XLN:179] Carnage Tyrant
+1 [ELD:160] Gilded Goose
+1 [ZEN:168] Lotus Cobra
+1 [MOR:55] Vendilion Clique
+1 [M19:208] Vivien Reid
+1 [2ED:262] Mox Emerald
+1 [2ED:266] Mox Sapphire
+1 [2ED:263] Mox Jet
+1 [LRW:272] Shelldock Isle
+1 [USG:321] Gaea's Cradle
+2 [C16:349] Forest
+2 [C16:351] Forest
+3 [C16:350] Forest
+1 [C16:341] Island
+1 [C16:342] Island
+1 [C16:340] Island
+1 [C16:343] Swamp
+SB: 1 [ROE:33] Linvala, Keeper of Silence
+SB: 1 [KLD:13] Fairgrounds Warden
+SB: 1 [AKH:136] Hazoret the Fervent
+SB: 1 [M21:114] Massacre Wurm
+SB: 1 [DKA:140] Huntmaster of the Fells
+SB: 1 [M12:12] Day of Judgment
+SB: 1 [MBS:138] Sword of Feast and Famine
+SB: 1 [GRN:183] Knight of Autumn
+SB: 1 [V14:2] Burning of Xinye
+SB: 1 [GRN:115] Runaway Steam-Kin
+SB: 1 [ULG:14] Mother of Runes
+SB: 1 [EXO:115] Oath of Druids
+SB: 1 [4ED:64] Control Magic
+SB: 1 [M12:55] Frost Titan
+SB: 1 [WWK:108] Nature's Claim
+SB: 1 [M14:228] Mutavault
+LAYOUT MAIN:(1,9)(CMC,false,50)|([2ED:262],[2ED:266],[2ED:263],[LRW:272],[USG:321],[C16:349],[C16:351],[C16:351],[C16:350],[C16:350],[C16:350],[C16:349],[C16:341],[C16:342],[C16:340],[C16:343])([M12:165],[M19:314],[M15:173],[ELD:160])([SHM:110],[WAR:160],[STH:125],[EXO:129],[NEM:30],[ZEN:168])([C16:195],[M21:177],[PUMA:U22],[TSP:216],[MOR:55])([VMA:266],[LRW:88])([M13:193],[ELD:281],[M19:208])([XLN:179])([NPH:1],[MRD:134])([SHM:135])
+LAYOUT SIDEBOARD:(1,7)(COLOR,false,48)|([MBS:138],[M14:228])([M21:114])([4ED:64],[M12:55])([EXO:115],[WWK:108])([AKH:136],[V14:2],[GRN:115])([ROE:33],[KLD:13],[M12:12],[ULG:14])([DKA:140],[GRN:183])

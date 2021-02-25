@@ -1,0 +1,47 @@
+1 [RIX:82] Ravenous Chupacabra
+1 [USG:134] Exhume
+1 [BNG:119] Courser of Kruphix
+1 [CMD:159] Hornet Queen
+1 [EXO:72] Recurring Nightmare
+1 [M20:200] Voracious Hydra
+1 [LEB:232] Basalt Monolith
+1 [ICE:244] Fyndhorn Elves
+1 [VIS:64] Necromancy
+1 [M11:192] Primeval Titan
+1 [UDS:118] Rofellos, Llanowar Emissary
+1 [SOI:116] Heir of Falkenrath
+1 [ISD:170] Avacyn's Pilgrim
+1 [RTR:73] Pack Rat
+1 [EMN:164] Noose Constrictor
+1 [ICE:118] Dance of the Dead
+1 [AVR:106] Griselbrand
+1 [CHK:239] Sakura-Tribe Elder
+1 [MMA:180] Maelstrom Pulse
+1 [TMP:151] Reanimate
+1 [M11:97] Grave Titan
+1 [MH1:246] Silent Clearing
+1 [LEB:279] Bayou
+1 [ULG:143] Treetop Village
+6 [UST:216] Forest
+7 [UST:214] Swamp
+1 [ULG:130] Quicksilver Amulet
+1 [EMN:6] Emrakul, the Promised End
+1 [5DN:55] Night's Whisper
+SB: 1 [CMD:170] Scavenging Ooze
+SB: 1 [ULG:36] Miscalculation
+SB: 1 [CN2:69] Regal Behemoth
+SB: 1 [SHM:23] Spectral Procession
+SB: 1 [RNA:76] Gutterbones
+SB: 1 [FRF:18] Mardu Woe-Reaper
+SB: 1 [OGW:140] Oath of Nissa
+SB: 1 [KTK:119] Sarkhan, the Dragonspeaker
+SB: 1 [CHK:193] Through the Breach
+SB: 1 [DTK:181] Den Protector
+SB: 1 [ZEN:116] Vampire Nighthawk
+SB: 1 [USG:228] Wildfire
+SB: 1 [ROE:6] Kozilek, Butcher of Truth
+SB: 1 [FRF:143] Warden of the First Tree
+SB: 1 [ULG:101] Deranged Hermit
+SB: 1 [ISD:181] Garruk Relentless
+LAYOUT MAIN:(1,5)(CMC,false,69)|([MH1:246],[LEB:279],[ULG:143],[UST:216],[UST:216],[UST:216],[UST:216],[UST:216],[UST:216],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214])([ICE:244],[ISD:170],[TMP:151])([USG:134],[M20:200],[UDS:118],[SOI:116],[RTR:73],[EMN:164],[ICE:118],[CHK:239],[5DN:55])([BNG:119],[EXO:72],[LEB:232],[VIS:64],[MMA:180],[ULG:130],[RIX:82])([AVR:106],[CMD:159],[M11:192],[M11:97],[EMN:6])
+LAYOUT SIDEBOARD:(1,1)(CMC,false,65)|([RNA:76],[FRF:18],[OGW:140],[FRF:143],[CMD:170],[ULG:36],[CN2:69],[SHM:23],[KTK:119],[CHK:193],[DTK:181],[ZEN:116],[USG:228],[ROE:6],[ULG:101],[ISD:181])

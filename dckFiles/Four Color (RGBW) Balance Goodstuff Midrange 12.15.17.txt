@@ -1,5 +1,8 @@
+2017
+12.17
+12.15.17
 2 Swamp
-2 Plains 
+2 Plains
 1 Mountain
 1 Forest
 1 Temple Garden
@@ -13,8 +16,8 @@
 1 Bayou
 1 Overgrown Tomb
 1 Evolving Wilds
-1 Grand Coliseum 
-1 Sensei’s Divining Top
+1 Grand Coliseum
+1 Sensei's Divining Top
 1 Inquisition of Kozilek
 1 Path to Exile
 1 Orzhov Signet
@@ -31,9 +34,8 @@
 1 Palace Jailer
 1 Solemn Simulacrum
 1 Damnation
-1 Liliana, Death’s Majesty
+1 Liliana, Death's Majesty
 1 Gideon Jura
 1 Reveillark
 1 Archangel Avacyn
 1 Tasigur, the Golden Fang
-

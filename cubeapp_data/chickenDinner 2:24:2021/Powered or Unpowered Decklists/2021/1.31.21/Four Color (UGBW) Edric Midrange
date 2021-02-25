@@ -1,0 +1,51 @@
+1 [ELD:160] Gilded Goose
+1 [UMA:174] Noble Hierarch
+1 [CMR:228] Fyndhorn Elves
+1 [C20:251] Skullclamp
+1 [F05:10] Duress
+1 [ZNR:388] Bloodchief's Thirst
+1 [C13:177] Baleful Strix
+1 [SOI:233] Tireless Tracker
+1 [C13:84] Ophiomancer
+1 [THB:229] Uro, Titan of Nature's Wrath
+1 [EMN:189] Spell Queller
+1 [DDR:1] Nissa, Voice of Zendikar
+1 [CNS:187] Edric, Spymaster of Trest
+1 [AKH:8] Cast Out
+1 [XLN:223] Hostage Taker
+1 [EMA:42] Control Magic
+1 [M20:185] Nightpack Ambusher
+1 [PAVR:32] Restoration Angel
+1 [MH1:161] Deep Forest Hermit
+1 [ELD:281] Brazen Borrower
+1 [MH1:199] Fallen Shinobi
+1 [VMA:293] Bayou
+1 [VMA:321] Tropical Island
+1 [VMA:323] Underground Sea
+1 [VMA:311] Savannah
+1 [ZEN:211] Arid Mesa
+1 [MRD:152] Chrome Mox
+1 [ZEN:223] Scalding Tarn
+1 [KTK:239] Polluted Delta
+1 [VMA:308] Plateau
+1 [GTC:240] Breeding Pool
+1 [RTR:248] Temple Garden
+1 [UMA:239] Creeping Tar Pit
+1 [KTK:249] Wooded Foothills
+1 [ZNR:328] Glasspool Mimic
+1 [3ED:304] Forest
+1 [3ED:296] Island
+1 [3ED:299] Swamp
+1 [A25:104] Ravenous Chupacabra
+1 [3ED:300] Swamp
+SB: 1 [V17:1] Archangel Avacyn
+SB: 1 [V13:8] Tangle Wire
+SB: 1 [V14:13] Upheaval
+SB: 1 [MB1:837] Alesha, Who Smiles at Death
+SB: 1 [PORI:157] Pia and Kiran Nalaar
+SB: 1 [KTK:66] Bloodsoaked Champion
+SB: 1 [IMA:47] Consecrated Sphinx
+SB: 1 [VMA:319] Tolarian Academy
+SB: 1 [EMA:33] Unexpectedly Absent
+LAYOUT MAIN:(1,6)(CMC,false,50)|([VMA:293],[VMA:321],[VMA:323],[VMA:311],[ZEN:211],[MRD:152],[ZEN:223],[KTK:239],[VMA:308],[GTC:240],[RTR:248],[UMA:239],[KTK:249],[3ED:304],[3ED:296],[3ED:299],[3ED:300])([ELD:160],[UMA:174],[CMR:228],[C20:251],[F05:10],[ZNR:388])([C13:177])([SOI:233],[C13:84],[THB:229],[EMN:189],[DDR:1],[CNS:187],[ZNR:328])([AKH:8],[XLN:223],[EMA:42],[M20:185],[PAVR:32],[A25:104])([MH1:161],[ELD:281],[MH1:199])
+LAYOUT SIDEBOARD:(1,7)(CMC,false,50)|([VMA:319])([KTK:66])([EMA:33])([V13:8],[MB1:837])([PORI:157])([V17:1])([V14:13],[IMA:47])

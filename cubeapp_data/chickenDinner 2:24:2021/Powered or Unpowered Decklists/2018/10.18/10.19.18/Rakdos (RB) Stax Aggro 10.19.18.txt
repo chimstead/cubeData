@@ -1,0 +1,55 @@
+NAME:rakdos aggro
+1 [TMP:154] Sarcomancy
+1 [THS:127] Lightning Strike
+1 [ODY:117] Braids, Cabal Minion
+1 [RIX:99] Dire Fleet Daredevil
+1 [LEA:129] Sinkhole
+1 [ROE:115] Inquisition of Kozilek
+1 [BOK:163] Umezawa's Jitte
+1 [FEM:38a] Hymn to Tourach
+1 [M19:136] Dismissive Pyromancer
+1 [LEB:278] Badlands
+1 [DTK:169] Zurgo Bellstriker
+1 [GRN:109] Legion Warboss
+1 [TOR:57] Chainer's Edict
+1 [RIX:82] Ravenous Chupacabra
+1 [GRN:103] Goblin Cratermaker
+1 [MOR:148] Mutavault
+2 [POR:204] Swamp
+1 [POR:124] Earthquake
+1 [RAV:81] Dark Confidant
+1 [POR:207] Swamp
+2 [POR:208] Mountain
+2 [POR:205] Swamp
+1 [KLD:110] Chandra, Torch of Defiance
+3 [POR:206] Swamp
+1 [KTK:118] Monastery Swiftspear
+2 [POR:209] Mountain
+1 [NEM:139] Tangle Wire
+1 [EXO:53] Carnophage
+1 [ZEN:119] Burst Lightning
+1 [5ED:408] Winter Orb
+1 [DKA:64] Gravecrawler
+1 [USG:174] Arc Lightning
+2 [POR:211] Mountain
+SB: 1 [MMQ:316] Dust Bowl
+SB: 1 [AER:181] Walking Ballista
+SB: 1 [SOM:196] Ratchet Bomb
+SB: 1 [ALA:154] Ajani Vengeant
+SB: 1 [5DN:126] Grafted Wargear
+SB: 1 [POR:5] Armageddon
+SB: 1 [PTK:104] Burning of Xinye
+SB: 1 [RAV:172] Life from the Loam
+SB: 1 [ROE:53] Wall of Omens
+SB: 1 [APC:47] Phyrexian Arena
+SB: 1 [OGW:140] Oath of Nissa
+SB: 1 [ZEN:14] Journey to Nowhere
+SB: 1 [CN2:22] Recruiter of the Guard
+SB: 1 [FRF:75] Mardu Strike Leader
+SB: 1 [TMP:47] Soltari Trooper
+SB: 1 [LEB:280] Plateau
+SB: 1 [DGM:94] Ral Zarek
+SB: 1 [DTK:36] Secure the Wastes
+SB: 1 [ULG:139] Faerie Conclave
+LAYOUT MAIN:(1,5)(CMC,false,50)|([LEB:278],[MOR:148],[POR:208],[POR:211],[POR:209],[POR:209],[POR:208],[POR:211],[POR:206],[POR:207],[POR:204],[POR:204],[POR:206],[POR:206],[POR:205],[POR:205])([POR:124],[KTK:118],[TMP:154],[DTK:169],[EXO:53],[DKA:64],[ROE:115],[ZEN:119])([FEM:38a],[RIX:99],[M19:136],[TOR:57],[RAV:81],[GRN:103],[THS:127],[LEA:129],[5ED:408],[BOK:163])([GRN:109],[USG:174],[NEM:139])([RIX:82],[KLD:110],[ODY:117])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([POR:5],[LEB:280],[SOM:196],[ULG:139],[MMQ:316],[ALA:154],[CN2:22],[DTK:36],[TMP:47],[ROE:53],[ZEN:14],[DGM:94],[PTK:104],[OGW:140],[AER:181],[RAV:172],[APC:47],[FRF:75],[5DN:126])

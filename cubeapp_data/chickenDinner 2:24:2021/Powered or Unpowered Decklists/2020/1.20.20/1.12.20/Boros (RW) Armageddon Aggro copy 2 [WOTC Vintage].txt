@@ -1,0 +1,56 @@
+1 [THS:9] Elspeth, Sun's Champion
+1 [DST:140] Skullclamp
+1 [6ED:4] Armageddon
+1 [ALA:154] Ajani Vengeant
+1 [JR:97] Ravages of War
+1 [DKA:93] Hellrider
+1 [ROE:145] Flame Slash
+1 [PLC:25] Mana Tithe
+1 [M14:163] Young Pyromancer
+1 [RAV:255] Boros Signet
+1 [MH1:13] Giver of Runes
+1 [SOI:44] Thraben Inspector
+1 [ODY:193] Firebolt
+1 [M11:149] Lightning Bolt
+1 [M15:145] Goblin Rabblemaster
+1 [DTK:169] Zurgo Bellstriker
+1 [M19:130] Banefire
+1 [RTR:101] Mizzium Mortars
+1 [MH1:145] Seasoned Pyromancer
+1 [DGM:135] Wear // Tear
+1 [M13:150] Thundermaw Hellkite
+1 [NPH:153] Shrine of Burning Rage
+1 [ORI:127] Abbot of Keral Keep
+1 [2ED:264] Mox Pearl
+1 [OGW:175] Needle Spires
+1 [ELD:235] Stonecoil Serpent
+1 [4ED:363] Strip Mine
+1 [2ED:265] Mox Ruby
+6 [UGL:87] Mountain
+6 [UGL:84] Plains
+SB: 1 [5ED:408] Winter Orb
+SB: 1 [DST:148] Sword of Fire and Ice
+SB: 1 [AKH:149] Sweltering Suns
+SB: 1 [C14:8] Hallowed Spiritkeeper
+SB: 1 [TOR:77] Putrid Imp
+SB: 1 [KLD:4] Angel of Invention
+SB: 1 [KTK:230] Bloodstained Mire
+SB: 1 [ZEN:13] Iona, Shield of Emeria
+SB: 1 [DST:146] Sundering Titan
+SB: 1 [TOR:69] Mesmeric Fiend
+SB: 1 [AVR:166] Zealous Conscripts
+SB: 1 [NPH:130] Batterskull
+SB: 1 [M20:14] Disenchant
+SB: 1 [RTR:1] Angel of Serenity
+SB: 1 [RAV:81] Dark Confidant
+SB: 1 [UMA:11] Containment Priest
+SB: 1 [TMP:183] Jackal Pup
+SB: 1 [THS:243] Mountain
+SB: 3 [THS:245] Mountain
+SB: 2 [THS:244] Mountain
+SB: 2 [THS:233] Plains
+SB: 2 [THS:230] Plains
+SB: 1 [THS:232] Plains
+SB: 1 [THS:231] Plains
+LAYOUT MAIN:(1,7)(CMC,false,50)|([2ED:264],[OGW:175],[4ED:363],[2ED:265],[UGL:87],[UGL:87],[UGL:87],[UGL:87],[UGL:87],[UGL:87],[UGL:84],[UGL:84],[UGL:84],[UGL:84],[UGL:84],[UGL:84])([DST:140],[ROE:145],[PLC:25],[MH1:13],[SOI:44],[ODY:193],[M11:149],[DTK:169],[M19:130],[ELD:235])([M14:163],[RAV:255],[RTR:101],[NPH:153],[ORI:127])([M15:145],[MH1:145],[DGM:135])([6ED:4],[ALA:154],[JR:97],[DKA:93])([M13:150])([THS:9])
+LAYOUT SIDEBOARD:(1,8)(CMC,false,50)|([KTK:230])([TOR:77],[TMP:183])([5ED:408],[TOR:69],[M20:14],[RAV:81],[UMA:11])([DST:148],[AKH:149],[C14:8])([KLD:4],[AVR:166],[NPH:130])([RTR:1])([DST:146])([ZEN:13])

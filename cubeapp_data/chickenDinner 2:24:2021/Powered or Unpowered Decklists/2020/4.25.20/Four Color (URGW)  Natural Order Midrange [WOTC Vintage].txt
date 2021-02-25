@@ -1,0 +1,50 @@
+1 [THS:172] Polukranos, World Eater
+1 [DTK:216] Dragonlord Atarka
+1 [ISD:170] Avacyn's Pilgrim
+1 [BNG:119] Courser of Kruphix
+1 [GRN:208] Trostani Discordant
+1 [ZEN:172] Oracle of Mul Daya
+1 [5ED:329] Sylvan Library
+1 [VMA:20] Council's Judgment
+1 [M19:196] Reclamation Sage
+1 [M12:165] Birds of Paradise
+1 [M19:314] Llanowar Elves
+1 [WAR:180] Vivien, Champion of the Wilds
+1 [SOM:223] Wurmcoil Engine
+1 [ROE:190] Joraga Treespeaker
+1 [RNA:183] Hydroid Krasis
+1 [VIS:114] Natural Order
+1 [CON:121] Progenitus
+1 [THS:9] Elspeth, Sun's Champion
+1 [ELD:171] Questing Beast
+1 [RNA:122] Biogenic Ooze
+1 [CON:87] Noble Hierarch
+1 [M11:172] Fauna Shaman
+1 [5DN:86] Eternal Witness
+1 [AVR:172] Craterhoof Behemoth
+1 [USG:321] Gaea's Cradle
+1 [WWK:144] Stirring Wildwood
+1 [3ED:288] Tropical Island
+1 [SOM:228] Razorverge Thicket
+8 [THB:254] Forest
+1 [THB:253] Mountain
+3 [THB:250] Plains
+SB: 1 [LEG:137] Chain Lightning
+SB: 1 [ZEN:11] Emeria Angel
+SB: 1 [DKA:24] Thalia, Guardian of Thraben
+SB: 1 [XLN:22] Legion's Landing
+SB: 1 [3ED:286] Scrubland
+SB: 1 [ZEN:13] Iona, Shield of Emeria
+SB: 1 [4ED:363] Strip Mine
+SB: 1 [M12:98] Grave Titan
+SB: 1 [DKA:93] Hellrider
+SB: 1 [VIS:79] Fireblast
+SB: 1 [ODY:118] Buried Alive
+SB: 1 [MEDM:GR3] Daretti, Ingenious Iconoclast
+SB: 1 [DOM:207] Teferi, Hero of Dominaria
+SB: 1 [BBD:25] Brightling
+SB: 1 [ELD:287] Murderous Rider
+SB: 1 [THS:33] Spear of Heliod
+SB: 1 [WWK:123] Everflowing Chalice
+LAYOUT MAIN:(2,6)(CMC,false,49)|([USG:321],[WWK:144],[3ED:288],[SOM:228],[THB:250],[THB:250],[THB:250],[THB:253])([ISD:170],[M12:165],[M19:314],[ROE:190],[CON:87])([BNG:119],[VMA:20],[M19:196],[WAR:180],[5DN:86])([GRN:208],[RNA:122])([DTK:216])([CON:121])([THB:254],[THB:254],[THB:254],[THB:254],[THB:254],[THB:254],[THB:254],[THB:254])([5ED:329],[RNA:183],[M11:172])([THS:172],[ZEN:172],[VIS:114],[ELD:171])([SOM:223],[THS:9])([AVR:172])()
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([BBD:25],[ODY:118],[LEG:137],[MEDM:GR3],[ZEN:11],[WWK:123],[VIS:79],[M12:98],[DKA:93],[ZEN:13],[XLN:22],[ELD:287],[3ED:286],[THS:33],[4ED:363],[DOM:207],[DKA:24])

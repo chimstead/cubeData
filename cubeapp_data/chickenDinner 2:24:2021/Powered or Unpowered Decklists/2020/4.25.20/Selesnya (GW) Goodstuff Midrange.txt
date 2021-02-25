@@ -1,0 +1,54 @@
+1 [CNS:84] Swords to Plowshares
+1 [ULG:14] Mother of Runes
+1 [ROE:190] Joraga Treespeaker
+1 [CN2:176] Birds of Paradise
+1 [ISD:170] Avacyn's Pilgrim
+1 [EMA:187] Sylvan Library
+1 [EMN:40] Selfless Spirit
+1 [MH1:37] Winds of Abandon
+1 [M20:200] Voracious Hydra
+1 [ZEN:14] Journey to Nowhere
+1 [BNG:5] Brimaz, King of Oreskos
+1 [GRN:183] Knight of Autumn
+1 [DDR:1] Nissa, Voice of Zendikar
+1 [HOP:4] Oblivion Ring
+1 [C15:183] Eternal Witness
+1 [DDF:1] Elspeth, Knight-Errant
+1 [NEM:17] Parallax Wave
+1 [MM3:20] Restoration Angel
+1 [RNA:122] Biogenic Ooze
+1 [MM3:143] Thragtusk
+1 [ISD:181] Garruk Relentless
+1 [M10:191] Master of the Wild Hunt
+1 [M13:36] Sublime Archangel
+1 [WAR:244] Blast Zone
+1 [KTK:248] Windswept Heath
+1 [RTR:248] Temple Garden
+1 [KTK:249] Wooded Foothills
+1 [10E:349] Brushland
+3 [ROE:247] Forest
+2 [ROE:246] Forest
+1 [ROE:248] Forest
+1 [ROE:229] Plains
+2 [ROE:232] Plains
+2 [ROE:230] Plains
+1 [ROE:231] Plains
+SB: 1 [C13:114] Inferno Titan
+SB: 1 [M14:215] Ratchet Bomb
+SB: 1 [AKH:8] Cast Out
+SB: 1 [MH1:197] Eladamri's Call
+SB: 1 [C13:135] Avenger of Zendikar
+SB: 1 [SOI:12] Declaration in Stone
+SB: 1 [MM3:11] Kor Skyfisher
+SB: 1 [ELD:281] Brazen Borrower
+SB: 1 [AKH:245] Irrigated Farmland
+SB: 1 [ORI:229] Hangarback Walker
+SB: 1 [GTC:123] Gyre Sage
+SB: 1 [THB:4] Banishing Light
+SB: 1 [E02:2] Day of Judgment
+SB: 1 [C16:305] Karplusan Forest
+SB: 1 [JOU:145] Ajani, Mentor of Heroes
+SB: 1 [C15:200] Sakura-Tribe Elder
+SB: 1 [EMA:33] Unexpectedly Absent
+LAYOUT MAIN:(1,7)(CMC,false,68)|([WAR:244],[10E:349],[ROE:247],[ROE:246],[ROE:247],[ROE:247],[ROE:248],[ROE:246],[ROE:229],[ROE:232],[ROE:232],[ROE:230],[ROE:231],[ROE:230],[RTR:248],[KTK:248],[KTK:249])([ISD:170],[CN2:176],[ROE:190],[ULG:14],[CNS:84])([ZEN:14],[EMN:40],[EMA:187],[MH1:37])([BNG:5],[GRN:183],[DDR:1],[HOP:4],[M20:200])([DDF:1],[ISD:181],[M10:191],[NEM:17],[MM3:20],[M13:36])([RNA:122],[MM3:143])([C15:183])
+LAYOUT SIDEBOARD:(1,6)(COLOR,false,50)|([ORI:229],[AKH:245],[C16:305],[M14:215])([ELD:281])([C13:135],[GTC:123],[C15:200])([C13:114])([THB:4],[AKH:8],[E02:2],[SOI:12],[MM3:11],[EMA:33])([JOU:145],[MH1:197])

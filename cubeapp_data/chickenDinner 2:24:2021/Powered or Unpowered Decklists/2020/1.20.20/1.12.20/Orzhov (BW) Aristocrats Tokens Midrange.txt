@@ -1,0 +1,51 @@
+1 [GNT:36] Zulaport Cutthroat
+1 [ROE:53] Wall of Omens
+1 [MM3:12] Lingering Souls
+1 [MM3:17] Path to Exile
+1 [CN2:18] Palace Jailer
+1 [4ED:52] Swords to Plowshares
+1 [C14:145] Grave Titan
+1 [DTK:36] Secure the Wastes
+1 [M11:120] Viscera Seer
+1 [ELD:101] Rankle, Master of Pranks
+1 [KLD:4] Angel of Invention
+1 [THS:90] Hero's Downfall
+1 [SCG:59] Carrion Feeder
+1 [CN2:41] Custodi Lich
+1 [APC:126] Vindicate
+1 [AVR:86] Blood Artist
+1 [GRN:77] Midnight Reaper
+1 [NPH:4] Blade Splicer
+1 [M13:22] Oblivion Ring
+1 [MBS:8] Hero of Bladehold
+1 [TOR:69] Mesmeric Fiend
+1 [KTK:248] Windswept Heath
+1 [MH1:243] Nurturing Peatland
+1 [MH1:246] Silent Clearing
+4 [GNT:60] Plains
+3 [GNT:59] Plains
+6 [GNT:64] Swamp
+1 [GNT:63] Swamp
+1 [BFZ:29] Gideon, Ally of Zendikar
+1 [C14:22] Flesh Carver
+SB: 1 [KLD:124] Pia Nalaar
+SB: 1 [UDS:117] Plow Under
+SB: 1 [UMA:94] Entomb
+SB: 1 [ZEN:13] Iona, Shield of Emeria
+SB: 1 [DDQ:4] Champion of the Parish
+SB: 1 [CHK:175] Kiki-Jiki, Mirror Breaker
+SB: 1 [NPH:153] Shrine of Burning Rage
+SB: 1 [ISD:164] Stromkirk Noble
+SB: 1 [UDS:124] Yavimaya Elder
+SB: 1 [CHK:19] Isamaru, Hound of Konda
+SB: 1 [XLN:250] Treasure Map
+SB: 1 [AKH:4] Approach of the Second Sun
+SB: 1 [KLD:84] Gonti, Lord of Luxury
+SB: 1 [RNA:85] Spawn of Mayhem
+SB: 1 [ORI:105] Languish
+SB: 1 [AKH:97] Liliana, Death's Majesty
+SB: 1 [WAR:99] Massacre Girl
+SB: 1 [M12:16] Gideon Jura
+SB: 1 [MH1:37] Winds of Abandon
+LAYOUT MAIN:(1,7)(CMC,false,50)|([KTK:248],[MH1:243],[MH1:246],[GNT:60],[GNT:59],[GNT:59],[GNT:60],[GNT:60],[GNT:60],[GNT:59],[GNT:64],[GNT:64],[GNT:64],[GNT:64],[GNT:64],[GNT:63],[GNT:64])([MM3:17],[4ED:52],[DTK:36],[M11:120],[SCG:59])([GNT:36],[ROE:53],[AVR:86],[TOR:69])([MM3:12],[THS:90],[APC:126],[GRN:77],[NPH:4],[M13:22],[C14:22])([CN2:18],[ELD:101],[MBS:8],[BFZ:29])([KLD:4],[CN2:41])([C14:145])
+LAYOUT SIDEBOARD:(1,1)(COLOR,false,48)|([NPH:153],[XLN:250],[UMA:94],[KLD:84],[RNA:85],[ORI:105],[AKH:97],[WAR:99],[ZEN:13],[DDQ:4],[CHK:19],[AKH:4],[M12:16],[MH1:37],[KLD:124],[UDS:117],[CHK:175],[ISD:164],[UDS:124])

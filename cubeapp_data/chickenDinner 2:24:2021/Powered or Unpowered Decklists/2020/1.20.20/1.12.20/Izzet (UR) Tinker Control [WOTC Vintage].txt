@@ -1,0 +1,55 @@
+1 [GPT:152] Izzet Signet
+1 [TSP:66] Looter il-Kor
+1 [M12:55] Frost Titan
+1 [INV:57] Fact or Fiction
+1 [ALA:60] Tezzeret the Seeker
+1 [RTR:101] Mizzium Mortars
+1 [MEDM:RA6] Dack Fayden
+1 [NPH:19] Porcelain Legionnaire
+1 [M12:217] Solemn Simulacrum
+1 [NPH:130] Batterskull
+1 [AKH:149] Sweltering Suns
+1 [M15:225] Phyrexian Revoker
+1 [MBS:99] Blightsteel Colossus
+1 [A25:136] Imperial Recruiter
+1 [ROE:145] Flame Slash
+1 [MH1:52] Force of Negation
+1 [M11:58] Jace Beleren
+1 [XLN:81] Spell Pierce
+1 [ZEN:119] Burst Lightning
+1 [ULG:45] Tinker
+1 [4ED:64] Control Magic
+1 [AER:181] Walking Ballista
+1 [ORI:229] Hangarback Walker
+1 [2ED:265] Mox Ruby
+1 [ZEN:211] Arid Mesa
+1 [ATQ:81] Mishra's Workshop
+1 [ZEN:223] Scalding Tarn
+3 [TSP:289] Island
+1 [TSP:288] Island
+2 [TSP:287] Island
+1 [TSP:286] Island
+1 [TSP:294] Mountain
+2 [TSP:295] Mountain
+2 [TSP:297] Mountain
+1 [TSP:296] Mountain
+SB: 1 [JOU:94] Eidolon of the Great Revel
+SB: 1 [GRN:224] Expansion // Explosion
+SB: 1 [SOM:229] Seachrome Coast
+SB: 1 [FUT:101] Magus of the Moon
+SB: 1 [TSB:55] Avalanche Riders
+SB: 1 [UDS:75] Yawgmoth's Bargain
+SB: 1 [SCG:41] Mind's Desire
+SB: 1 [ALL:28] Force of Will
+SB: 1 [ISD:127] Ancient Grudge
+SB: 1 [DIS:166] Simic Signet
+SB: 1 [GPT:155] Orzhov Signet
+SB: 1 [M12:145] Grim Lavamancer
+SB: 1 [M19:130] Banefire
+SB: 1 [ARB:110] Sphinx of the Steel Wind
+SB: 1 [CM2:4] Daretti, Scrap Savant
+SB: 1 [WWK:123] Everflowing Chalice
+SB: 1 [CHK:163] Desperate Ritual
+SB: 1 [ELD:122] Embereth Shieldbreaker
+LAYOUT MAIN:(1,8)(CMC,false,45)|([AER:181],[ORI:229],[2ED:265],[ZEN:211],[ATQ:81],[ZEN:223],[TSP:289],[TSP:288],[TSP:289],[TSP:287],[TSP:289],[TSP:286],[TSP:287],[TSP:294],[TSP:295],[TSP:297],[TSP:296],[TSP:297],[TSP:295])([ROE:145],[XLN:81],[ZEN:119])([GPT:152],[TSP:66],[RTR:101],[M15:225])([MEDM:RA6],[NPH:19],[AKH:149],[A25:136],[MH1:52],[M11:58],[ULG:45])([INV:57],[M12:217],[4ED:64])([ALA:60],[NPH:130])([M12:55])([MBS:99])
+LAYOUT SIDEBOARD:(1,8)(CMC,false,50)|([SOM:229],[WWK:123])([M12:145],[M19:130])([JOU:94],[ISD:127],[DIS:166],[GPT:155])([FUT:101])([TSB:55],[CM2:4])([ALL:28])([GRN:224],[UDS:75],[SCG:41])([ARB:110])

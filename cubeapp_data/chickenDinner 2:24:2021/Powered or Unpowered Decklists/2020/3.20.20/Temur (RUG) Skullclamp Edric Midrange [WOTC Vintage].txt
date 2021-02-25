@@ -1,0 +1,49 @@
+1 [CON:87] Noble Hierarch
+1 [M13:174] Garruk, Primal Hunter
+1 [MRD:152] Chrome Mox
+1 [TSP:66] Looter il-Kor
+1 [SHM:110] Devoted Druid
+1 [GPT:150] Gruul Signet
+1 [MH1:75] Urza, Lord High Artificer
+1 [ARB:50] Bloodbraid Elf
+1 [M19:196] Reclamation Sage
+1 [GRN:208] Trostani Discordant
+1 [DST:140] Skullclamp
+1 [FRF:1] Ugin, the Spirit Dragon
+1 [5DN:86] Eternal Witness
+1 [JUD:139] Mirari's Wake
+1 [M15:173] Elvish Mystic
+1 [C16:195] Edric, Spymaster of Trest
+1 [ICE:244] Fyndhorn Elves
+1 [HOU:129] Ramunap Excavator
+1 [DIS:133] Trygon Predator
+1 [STH:138] Mox Diamond
+1 [MRD:53] Thirst for Knowledge
+1 [RNA:183] Hydroid Krasis
+1 [ELD:197] Oko, Thief of Crowns
+1 [KLD:249] Spirebluff Canal
+1 [KTK:249] Wooded Foothills
+1 [ZEN:220] Misty Rainforest
+1 [3ED:287] Taiga
+1 [2ED:262] Mox Emerald
+1 [USG:321] Gaea's Cradle
+1 [2ED:264] Mox Pearl
+1 [WWK:144] Stirring Wildwood
+6 [THB:254] Forest
+3 [THB:251] Island
+SB: 1 [ZEN:211] Arid Mesa
+SB: 1 [ORI:127] Abbot of Keral Keep
+SB: 1 [M19:152] Lightning Strike
+SB: 1 [OGW:175] Needle Spires
+SB: 1 [3ED:214] Regrowth
+SB: 1 [9ED:228] Wildfire
+SB: 1 [STH:125] Wall of Blossoms
+SB: 1 [ULG:36] Miscalculation
+SB: 1 [AKH:134] Glorybringer
+SB: 1 [MEDM:GR3] Daretti, Ingenious Iconoclast
+SB: 1 [DKA:12] Lingering Souls
+SB: 1 [M19:130] Banefire
+SB: 1 [XLN:179] Carnage Tyrant
+SB: 1 [ELD:235] Stonecoil Serpent
+LAYOUT MAIN:(2,5)(CMC,false,58)|([THB:254],[THB:254],[THB:254],[THB:254],[THB:254],[THB:254],[THB:251],[THB:251],[THB:251])([MRD:152],[STH:138],[KLD:249],[KTK:249],[ZEN:220],[3ED:287],[2ED:262],[USG:321],[2ED:264],[WWK:144])([CON:87],[DST:140],[M15:173],[ICE:244])([M19:196],[5DN:86],[C16:195],[HOU:129],[DIS:133],[MRD:53],[ELD:197])([M13:174],[GRN:208],[JUD:139])()()([TSP:66],[SHM:110],[GPT:150],[RNA:183])([MH1:75],[ARB:50])([FRF:1])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([ORI:127],[ZEN:211],[M19:130],[XLN:179],[MEDM:GR3],[AKH:134],[M19:152],[DKA:12],[ULG:36],[OGW:175],[3ED:214],[ELD:235],[STH:125],[9ED:228])

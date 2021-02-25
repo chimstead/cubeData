@@ -1,0 +1,51 @@
+2021
+1.31.21
+1 [STH:138] Mox Diamond
+1 [CON:15] Path to Exile
+1 [CHK:268] Sensei's Divining Top
+1 [LEG:26] Land Tax
+1 [P02:46] Sleight of Hand
+1 [MRD:256] Talisman of Progress
+1 [SOI:12] Declaration in Stone
+1 [MRD:257] Talisman of Unity
+1 [EMN:189] Spell Queller
+1 [C13:63] True-Name Nemesis
+1 [LRW:71] Jace Beleren
+1 [NPH:4] Blade Splicer
+1 [MOR:55] Vendilion Clique
+1 [EVE:6] Flickerwisp
+1 [LEG:28] Moat
+1 [4ED:64] Control Magic
+1 [LRW:88] Sower of Temptation
+1 [ZEN:9] Day of Judgment
+1 [EVE:22] Glen Elendra Archmage
+1 [INV:57] Fact or Fiction
+1 [CN2:18] Palace Jailer
+1 [CHK:74] Meloku the Clouded Mirror
+1 [THS:9] Elspeth, Sun's Champion
+1 [ZNR:76] Sea Gate Restoration
+1 [ZNR:12] Emeria's Call
+1 [ONS:316] Flooded Strand
+1 [ELD:244] Fabled Passage
+1 [JOU:163] Mana Confluence
+1 [ONS:321] Polluted Delta
+6 [PGRU:2] Island
+5 [PGRU:1] Plains
+SB: 1 [RAV:286] Watery Grave
+SB: 1 [M21:34] Seasoned Hallowblade
+SB: 1 [KTK:118] Monastery Swiftspear
+SB: 1 [TSP:161] Greater Gargadon
+SB: 1 [TSP:66] Looter il-Kor
+SB: 1 [TOR:100] Grim Lavamancer
+SB: 1 [IKO:227] Lutri, the Spellchaser
+SB: 1 [MRD:255] Talisman of Indulgence
+SB: 1 [MIR:14] Enlightened Tutor
+SB: 1 [M14:163] Young Pyromancer
+SB: 1 [XLN:1] Adanto Vanguard
+SB: 1 [SOI:44] Thraben Inspector
+SB: 1 [EXO:115] Oath of Druids
+SB: 1 [USG:330] Tolarian Academy
+SB: 1 [KLD:15] Fumigate
+SB: 1 [C18:57] Retrofitter Foundry
+LAYOUT MAIN:(1,9)(CMC,false,71)|([PGRU:2],[PGRU:2],[PGRU:2],[PGRU:2],[PGRU:2],[PGRU:2],[PGRU:1],[PGRU:1],[PGRU:1],[PGRU:1],[PGRU:1])([ELD:244],[ONS:316],[JOU:163],[ONS:321])([STH:138],[LEG:26],[CON:15],[CHK:268],[P02:46])([SOI:12],[MRD:256],[MRD:257])([NPH:4],[EVE:6],[LRW:71],[EMN:189],[C13:63],[MOR:55])([4ED:64],[ZEN:9],[INV:57],[EVE:22],[LEG:28],[CN2:18],[LRW:88])([CHK:74])([THS:9])([ZNR:12],[ZNR:76])
+LAYOUT SIDEBOARD:(1,6)(CMC,false,76)|([RAV:286],[USG:330])([KTK:118],[TOR:100],[MIR:14],[SOI:44],[C18:57])([M21:34],[TSP:66],[MRD:255],[M14:163],[XLN:1],[EXO:115])([IKO:227])([TSP:161])([KLD:15])

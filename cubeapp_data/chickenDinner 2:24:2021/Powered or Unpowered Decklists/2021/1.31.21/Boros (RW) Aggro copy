@@ -1,0 +1,49 @@
+1 [ZEN:126] Goblin Guide
+1 [SOI:155] Falkenrath Gorger
+1 [ROE:146] Forked Bolt
+1 [ODY:193] Firebolt
+1 [RTR:220] Rakdos Cackler
+1 [KTK:118] Monastery Swiftspear
+1 [AER:87] Kari Zev, Skyship Raider
+1 [HOU:83] Abrade
+1 [M13:147] Searing Spear
+1 [RTR:101] Mizzium Mortars
+1 [GRN:103] Goblin Cratermaker
+1 [HOU:90] Earthshaker Khenra
+1 [M21:150] Heartfire Immolator
+1 [WAR:137] Krenko, Tin Street Kingpin
+1 [NPH:19] Porcelain Legionnaire
+1 [M20:126] Chandra, Acolyte of Flame
+1 [LEB:184] Wheel of Fortune
+1 [DKA:93] Hellrider
+1 [C15:26] Fiery Confluence
+1 [M20:127] Chandra, Awakened Inferno
+1 [VIS:79] Fireblast
+1 [MH1:230] Talisman of Conviction
+1 [RAV:213] Lightning Helix
+1 [GTC:148] Boros Charm
+1 [ATQ:80a] Mishra's Factory
+1 [ATQ:82a] Strip Mine
+1 [TMP:330] Wasteland
+1 [LEB:280] Plateau
+1 [ONS:328] Windswept Heath
+1 [RAV:280] Sacred Foundry
+9 [UGL:87] Mountain
+1 [UGL:84] Plains
+SB: 1 [MBS:99] Blightsteel Colossus
+SB: 1 [CHK:19] Isamaru, Hound of Konda
+SB: 1 [MH1:234] Talisman of Resilience
+SB: 1 [ALA:154] Ajani Vengeant
+SB: 1 [MH1:229] Sword of Truth and Justice
+SB: 1 [ELD:171] Questing Beast
+SB: 1 [APC:128] Fire // Ice
+SB: 1 [LEA:3] Balance
+SB: 1 [TMP:154] Sarcomancy
+SB: 1 [ALA:9] Elspeth, Knight-Errant
+SB: 1 [THB:220] Klothys, God of Destiny
+SB: 1 [WAR:221*] Teferi, Time Raveler
+SB: 1 [WAR:13*] Gideon Blackblade
+SB: 1 [IKO:220] Fiend Artisan
+SB: 1 [SCG:103] Siege-Gang Commander
+LAYOUT MAIN:(1,6)(CMC,false,50)|([ATQ:80a],[ATQ:82a],[TMP:330],[LEB:280],[ONS:328],[RAV:280],[UGL:87],[UGL:87],[UGL:87],[UGL:87],[UGL:87],[UGL:87],[UGL:87],[UGL:87],[UGL:87],[UGL:84])([ZEN:126],[SOI:155],[ROE:146],[ODY:193],[RTR:220],[KTK:118])([AER:87],[HOU:83],[M13:147],[RTR:101],[GRN:103],[HOU:90],[M21:150],[NPH:19],[MH1:230],[RAV:213],[GTC:148])([WAR:137],[M20:126],[LEB:184])([DKA:93],[C15:26])([M20:127],[VIS:79])
+LAYOUT SIDEBOARD:(1,6)(CMC,false,45)|([CHK:19],[TMP:154])([MH1:234],[LEA:3],[IKO:220])([MH1:229],[THB:220],[WAR:221*],[WAR:13*])([ALA:154],[ELD:171],[APC:128],[ALA:9])([SCG:103])([MBS:99])

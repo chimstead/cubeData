@@ -1,0 +1,49 @@
+1 [M11:146] Inferno Titan
+1 [C18:44] Saheeli, the Gifted
+1 [ROE:165] Splinter Twin
+1 [ELD:138] Robber of the Rich
+1 [RTR:172] Izzet Charm
+1 [ORI:157] Pia and Kiran Nalaar
+1 [CN2:74] Daretti, Ingenious Iconoclast
+1 [ULG:126] Grim Monolith
+1 [THB:305] Nadir Kraken
+1 [MRD:255] Talisman of Indulgence
+1 [ORI:229] Hangarback Walker
+1 [WWK:123] Everflowing Chalice
+1 [LRW:78] Pestermite
+1 [RAV:117] Char
+1 [ULG:45] Tinker
+1 [ELD:281] Brazen Borrower
+1 [C15:26] Fiery Confluence
+1 [MH1:231] Talisman of Creativity
+1 [MH1:75] Urza, Lord High Artificer
+1 [MMA:218] Vedalken Shackles
+1 [LRW:76] Mulldrifter
+1 [CNS:42] Dack Fayden
+1 [CON:30] Inkwell Leviathan
+1 [AVR:166] Zealous Conscripts
+1 [2ED:278] Badlands
+1 [RTR:247] Steam Vents
+1 [KTK:230] Bloodstained Mire
+1 [USG:330] Tolarian Academy
+1 [MH1:238] Fiery Islet
+6 [THB:251] Island
+5 [THB:253] Mountain
+SB: 1 [WWK:20] Stoneforge Mystic
+SB: 1 [KLD:67] Torrential Gearhulk
+SB: 1 [KTK:118] Monastery Swiftspear
+SB: 1 [WAR:244] Blast Zone
+SB: 1 [ODY:117] Braids, Cabal Minion
+SB: 1 [GRN:183] Knight of Autumn
+SB: 1 [M12:72] Phantasmal Image
+SB: 1 [EMN:85] Collective Brutality
+SB: 1 [USG:103] Time Spiral
+SB: 1 [AKH:136] Hazoret the Fervent
+SB: 1 [PTK:122] Rolling Earthquake
+SB: 1 [NPH:57] Dismember
+SB: 1 [ULG:36] Miscalculation
+SB: 1 [EXO:129] Survival of the Fittest
+SB: 1 [SCG:59] Carrion Feeder
+SB: 1 [KTK:36] Dig Through Time
+LAYOUT MAIN:(1,5)(CMC,false,69)|([2ED:278],[RTR:247],[KTK:230],[USG:330],[MH1:238],[THB:251],[THB:251],[THB:251],[THB:251],[THB:251],[THB:251],[THB:253],[THB:253],[THB:253],[THB:253],[THB:253])([ELD:138],[RTR:172],[ULG:126],[MRD:255],[MH1:231],[ORI:229],[WWK:123])([CN2:74],[THB:305],[LRW:78],[RAV:117],[ULG:45],[MMA:218],[CNS:42])([C18:44],[ROE:165],[ORI:157],[C15:26],[MH1:75],[ELD:281],[LRW:76],[AVR:166])([CON:30],[M11:146])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([WWK:20],[KLD:67],[KTK:118],[WAR:244],[ODY:117],[GRN:183],[M12:72],[EMN:85],[USG:103],[AKH:136],[PTK:122],[NPH:57],[ULG:36],[EXO:129],[SCG:59],[KTK:36])

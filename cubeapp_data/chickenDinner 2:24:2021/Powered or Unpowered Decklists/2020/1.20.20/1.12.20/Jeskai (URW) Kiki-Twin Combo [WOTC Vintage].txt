@@ -1,0 +1,53 @@
+1 [ULG:36] Miscalculation
+1 [M12:147] Inferno Titan
+1 [CHK:175] Kiki-Jiki, Mirror Breaker
+1 [SOM:229] Seachrome Coast
+1 [ULG:32] Frantic Search
+1 [NPH:33] Deceiver Exarch
+1 [6ED:19] Enlightened Tutor
+1 [RTR:200] Sphinx's Revelation
+1 [ZEN:223] Scalding Tarn
+1 [RTR:101] Mizzium Mortars
+1 [ODY:113] Upheaval
+1 [WWK:31] Jace, the Mind Sculptor
+1 [M20:14] Disenchant
+1 [RNA:251] Hallowed Fountain
+1 [AVR:166] Zealous Conscripts
+1 [GPT:32] Repeal
+1 [GRN:254] Sacred Foundry
+1 [NPH:1] Karn Liberated
+1 [SOM:180] Myr Battlesphere
+1 [ULG:126] Grim Monolith
+1 [XLN:48] Chart a Course
+1 [ZEN:211] Arid Mesa
+1 [APC:128] Fire // Ice
+1 [WWK:133] Celestial Colonnade
+1 [TSP:48] Ancestral Vision
+1 [ROE:165] Splinter Twin
+1 [ROE:145] Flame Slash
+1 [CM2:4] Daretti, Scrap Savant
+1 [M13:22] Oblivion Ring
+2 [3ED:297] Island
+3 [3ED:295] Island
+1 [3ED:302] Mountain
+2 [3ED:301] Mountain
+2 [3ED:303] Mountain
+1 [3ED:292] Plains
+SB: 1 [3ED:194] Fastbond
+SB: 1 [SOM:228] Razorverge Thicket
+SB: 1 [EXO:115] Oath of Druids
+SB: 1 [AVR:32] Restoration Angel
+SB: 1 [AVR:38] Terminus
+SB: 1 [EMN:40] Selfless Spirit
+SB: 1 [AKH:1] Angel of Sanctions
+SB: 1 [ROE:53] Wall of Omens
+SB: 1 [ROE:33] Linvala, Keeper of Silence
+SB: 1 [EVE:6] Flickerwisp
+SB: 1 [ROE:47] Student of Warfare
+SB: 1 [10E:61] Wrath of God
+SB: 1 [6ED:4] Armageddon
+SB: 1 [NPH:4] Blade Splicer
+SB: 1 [MH1:75] Urza, Lord High Artificer
+SB: 1 [DST:149] Sword of Light and Shadow
+LAYOUT MAIN:(2,8)(CMC,true,50)|()()()([NPH:33])()([CHK:175],[AVR:166])([M12:147])([SOM:180])([SOM:229],[ZEN:223],[RNA:251],[GRN:254],[ZEN:211],[WWK:133],[TSP:48],[3ED:297],[3ED:295],[3ED:297],[3ED:295],[3ED:295],[3ED:302],[3ED:301],[3ED:303],[3ED:303],[3ED:301],[3ED:292])([6ED:19],[GPT:32],[ROE:145])([ULG:36],[RTR:101],[M20:14],[ULG:126],[XLN:48])([ULG:32],[RTR:200],[M13:22])([WWK:31],[APC:128],[ROE:165],[CM2:4])()([ODY:113])([NPH:1])
+LAYOUT SIDEBOARD:(2,7)(CMC,true,32)|()([ROE:47])([EMN:40],[ROE:53])([EVE:6],[NPH:4])([AVR:32],[ROE:33],[MH1:75])([AKH:1])()([SOM:228])([3ED:194])([EXO:115])([DST:149])([10E:61],[6ED:4])()([AVR:38])

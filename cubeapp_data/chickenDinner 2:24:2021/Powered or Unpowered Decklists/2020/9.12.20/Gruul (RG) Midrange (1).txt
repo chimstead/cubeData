@@ -1,0 +1,55 @@
+NAME:rg mid
+1 [TSP:262] Prismatic Lens
+1 [M21:193] Llanowar Visionary
+1 [SCG:103] Siege-Gang Commander
+1 [RAV:163] Farseek
+1 [ELD:171] Questing Beast
+1 [PC2:84] Bloodbraid Elf
+1 [LEB:232] Basalt Monolith
+1 [OGW:104] Chandra, Flamecaller
+1 [LEA:161] Lightning Bolt
+1 [SOI:233] Tireless Tracker
+1 [PLS:60] Flametongue Kavu
+1 [M20:127] Chandra, Awakened Inferno
+1 [IKO:220] Fiend Artisan
+1 [M11:146] Inferno Titan
+1 [BOK:163] Umezawa's Jitte
+1 [M13:150] Thundermaw Hellkite
+1 [6ED:239] Llanowar Elves
+1 [MH1:234] Talisman of Resilience
+1 [IKO:175] Vivien, Monsters' Advocate
+1 [LEG:207] Sylvan Library
+1 [MIR:184] Incinerate
+1 [M13:147] Searing Spear
+1 [M21:232] Mazemind Tome
+1 [WWK:141] Raging Ravine
+1 [6ED:326] Karplusan Forest
+1 [ATQ:82a] Strip Mine
+3 [TSP:301] Forest
+1 [TSP:298] Forest
+2 [TSP:300] Forest
+1 [TSP:299] Forest
+3 [TSP:297] Mountain
+2 [TSP:294] Mountain
+2 [TSP:296] Mountain
+SB: 1 [ZEN:223] Scalding Tarn
+SB: 1 [MMA:180] Maelstrom Pulse
+SB: 1 [DKA:93] Hellrider
+SB: 1 [MBS:92] Thrun, the Last Troll
+SB: 1 [6ED:328] Sulfurous Springs
+SB: 1 [RNA:122] Biogenic Ooze
+SB: 1 [ONS:313] Bloodstained Mire
+SB: 1 [USG:321] Gaea's Cradle
+SB: 1 [M15:187] Nissa, Worldwaker
+SB: 1 [MH1:243] Nurturing Peatland
+SB: 1 [LEG:137] Chain Lightning
+SB: 1 [UDS:117] Plow Under
+SB: 1 [ROE:21] Gideon Jura
+SB: 1 [USG:228] Wildfire
+SB: 1 [HOU:90] Earthshaker Khenra
+SB: 1 [STH:125] Wall of Blossoms
+SB: 1 [M20:200] Voracious Hydra
+SB: 1 [ELD:122] Embereth Shieldbreaker
+SB: 1 [MH1:228] Sword of Sinew and Steel
+LAYOUT MAIN:(1,7)(CMC,false,40)|([WWK:141],[6ED:326],[ATQ:82a],[TSP:301],[TSP:298],[TSP:301],[TSP:300],[TSP:299],[TSP:300],[TSP:301],[TSP:297],[TSP:294],[TSP:296],[TSP:296],[TSP:297],[TSP:297],[TSP:294])([LEA:161],[6ED:239])([TSP:262],[MH1:234],[RAV:163],[IKO:220],[BOK:163],[LEG:207],[MIR:184],[M13:147],[M21:232])([M21:193],[SOI:233],[LEB:232])([ELD:171],[PC2:84],[PLS:60])([SCG:103],[M13:150],[IKO:175])([OGW:104],[M20:127],[M11:146])
+LAYOUT SIDEBOARD:(1,6)(CMC,false,50)|([6ED:328],[ZEN:223],[ONS:313],[USG:321],[MH1:243])([LEG:137])([MMA:180],[MH1:228],[STH:125],[M20:200],[ELD:122])([DKA:93],[MBS:92])([RNA:122],[M15:187],[UDS:117],[ROE:21])([USG:228],[HOU:90])

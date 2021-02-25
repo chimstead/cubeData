@@ -1,0 +1,49 @@
+1 [EVE:22] Glen Elendra Archmage
+1 [KLD:67] Torrential Gearhulk
+1 [LRW:272] Shelldock Isle
+1 [LRW:88] Sower of Temptation
+1 [C15:14] Mystic Confluence
+1 [XLN:250] Treasure Map
+1 [M14:163] Young Pyromancer
+1 [5DN:27] Condescend
+1 [NPH:1] Karn Liberated
+5 [UNH:139] Mountain
+1 [WTH:153] Mind Stone
+1 [CNS:42] Dack Fayden
+1 [LEG:58] Force Spike
+1 [TOR:36] Deep Analysis
+9 [UNH:137] Island
+1 [POR:124] Earthquake
+1 [XLN:48] Chart a Course
+1 [FUT:46] Venser, Shaper Savant
+1 [RAV:63] Remand
+1 [LRW:56] Cryptic Command
+1 [EXO:35] Forbid
+1 [SOI:92] Thing in the Ice
+1 [ALL:28] Force of Will
+1 [BBD:1] Will Kenrith
+1 [GPT:164] Steam Vents
+1 [TSP:48] Ancestral Vision
+1 [TSP:66] Looter il-Kor
+1 [TMP:315] Ancient Tomb
+SB: 1 [XLN:248] Sorcerous Spyglass
+SB: 1 [MMQ:324] Rishadan Port
+SB: 1 [LRW:78] Pestermite
+SB: 1 [RIX:99] Dire Fleet Daredevil
+SB: 1 [PTK:104] Burning of Xinye
+SB: 1 [PTK:113] Imperial Recruiter
+SB: 1 [FUT:177] Horizon Canopy
+SB: 1 [UDS:40] Opposition
+SB: 1 [ZEN:36] Steppe Lynx
+SB: 1 [M13:150] Thundermaw Hellkite
+SB: 1 [MBS:138] Sword of Feast and Famine
+SB: 1 [LEB:105] Demonic Tutor
+SB: 1 [EMN:164] Noose Constrictor
+SB: 1 [AVR:166] Zealous Conscripts
+SB: 1 [VIS:167] Undiscovered Paradise
+SB: 1 [ULG:110] Rancor
+SB: 1 [AKH:125] Combat Celebrant
+SB: 1 [ULG:139] Faerie Conclave
+SB: 1 [TMP:308] Scroll Rack
+LAYOUT MAIN:(1,5)(COLOR,false,51)|([TMP:315],[GPT:164],[LRW:272],[UNH:137],[UNH:137],[UNH:137],[UNH:137],[UNH:137],[UNH:137],[UNH:137],[UNH:137],[UNH:137],[UNH:139],[UNH:139],[UNH:139],[UNH:139],[UNH:139])([NPH:1],[WTH:153],[XLN:250])([TSP:48],[XLN:48],[5DN:27],[LRW:56],[TOR:36],[EXO:35],[LEG:58],[ALL:28],[EVE:22],[TSP:66],[C15:14],[RAV:63],[LRW:88],[SOI:92],[KLD:67],[FUT:46],[BBD:1])([POR:124],[M14:163])([CNS:42])
+LAYOUT SIDEBOARD:(1,7)(CMC,false,50)|([ULG:139],[VIS:167],[MMQ:324],[FUT:177])([ZEN:36],[ULG:110])([LEB:105],[EMN:164],[XLN:248],[RIX:99],[TMP:308])([LRW:78],[PTK:113],[MBS:138],[AKH:125])([UDS:40])([AVR:166],[M13:150])([PTK:104])

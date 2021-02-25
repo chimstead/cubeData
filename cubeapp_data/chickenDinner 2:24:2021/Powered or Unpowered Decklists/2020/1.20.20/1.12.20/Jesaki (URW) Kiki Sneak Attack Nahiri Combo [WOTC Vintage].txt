@@ -1,0 +1,49 @@
+1 [KTK:36] Dig Through Time
+1 [ISD:78] Snapcaster Mage
+1 [TSP:73] Riftwing Cloudskate
+1 [APC:128] Fire // Ice
+1 [MOR:55] Vendilion Clique
+1 [GPT:32] Repeal
+1 [BBD:33] Arcane Artisan
+1 [USG:218] Sneak Attack
+1 [ORI:60] Jace, Vryn's Prodigy
+1 [ODY:193] Firebolt
+1 [NEM:30] Daze
+1 [AVR:166] Zealous Conscripts
+1 [LRW:78] Pestermite
+1 [DOM:1] Karn, Scion of Urza
+1 [CHK:175] Kiki-Jiki, Mirror Breaker
+1 [MBS:99] Blightsteel Colossus
+1 [BBD:122] Mystic Confluence
+1 [SOI:247] Nahiri, the Harbinger
+1 [M12:147] Inferno Titan
+1 [NPH:33] Deceiver Exarch
+1 [FUT:46] Venser, Shaper Savant
+1 [M15:145] Goblin Rabblemaster
+1 [NPH:35] Gitaxian Probe
+1 [LEG:303] Karakas
+1 [GRN:254] Sacred Foundry
+1 [ZEN:223] Scalding Tarn
+1 [GRN:257] Steam Vents
+1 [3ED:291] Volcanic Island
+1 [OGW:175] Needle Spires
+1 [OGW:182] Wandering Fumarole
+6 [UNH:137] Island
+4 [UNH:139] Mountain
+SB: 1 [2ED:85] Timetwister
+SB: 1 [ORI:127] Abbot of Keral Keep
+SB: 1 [FUT:101] Magus of the Moon
+SB: 1 [ORI:157] Pia and Kiran Nalaar
+SB: 1 [WWK:144] Stirring Wildwood
+SB: 1 [ICE:54] Swords to Plowshares
+SB: 1 [AVR:38] Terminus
+SB: 1 [VMA:20] Council's Judgment
+SB: 1 [CM2:4] Daretti, Scrap Savant
+SB: 1 [WWK:141] Raging Ravine
+SB: 1 [RTR:101] Mizzium Mortars
+SB: 1 [DOM:143] Siege-Gang Commander
+SB: 1 [LEG:28] Moat
+SB: 1 [5ED:249] Mana Flare
+SB: 1 [M19:152] Lightning Strike
+LAYOUT MAIN:(1,9)(CMC,false,51)|([UNH:137],[UNH:137],[UNH:137],[UNH:137],[UNH:137],[UNH:137],[UNH:139],[UNH:139],[UNH:139],[UNH:139])([LEG:303],[OGW:175],[GRN:254],[ZEN:223],[GRN:257],[3ED:291],[OGW:182])([ODY:193],[NPH:35],[GPT:32])([NEM:30],[ORI:60],[ISD:78])([BBD:33],[NPH:33],[M15:145],[LRW:78],[MOR:55])([APC:128],[DOM:1],[SOI:247],[USG:218],[FUT:46])([CHK:175],[BBD:122],[TSP:73],[AVR:166])([M12:147])([KTK:36],[MBS:99])
+LAYOUT SIDEBOARD:(1,7)(CMC,false,50)|([WWK:144],[WWK:141])([ICE:54])([ORI:127],[RTR:101],[M19:152])([2ED:85],[FUT:101],[VMA:20],[5ED:249])([ORI:157],[CM2:4],[LEG:28])([DOM:143])([AVR:38])

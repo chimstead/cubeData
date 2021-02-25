@@ -1,0 +1,51 @@
+1 [DOM:233] Thran Temporal Gateway
+1 [MMQ:162] Snuff Out
+1 [MBS:43] Go for the Throat
+1 [ROE:115] Inquisition of Kozilek
+1 [DKA:12] Lingering Souls
+1 [RNA:245] Blood Crypt
+1 [ELD:244] Fabled Passage
+1 [M12:217] Solemn Simulacrum
+1 [LEB:287] Volcanic Island
+1 [WAR:221] Teferi, Time Raveler
+1 [LEB:116] Mind Twist
+1 [EMN:93] Liliana, the Last Hope
+1 [ZEN:211] Arid Mesa
+1 [MH1:238] Fiery Islet
+1 [MH1:233] Talisman of Hierarchy
+1 [LEG:65] Mana Drain
+1 [ZEN:219] Marsh Flats
+1 [CN2:18] Palace Jailer
+1 [ROE:4] Emrakul, the Aeons Torn
+1 [MRD:255] Talisman of Indulgence
+1 [ISD:105] Liliana of the Veil
+1 [LEB:278] Badlands
+1 [M20:226] Golos, Tireless Pilgrim
+1 [THB:308] Thassa's Oracle
+1 [DTK:224] Kolaghan's Command
+1 [M12:147] Inferno Titan
+1 [IMA:240] Horizon Canopy
+1 [ICE:121] Demonic Consultation
+1 [ROE:6] Kozilek, Butcher of Truth
+1 [IKO:251] Raugrin Triome
+1 [LEB:282] Scrubland
+1 [M19:152] Lightning Strike
+1 [SOM:226] Darkslick Shores
+1 [LEB:280] Plateau
+1 [WWK:134] Creeping Tar Pit
+1 [ME2:96] Imperial Seal
+1 [LEB:292] Island
+1 [LEB:288] Plains
+1 [LEB:295] Swamp
+1 [LEB:294] Swamp
+SB: 1 [DOM:21] History of Benalia
+SB: 1 [ULG:14] Mother of Runes
+SB: 1 [CHK:163] Desperate Ritual
+SB: 1 [C18:44] Saheeli, the Gifted
+SB: 1 [BNG:5] Brimaz, King of Oreskos
+SB: 1 [EMN:46] Thalia, Heretic Cathar
+SB: 1 [LRW:139] Shriekmaw
+SB: 1 [CMA:27] Unexpectedly Absent
+SB: 1 [TOR:69] Mesmeric Fiend
+LAYOUT MAIN:(1,7)(CMC,false,69)|([ZEN:211],[LEB:278],[RNA:245],[WWK:134],[SOM:226],[ELD:244],[MH1:238],[IMA:240],[LEB:292],[ZEN:219],[LEB:288],[LEB:280],[IKO:251],[LEB:282],[LEB:295],[LEB:294],[LEB:287])([ICE:121],[ROE:115],[ME2:96])([MBS:43],[M19:152],[LEG:65],[MH1:233],[MRD:255],[THB:308],[LEB:116])([DTK:224],[ISD:105],[EMN:93],[DKA:12],[WAR:221])([MMQ:162],[M12:217],[DOM:233],[CN2:18])([M20:226])([M12:147],[ROE:6],[ROE:4])
+LAYOUT SIDEBOARD:(1,5)(COLOR,false,96)|([CHK:163])([DOM:21],[ULG:14],[BNG:5],[EMN:46],[CMA:27])([C18:44])([LRW:139])([TOR:69])

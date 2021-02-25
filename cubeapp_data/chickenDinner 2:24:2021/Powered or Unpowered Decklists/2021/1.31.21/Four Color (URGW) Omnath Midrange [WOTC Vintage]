@@ -1,0 +1,51 @@
+1 [M21:17] Faith's Fetters
+1 [GRN:258] Temple Garden
+1 [SUM:287] Taiga
+1 [THB:13] Elspeth Conquers Death
+1 [ZEN:220] Misty Rainforest
+1 [WWK:141] Raging Ravine
+1 [M20:226] Golos, Tireless Pilgrim
+1 [MH1:217] Wrenn and Six
+1 [RTR:101] Mizzium Mortars
+1 [WWK:133] Celestial Colonnade
+1 [SHM:110] Devoted Druid
+1 [WWK:108] Nature's Claim
+1 [ARB:50] Bloodbraid Elf
+1 [LEG:303] Karakas
+1 [IKO:232] Yorion, Sky Nomad
+1 [M12:165] Birds of Paradise
+1 [ZNR:39] Skyclave Apparition
+1 [KTK:233] Flooded Strand
+1 [SUM:288] Tropical Island
+1 [ZNR:232] Omnath, Locus of Creation
+1 [ZNR:16] Felidar Retreat
+1 [STH:138] Mox Diamond
+1 [KLD:249] Spirebluff Canal
+1 [MH1:244] Prismatic Vista
+1 [M12:39] Sun Titan
+1 [ZNR:161] Shatterskull Smashing
+1 [MH1:145] Seasoned Pyromancer
+1 [ZNR:12] Emeria's Call
+1 [ROE:53] Wall of Omens
+1 [ZEN:172] Oracle of Mul Daya
+1 [KTK:249] Wooded Foothills
+1 [CON:113] Knight of the Reliquary
+1 [SUM:283] Bayou
+1 [SUM:282] Badlands
+1 [GRN:213] Vraska, Golgari Queen
+1 [UST:216] Forest
+1 [UST:213] Island
+1 [UST:215] Mountain
+1 [UST:212] Plains
+1 [10E:61] Wrath of God
+SB: 1 [RAV:81] Dark Confidant
+SB: 1 [THB:221] Kroxa, Titan of Death's Hunger
+SB: 1 [SOM:169] Kuldotha Forgemaster
+SB: 1 [SOM:224] Blackcleave Cliffs
+SB: 1 [THS:188] Ashiok, Nightmare Weaver
+SB: 1 [J20:3] Spellseeker
+SB: 1 [ULG:38] Palinchron
+SB: 1 [ISD:213] Geist of Saint Traft
+SB: 1 [DGM:135] Wear // Tear
+LAYOUT MAIN:(1,8)(CMC,false,64)|([GRN:258],[SUM:287],[ZEN:220],[WWK:141],[WWK:133],[LEG:303],[KTK:233],[SUM:288],[STH:138],[KLD:249],[MH1:244],[KTK:249],[SUM:283],[SUM:282],[UST:216],[UST:213],[UST:215],[UST:212])([WWK:108],[M12:165])([MH1:217],[RTR:101],[SHM:110],[ZNR:161],[ROE:53])([ZNR:39],[CON:113],[MH1:145])([M21:17],[ARB:50],[ZNR:232],[ZNR:16],[ZEN:172],[GRN:213],[10E:61])([THB:13],[M20:226],[IKO:232])([M12:39])([ZNR:12])
+LAYOUT SIDEBOARD:(1,4)(COLOR,false,100)|([SOM:169],[SOM:224])([RAV:81])([J20:3],[ULG:38])([THB:221],[THS:188],[ISD:213],[DGM:135])

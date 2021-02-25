@@ -1,0 +1,48 @@
+1 [RTR:220] Rakdos Cackler
+1 [ISD:97] Diregraf Ghoul
+1 [KTK:66] Bloodsoaked Champion
+1 [EXO:53] Carnophage
+1 [MBS:43] Go for the Throat
+1 [XLN:110] Kitesail Freebooter
+1 [5DN:55] Night's Whisper
+1 [LEA:129] Sinkhole
+1 [EMN:85] Collective Brutality
+1 [ZEN:83] Bloodghast
+1 [KLD:235] Smuggler's Copter
+1 [WAR:98] Liliana's Triumph
+1 [MH1:100] Plague Engineer
+1 [EMN:93] Liliana, the Last Hope
+1 [THS:90] Hero's Downfall
+1 [BFZ:109] Drana, Liberator of Malakir
+1 [ELD:288] Order of Midnight
+1 [SOM:78] Skinrender
+1 [ELD:101] Rankle, Master of Pranks
+1 [OGW:86] Kalitas, Traitor of Ghet
+1 [MMQ:162] Snuff Out
+1 [NPH:19] Porcelain Legionnaire
+1 [C13:84] Ophiomancer
+1 [TMP:330] Wasteland
+1 [TMP:154] Sarcomancy
+15 [UGL:86] Swamp
+SB: 1 [MRD:255] Talisman of Indulgence
+SB: 1 [MH1:234] Talisman of Resilience
+SB: 1 [VIS:66] Nekrataal
+SB: 1 [NPH:130] Batterskull
+SB: 1 [OGW:104] Chandra, Flamecaller
+SB: 1 [WWK:139] Lavaclaw Reaches
+SB: 1 [ARB:75] Qasali Pridemage
+SB: 1 [NPH:57] Dismember
+SB: 1 [C16:18] Frenzied Fugue
+SB: 1 [GRN:213] Vraska, Golgari Queen
+SB: 1 [FRF:1] Ugin, the Spirit Dragon
+SB: 1 [RAV:280] Sacred Foundry
+SB: 1 [DIS:172] Breeding Pool
+SB: 1 [WAR:2] Ugin, the Ineffable
+SB: 1 [ORI:23] Kytheon, Hero of Akros
+SB: 1 [AKH:97] Liliana, Death's Majesty
+SB: 1 [ORI:157] Pia and Kiran Nalaar
+SB: 1 [C14:8] Hallowed Spiritkeeper
+SB: 1 [ELD:138] Robber of the Rich
+SB: 1 [MRD:146] Bonesplitter
+LAYOUT MAIN:(1,5)(CMC,false,50)|([TMP:330],[UGL:86],[UGL:86],[UGL:86],[UGL:86],[UGL:86],[UGL:86],[UGL:86],[UGL:86],[UGL:86],[UGL:86],[UGL:86],[UGL:86],[UGL:86],[UGL:86],[UGL:86])([RTR:220],[ISD:97],[KTK:66],[EXO:53],[TMP:154])([MBS:43],[XLN:110],[5DN:55],[LEA:129],[EMN:85],[ZEN:83],[KLD:235],[WAR:98],[NPH:19])([MH1:100],[EMN:93],[THS:90],[BFZ:109],[C13:84])([ELD:288],[SOM:78],[ELD:101],[OGW:86],[MMQ:162])
+LAYOUT SIDEBOARD:(1,8)(CMC,false,50)|([WWK:139],[RAV:280],[DIS:172])([ORI:23],[MRD:146])([MRD:255],[MH1:234],[ARB:75],[ELD:138])([NPH:57],[C14:8])([VIS:66],[C16:18],[GRN:213],[ORI:157])([NPH:130],[AKH:97])([OGW:104],[WAR:2])([FRF:1])

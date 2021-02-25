@@ -1,0 +1,48 @@
+1 [MH1:168] Hexdrinker
+1 [M14:169] Elvish Mystic
+1 [ROE:190] Joraga Treespeaker
+1 [6ED:239] Llanowar Elves
+1 [DST:140] Skullclamp
+1 [CON:15] Path to Exile
+1 [MRD:257] Talisman of Unity
+1 [LEG:207] Sylvan Library
+1 [THS:180] Sylvan Caryatid
+1 [EXO:129] Survival of the Fittest
+1 [M11:172] Fauna Shaman
+1 [JOU:5] Banishing Light
+1 [SOI:233] Tireless Tracker
+1 [M15:194] Reclamation Sage
+1 [OGW:138] Nissa, Voice of Zendikar
+1 [SHM:229] Kitchen Finks
+1 [ISD:181] Garruk Relentless
+1 [BFZ:29] Gideon, Ally of Zendikar
+1 [MBS:92] Thrun, the Last Troll
+1 [XLN:179] Carnage Tyrant
+1 [VIS:114] Natural Order
+1 [SHM:135] Woodfall Primus
+1 [CELD:391] Fabled Passage
+1 [ONS:316] Flooded Strand
+1 [FUT:177] Horizon Canopy
+1 [LEB:281] Savannah
+1 [ONS:330] Wooded Foothills
+1 [WWK:144] Stirring Wildwood
+1 [ZEN:229] Verdant Catacombs
+1 [ROE:21] Gideon Jura
+7 [GUR:1] Forest
+3 [GUR:4] Plains
+SB: 1 [M11:188] Obstinate Baloth
+SB: 1 [MRD:254] Talisman of Impulse
+SB: 1 [FRF:18] Mardu Woe-Reaper
+SB: 1 [LEB:285] Tundra
+SB: 1 [MH1:233] Talisman of Hierarchy
+SB: 1 [ALL:22a] Arcane Denial
+SB: 1 [SOM:81] Arc Trail
+SB: 1 [POR:124] Earthquake
+SB: 1 [CN2:71] Selvala's Stampede
+SB: 1 [XLN:1] Adanto Vanguard
+SB: 1 [ARB:75] Qasali Pridemage
+SB: 1 [M10:191] Master of the Wild Hunt
+SB: 1 [M11:168] Cultivate
+SB: 1 [ISD:170] Avacyn's Pilgrim
+LAYOUT MAIN:(1,9)(CMC,false,70)|([GUR:1],[GUR:1],[GUR:1],[GUR:1],[GUR:1],[GUR:1],[GUR:1],[GUR:4],[GUR:4],[GUR:4])([CELD:391],[ONS:316],[FUT:177],[LEB:281],[WWK:144],[ZEN:229],[ONS:330])([M14:169],[MH1:168],[ROE:190],[6ED:239],[CON:15],[DST:140])([M11:172],[EXO:129],[THS:180],[LEG:207],[MRD:257])([JOU:5],[SHM:229],[OGW:138],[M15:194],[SOI:233])([ISD:181],[BFZ:29],[VIS:114],[MBS:92])([ROE:21])([XLN:179])([SHM:135])
+LAYOUT SIDEBOARD:(1,6)(CMC,false,50)|([LEB:285])([ISD:170],[POR:124],[FRF:18])([XLN:1],[SOM:81],[ALL:22a],[ARB:75],[MH1:233],[MRD:254])([M11:168])([M10:191],[M11:188])([CN2:71])

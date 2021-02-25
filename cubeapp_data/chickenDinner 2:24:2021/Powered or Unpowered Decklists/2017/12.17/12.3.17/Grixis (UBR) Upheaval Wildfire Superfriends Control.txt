@@ -1,0 +1,33 @@
+5 Mountain
+3 Swamp
+2 Island
+1 City of Brass
+1 Creeping Tar Pit
+1 Lavaclaw Reaches
+1 Shivan Reef
+1 Steam Vents
+1 Verdant Catacombs
+1 Chrome Mox
+1 Engineered Explosives
+1 Imperial Seal
+1 Rolling Earthquake
+1 Vampiric Tutor
+1 Arc Trail
+1 Arcane Denial
+1 Coldsteel Heart
+1 Izzet Signet
+1 Orzhov Signet
+1 Talisman of Indulgence
+1 Thought Vessel
+1 Daretti, Ingenious Iconoclast
+1 Liliana, the Last Hope
+1 Chandra, Torch of Defiance
+1 Fact or Fiction
+1 Fiery Confluence
+1 Languish
+1 Ral Zarek
+1 Skinrender
+1 Solemn Simulacrum
+1 Burning of Xinye
+1 Chandra, Flamecaller
+1 Upheaval

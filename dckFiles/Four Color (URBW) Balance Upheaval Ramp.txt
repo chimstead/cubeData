@@ -1,9 +1,12 @@
+2017
+12.17
+12.3.17
 5 Island
 3 Plains
 1 Swamp
 1 Mountain
 1 Arid Mesa
-1 Grand Coliseum 
+1 Grand Coliseum
 1 Hallowed Fountain
 1 Mana Confluence
 1 Polluted Delta
@@ -19,18 +22,16 @@
 1 Orzhov Signet
 1 Pack Rat
 1 Talisman of Dominance
-1 Council’s Judgment
+1 Council's Judgment
 1 Reflector Mage
 1 Toxic Deluge
 1 Vindicate
 1 Elspeth, Knight-Errant
-1 Glen Elendra Archmarge
+1 Glen Elendra Archmage
 1 Ral Zarek
 1 Sower of Temptation
-1 Solemn Simulacrum 
+1 Solemn Simulacrum
 1 Consecrated Sphinx
 1 Upheaval
 1 Nicol Bolas, God-Pharaoh
 1 Greater Gargadon
-
-

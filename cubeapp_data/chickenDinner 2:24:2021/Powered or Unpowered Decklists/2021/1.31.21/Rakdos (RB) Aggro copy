@@ -1,0 +1,53 @@
+1 [PAKH:134] Glorybringer
+1 [MRD:187] Iron Myr
+1 [PAL03:8] Bonesplitter
+1 [PWAR:138p] Mizzium Tank
+1 [EVE:139] Figure of Destiny
+1 [PBFZ:247s] Smoldering Marsh
+1 [PHOU:90s] Earthshaker Khenra
+1 [PRIX:100p] Etali, Primal Storm
+1 [PM12:156] Stormblood Berserker
+1 [P11:3] Doom Blade
+1 [ZNR:155] Roil Eruption
+1 [F01:8] Jackal Pup
+1 [PDP10:1] Liliana Vess
+1 [THB:125] Anax, Hardened in the Forge
+1 [PORI:157] Pia and Kiran Nalaar
+1 [POGW:67s] Bearer of Silence
+1 [F17:6] Aether Hub
+1 [PWAR:194p] Dreadhorde Butcher
+1 [PM19:134s] Dark-Dweller Oracle
+1 [PEMN:204s] Hanweir Battlements
+1 [PWAR:137p] Krenko, Tin Street Kingpin
+1 [ZNR:133] Akoum Hellhound
+1 [PWP11:76] Tormented Soul
+1 [PDOM:149s] Verix Bladewing
+1 [F12:10] Evolving Wilds
+1 [PAER:75] Yahenni's Expertise
+1 [PXLN:252p] Dragonskull Summit
+1 [P09:6] Blightning
+1 [THB:247] Temple of Malice
+3 [MRD:301] Mountain
+1 [MRD:300] Mountain
+4 [MRD:299] Mountain
+1 [MRD:297] Swamp
+1 [MRD:295] Swamp
+1 [MRD:296] Swamp
+SB: 1 [PDOM:182] Steel Leaf Champion
+SB: 1 [PRNA:124s] End-Raze Forerunners
+SB: 1 [PAER:93] Quicksmith Rebel
+SB: 1 [PROE:*156] Lord of Shatterskull Pass
+SB: 1 [F06:2] Armadillo Cloak
+SB: 1 [THB:1] Alseid of Life's Bounty
+SB: 1 [P08:4] Mana Tithe
+SB: 1 [CHK:185] Ryusei, the Falling Star
+SB: 1 [PGRN:205p] Thief of Sanity
+SB: 1 [PTHS:42] Bident of Thassa
+SB: 1 [F15:2] Disdainful Stroke
+SB: 1 [PXLN:59p] Herald of Secret Streams
+SB: 1 [ELD:282] Fae of Wishes
+SB: 1 [M21:296] Teferi's Tutelage
+SB: 1 [PFRF:62] Archfiend of Depravity
+SB: 1 [PRNA:83p] Priest of Forgotten Gods
+LAYOUT MAIN:(1,7)(CMC,false,67)|([F17:6],[PXLN:252p],[F12:10],[PEMN:204s],[PBFZ:247s],[THB:247],[MRD:301],[MRD:301],[MRD:300],[MRD:301],[MRD:299],[MRD:299],[MRD:299],[MRD:299],[MRD:297],[MRD:295],[MRD:296])([ZNR:133],[PAL03:8],[EVE:139],[F01:8],[PWP11:76])([POGW:67s],[PM19:134s],[P11:3],[PWAR:194p],[PHOU:90s],[MRD:187],[ZNR:155],[PM12:156])([THB:125],[P09:6],[PWAR:137p],[PWAR:138p])([PORI:157],[PDOM:149s],[PAER:75])([PAKH:134],[PDP10:1])([PRIX:100p])
+LAYOUT SIDEBOARD:(1,6)(COLOR,false,50)|([PFRF:62],[PRNA:83p])([PTHS:42],[F15:2],[ELD:282],[PXLN:59p],[M21:296])([PRNA:124s],[PDOM:182])([PROE:*156],[PAER:93],[CHK:185])([THB:1],[P08:4])([F06:2],[PGRN:205p])

@@ -1,0 +1,49 @@
+1 [DDT:46] Goblin Rabblemaster
+1 [MH1:122] Firebolt
+1 [JR:97] Ravages of War
+1 [EMA:150] Sulfuric Vortex
+1 [VIS:79] Fireblast
+1 [IMA:140] Monastery Swiftspear
+1 [MM3:98] Hellrider
+1 [DDI:44] Koth of the Hammer
+1 [DDL:3] Figure of Destiny
+1 [BBD:171] Chain Lightning
+1 [RNA:107] Light Up the Stage
+1 [A25:5] Armageddon
+1 [GK1:28] Char
+1 [DTK:169] Zurgo Bellstriker
+1 [MM3:91] Bonfire of the Damned
+1 [A25:141] Lightning Bolt
+1 [KLD:199] Bomat Courier
+1 [AKH:136] Hazoret the Fervent
+1 [NPH:153] Shrine of Burning Rage
+1 [MH1:145] Seasoned Pyromancer
+1 [GRN:115] Runaway Steam-Kin
+1 [ORI:127] Abbot of Keral Keep
+1 [LEB:265] Mox Ruby
+1 [STH:138] Mox Diamond
+1 [KLD:246] Inspiring Vantage
+1 [MM3:229] Arid Mesa
+1 [ARN:76] Library of Alexandria
+11 [THB:253] Mountain
+1 [THB:250] Plains
+1 [MM2:109] Burst Lightning
+SB: 1 [MB1:260] Thraben Inspector
+SB: 1 [RNA:27] Tithe Taker
+SB: 1 [EMA:34] Wall of Omens
+SB: 1 [IMA:28] Restoration Angel
+SB: 1 [GNT:42] Siege-Gang Commander
+SB: 1 [WWK:20] Stoneforge Mystic
+SB: 1 [C14:8] Hallowed Spiritkeeper
+SB: 1 [ELD:171] Questing Beast
+SB: 1 [THS:90] Hero's Downfall
+SB: 1 [FRF:87] Tasigur, the Golden Fang
+SB: 1 [A25:128] Eidolon of the Great Revel
+SB: 1 [WAR:169] Nissa, Who Shakes the World
+SB: 1 [THB:169] Dryad of the Ilysian Grove
+SB: 1 [CHK:175] Kiki-Jiki, Mirror Breaker
+SB: 1 [CN2:157] Flame Slash
+SB: 1 [E01:75] Thragtusk
+SB: 1 [A25:146] Pyroclasm
+LAYOUT MAIN:(2,4)(CMC,false,57)|([THB:253],[THB:253],[THB:253],[THB:253],[THB:253],[THB:253],[THB:253],[THB:253],[THB:253],[THB:253],[THB:253])([MH1:122],[IMA:140],[DDL:3],[BBD:171],[DTK:169],[MM3:91],[A25:141],[KLD:199],[MM2:109],[RNA:107])([DDT:46],[EMA:150],[GK1:28],[MH1:145])([VIS:79])([THB:250],[LEB:265],[STH:138],[KLD:246],[MM3:229],[ARN:76])([NPH:153],[GRN:115],[ORI:127])([JR:97],[MM3:98],[DDI:44],[A25:5],[AKH:136])()
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([MB1:260],[RNA:27],[EMA:34],[IMA:28],[GNT:42],[WWK:20],[C14:8],[ELD:171],[THS:90],[FRF:87],[A25:128],[WAR:169],[THB:169],[CHK:175],[CN2:157],[E01:75],[A25:146])

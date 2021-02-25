@@ -1,0 +1,50 @@
+1 [TMP:154] Sarcomancy
+1 [TMP:330] Wasteland
+1 [MBS:43] Go for the Throat
+1 [VIS:72] Vampiric Tutor
+1 [RTR:73] Pack Rat
+1 [POR:5] Armageddon
+1 [KLD:242] Aether Hub
+1 [APC:140] Caves of Koilos
+1 [KTK:66] Bloodsoaked Champion
+1 [LEA:129] Sinkhole
+1 [EMN:40] Selfless Spirit
+1 [ZEN:229] Verdant Catacombs
+1 [LEB:116] Mind Twist
+1 [NPH:57] Dismember
+1 [VIS:167] Undiscovered Paradise
+1 [CN2:18] Palace Jailer
+1 [MMQ:162] Snuff Out
+1 [ALA:9] Elspeth, Knight-Errant
+4 [UNH:136] Plains
+1 [AER:62] Glint-Sleeve Siphoner
+1 [ISD:105] Liliana of the Veil
+6 [UNH:138] Swamp
+1 [C14:22] Flesh Carver
+1 [PTK:17] Ravages of War
+1 [MMQ:324] Rishadan Port
+1 [KLD:231] Scrapheap Scrounger
+1 [ZEN:83] Bloodghast
+1 [NEM:139] Tangle Wire
+1 [ARN:71] City of Brass
+1 [APC:126] Vindicate
+1 [USG:132] Duress
+1 [XLN:1] Adanto Vanguard
+SB: 1 [5DN:164] Vedalken Shackles
+SB: 1 [ODY:117] Braids, Cabal Minion
+SB: 1 [C13:84] Ophiomancer
+SB: 1 [SHM:23] Spectral Procession
+SB: 1 [MBS:92] Thrun, the Last Troll
+SB: 1 [APC:102] Gerrard's Verdict
+SB: 1 [KLD:4] Angel of Invention
+SB: 1 [M13:193] Thragtusk
+SB: 1 [AKH:204] Nissa, Steward of Elements
+SB: 1 [WWK:95] Arbor Elf
+SB: 1 [AKH:14] Gideon of the Trials
+SB: 1 [KLD:214] Fleetwheel Cruiser
+SB: 1 [FRF:75] Mardu Strike Leader
+SB: 1 [DKA:142] Sorin, Lord of Innistrad
+SB: 1 [ORI:83] Whirler Rogue
+SB: 1 [UNH:138] Swamp
+LAYOUT MAIN:(1,5)(CMC,false,30)|([KLD:242],[APC:140],[ARN:71],[UNH:136],[UNH:136],[UNH:136],[UNH:136],[MMQ:324],[UNH:138],[UNH:138],[UNH:138],[UNH:138],[UNH:138],[UNH:138],[VIS:167],[ZEN:229],[TMP:330])([KTK:66],[USG:132],[LEB:116],[TMP:154],[VIS:72],[MMQ:162])([XLN:1],[ZEN:83],[AER:62],[MBS:43],[RTR:73],[KLD:231],[EMN:40],[LEA:129])([NPH:57],[C14:22],[ISD:105],[NEM:139],[APC:126])([POR:5],[ALA:9],[CN2:18],[PTK:17])
+LAYOUT SIDEBOARD:(1,4)(CMC,false,50)|([KLD:214],[DKA:142],[C13:84],[UNH:138])([KLD:4],[SHM:23],[APC:102])([M13:193],[ORI:83],[MBS:92],[5DN:164],[AKH:204],[WWK:95],[AKH:14])([FRF:75],[ODY:117])

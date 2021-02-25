@@ -1,0 +1,52 @@
+1 [M13:160] Arbor Elf
+1 [2ED:48] Ancestral Recall
+1 [M12:165] Birds of Paradise
+1 [ELD:122] Embereth Shieldbreaker
+1 [CON:113] Knight of the Reliquary
+1 [MH1:217] Wrenn and Six
+1 [4ED:363] Strip Mine
+1 [M15:225] Phyrexian Revoker
+1 [RNA:246] Breeding Pool
+1 [SOI:233] Tireless Tracker
+1 [ARB:50] Bloodbraid Elf
+1 [ISD:181] Garruk Relentless
+1 [ZEN:211] Arid Mesa
+1 [MH1:244] Prismatic Vista
+1 [RAV:161] Elves of Deep Shadow
+1 [ELD:160] Gilded Goose
+1 [ZEN:172] Oracle of Mul Daya
+1 [OGW:175] Needle Spires
+1 [DKA:24] Thalia, Guardian of Thraben
+1 [ZEN:168] Lotus Cobra
+1 [KTK:249] Wooded Foothills
+1 [M19:229] Crucible of Worlds
+1 [MEDM:RA6] Dack Fayden
+1 [GRN:258] Temple Garden
+1 [ISD:170] Avacyn's Pilgrim
+1 [ZEN:219] Marsh Flats
+1 [TSP:216] Search for Tomorrow
+1 [RNA:259] Stomping Ground
+1 [DIS:133] Trygon Predator
+1 [ELD:197] Oko, Thief of Crowns
+1 [WAR:160] Finale of Devastation
+3 [UST:216] Forest
+2 [UST:213] Island
+2 [UST:215] Mountain
+1 [UST:212] Plains
+1 [PLS:60] Flametongue Kavu
+SB: 1 [MOR:55] Vendilion Clique
+SB: 1 [TSP:48] Ancestral Vision
+SB: 1 [DTK:224] Kolaghan's Command
+SB: 1 [TOR:69] Mesmeric Fiend
+SB: 1 [KLD:199] Bomat Courier
+SB: 1 [EMN:85] Collective Brutality
+SB: 1 [ZEN:114] Vampire Hexmage
+SB: 1 [UDS:124] Yavimaya Elder
+SB: 1 [ROE:12] Ulamog, the Infinite Gyre
+SB: 1 [RNA:107] Light Up the Stage
+SB: 1 [MB1:898] Daretti, Scrap Savant
+SB: 1 [WAR:185] Angrath's Rampage
+SB: 1 [APC:114] Pernicious Deed
+SB: 2 [UST:216] Forest
+LAYOUT MAIN:(1,5)(CMC,false,71)|([4ED:363],[RNA:246],[ZEN:211],[MH1:244],[OGW:175],[KTK:249],[GRN:258],[ZEN:219],[RNA:259],[UST:216],[UST:216],[UST:216],[UST:213],[UST:215],[UST:215],[UST:212],[UST:213])([M13:160],[2ED:48],[M12:165],[RAV:161],[ELD:160],[ISD:170])([MH1:217],[M15:225],[DKA:24],[ZEN:168],[WAR:160])([ELD:122],[CON:113],[SOI:233],[M19:229],[MEDM:RA6],[TSP:216],[DIS:133],[ELD:197])([ARB:50],[ISD:181],[ZEN:172],[PLS:60])
+LAYOUT SIDEBOARD:(1,6)(CMC,false,100)|([TSP:48],[UST:216],[UST:216])([KLD:199])([TOR:69],[EMN:85],[ZEN:114],[WAR:185])([MOR:55],[DTK:224],[UDS:124],[RNA:107],[APC:114])([MB1:898])([ROE:12])

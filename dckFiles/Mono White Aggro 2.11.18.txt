@@ -1,4 +1,7 @@
-1 Mishra’s Factory
+2018
+2.18
+2.11.18
+1 Mishra's Factory
 1 Scrubland
 1 Shambling Vent
 1 Flooded Strand
@@ -28,7 +31,7 @@
 1 Fleetwheel Cruiser
 1 Angel of Invention
 1 Reveillark
-1 Mishra’s Factory
+1 Mishra's Factory
 1 Scrubland
 1 Shambling Vent
 1 Flooded Strand

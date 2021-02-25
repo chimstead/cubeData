@@ -1,0 +1,50 @@
+1 [SOI:44] Thraben Inspector
+1 [XLN:22] Legion's Landing
+1 [ORI:23] Kytheon, Hero of Akros
+1 [DOM:14] Dauntless Bodyguard
+1 [ULG:14] Mother of Runes
+1 [MH1:13] Giver of Runes
+1 [DST:140] Skullclamp
+1 [CHK:19] Isamaru, Hound of Konda
+1 [ROE:47] Student of Warfare
+1 [SOI:12] Declaration in Stone
+1 [DDF:23] Journey to Nowhere
+1 [TSP:26] Knight of the Holy Nimbus
+1 [XLN:1] Adanto Vanguard
+1 [RTR:17] Precinct Captain
+1 [C13:25] Unexpectedly Absent
+1 [BOK:163] Umezawa's Jitte
+1 [DST:148] Sword of Fire and Ice
+1 [SHM:23] Spectral Procession
+1 [CN2:18] Palace Jailer
+1 [NEM:17] Parallax Wave
+1 [CM2:18] Banishing Light
+1 [C14:8] Hallowed Spiritkeeper
+1 [RNA:27] Tithe Taker
+1 [CNS:16] Council's Judgment
+1 [M14:228] Mutavault
+4 [3ED:293] Plains
+7 [3ED:294] Plains
+3 [3ED:292] Plains
+1 [MH1:21] Ranger-Captain of Eos
+SB: 1 [EMN:93] Liliana, the Last Hope
+SB: 1 [AKH:16] Glory-Bound Initiate
+SB: 1 [KLD:246] Inspiring Vantage
+SB: 1 [IMA:82] Bloodghast
+SB: 1 [C14:4] Comeuppance
+SB: 1 [EMA:210] Vindicate
+SB: 1 [ELD:344] Gadwick, the Wizened
+SB: 1 [EMA:123] Chain Lightning
+SB: 1 [WTH:46] Paradigm Shift
+SB: 1 [DDK:1] Sorin, Lord of Innistrad
+SB: 1 [RIX:21] Skymarcher Aspirant
+SB: 1 [M14:22] Imposing Sovereign
+SB: 1 [BFZ:244] Shambling Vent
+SB: 1 [DKA:64] Gravecrawler
+SB: 1 [KLD:13] Fairgrounds Warden
+SB: 1 [ALA:154] Ajani Vengeant
+SB: 1 [EVE:6] Flickerwisp
+SB: 1 [5DN:126] Grafted Wargear
+SB: 1 [3ED:289] Tundra
+LAYOUT MAIN:(1,6)(CMC,false,50)|([M14:228],[3ED:293],[3ED:294],[3ED:294],[3ED:292],[3ED:293],[3ED:294],[3ED:294],[3ED:294],[3ED:292],[3ED:294],[3ED:293],[3ED:292],[3ED:294],[3ED:293])([SOI:44],[XLN:22],[ORI:23],[DOM:14],[ULG:14],[MH1:13],[DST:140],[CHK:19],[ROE:47])([SOI:12],[DDF:23],[TSP:26],[XLN:1],[RTR:17],[C13:25],[BOK:163],[RNA:27])([DST:148],[CM2:18],[C14:8],[CNS:16],[MH1:21])([CN2:18],[NEM:17])([SHM:23])
+LAYOUT SIDEBOARD:(1,5)(CMC,false,50)|([KLD:246],[BFZ:244],[3ED:289])([EMA:123],[RIX:21],[DKA:64])([AKH:16],[IMA:82],[WTH:46],[M14:22])([EMN:93],[EMA:210],[ELD:344],[KLD:13],[EVE:6],[5DN:126])([C14:4],[DDK:1],[ALA:154])

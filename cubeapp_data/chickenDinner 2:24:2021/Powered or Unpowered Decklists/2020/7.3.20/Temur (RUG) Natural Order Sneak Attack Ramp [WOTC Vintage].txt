@@ -1,0 +1,50 @@
+1 [VIS:114] Natural Order
+1 [ZEN:172] Oracle of Mul Daya
+1 [M11:175] Garruk Wildspeaker
+1 [M12:165] Birds of Paradise
+1 [5ED:388] Mana Vault
+1 [CON:87] Noble Hierarch
+1 [UDS:118] Rofellos, Llanowar Emissary
+1 [PLC:149] Harmonize
+1 [MH1:217] Wrenn and Six
+1 [M15:173] Elvish Mystic
+1 [DKA:87] Faithless Looting
+1 [DTK:216] Dragonlord Atarka
+1 [M13:160] Arbor Elf
+1 [WWK:115] Terastodon
+1 [RNA:183] Hydroid Krasis
+1 [SOI:233] Tireless Tracker
+1 [ARB:50] Bloodbraid Elf
+1 [C16:195] Edric, Spymaster of Trest
+1 [USG:218] Sneak Attack
+1 [BNG:119] Courser of Kruphix
+1 [ULG:101] Deranged Hermit
+1 [MRD:152] Chrome Mox
+1 [ROE:190] Joraga Treespeaker
+1 [ICE:244] Fyndhorn Elves
+1 [BFZ:239] Lumbering Falls
+1 [KTK:248] Windswept Heath
+1 [LRW:272] Shelldock Isle
+1 [KTK:249] Wooded Foothills
+1 [RNA:246] Breeding Pool
+1 [THS:223] Nykthos, Shrine to Nyx
+8 [THB:254] Forest
+1 [THB:251] Island
+1 [THB:253] Mountain
+SB: 1 [SOM:224] Blackcleave Cliffs
+SB: 1 [LRW:233] Primal Command
+SB: 1 [RAV:255] Boros Signet
+SB: 1 [APC:126] Vindicate
+SB: 1 [UDS:139] Thran Dynamo
+SB: 1 [TSP:259] Lotus Bloom
+SB: 1 [MH1:75] Urza, Lord High Artificer
+SB: 1 [FEM:38a] Hymn to Tourach
+SB: 1 [GRN:205] Thief of Sanity
+SB: 1 [TMP:142] Living Death
+SB: 1 [NPH:35] Gitaxian Probe
+SB: 1 [THB:242] Field of Ruin
+SB: 1 [EVE:6] Flickerwisp
+SB: 1 [PLC:85] Damnation
+SB: 1 [CON:121] Progenitus
+LAYOUT MAIN:(2,5)(CMC,false,57)|([MRD:152],[BFZ:239],[KTK:248],[LRW:272],[KTK:249],[RNA:246],[THS:223],[THB:253],[THB:251])([M12:165],[5ED:388],[CON:87],[M15:173],[DKA:87],[M13:160],[ROE:190],[ICE:244])([SOI:233],[C16:195],[BNG:119])([ULG:101])([WWK:115])([THB:254],[THB:254],[THB:254],[THB:254],[THB:254],[THB:254],[THB:254],[THB:254])([UDS:118],[MH1:217],[RNA:183])([VIS:114],[ZEN:172],[M11:175],[PLC:149],[ARB:50],[USG:218])([DTK:216])()
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([SOM:224],[LRW:233],[RAV:255],[APC:126],[UDS:139],[TSP:259],[MH1:75],[FEM:38a],[GRN:205],[TMP:142],[NPH:35],[THB:242],[EVE:6],[PLC:85],[CON:121])

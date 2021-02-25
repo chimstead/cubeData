@@ -1,0 +1,50 @@
+1 [M11:97] Grave Titan
+1 [UDS:118] Rofellos, Llanowar Emissary
+1 [DIS:166] Simic Signet
+1 [MPS:24] Sol Ring
+1 [ROE:190] Joraga Treespeaker
+1 [WAR:169] Nissa, Who Shakes the World
+1 [ARB:92] Maelstrom Pulse
+1 [DDP:58] Vampire Nighthawk
+1 [SOM:180] Myr Battlesphere
+1 [EXO:72] Recurring Nightmare
+1 [ELD:171] Questing Beast
+1 [THB:169] Dryad of the Ilysian Grove
+1 [RAV:262] Golgari Signet
+1 [MED:118] Fyndhorn Elves
+1 [HOU:129] Ramunap Excavator
+1 [M11:172] Fauna Shaman
+1 [MH1:116] Yawgmoth, Thran Physician
+1 [PUMA:U27] Kitchen Finks
+1 [MBS:46] Massacre Wurm
+1 [LEB:84] Time Walk
+1 [C13:84] Ophiomancer
+1 [MOR:58] Bitterblossom
+1 [PUMA:U16] Eternal Witness
+1 [EXP:25] Misty Rainforest
+1 [VMA:293] Bayou
+1 [EXP:19] Wooded Foothills
+1 [OGW:171] Hissing Quagmire
+7 [THB:254] Forest
+1 [THB:251] Island
+5 [THB:252] Swamp
+SB: 1 [DTK:124] Ultimate Price
+SB: 1 [DKA:140] Huntmaster of the Fells
+SB: 1 [USG:132] Duress
+SB: 1 [C13:96] Toxic Deluge
+SB: 1 [ISD:122] Unburial Rites
+SB: 1 [LRW:88] Sower of Temptation
+SB: 1 [NEM:17] Parallax Wave
+SB: 1 [USG:228] Wildfire
+SB: 1 [UDS:117] Plow Under
+SB: 1 [MM3:13] Linvala, Keeper of Silence
+SB: 1 [ROE:47] Student of Warfare
+SB: 1 [LEG:207] Sylvan Library
+SB: 1 [THS:90] Hero's Downfall
+SB: 1 [MRD:134] Tooth and Nail
+SB: 1 [ARB:110] Sphinx of the Steel Wind
+SB: 1 [KLD:84] Gonti, Lord of Luxury
+SB: 1 [VIS:114] Natural Order
+SB: 1 [CNS:181] Terastodon
+LAYOUT MAIN:(2,5)(CMC,false,57)|([EXP:25],[EXP:19],[THB:254],[THB:254],[THB:254],[THB:254],[THB:254],[THB:254],[THB:254],[VMA:293],[OGW:171])([MPS:24],[ROE:190],[MED:118])([ARB:92],[DDP:58],[EXO:72],[THB:169],[HOU:129],[PUMA:U27],[C13:84],[PUMA:U16])([WAR:169])([SOM:180])([THB:251],[THB:252],[THB:252],[THB:252],[THB:252],[THB:252])([UDS:118],[DIS:166],[RAV:262],[M11:172],[LEB:84],[MOR:58])([ELD:171],[MH1:116])([M11:97],[MBS:46])()
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([DTK:124],[DKA:140],[USG:132],[C13:96],[ISD:122],[LRW:88],[NEM:17],[USG:228],[UDS:117],[MM3:13],[ROE:47],[LEG:207],[THS:90],[MRD:134],[ARB:110],[KLD:84],[VIS:114],[CNS:181])

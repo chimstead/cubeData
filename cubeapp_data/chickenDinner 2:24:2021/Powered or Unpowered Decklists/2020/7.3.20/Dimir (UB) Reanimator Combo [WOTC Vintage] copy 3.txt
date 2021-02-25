@@ -1,0 +1,49 @@
+1 [M20:111] Rotting Regisaur
+1 [EXO:72] Recurring Nightmare
+1 [KLD:235] Smuggler's Copter
+1 [TSP:66] Looter il-Kor
+1 [5ED:140] Animate Dead
+1 [USG:134] Exhume
+1 [6ED:161] Vampiric Tutor
+1 [MH1:199] Fallen Shinobi
+1 [HOU:145] The Scarab God
+1 [LRW:124] Makeshift Mannequin
+1 [SHM:135] Woodfall Primus
+1 [ODY:132] Entomb
+1 [TMP:151] Reanimate
+1 [ISD:105] Liliana of the Veil
+1 [MBS:46] Massacre Wurm
+1 [GRN:205] Thief of Sanity
+1 [SOM:223] Wurmcoil Engine
+1 [M13:112] Vampire Nighthawk
+1 [SOM:180] Myr Battlesphere
+1 [LRW:133] Oona's Prowler
+1 [MBS:43] Go for the Throat
+1 [WWK:31] Jace, the Mind Sculptor
+1 [MH1:75] Urza, Lord High Artificer
+1 [MB1:1603] Mana Crypt
+6 [UGL:85] Island
+10 [UGL:86] Swamp
+SB: 1 [MOR:55] Vendilion Clique
+SB: 1 [SOM:176] Mindslaver
+SB: 1 [RNA:183] Hydroid Krasis
+SB: 1 [ICE:244] Fyndhorn Elves
+SB: 1 [M19:314] Llanowar Elves
+SB: 1 [ISD:181] Garruk Relentless
+SB: 1 [KLD:84] Gonti, Lord of Luxury
+SB: 1 [DST:140] Skullclamp
+SB: 1 [M13:22] Oblivion Ring
+SB: 1 [WWK:108] Nature's Claim
+SB: 1 [JOU:94] Eidolon of the Great Revel
+SB: 1 [ELD:110] Wishclaw Talisman
+SB: 1 [TMP:183] Jackal Pup
+SB: 1 [EMA:108] Toxic Deluge
+SB: 1 [KTK:36] Dig Through Time
+SB: 1 [M11:7] Baneslayer Angel
+SB: 1 [ALA:218] Relic of Progenitus
+SB: 1 [BBD:94] Land Tax
+SB: 1 [NPH:9] Elesh Norn, Grand Cenobite
+SB: 1 [SOM:229] Seachrome Coast
+SB: 1 [SOM:224] Blackcleave Cliffs
+LAYOUT MAIN:(2,5)(CMC,false,52)|([UGL:86],[UGL:86],[UGL:86],[UGL:86],[UGL:86],[UGL:86],[UGL:86],[UGL:86],[UGL:86],[UGL:86])([6ED:161],[ODY:132],[TMP:151])([M20:111],[EXO:72],[ISD:105],[GRN:205],[M13:112])([MH1:199],[HOU:145])([SOM:180])([MB1:1603],[UGL:85],[UGL:85],[UGL:85],[UGL:85],[UGL:85],[UGL:85])([KLD:235],[TSP:66],[5ED:140],[USG:134],[LRW:133],[MBS:43])([LRW:124],[WWK:31],[MH1:75])([MBS:46],[SOM:223])([SHM:135])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([M11:7],[SOM:224],[KTK:36],[JOU:94],[NPH:9],[ICE:244],[ISD:181],[KLD:84],[RNA:183],[TMP:183],[BBD:94],[M19:314],[SOM:176],[WWK:108],[M13:22],[ALA:218],[SOM:229],[DST:140],[EMA:108],[MOR:55],[ELD:110])

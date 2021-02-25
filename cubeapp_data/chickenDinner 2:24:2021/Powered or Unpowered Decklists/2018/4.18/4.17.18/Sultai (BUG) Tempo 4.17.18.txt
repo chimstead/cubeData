@@ -1,0 +1,32 @@
+4 Forest
+3 Island
+4 Swamp
+1 Verdant Catacombs
+1 Underground Sea
+1 Breeding Pool
+1 Overgrown Tomb
+1 Tropical Island
+1 Duress
+1 Inquisition of Kozilek
+1 Spell Pierce
+1 Nature's Claim
+1 Mental Misstep
+1 Arbor Elf
+1 Fatal Push
+1 Baleful Strix
+1 Demonic Tutor
+1 Hymn to Tourach
+1 Ultimate Price
+1 Remand
+1 Sylvan Caryatid
+1 Brain Maggot
+1 Edric, Spymaster of Trest
+1 Leovold, Emissary of Trest
+1 Painful Truths
+1 Shardless Agent
+1 Eternal Witness
+1 Mystic Snake
+1 Mystic Confluence
+1 Vraska, Relic Seeker
+1 Tasigur, the Golden Fang
+1 Treasure Cruise

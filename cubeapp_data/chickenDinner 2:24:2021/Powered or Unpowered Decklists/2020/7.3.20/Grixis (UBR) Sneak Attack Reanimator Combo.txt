@@ -1,0 +1,54 @@
+1 [P02:46] Sleight of Hand
+1 [C16:56] Ash Barrens
+1 [TMP:151] Reanimate
+1 [APC:130] Life // Death
+1 [LEB:278] Badlands
+1 [CHK:268] Sensei's Divining Top
+1 [HOU:145] The Scarab God
+1 [NPH:57] Dismember
+1 [NPH:9] Elesh Norn, Grand Cenobite
+1 [LRW:145] Thoughtseize
+1 [LRW:133] Oona's Prowler
+1 [SHM:135] Woodfall Primus
+1 [USG:218] Sneak Attack
+1 [MH1:238] Fiery Islet
+1 [XLN:48] Chart a Course
+1 [DTK:248] Evolving Wilds
+1 [LRW:139] Shriekmaw
+1 [PTK:78] Imperial Seal
+1 [AVR:106] Griselbrand
+1 [ONS:321] Polluted Delta
+1 [USG:134] Exhume
+1 [LEB:116] Mind Twist
+1 [ORI:60] Jace, Vryn's Prodigy
+1 [TSP:66] Looter il-Kor
+1 [6ED:328] Sulfurous Springs
+1 [ODY:132] Entomb
+1 [LEB:286] Underground Sea
+1 [LEA:92] Animate Dead
+1 [C13:96] Toxic Deluge
+1 [ISD:105] Liliana of the Veil
+1 [MH1:233] Talisman of Hierarchy
+1 [BFZ:258] Island
+1 [BFZ:257] Island
+1 [BFZ:268] Mountain
+2 [BFZ:263] Swamp
+1 [BFZ:262] Swamp
+2 [BFZ:264] Swamp
+1 [BFZ:261] Swamp
+SB: 1 [AER:62] Glint-Sleeve Siphoner
+SB: 1 [ODY:283] Wild Mongrel
+SB: 1 [ODY:117] Braids, Cabal Minion
+SB: 1 [TMP:128] Diabolic Edict
+SB: 1 [RTR:172] Izzet Charm
+SB: 1 [RTR:73] Pack Rat
+SB: 1 [WWK:123] Everflowing Chalice
+SB: 1 [ORI:105] Languish
+SB: 1 [CON:30] Inkwell Leviathan
+SB: 1 [EMN:93] Liliana, the Last Hope
+SB: 1 [STH:36] Mana Leak
+SB: 1 [THB:83] Agonizing Remorse
+SB: 1 [WAR:61] Narset, Parter of Veils
+SB: 1 [BFZ:239] Lumbering Falls
+LAYOUT MAIN:(1,7)(CMC,false,50)|([C16:56],[LEB:278],[MH1:238],[DTK:248],[ONS:321],[6ED:328],[LEB:286],[BFZ:258],[BFZ:257],[BFZ:268],[BFZ:263],[BFZ:263],[BFZ:262],[BFZ:264],[BFZ:264],[BFZ:261])([P02:46],[TMP:151],[CHK:268],[LRW:145],[PTK:78],[LEB:116],[ODY:132],[NPH:57])([LRW:133],[XLN:48],[USG:134],[ORI:60],[TSP:66],[LEA:92],[MH1:233],[APC:130])([C13:96],[ISD:105])([USG:218])([HOU:145],[LRW:139])([NPH:9],[AVR:106],[SHM:135])
+LAYOUT SIDEBOARD:(1,6)(COLOR,false,50)|([WWK:123],[BFZ:239])([AER:62],[ODY:117],[TMP:128],[RTR:73],[ORI:105],[EMN:93],[THB:83])([STH:36],[WAR:61])([ODY:283])([RTR:172])([CON:30])

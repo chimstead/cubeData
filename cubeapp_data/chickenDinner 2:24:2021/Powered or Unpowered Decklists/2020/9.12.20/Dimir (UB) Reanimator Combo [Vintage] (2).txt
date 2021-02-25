@@ -1,0 +1,56 @@
+1 [M10:68] Ponder
+1 [MMA:174] Woodfall Primus
+1 [2ED:93] Animate Dead
+1 [EMN:93] Liliana, the Last Hope
+1 [ODY:70] Careful Study
+1 [AVR:106] Griselbrand
+1 [SOI:116] Heir of Falkenrath
+1 [THS:90] Hero's Downfall
+1 [TOR:77] Putrid Imp
+1 [3ED:54] Counterspell
+1 [BBD:136] True-Name Nemesis
+1 [3ED:105] Demonic Tutor
+1 [USG:134] Exhume
+1 [PD3:14] Entomb
+1 [VIS:64] Necromancy
+1 [MM2:67] Vendilion Clique
+1 [EMA:225] Mana Crypt
+1 [THS:187] Ashen Rider
+1 [UMA:110] Reanimate
+1 [ICE:118] Dance of the Dead
+1 [CM2:109] Inferno Titan
+1 [MM3:50] Snapcaster Mage
+1 [IMA:110] Thoughtseize
+1 [ONS:321] Polluted Delta
+1 [RAV:286] Watery Grave
+2 [M10:235] Island
+2 [M10:236] Island
+2 [M10:234] Island
+1 [M10:241] Swamp
+3 [M10:239] Swamp
+1 [M10:240] Swamp
+3 [M10:238] Swamp
+1 [DDQ:37] Island
+SB: 1 [ZEN:126] Goblin Guide
+SB: 1 [A25:192] Utopia Sprawl
+SB: 1 [ISD:181] Garruk Relentless
+SB: 1 [7ED:92] Opposition
+SB: 1 [ROE:190] Joraga Treespeaker
+SB: 1 [MH1:249] Waterlogged Grove
+SB: 1 [C18:165] Wild Growth
+SB: 1 [THB:14] Elspeth, Sun's Nemesis
+SB: 1 [DDU:35] Goblin Welder
+SB: 1 [CON:87] Noble Hierarch
+SB: 1 [RNA:186] Kaya, Orzhov Usurper
+SB: 1 [3ED:187] Birds of Paradise
+SB: 1 [GTC:245] Sacred Foundry
+SB: 1 [C20:112] Hieroglyphic Illumination
+SB: 1 [CM1:17] Sylvan Library
+SB: 1 [LRW:124] Makeshift Mannequin
+SB: 1 [C18:159] Reclamation Sage
+SB: 1 [M12:182] Llanowar Elves
+SB: 1 [EMA:169] Green Sun's Zenith
+SB: 1 [M10:240] Swamp
+SB: 1 [ULG:126] Grim Monolith
+LAYOUT MAIN:(1,5)(CMC,false,74)|([EMA:225],[ONS:321],[RAV:286],[M10:236],[M10:235],[M10:236],[DDQ:37],[M10:234],[M10:235],[M10:234],[M10:241],[M10:239],[M10:240],[M10:238],[M10:239],[M10:239],[M10:238],[M10:238])([M10:68],[ODY:70],[TOR:77],[PD3:14],[UMA:110],[IMA:110])([2ED:93],[SOI:116],[3ED:54],[3ED:105],[USG:134],[ICE:118],[MM3:50])([EMN:93],[THS:90],[BBD:136],[VIS:64],[MM2:67])([MMA:174],[AVR:106],[THS:187],[CM2:109])
+LAYOUT SIDEBOARD:(1,1)(COLOR,false,88)|([MH1:249],[GTC:245],[M10:240],[A25:192],[ISD:181],[ROE:190],[C18:165],[CON:87],[3ED:187],[CM1:17],[C18:159],[M12:182],[EMA:169],[LRW:124],[7ED:92],[C20:112],[ZEN:126],[DDU:35],[THB:14],[RNA:186],[ULG:126])

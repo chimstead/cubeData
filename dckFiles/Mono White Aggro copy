@@ -1,0 +1,52 @@
+2021
+1.31.21
+1 [VMA:37] Parallax Wave
+1 [MBS:8] Hero of Bladehold
+1 [IKO:21] Luminous Broodmoth
+1 [NPH:19] Porcelain Legionnaire
+1 [ZNR:322] Skyclave Apparition
+1 [M13:22] Oblivion Ring
+1 [MH1:37] Winds of Abandon
+1 [KLD:231] Scrapheap Scrounger
+1 [XLN:1] Adanto Vanguard
+1 [MBS:1] Accorder Paladin
+1 [MBS:122] Phyrexian Revoker
+1 [DKA:24] Thalia, Guardian of Thraben
+1 [KLD:235] Smuggler's Copter
+1 [CMD:17] Journey to Nowhere
+1 [CON:15] Path to Exile
+1 [C20:251] Skullclamp
+1 [V17:13] Kytheon, Hero of Akros
+1 [DOM:14] Dauntless Bodyguard
+1 [RIX:21] Skymarcher Aspirant
+1 [CHK:19] Isamaru, Hound of Konda
+1 [MH1:13] Giver of Runes
+1 [DTK:36] Secure the Wastes
+1 [AER:181] Walking Ballista
+1 [ELD:235] Stonecoil Serpent
+1 [MRD:152] Chrome Mox
+1 [VMA:316] Strip Mine
+1 [USG:321] Gaea's Cradle
+1 [KTK:248] Windswept Heath
+1 [VMA:289] Ancient Tomb
+1 [VMA:313] Scrubland
+1 [M14:228] Mutavault
+3 [3ED:294] Plains
+3 [3ED:293] Plains
+3 [3ED:292] Plains
+SB: 1 [SHM:229] Kitchen Finks
+SB: 1 [BBD:94] Land Tax
+SB: 1 [ELD:241] Castle Locthwain
+SB: 1 [A25:219] Vindicate
+SB: 1 [C15:26] Fiery Confluence
+SB: 1 [M19:196] Reclamation Sage
+SB: 1 [KTK:97] Arc Lightning
+SB: 1 [V13:8] Tangle Wire
+SB: 1 [M21:224] Radha, Heart of Keld
+SB: 1 [C13:84] Ophiomancer
+SB: 1 [RNA:122] Biogenic Ooze
+SB: 1 [MM2:75] Dark Confidant
+SB: 1 [DTK:224] Kolaghan's Command
+SB: 1 [EMA:177] Natural Order
+LAYOUT MAIN:(1,5)(CMC,false,50)|([AER:181],[ELD:235],[MRD:152],[VMA:316],[USG:321],[KTK:248],[VMA:289],[VMA:313],[M14:228],[3ED:294],[3ED:293],[3ED:292],[3ED:294],[3ED:293],[3ED:292],[3ED:294],[3ED:292],[3ED:293])([CON:15],[C20:251],[V17:13],[DOM:14],[RIX:21],[CHK:19],[MH1:13],[DTK:36])([MH1:37],[KLD:231],[XLN:1],[MBS:1],[MBS:122],[DKA:24],[KLD:235],[CMD:17])([NPH:19],[ZNR:322],[M13:22])([VMA:37],[MBS:8],[IKO:21])
+LAYOUT SIDEBOARD:(1,6)(CMC,false,50)|([ELD:241])([BBD:94])([MM2:75])([SHM:229],[A25:219],[M19:196],[KTK:97],[V13:8],[M21:224],[C13:84],[DTK:224])([C15:26],[EMA:177])([RNA:122])

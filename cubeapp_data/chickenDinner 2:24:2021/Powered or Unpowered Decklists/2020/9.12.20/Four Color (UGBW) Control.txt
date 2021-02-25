@@ -1,0 +1,50 @@
+1 [LEG:58] Force Spike
+1 [MMQ:61] Brainstorm
+1 [ZEN:67] Spell Pierce
+1 [CON:15] Path to Exile
+1 [5DN:118] Engineered Explosives
+1 [STH:36] Mana Leak
+1 [ALL:22a] Arcane Denial
+1 [ZEN:14] Journey to Nowhere
+1 [MH1:232] Talisman of Curiosity
+1 [MRD:257] Talisman of Unity
+1 [LEA:214] Regrowth
+1 [TSB:6] Disenchant
+1 [ELD:197] Oko, Thief of Crowns
+1 [LRW:34] Oblivion Ring
+1 [ZEN:9] Day of Judgment
+1 [DOM:1] Karn, Scion of Urza
+1 [BFZ:29] Gideon, Ally of Zendikar
+1 [MMQ:62] Bribery
+1 [THS:9] Elspeth, Sun's Champion
+1 [SOI:5] Archangel Avacyn
+1 [M21:348] Barrin, Tolarian Archmage
+1 [MRD:253] Talisman of Dominance
+1 [MIR:326] Flood Plain
+1 [ZEN:211] Arid Mesa
+1 [C16:56] Ash Barrens
+1 [DTK:248] Evolving Wilds
+1 [LEB:281] Savannah
+1 [WWK:133] Celestial Colonnade
+1 [IKO:259] Zagoth Triome
+1 [ONS:316] Flooded Strand
+1 [IKO:250] Ketria Triome
+1 [RAV:284] Temple Garden
+1 [LEB:282] Scrubland
+1 [MRD:152] Chrome Mox
+1 [GUR:1] Forest
+2 [GUR:2] Island
+2 [GUR:4] Plains
+1 [GRN:152] Assassin's Trophy
+SB: 1 [CN2:58] Subterranean Tremors
+SB: 1 [M21:150] Heartfire Immolator
+SB: 1 [M21:34] Seasoned Hallowblade
+SB: 1 [WWK:123] Everflowing Chalice
+SB: 1 [5DN:73] Magma Jet
+SB: 1 [ULG:143] Treetop Village
+SB: 1 [M21:193] Llanowar Visionary
+SB: 1 [RIX:111] Rekindling Phoenix
+SB: 1 [TSP:161] Greater Gargadon
+SB: 1 [ORI:229] Hangarback Walker
+LAYOUT MAIN:(1,8)(CMC,false,73)|([GUR:1],[GUR:2],[GUR:2],[GUR:4],[GUR:4])([ZEN:211],[C16:56],[WWK:133],[DTK:248],[MIR:326],[ONS:316],[IKO:250],[LEB:281],[LEB:282],[RAV:284],[IKO:259])([5DN:118],[MRD:152],[MMQ:61],[LEG:58],[CON:15],[ZEN:67])([ALL:22a],[GRN:152],[TSB:6],[ZEN:14],[STH:36],[LEA:214],[MH1:232],[MRD:253],[MRD:257])([M21:348],[LRW:34],[ELD:197])([ZEN:9],[BFZ:29],[DOM:1])([SOI:5],[MMQ:62])([THS:9])
+LAYOUT SIDEBOARD:(1,6)(CMC,false,70)|([WWK:123],[ULG:143],[ORI:229])([CN2:58])([M21:150],[M21:34],[5DN:73])([M21:193])([RIX:111])([TSP:161])

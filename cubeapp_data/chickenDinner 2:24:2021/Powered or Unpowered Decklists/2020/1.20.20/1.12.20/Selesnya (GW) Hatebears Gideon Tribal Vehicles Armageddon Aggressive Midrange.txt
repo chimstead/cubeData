@@ -1,0 +1,49 @@
+1 [STH:138] Mox Diamond
+1 [MH1:168] Hexdrinker
+1 [6ED:217] Birds of Paradise
+1 [FRF:143] Warden of the First Tree
+1 [MH1:13] Giver of Runes
+1 [ICE:54] Swords to Plowshares
+1 [M11:172] Fauna Shaman
+1 [ARB:75] Qasali Pridemage
+1 [KLD:235] Smuggler's Copter
+1 [BOK:163] Umezawa's Jitte
+1 [C13:25] Unexpectedly Absent
+1 [GRN:183] Knight of Autumn
+1 [WAR:13] Gideon Blackblade
+1 [AKH:14] Gideon of the Trials
+1 [SHM:229] Kitchen Finks
+1 [JOU:5] Banishing Light
+1 [BFZ:29] Gideon, Ally of Zendikar
+1 [P02:12] Armageddon
+1 [MBS:92] Thrun, the Last Troll
+1 [KLD:214] Fleetwheel Cruiser
+1 [MH1:26] Serra the Benevolent
+1 [CNS:16] Council's Judgment
+1 [LRW:34] Oblivion Ring
+1 [LEB:281] Savannah
+1 [JOU:163] Mana Confluence
+7 [GUR:1] Forest
+8 [GUR:4] Plains
+SB: 1 [MH1:234] Talisman of Resilience
+SB: 1 [FUT:161] Coalition Relic
+SB: 1 [USG:321] Gaea's Cradle
+SB: 1 [M19:33] Remorseful Cleric
+SB: 1 [DST:149] Sword of Light and Shadow
+SB: 1 [PLC:25] Mana Tithe
+SB: 1 [ZEN:116] Vampire Nighthawk
+SB: 1 [ONS:28] Exalted Angel
+SB: 1 [DKA:24] Thalia, Guardian of Thraben
+SB: 1 [GPT:157] Godless Shrine
+SB: 1 [ELD:35] Venerable Knight
+SB: 1 [SCG:12] Eternal Dragon
+SB: 1 [DTK:36] Secure the Wastes
+SB: 1 [MIR:184] Incinerate
+SB: 1 [ULG:139] Faerie Conclave
+SB: 1 [M20:68] Mu Yanling, Sky Dancer
+SB: 1 [SOI:5] Archangel Avacyn
+SB: 1 [MBS:8] Hero of Bladehold
+SB: 1 [SHM:23] Spectral Procession
+SB: 1 [M20:185] Nightpack Ambusher
+LAYOUT MAIN:(1,6)(CMC,false,77)|([GUR:1],[GUR:1],[GUR:1],[GUR:1],[GUR:1],[GUR:1],[GUR:1],[GUR:4],[GUR:4],[GUR:4],[GUR:4],[GUR:4],[GUR:4],[GUR:4],[GUR:4])([JOU:163],[LEB:281])([STH:138],[6ED:217],[MH1:13],[MH1:168],[ICE:54],[FRF:143])([M11:172],[ARB:75],[KLD:235],[BOK:163],[C13:25])([JOU:5],[CNS:16],[WAR:13],[AKH:14],[SHM:229],[GRN:183],[LRW:34])([P02:12],[KLD:214],[BFZ:29],[MH1:26],[MBS:92])
+LAYOUT SIDEBOARD:(1,8)(CMC,false,70)|([USG:321],[GPT:157],[ULG:139])([PLC:25],[ELD:35],[DTK:36])([MH1:234],[M19:33],[DKA:24],[MIR:184])([FUT:161],[DST:149],[ZEN:116],[M20:68])([M20:185])([SOI:5],[MBS:8])([ONS:28],[SHM:23])([SCG:12])

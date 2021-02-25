@@ -1,0 +1,50 @@
+1 [KTK:248] Windswept Heath
+1 [MH1:249] Waterlogged Grove
+1 [KTK:239] Polluted Delta
+1 [GRN:253] Overgrown Tomb
+1 [VMA:293] Bayou
+1 [GK2:82] Birds of Paradise
+1 [PUMA:U12] Reanimate
+1 [RAV:161] Elves of Deep Shadow
+1 [EMA:92] Hymn to Tourach
+1 [EMN:85] Collective Brutality
+1 [LRW:133] Oona's Prowler
+1 [C17:114] Go for the Throat
+1 [MM2:75] Dark Confidant
+1 [EMA:78] Animate Dead
+1 [V17:12a] Jace, Vryn's Prodigy
+1 [LEB:84] Time Walk
+1 [RTR:73] Pack Rat
+1 [GRN:152] Assassin's Trophy
+1 [UMA:202] Leovold, Emissary of Trest
+1 [VIS:64] Necromancy
+1 [C16:195] Edric, Spymaster of Trest
+1 [DDJ:77] Life // Death
+1 [C18:159] Reclamation Sage
+1 [EMA:108] Toxic Deluge
+1 [ELD:171] Questing Beast
+1 [KLD:84] Gonti, Lord of Luxury
+1 [M15:178] Hornet Queen
+1 [UMA:195] Woodfall Primus
+4 [THB:254] Forest
+1 [THB:251] Island
+6 [THB:252] Swamp
+1 [OGW:138] Nissa, Voice of Zendikar
+SB: 1 [BBD:110] Swords to Plowshares
+SB: 1 [BBD:136] True-Name Nemesis
+SB: 1 [IMA:190] Wall of Roots
+SB: 1 [MB1:53] Champion of the Parish
+SB: 1 [A25:104] Ravenous Chupacabra
+SB: 1 [DDQ:59] Gravecrawler
+SB: 1 [IMA:28] Restoration Angel
+SB: 1 [ELD:35] Venerable Knight
+SB: 1 [THB:148] Phoenix of Ash
+SB: 1 [AKH:134] Glorybringer
+SB: 1 [M20:200] Voracious Hydra
+SB: 1 [DDS:15] Empty the Warrens
+SB: 1 [ELD:101] Rankle, Master of Pranks
+SB: 1 [AKH:97] Liliana, Death's Majesty
+SB: 1 [MM3:63] Damnation
+SB: 1 [AKH:175] Manglehorn
+LAYOUT MAIN:(1,7)(CMC,false,65)|([KTK:248],[MH1:249],[KTK:239],[GRN:253],[VMA:293],[THB:254],[THB:254],[THB:254],[THB:254],[THB:251],[THB:252],[THB:252],[THB:252],[THB:252],[THB:252],[THB:252])([GK2:82],[PUMA:U12],[RAV:161])([EMA:92],[EMN:85],[LRW:133],[C17:114],[MM2:75],[EMA:78],[V17:12a],[LEB:84],[RTR:73],[GRN:152])([UMA:202],[VIS:64],[C16:195],[DDJ:77],[C18:159],[EMA:108],[OGW:138])([ELD:171],[KLD:84])([M15:178])([UMA:195])
+LAYOUT SIDEBOARD:(1,5)(CMC,false,64)|([BBD:110],[MB1:53],[DDQ:59],[ELD:35])([IMA:190],[M20:200])([BBD:136],[THB:148],[AKH:175])([A25:104],[IMA:28],[DDS:15],[ELD:101],[MM3:63])([AKH:134],[AKH:97])

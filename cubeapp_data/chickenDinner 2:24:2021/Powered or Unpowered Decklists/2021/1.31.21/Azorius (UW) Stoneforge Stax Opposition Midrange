@@ -1,0 +1,49 @@
+1 [STH:138] Mox Diamond
+1 [MH1:13] Giver of Runes
+1 [6ED:19] Enlightened Tutor
+1 [CON:15] Path to Exile
+1 [ULG:14] Mother of Runes
+1 [BOK:163] Umezawa's Jitte
+1 [2ED:84] Time Walk
+1 [XLN:1] Adanto Vanguard
+1 [WWK:20] Stoneforge Mystic
+1 [DST:148] Sword of Fire and Ice
+1 [M11:58] Jace Beleren
+1 [EVE:6] Flickerwisp
+1 [LRW:88] Sower of Temptation
+1 [INV:57] Fact or Fiction
+1 [ALA:9] Elspeth, Knight-Errant
+1 [USG:309] Smokestack
+1 [FUT:46] Venser, Shaper Savant
+1 [4ED:64] Control Magic
+1 [7ED:92] Opposition
+1 [THS:9] Elspeth, Sun's Champion
+1 [IKO:319] Shark Typhoon
+1 [2ED:264] Mox Pearl
+1 [2ED:266] Mox Sapphire
+1 [ELD:235] Stonecoil Serpent
+1 [ZEN:211] Arid Mesa
+1 [KTK:248] Windswept Heath
+1 [SUM:289] Tundra
+1 [ZEN:223] Scalding Tarn
+1 [SOM:229] Seachrome Coast
+1 [M14:228] Mutavault
+1 [TSP:48] Ancestral Vision
+4 [PGRU:2] Island
+5 [PGRU:1] Plains
+SB: 1 [J15:4] Ravages of War
+SB: 1 [C13:84] Ophiomancer
+SB: 1 [ODY:113] Upheaval
+SB: 1 [ARN:70] Bazaar of Baghdad
+SB: 1 [ELD:342] Emry, Lurker of the Loch
+SB: 1 [2XM:131] Imperial Recruiter
+SB: 1 [LRW:133] Oona's Prowler
+SB: 1 [GRN:208] Trostani Discordant
+SB: 1 [BFZ:239] Lumbering Falls
+SB: 1 [THB:229] Uro, Titan of Nature's Wrath
+SB: 1 [DKA:87] Faithless Looting
+SB: 1 [EVE:139] Figure of Destiny
+SB: 1 [M12:55] Frost Titan
+SB: 1 [PLC:25] Mana Tithe
+LAYOUT MAIN:(1,7)(CMC,false,87)|([PGRU:2],[PGRU:2],[PGRU:2],[PGRU:2],[PGRU:1],[PGRU:1],[PGRU:1],[PGRU:1],[PGRU:1])([ZEN:211],[M14:228],[ZEN:223],[SOM:229],[SUM:289],[KTK:248])([STH:138],[2ED:266],[2ED:264],[TSP:48],[6ED:19],[MH1:13],[ULG:14],[CON:15],[ELD:235])([XLN:1],[WWK:20],[2ED:84],[BOK:163])([EVE:6],[M11:58],[DST:148])([4ED:64],[ALA:9],[INV:57],[7ED:92],[USG:309],[LRW:88],[FUT:46])([THS:9],[IKO:319])
+LAYOUT SIDEBOARD:(1,7)(CMC,false,81)|([ARN:70],[BFZ:239])([DKA:87],[EVE:139],[PLC:25])([LRW:133])([C13:84],[ELD:342],[2XM:131],[THB:229])([J15:4])([GRN:208])([ODY:113],[M12:55])

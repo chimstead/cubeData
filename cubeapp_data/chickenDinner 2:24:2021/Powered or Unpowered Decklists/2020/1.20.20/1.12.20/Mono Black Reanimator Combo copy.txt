@@ -1,0 +1,50 @@
+1 [NPH:19] Porcelain Legionnaire
+1 [C14:250] Mind Stone
+1 [MH1:238] Fiery Islet
+1 [KTK:106] Crater's Claws
+1 [RNA:99] Electrodominance
+1 [RTR:98] Guttersnipe
+1 [A25:128] Eidolon of the Great Revel
+1 [THS:122] Firedrinker Satyr
+1 [GRN:113] Risk Factor
+1 [M12:145] Grim Lavamancer
+1 [WAR:145] Spellgorger Weird
+1 [EMA:139] Mogg War Marshal
+1 [M13:147] Searing Spear
+1 [M13:150] Thundermaw Hellkite
+1 [MH1:247] Sunbaked Canyon
+1 [EMN:123] Collective Defiance
+1 [M12:146] Incinerate
+1 [THS:128] Magma Jet
+1 [M19:152] Lightning Strike
+1 [IMA:137] Kiln Fiend
+1 [WAR:133] Ilharg, the Raze-Boar
+1 [M11:149] Lightning Bolt
+1 [DDI:44] Koth of the Hammer
+1 [NPH:153] Shrine of Burning Rage
+1 [IMA:140] Monastery Swiftspear
+4 [3ED:303] Mountain
+6 [3ED:302] Mountain
+5 [3ED:301] Mountain
+SB: 1 [CNS:42] Dack Fayden
+SB: 1 [RTR:247] Steam Vents
+SB: 1 [MH1:243] Nurturing Peatland
+SB: 1 [XLN:48] Chart a Course
+SB: 1 [C14:230] Bosh, Iron Golem
+SB: 1 [GTC:247] Stomping Ground
+SB: 1 [MM3:55] Venser, Shaper Savant
+SB: 1 [HOU:139] The Locust God
+SB: 1 [AER:31] Disallow
+SB: 1 [C16:305] Karplusan Forest
+SB: 1 [WAR:168] New Horizons
+SB: 1 [THS:112] Anger of the Gods
+SB: 1 [MMA:179] Lightning Helix
+SB: 1 [SOI:92] Thing in the Ice
+SB: 1 [C13:179] Boros Charm
+SB: 1 [MM3:46] Phantasmal Image
+SB: 1 [WWK:144] Stirring Wildwood
+SB: 1 [EMA:241] Maze of Ith
+SB: 1 [MM3:244] Scalding Tarn
+SB: 1 [XLN:250] Treasure Map
+LAYOUT MAIN:(2,6)(CMC,true,62)|([MH1:238],[MH1:247],[3ED:303],[3ED:302],[3ED:303],[3ED:303],[3ED:301])([THS:122],[M12:145],[IMA:140])([A25:128],[EMA:139],[IMA:137])([NPH:19],[RTR:98],[WAR:145])()([M13:150],[WAR:133])([3ED:301],[3ED:302],[3ED:303],[3ED:302],[3ED:301],[3ED:302],[3ED:302],[3ED:301],[3ED:302],[3ED:301])([KTK:106],[M11:149])([C14:250],[RNA:99],[M13:147],[M12:146],[THS:128],[M19:152],[NPH:153])([GRN:113],[EMN:123])([DDI:44])()
+LAYOUT SIDEBOARD:(1,4)(COLOR,false,64)|([C14:230],[C16:305],[EMA:241],[MH1:243],[MM3:244],[RTR:247],[WWK:144],[GTC:247])([XLN:48],[AER:31],[MM3:46],[SOI:92],[MM3:55],[HOU:139],[CNS:42])([THS:112],[C13:179],[MMA:179],[WAR:168])([XLN:250])

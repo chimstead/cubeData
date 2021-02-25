@@ -1,3 +1,6 @@
+2017
+12.17
+12.3.17
 4 Plains
 4 Swamp
 1 Aether Hub
@@ -6,7 +9,7 @@
 1 Marsh Flats
 1 Rishadan Port
 1 Shambling Vent
-1 Strip Mine 
+1 Strip Mine
 1 Chrome Mox
 1 Mox Diamond
 1 Bloodsoaked Champion
@@ -25,11 +28,10 @@
 1 Dark Confidant
 1 Scrapheap Scrounger
 1 Winter Orb
-1 Council’s Judgment
+1 Council's Judgment
 1 Drana, Liberator of Malakir
 1 Gideon of the Trials
 1 Lingering Souls
 1 Sword of Fire and Ice
 1 Braids, Cabal Minion
-1 Parallax Wave 
-
+1 Parallax Wave

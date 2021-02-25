@@ -1,0 +1,54 @@
+1 [3ED:105] Demonic Tutor
+1 [ODY:132] Entomb
+1 [MBS:46] Massacre Wurm
+1 [4ED:34] Land Tax
+1 [GRN:213] Vraska, Golgari Queen
+1 [M11:172] Fauna Shaman
+1 [TMP:151] Reanimate
+1 [ZEN:172] Oracle of Mul Daya
+1 [RIX:82] Ravenous Chupacabra
+1 [RAV:262] Golgari Signet
+1 [ISD:122] Unburial Rites
+1 [M12:98] Grave Titan
+1 [CON:15] Path to Exile
+1 [SOI:242] Anguished Unmaking
+1 [APC:126] Vindicate
+1 [5ED:140] Animate Dead
+1 [EMN:85] Collective Brutality
+1 [6ED:19] Enlightened Tutor
+1 [RTR:73] Pack Rat
+1 [GRN:183] Knight of Autumn
+1 [NPH:73] Sheoldred, Whispering One
+1 [RAV:161] Elves of Deep Shadow
+1 [CHK:225] Kodama's Reach
+1 [2ED:264] Mox Pearl
+1 [3ED:286] Scrubland
+1 [3ED:283] Bayou
+2 [3ED:305] Forest
+1 [3ED:306] Forest
+3 [3ED:293] Plains
+3 [3ED:300] Swamp
+3 [3ED:299] Swamp
+1 [3ED:298] Swamp
+1 [M20:97] Duress
+SB: 1 [HOU:83] Abrade
+SB: 1 [7ED:92] Opposition
+SB: 1 [ZEN:114] Vampire Hexmage
+SB: 1 [GRN:254] Sacred Foundry
+SB: 1 [DKA:87] Faithless Looting
+SB: 1 [USG:96] Show and Tell
+SB: 1 [TOR:77] Putrid Imp
+SB: 1 [RNA:186] Kaya, Orzhov Usurper
+SB: 1 [MIR:141] Shallow Grave
+SB: 1 [ROE:53] Wall of Omens
+SB: 1 [10E:163] Nekrataal
+SB: 1 [FRF:87] Tasigur, the Golden Fang
+SB: 1 [TMP:116] Corpse Dance
+SB: 1 [LRW:139] Shriekmaw
+SB: 1 [ORI:105] Languish
+SB: 1 [RAV:16] Faith's Fetters
+SB: 1 [NPH:103] Beast Within
+SB: 1 [3ED:300] Swamp
+SB: 1 [UDS:139] Thran Dynamo
+LAYOUT MAIN:(1,8)(CMC,false,50)|([2ED:264],[3ED:286],[3ED:283],[3ED:305],[3ED:305],[3ED:306],[3ED:293],[3ED:293],[3ED:300],[3ED:299],[3ED:298],[3ED:299],[3ED:300],[3ED:300],[3ED:299],[3ED:293])([ODY:132],[4ED:34],[TMP:151],[CON:15],[6ED:19],[RAV:161],[M20:97])([3ED:105],[M11:172],[RAV:262],[5ED:140],[EMN:85],[RTR:73])([SOI:242],[APC:126],[GRN:183],[CHK:225])([GRN:213],[ZEN:172],[RIX:82])([ISD:122])([MBS:46],[M12:98])([NPH:73])
+LAYOUT SIDEBOARD:(1,7)(CMC,false,50)|([GRN:254],[3ED:300])([DKA:87],[TOR:77])([HOU:83],[ZEN:114],[MIR:141],[ROE:53])([USG:96],[RNA:186],[TMP:116],[NPH:103])([7ED:92],[10E:163],[ORI:105],[RAV:16],[UDS:139])([LRW:139])([FRF:87])

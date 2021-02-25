@@ -1,0 +1,51 @@
+1 [CON:15] Path to Exile
+1 [A25:35] Swords to Plowshares
+1 [M11:70] Preordain
+1 [CMD:40] Brainstorm
+1 [A25:141] Lightning Bolt
+1 [C18:57] Retrofitter Foundry
+1 [ROE:53] Wall of Omens
+1 [MM3:50] Snapcaster Mage
+1 [TPR:58] Mana Leak
+1 [RTR:172] Izzet Charm
+1 [CNS:16] Council's Judgment
+1 [MB1:440] Mystic Confluence
+1 [DDO:1] Elspeth, Sun's Champion
+1 [V14:15] Wrath of God
+1 [V13:9] Fact or Fiction
+1 [AVR:32] Restoration Angel
+1 [SHM:229] Kitchen Finks
+1 [5DN:27] Condescend
+1 [ZNR:12] Emeria's Call
+1 [KTK:248] Windswept Heath
+1 [VMA:324] Volcanic Island
+1 [KTK:233] Flooded Strand
+1 [GPT:164] Steam Vents
+1 [ZEN:223] Scalding Tarn
+1 [RAV:280] Sacred Foundry
+1 [VMA:308] Plateau
+1 [MM3:240] Misty Rainforest
+4 [M11:237] Island
+1 [M11:236] Island
+1 [M11:235] Island
+3 [M11:230] Plains
+1 [MB1:192] Palace Jailer
+1 [MH1:37] Winds of Abandon
+1 [THB:302] Shatter the Sky
+1 [SOI:92] Thing in the Ice
+SB: 1 [V14:1] Armageddon
+SB: 1 [EMA:112] Vampiric Tutor
+SB: 1 [EMA:150] Sulfuric Vortex
+SB: 1 [JVC:49] Firebolt
+SB: 1 [HOU:83] Abrade
+SB: 1 [IKO:21] Luminous Broodmoth
+SB: 1 [M19:34] Resplendent Angel
+SB: 1 [RTR:86] Ash Zealot
+SB: 1 [V17:13] Kytheon, Hero of Akros
+SB: 1 [ZNR:262] Crawling Barrens
+SB: 1 [SOM:81] Arc Trail
+SB: 1 [LRW:76] Mulldrifter
+SB: 1 [M21:348] Barrin, Tolarian Archmage
+SB: 1 [V13:15] Venser, Shaper Savant
+LAYOUT MAIN:(1,6)(CMC,false,69)|([KTK:248],[VMA:324],[KTK:233],[GPT:164],[RAV:280],[ZEN:223],[VMA:308],[ZNR:12],[MM3:240],[M11:237],[M11:237],[M11:237],[M11:237],[M11:236],[M11:235],[M11:230],[M11:230],[M11:230])([CON:15],[A25:35],[M11:70],[CMD:40],[A25:141],[C18:57],[5DN:27])([ROE:53],[MM3:50],[TPR:58],[RTR:172],[MH1:37],[SOI:92])([CNS:16],[SHM:229])([THB:302],[V14:15],[V13:9],[AVR:32],[MB1:192])([MB1:440],[DDO:1])
+LAYOUT SIDEBOARD:(1,1)(COLOR,false,50)|([ZNR:262],[EMA:112],[LRW:76],[V13:15],[M21:348],[HOU:83],[SOM:81],[RTR:86],[JVC:49],[EMA:150],[V14:1],[V17:13],[IKO:21],[M19:34])

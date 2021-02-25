@@ -1,0 +1,55 @@
+1 [BBD:122] Mystic Confluence
+1 [V14:15] Wrath of God
+1 [NEM:17] Parallax Wave
+1 [AVR:32] Restoration Angel
+1 [DDF:1] Elspeth, Knight-Errant
+1 [MH1:100] Plague Engineer
+1 [A25:219] Vindicate
+1 [EMA:108] Toxic Deluge
+1 [A25:223] Coalition Relic
+1 [MRD:256] Talisman of Progress
+1 [STH:36] Mana Leak
+1 [XLN:74] Search for Azcanta
+1 [MM2:71] Bitterblossom
+1 [RAV:63] Remand
+1 [ROE:53] Wall of Omens
+1 [MM3:50] Snapcaster Mage
+1 [CON:15] Path to Exile
+1 [ICE:54] Swords to Plowshares
+1 [M11:70] Preordain
+1 [C18:57] Retrofitter Foundry
+1 [RNA:205] Seraph of the Scales
+1 [AKH:1] Angel of Sanctions
+1 [LRW:139] Shriekmaw
+1 [M20:246] Evolving Wilds
+1 [MRD:152] Chrome Mox
+1 [GTC:242] Godless Shrine
+1 [WWK:133] Celestial Colonnade
+1 [KTK:248] Windswept Heath
+3 [3ED:296] Island
+1 [3ED:297] Island
+1 [3ED:295] Island
+2 [3ED:292] Plains
+2 [3ED:293] Plains
+2 [3ED:300] Swamp
+1 [3ED:299] Swamp
+SB: 1 [JOU:163] Mana Confluence
+SB: 1 [THS:90] Hero's Downfall
+SB: 1 [RAV:280] Sacred Foundry
+SB: 1 [EMN:130a] Hanweir Garrison
+SB: 1 [V17:10a] Gisela, the Broken Blade
+SB: 1 [DOM:14] Dauntless Bodyguard
+SB: 1 [BFZ:239] Lumbering Falls
+SB: 1 [ROE:47] Student of Warfare
+SB: 1 [M13:73] Talrand's Invocation
+SB: 1 [KLD:214] Fleetwheel Cruiser
+SB: 1 [C14:22] Flesh Carver
+SB: 1 [C15:32] Arachnogenesis
+SB: 1 [C18:17] Night Incarnate
+SB: 1 [M20:105] Knight of the Ebon Legion
+SB: 1 [V17:1a] Archangel Avacyn
+SB: 1 [KLD:231] Scrapheap Scrounger
+SB: 1 [DTK:210] Surrak, the Hunt Caller
+SB: 2 [3ED:293] Plains
+LAYOUT MAIN:(1,6)(CMC,false,50)|([M20:246],[MRD:152],[GTC:242],[WWK:133],[KTK:248],[3ED:296],[3ED:297],[3ED:295],[3ED:296],[3ED:296],[3ED:292],[3ED:293],[3ED:293],[3ED:292],[3ED:300],[3ED:299],[3ED:300])([CON:15],[ICE:54],[M11:70],[C18:57])([MRD:256],[STH:36],[XLN:74],[MM2:71],[RAV:63],[ROE:53],[MM3:50])([MH1:100],[A25:219],[EMA:108],[A25:223])([V14:15],[NEM:17],[AVR:32],[DDF:1],[RNA:205])([BBD:122],[AKH:1],[LRW:139])
+LAYOUT SIDEBOARD:(1,6)(CMC,false,50)|([JOU:163],[RAV:280],[BFZ:239],[3ED:293],[3ED:293])([DOM:14],[ROE:47],[M20:105])([KLD:231])([THS:90],[EMN:130a],[C14:22],[C15:32])([V17:10a],[M13:73],[KLD:214],[DTK:210])([C18:17],[V17:1a])

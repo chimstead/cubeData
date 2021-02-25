@@ -1,0 +1,49 @@
+1 [UMA:174] Noble Hierarch
+1 [VMA:266] Coercive Portal
+1 [WAR:160] Finale of Devastation
+1 [UMA:163] Eternal Witness
+1 [C16:195] Edric, Spymaster of Trest
+1 [ELD:171] Questing Beast
+1 [M13:174] Garruk, Primal Hunter
+1 [DDU:7] Elvish Mystic
+1 [ELD:160] Gilded Goose
+1 [C18:222] Sol Ring
+1 [UMA:164] Fauna Shaman
+1 [MM3:122] Craterhoof Behemoth
+1 [A25:164] Courser of Kruphix
+1 [MH1:190] Wall of Blossoms
+1 [FRF:145] Whisperwood Elemental
+1 [C17:222] Skullclamp
+1 [WAR:169] Nissa, Who Shakes the World
+1 [MMQ:62] Bribery
+1 [GK1:56] Elves of Deep Shadow
+1 [UMA:202] Leovold, Emissary of Trest
+1 [IMA:174] Lotus Cobra
+1 [BBD:131] Sower of Temptation
+1 [EMA:169] Green Sun's Zenith
+1 [GK2:125] Trygon Predator
+1 [USG:321] Gaea's Cradle
+1 [KLD:244] Botanical Sanctum
+1 [VMA:5] Mox Emerald
+1 [VMA:293] Bayou
+1 [MM3:249] Verdant Catacombs
+1 [GRN:253] Overgrown Tomb
+1 [KLD:243] Blooming Marsh
+3 [UST:216] Forest
+6 [UST:213] Island
+SB: 1 [TPR:199] Survival of the Fittest
+SB: 1 [MH1:37] Winds of Abandon
+SB: 1 [UMA:113] Shriekmaw
+SB: 1 [MOR:148] Mutavault
+SB: 1 [MM2:29] Oblivion Ring
+SB: 1 [C18:166] Yavimaya Elder
+SB: 1 [VMA:317] Taiga
+SB: 1 [A25:136] Imperial Recruiter
+SB: 1 [XLN:22] Legion's Landing
+SB: 1 [EMA:248] Wasteland
+SB: 1 [UMA:251] Stirring Wildwood
+SB: 1 [CON:121] Progenitus
+SB: 1 [CHK:212] Heartbeat of Spring
+SB: 1 [DST:148] Sword of Fire and Ice
+LAYOUT MAIN:(2,5)(CMC,false,40)|([USG:321],[VMA:293],[MM3:249],[GRN:253],[KLD:243],[UST:216],[UST:216],[UST:216],[VMA:5])([UMA:174],[DDU:7],[ELD:160],[C18:222],[C17:222],[GK1:56],[EMA:169])([UMA:163],[C16:195],[A25:164],[UMA:202],[GK2:125])([M13:174],[FRF:145],[WAR:169],[MMQ:62])([MM3:122])([KLD:244],[UST:213],[UST:213],[UST:213],[UST:213],[UST:213],[UST:213])([WAR:160],[UMA:164],[MH1:190],[IMA:174])([VMA:266],[ELD:171],[BBD:131])()()
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([TPR:199],[MH1:37],[UMA:113],[MOR:148],[MM2:29],[C18:166],[VMA:317],[A25:136],[XLN:22],[EMA:248],[UMA:251],[CON:121],[CHK:212],[DST:148])

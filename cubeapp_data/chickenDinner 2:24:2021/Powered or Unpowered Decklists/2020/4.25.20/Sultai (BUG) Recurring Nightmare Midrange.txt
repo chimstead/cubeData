@@ -1,0 +1,52 @@
+1 [STH:138] Mox Diamond
+1 [5ED:88] Force Spike
+1 [ELD:160] Gilded Goose
+1 [CON:87] Noble Hierarch
+1 [VIS:72] Vampiric Tutor
+1 [LRW:145] Thoughtseize
+1 [PC2:82] Baleful Strix
+1 [EMN:85] Collective Brutality
+1 [4ED:273] Sylvan Library
+1 [MH1:232] Talisman of Curiosity
+1 [MH1:161] Deep Forest Hermit
+1 [RIX:82] Ravenous Chupacabra
+1 [ISD:181] Garruk Relentless
+1 [EXO:72] Recurring Nightmare
+1 [VIS:37] Man-o'-War
+1 [M15:194] Reclamation Sage
+1 [C14:22] Flesh Carver
+1 [RTR:73] Pack Rat
+1 [5DN:86] Eternal Witness
+1 [EMA:57] Jace, the Mind Sculptor
+1 [RTR:213] Deathrite Shaman
+1 [WWK:134] Creeping Tar Pit
+1 [GTC:249] Watery Grave
+1 [MH1:249] Waterlogged Grove
+1 [ZEN:229] Verdant Catacombs
+1 [4ED:363] Strip Mine
+1 [RTR:243] Overgrown Tomb
+1 [BFZ:239] Lumbering Falls
+2 [5ED:448] Forest
+2 [5ED:449] Forest
+2 [5ED:437] Island
+2 [5ED:438] Swamp
+1 [5ED:441] Swamp
+1 [M13:193] Thragtusk
+1 [XLN:223] Hostage Taker
+1 [EVE:22] Glen Elendra Archmage
+SB: 1 [ROE:190] Joraga Treespeaker
+SB: 1 [OGW:182] Wandering Fumarole
+SB: 1 [EXO:35] Forbid
+SB: 1 [M14:228] Mutavault
+SB: 1 [WAR:13] Gideon Blackblade
+SB: 1 [WWK:20] Stoneforge Mystic
+SB: 1 [OGW:104] Chandra, Flamecaller
+SB: 1 [M14:163] Young Pyromancer
+SB: 1 [OGW:144] Sylvan Advocate
+SB: 1 [WWK:144] Stirring Wildwood
+SB: 1 [INV:57] Fact or Fiction
+SB: 1 [NPH:35] Gitaxian Probe
+SB: 1 [ULG:101] Deranged Hermit
+SB: 1 [M12:72] Phantasmal Image
+LAYOUT MAIN:(1,6)(CMC,false,52)|([WWK:134],[5ED:448],[5ED:449],[5ED:449],[5ED:448],[5ED:437],[5ED:437],[BFZ:239],[STH:138],[RTR:243],[4ED:363],[5ED:438],[5ED:438],[5ED:441],[ZEN:229],[MH1:249],[GTC:249])([RTR:213],[5ED:88],[ELD:160],[CON:87],[LRW:145],[VIS:72])([PC2:82],[EMN:85],[RTR:73],[4ED:273],[MH1:232])([5DN:86],[C14:22],[VIS:37],[M15:194],[EXO:72])([ISD:181],[EMA:57],[RIX:82],[XLN:223],[EVE:22])([MH1:161],[M13:193])
+LAYOUT SIDEBOARD:(1,6)(CMC,false,71)|([M14:228],[WWK:144],[OGW:182])([NPH:35],[ROE:190],[M12:72])([WWK:20],[OGW:144],[M14:163])([EXO:35],[WAR:13],[ULG:101])([INV:57])([OGW:104])

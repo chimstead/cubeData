@@ -1,0 +1,50 @@
+1 [M12:73] Ponder
+1 [TSP:48] Ancestral Vision
+1 [3ED:274] Sol Ring
+1 [ZEN:119] Burst Lightning
+1 [2ED:84] Time Walk
+1 [M12:63] Mana Leak
+1 [M14:163] Young Pyromancer
+1 [GPT:150] Gruul Signet
+1 [MOR:55] Vendilion Clique
+1 [SOM:208] Sword of Body and Mind
+1 [SOM:48] Trinket Mage
+1 [MH1:145] Seasoned Pyromancer
+1 [BBD:41] Spellseeker
+1 [THB:4] Banishing Light
+1 [INV:57] Fact or Fiction
+1 [4ED:64] Control Magic
+1 [ALA:154] Ajani Vengeant
+1 [DOM:1] Karn, Scion of Urza
+1 [OGW:110] Goblin Dark-Dwellers
+1 [UDS:50] Treachery
+1 [DOM:207] Teferi, Hero of Dominaria
+1 [M12:147] Inferno Titan
+1 [FRF:27] Soulfire Grand Master
+1 [GRN:257] Steam Vents
+1 [KTK:233] Flooded Strand
+1 [ZEN:211] Arid Mesa
+1 [2ED:266] Mox Sapphire
+1 [SOM:229] Seachrome Coast
+1 [WWK:133] Celestial Colonnade
+5 [GUR:2] Island
+4 [GUR:3] Mountain
+2 [GUR:4] Plains
+SB: 1 [THS:9] Elspeth, Sun's Champion
+SB: 1 [ULG:129] Memory Jar
+SB: 1 [EVE:139] Figure of Destiny
+SB: 1 [M12:145] Grim Lavamancer
+SB: 1 [DTK:181] Den Protector
+SB: 1 [DTK:216] Dragonlord Atarka
+SB: 1 [A25:136] Imperial Recruiter
+SB: 1 [VIS:114] Natural Order
+SB: 1 [ISD:170] Avacyn's Pilgrim
+SB: 1 [ICE:244] Fyndhorn Elves
+SB: 1 [M13:193] Thragtusk
+SB: 1 [M20:111] Rotting Regisaur
+SB: 1 [LEG:28] Moat
+SB: 1 [ALA:9] Elspeth, Knight-Errant
+SB: 1 [ZEN:11] Emeria Angel
+SB: 1 [ULG:38] Palinchron
+LAYOUT MAIN:(1,8)(CMC,false,81)|([GUR:2],[GUR:2],[GUR:2],[GUR:2],[GUR:2],[GUR:3],[GUR:3],[GUR:3],[GUR:3],[GUR:4],[GUR:4])([ZEN:211],[WWK:133],[KTK:233],[SOM:229],[GRN:257])([TSP:48],[2ED:266],[ZEN:119],[M12:73],[3ED:274])([GPT:150],[M12:63],[FRF:27],[2ED:84],[M14:163])([THB:4],[MH1:145],[BBD:41],[SOM:208],[SOM:48],[MOR:55])([ALA:154],[4ED:64],[INV:57],[DOM:1])([OGW:110],[DOM:207],[UDS:50])([M12:147])
+LAYOUT SIDEBOARD:(1,7)(CMC,false,70)|([EVE:139],[M12:145],[ISD:170],[ICE:244])([DTK:181])([A25:136],[M20:111])([VIS:114],[LEG:28],[ALA:9],[ZEN:11])([ULG:129],[M13:193])([THS:9])([DTK:216],[ULG:38])

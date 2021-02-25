@@ -1,0 +1,55 @@
+1 [ULG:14] Mother of Runes
+1 [DTK:2] Anafenza, Kin-Tree Spirit
+1 [ZEN:14] Journey to Nowhere
+1 [M19:33] Remorseful Cleric
+1 [DKA:24] Thalia, Guardian of Thraben
+1 [RNA:27] Tithe Taker
+1 [BOK:163] Umezawa's Jitte
+1 [THB:4] Banishing Light
+1 [BBD:25] Brightling
+1 [BNG:5] Brimaz, King of Oreskos
+1 [VMA:20] Council's Judgment
+1 [KLD:13] Fairgrounds Warden
+1 [WAR:13] Gideon Blackblade
+1 [DKA:12] Lingering Souls
+1 [NPH:19] Porcelain Legionnaire
+1 [ALA:9] Elspeth, Knight-Errant
+1 [MH1:26] Serra the Benevolent
+1 [KLD:4] Angel of Invention
+1 [M15:145] Goblin Rabblemaster
+1 [GRN:109] Legion Warboss
+1 [GRN:6] Conclave Tribunal
+1 [ALA:154] Ajani Vengeant
+1 [DKA:138] Falkenrath Aristocrat
+1 [KLD:245] Concealed Courtyard
+1 [RNA:248] Godless Shrine
+1 [DOM:241] Isolated Chapel
+1 [WWK:139] Lavaclaw Reaches
+3 [UNH:139] Mountain
+9 [UNH:136] Plains
+1 [LEG:303] Karakas
+SB: 1 [3ED:289] Tundra
+SB: 1 [PLS:60] Flametongue Kavu
+SB: 1 [M12:39] Sun Titan
+SB: 1 [M20:94] Cavalier of Night
+SB: 1 [4ED:34] Land Tax
+SB: 1 [AVR:129] Bonfire of the Damned
+SB: 1 [FUT:78] Slaughter Pact
+SB: 1 [MMQ:324] Rishadan Port
+SB: 1 [THS:90] Hero's Downfall
+SB: 1 [AKH:13] Forsake the Worldly
+SB: 1 [FRF:110] Outpost Siege
+SB: 1 [JUD:139] Mirari's Wake
+SB: 1 [GRN:30] Venerated Loxodon
+SB: 1 [RTR:73] Pack Rat
+SB: 1 [PLC:25] Mana Tithe
+SB: 1 [XLN:110] Kitesail Freebooter
+SB: 1 [M14:96] Doom Blade
+SB: 1 [DTK:260] Mountain
+SB: 2 [DTK:261] Mountain
+SB: 4 [DTK:250] Plains
+SB: 2 [DTK:251] Plains
+SB: 4 [DTK:252] Plains
+SB: 1 [UNH:136] Plains
+LAYOUT MAIN:(1,6)(CMC,false,50)|([KLD:245],[RNA:248],[DOM:241],[WWK:139],[UNH:139],[UNH:139],[UNH:139],[UNH:136],[UNH:136],[UNH:136],[UNH:136],[UNH:136],[UNH:136],[UNH:136],[UNH:136],[UNH:136],[LEG:303])([ULG:14])([DTK:2],[ZEN:14],[M19:33],[DKA:24],[RNA:27],[BOK:163])([THB:4],[BBD:25],[BNG:5],[VMA:20],[KLD:13],[WAR:13],[DKA:12],[NPH:19],[M15:145],[GRN:109])([ALA:9],[MH1:26],[GRN:6],[ALA:154],[DKA:138])([KLD:4])
+LAYOUT SIDEBOARD:(1,7)(CMC,false,50)|([3ED:289],[FUT:78],[MMQ:324],[DTK:260],[DTK:261],[DTK:261],[DTK:250],[DTK:251],[DTK:250],[DTK:251],[DTK:252],[DTK:252],[DTK:250],[DTK:252],[DTK:250],[DTK:252],[UNH:136])([4ED:34],[AVR:129],[PLC:25])([RTR:73],[XLN:110],[M14:96])([THS:90],[AKH:13])([PLS:60],[FRF:110])([M20:94],[JUD:139],[GRN:30])([M12:39])

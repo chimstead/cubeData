@@ -1,0 +1,49 @@
+1 [GRN:69] Doom Whisperer
+1 [ROE:190] Joraga Treespeaker
+1 [EMN:85] Collective Brutality
+1 [SHM:135] Woodfall Primus
+1 [TMP:142] Living Death
+1 [TOR:77] Putrid Imp
+1 [3ED:274] Sol Ring
+1 [ZEN:168] Lotus Cobra
+1 [TSB:89] Wall of Roots
+1 [ULG:101] Deranged Hermit
+1 [PLC:149] Harmonize
+1 [5DN:86] Eternal Witness
+1 [EMN:6] Emrakul, the Promised End
+1 [BNG:119] Courser of Kruphix
+1 [ISD:105] Liliana of the Veil
+1 [TMP:151] Reanimate
+1 [CHK:225] Kodama's Reach
+1 [EXO:72] Recurring Nightmare
+1 [DST:148] Sword of Fire and Ice
+1 [KLD:84] Gonti, Lord of Luxury
+1 [M13:159] Acidic Slime
+1 [ULG:49] Bone Shredder
+1 [VIS:64] Necromancy
+1 [2ED:233] Black Lotus
+1 [MPS:16] Mana Crypt
+1 [ARN:70] Bazaar of Baghdad
+8 [UST:216] Forest
+6 [UST:214] Swamp
+SB: 1 [EXO:115] Oath of Druids
+SB: 1 [WAR:98] Liliana's Triumph
+SB: 1 [LRW:133] Oona's Prowler
+SB: 1 [10E:163] Nekrataal
+SB: 1 [DOM:14] Dauntless Bodyguard
+SB: 1 [CHK:239] Sakura-Tribe Elder
+SB: 1 [LRW:233] Primal Command
+SB: 1 [GRN:213] Vraska, Golgari Queen
+SB: 1 [BOK:71] Ink-Eyes, Servant of Oni
+SB: 1 [MBS:8] Hero of Bladehold
+SB: 1 [BFZ:244] Shambling Vent
+SB: 1 [WAR:180] Vivien, Champion of the Wilds
+SB: 1 [CON:30] Inkwell Leviathan
+SB: 1 [RNA:122] Biogenic Ooze
+SB: 1 [5ED:408] Winter Orb
+SB: 1 [APC:126] Vindicate
+SB: 1 [M11:149] Lightning Bolt
+SB: 1 [GRN:208] Trostani Discordant
+SB: 1 [UMA:11] Containment Priest
+LAYOUT MAIN:(1,6)(CMC,false,69)|([2ED:233],[MPS:16],[ARN:70],[UST:216],[UST:216],[UST:216],[UST:216],[UST:216],[UST:216],[UST:216],[UST:216],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214])([ROE:190],[TOR:77],[3ED:274],[TMP:151])([EMN:85],[ZEN:168],[TSB:89])([5DN:86],[BNG:119],[ISD:105],[CHK:225],[EXO:72],[DST:148],[ULG:49],[VIS:64])([PLC:149],[KLD:84])([GRN:69],[TMP:142],[ULG:101],[M13:159],[SHM:135],[EMN:6])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([EXO:115],[WAR:98],[LRW:133],[10E:163],[DOM:14],[CHK:239],[LRW:233],[GRN:213],[BOK:71],[MBS:8],[BFZ:244],[WAR:180],[CON:30],[RNA:122],[5ED:408],[APC:126],[M11:149],[GRN:208],[UMA:11])

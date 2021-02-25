@@ -1,0 +1,49 @@
+1 [RIX:21] Skymarcher Aspirant
+1 [AER:87] Kari Zev, Skyship Raider
+1 [THB:148] Phoenix of Ash
+1 [DKA:93] Hellrider
+1 [XLN:1] Adanto Vanguard
+1 [5DN:126] Grafted Wargear
+1 [M13:147] Searing Spear
+1 [KTK:118] Monastery Swiftspear
+1 [M14:163] Young Pyromancer
+1 [NPH:4] Blade Splicer
+1 [ELD:115] Bonecrusher Giant
+1 [M13:150] Thundermaw Hellkite
+1 [M12:145] Grim Lavamancer
+1 [DTK:169] Zurgo Bellstriker
+1 [ZEN:126] Goblin Guide
+1 [CON:15] Path to Exile
+1 [KTK:249] Wooded Foothills
+1 [WAR:137] Krenko, Tin Street Kingpin
+1 [AKH:148] Soul-Scar Mage
+1 [5ED:408] Winter Orb
+1 [SCG:106] Sulfuric Vortex
+1 [EMN:40] Selfless Spirit
+1 [CM2:98] Fiery Confluence
+1 [ZEN:219] Marsh Flats
+1 [MRD:146] Bonesplitter
+1 [GTC:148] Boros Charm
+1 [LEG:137] Chain Lightning
+1 [GRN:254] Sacred Foundry
+9 [RIX:195] Mountain
+3 [RIX:192] Plains
+SB: 1 [SOI:5] Archangel Avacyn
+SB: 1 [SOM:94] Koth of the Hammer
+SB: 1 [AER:129] Hidden Stockpile
+SB: 1 [M20:14] Disenchant
+SB: 1 [DKA:12] Lingering Souls
+SB: 1 [M20:199] Vivien, Arkbow Ranger
+SB: 1 [CN2:22] Recruiter of the Guard
+SB: 1 [XLN:154] Rampaging Ferocidon
+SB: 1 [KLD:4] Angel of Invention
+SB: 1 [ORI:127] Abbot of Keral Keep
+SB: 1 [FRF:18] Mardu Woe-Reaper
+SB: 1 [KTK:97] Arc Lightning
+SB: 1 [ZEN:119] Burst Lightning
+SB: 1 [MBS:8] Hero of Bladehold
+SB: 1 [FRF:20] Monastery Mentor
+SB: 1 [RAV:117] Char
+SB: 1 [SOM:81] Arc Trail
+LAYOUT MAIN:(2,6)(CMC,true,50)|()([RIX:21],[KTK:118],[M12:145],[DTK:169],[ZEN:126],[AKH:148])([AER:87],[XLN:1],[M14:163],[EMN:40])([THB:148],[NPH:4],[WAR:137])([DKA:93])([ELD:115],[M13:150])([KTK:249],[ZEN:219],[GRN:254],[RIX:195],[RIX:195],[RIX:195],[RIX:195],[RIX:195],[RIX:195],[RIX:192],[RIX:192],[RIX:195],[RIX:195],[RIX:192],[RIX:195])([CON:15],[MRD:146],[LEG:137])([M13:147],[5ED:408],[GTC:148])([5DN:126],[SCG:106])([CM2:98])()
+LAYOUT SIDEBOARD:(1,5)(CMC,false,50)|([FRF:18],[ZEN:119])([AER:129],[M20:14],[ORI:127],[SOM:81])([DKA:12],[CN2:22],[XLN:154],[KTK:97],[FRF:20],[RAV:117])([SOM:94],[M20:199],[MBS:8])([SOI:5],[KLD:4])

@@ -1,0 +1,48 @@
+1 [DDL:3] Figure of Destiny
+1 [KTK:118] Monastery Swiftspear
+1 [FRF:118] Wild Slash
+1 [AKH:148] Soul-Scar Mage
+1 [ZEN:126] Goblin Guide
+1 [TMP:183] Jackal Pup
+1 [EMA:123] Chain Lightning
+1 [KLD:199] Bomat Courier
+1 [DTK:169] Zurgo Bellstriker
+1 [AER:87] Kari Zev, Skyship Raider
+1 [AVR:144] Lightning Mauler
+1 [HOU:90] Earthshaker Khenra
+1 [THS:127] Lightning Strike
+1 [KLD:235] Smuggler's Copter
+1 [MH1:145] Seasoned Pyromancer
+1 [AKH:117] Ahn-Crop Crasher
+1 [M15:145] Goblin Rabblemaster
+1 [GRN:109] Legion Warboss
+1 [KLD:110] Chandra, Torch of Defiance
+1 [DKA:93] Hellrider
+1 [DDI:44] Koth of the Hammer
+1 [HOP:54] Flametongue Kavu
+1 [C15:26] Fiery Confluence
+1 [ELD:115] Bonecrusher Giant
+1 [M14:228] Mutavault
+1 [MH1:238] Fiery Islet
+14 [UGL:87] Mountain
+SB: 1 [MH1:233] Talisman of Hierarchy
+SB: 1 [AER:62] Glint-Sleeve Siphoner
+SB: 1 [THB:221] Kroxa, Titan of Death's Hunger
+SB: 1 [DDK:1] Sorin, Lord of Innistrad
+SB: 1 [5DN:126] Grafted Wargear
+SB: 1 [BFZ:109] Drana, Liberator of Malakir
+SB: 1 [C15:3] Grasp of Fate
+SB: 1 [JOU:163] Mana Confluence
+SB: 1 [AVR:166] Zealous Conscripts
+SB: 1 [RAV:280] Sacred Foundry
+SB: 1 [EMN:85] Collective Brutality
+SB: 1 [M20:105] Knight of the Ebon Legion
+SB: 1 [CHK:19] Isamaru, Hound of Konda
+SB: 1 [TSP:26] Knight of the Holy Nimbus
+SB: 1 [EMN:133] Incendiary Flow
+SB: 1 [ARC:118] Sundering Titan
+SB: 1 [AER:142] Aethersphere Harvester
+SB: 1 [DIS:165] Rakdos Signet
+SB: 1 [GPT:164] Steam Vents
+LAYOUT MAIN:(1,6)(CMC,false,50)|([M14:228],[MH1:238],[UGL:87],[UGL:87],[UGL:87],[UGL:87],[UGL:87],[UGL:87],[UGL:87],[UGL:87],[UGL:87],[UGL:87],[UGL:87],[UGL:87],[UGL:87],[UGL:87])([DDL:3],[KTK:118],[FRF:118],[AKH:148],[ZEN:126],[TMP:183],[EMA:123],[KLD:199],[DTK:169])([AER:87],[AVR:144],[HOU:90],[THS:127],[KLD:235])([MH1:145],[AKH:117],[M15:145],[GRN:109])([KLD:110],[DKA:93],[DDI:44],[HOP:54],[C15:26])([ELD:115])
+LAYOUT SIDEBOARD:(1,7)(CMC,false,50)|([JOU:163],[RAV:280],[GPT:164])([M20:105],[CHK:19])([MH1:233],[AER:62],[THB:221],[EMN:85],[TSP:26],[DIS:165],[EMN:133])([5DN:126],[BFZ:109],[C15:3],[AER:142])([DDK:1])([AVR:166])([ARC:118])

@@ -1,0 +1,59 @@
+2021
+1.31.21
+1 [MM3:46] Phantasmal Image
+1 [ALL:28] Force of Will
+1 [UMA:128] Faithless Looting
+1 [KLD:110] Chandra, Torch of Defiance
+1 [C18:94] Mulldrifter
+1 [ALA:154] Ajani Vengeant
+1 [NPH:42] Phyrexian Metamorph
+1 [VMA:2] Time Walk
+1 [C18:106] Thirst for Knowledge
+1 [A25:223] Coalition Relic
+1 [M11:153] Pyretic Ritual
+1 [MM3:55] Venser, Shaper Savant
+1 [BBD:41] Spellseeker
+1 [PGRN:207s] Thousand-Year Storm
+1 [UMA:225] Fire // Ice
+1 [MH1:145] Seasoned Pyromancer
+1 [CM2:188] Everflowing Chalice
+1 [IMA:65] Mana Drain
+1 [CN2:157] Flame Slash
+1 [C18:96] Ponder
+1 [WAR:125] Dreadhorde Arcanist
+1 [UMA:127] Desperate Ritual
+1 [JVC:51] Incinerate
+1 [ZNR:161] Shatterskull Smashing
+5 [UGL:85] Island
+5 [UGL:87] Mountain
+1 [LRW:272] Shelldock Isle
+1 [VMA:322] Tundra
+1 [GRN:257] Steam Vents
+1 [MM3:244] Scalding Tarn
+1 [KTK:249] Wooded Foothills
+1 [EMA:248] Wasteland
+SB: 1 [ELD:197] Oko, Thief of Crowns
+SB: 1 [CMA:36] Deceiver Exarch
+SB: 1 [WAR:79] Bolas's Citadel
+SB: 1 [UDS:135] Metalworker
+SB: 1 [MMA:219] Academy Ruins
+SB: 1 [CM2:99] Flametongue Kavu
+SB: 1 [EMA:148] Sneak Attack
+SB: 1 [CM2:101] Goblin Welder
+SB: 1 [ELD:342] Emry, Lurker of the Loch
+SB: 1 [AKH:148] Soul-Scar Mage
+SB: 1 [MH1:108] Sling-Gang Lieutenant
+SB: 1 [M20:226] Golos, Tireless Pilgrim
+SB: 1 [NPH:19] Porcelain Legionnaire
+SB: 1 [AKH:97] Liliana, Death's Majesty
+SB: 1 [ORI:127] Abbot of Keral Keep
+SB: 4 [UND:93] Mountain
+SB: 6 [UND:90] Island
+SB: 2 [UND:89] Island
+SB: 4 [UND:94] Mountain
+SB: 1 [UND:88] Plains
+SB: 3 [UGL:85] Island
+SB: 1 [UGL:84] Plains
+SB: 2 [UGL:87] Mountain
+LAYOUT MAIN:(2,8)(CMC,true,50)|()()([MM3:46],[WAR:125])([BBD:41],[MH1:145],[NPH:42])([MM3:55])([C18:94])()()([CM2:188],[UGL:85],[UGL:85],[UGL:85],[UGL:85],[UGL:85],[UGL:87],[UGL:87],[UGL:87],[UGL:87],[UGL:87],[VMA:322],[GRN:257],[MM3:244],[KTK:249],[EMA:248])([UMA:128],[CN2:157],[C18:96])([VMA:2],[M11:153],[IMA:65],[UMA:225],[UMA:127],[JVC:51])([C18:106],[A25:223])([KLD:110],[ALA:154])([ALL:28])([PGRN:207s])([LRW:272],[ZNR:161])
+LAYOUT SIDEBOARD:(1,2)(COLOR,false,50)|([UGL:85],[UGL:84])([UGL:85],[UGL:87],[UGL:87],[UGL:85])

@@ -1,0 +1,52 @@
+1 [M13:160] Arbor Elf
+1 [CSP:105] Boreal Druid
+1 [ULG:14] Mother of Runes
+1 [DIS:99] Utopia Sprawl
+1 [MH1:168] Hexdrinker
+1 [ROE:190] Joraga Treespeaker
+1 [SOI:12] Declaration in Stone
+1 [M14:195] Scavenging Ooze
+1 [ROE:53] Wall of Omens
+1 [WWK:20] Stoneforge Mystic
+1 [XLN:1] Adanto Vanguard
+1 [DOM:21] History of Benalia
+1 [EVE:6] Flickerwisp
+1 [THB:4] Banishing Light
+1 [VMA:20] Council's Judgment
+1 [MMA:216] Sword of Fire and Ice
+1 [GRN:183] Knight of Autumn
+1 [ISD:181] Garruk Relentless
+1 [CN2:18] Palace Jailer
+1 [M11:175] Garruk Wildspeaker
+1 [NPH:130] Batterskull
+1 [IKO:175] Vivien, Monsters' Advocate
+1 [M19:208] Vivien Reid
+1 [MH1:161] Deep Forest Hermit
+1 [ZEN:211] Arid Mesa
+1 [WWK:144] Stirring Wildwood
+1 [ZEN:229] Verdant Catacombs
+1 [ZEN:220] Misty Rainforest
+1 [LEB:264] Mox Pearl
+1 [LEB:281] Savannah
+2 [3ED:304] Forest
+3 [3ED:305] Forest
+1 [3ED:306] Forest
+3 [3ED:293] Plains
+1 [3ED:292] Plains
+SB: 1 [ULG:101] Deranged Hermit
+SB: 1 [5DN:27] Condescend
+SB: 1 [SHM:23] Spectral Procession
+SB: 1 [WWK:108] Nature's Claim
+SB: 1 [LRW:139] Shriekmaw
+SB: 1 [FRF:20] Monastery Mentor
+SB: 1 [MRD:199] Lightning Greaves
+SB: 1 [RIX:21] Skymarcher Aspirant
+SB: 1 [LRW:211] Fertile Ground
+SB: 1 [V14:2] Burning of Xinye
+SB: 1 [USG:321] Gaea's Cradle
+SB: 1 [WWK:134] Creeping Tar Pit
+SB: 1 [ATQ:81] Mishra's Workshop
+SB: 1 [WWK:141] Raging Ravine
+SB: 1 [M11:172] Fauna Shaman
+LAYOUT MAIN:(1,6)(CMC,false,50)|([ZEN:211],[WWK:144],[ZEN:229],[ZEN:220],[LEB:264],[LEB:281],[3ED:304],[3ED:305],[3ED:304],[3ED:305],[3ED:305],[3ED:306],[3ED:293],[3ED:292],[3ED:293],[3ED:293])([M13:160],[CSP:105],[ULG:14],[DIS:99],[MH1:168],[ROE:190])([SOI:12],[M14:195],[ROE:53],[WWK:20],[XLN:1])([DOM:21],[EVE:6],[THB:4],[VMA:20],[MMA:216],[GRN:183])([ISD:181],[CN2:18],[M11:175])([NPH:130],[IKO:175],[M19:208],[MH1:161])
+LAYOUT SIDEBOARD:(1,6)(CMC,false,50)|([USG:321],[WWK:134],[ATQ:81],[WWK:141])([5DN:27],[WWK:108],[RIX:21])([MRD:199],[LRW:211],[M11:172])([FRF:20])([ULG:101],[LRW:139])([SHM:23],[V14:2])

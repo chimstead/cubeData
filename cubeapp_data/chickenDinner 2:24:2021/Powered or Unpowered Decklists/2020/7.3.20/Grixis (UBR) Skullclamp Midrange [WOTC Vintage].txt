@@ -1,0 +1,54 @@
+1 [THS:107] Thoughtseize
+1 [TSP:48] Ancestral Vision
+1 [UDS:139] Thran Dynamo
+1 [SOM:48] Trinket Mage
+1 [DTK:224] Kolaghan's Command
+1 [TMP:330] Wasteland
+1 [WWK:139] Lavaclaw Reaches
+1 [APC:128] Fire // Ice
+1 [MH1:199] Fallen Shinobi
+1 [KTK:239] Polluted Delta
+1 [GRN:205] Thief of Sanity
+1 [HOU:145] The Scarab God
+1 [LRW:139] Shriekmaw
+1 [ZEN:211] Arid Mesa
+1 [10E:163] Nekrataal
+1 [THS:188] Ashiok, Nightmare Weaver
+1 [3ED:185] Wheel of Fortune
+1 [ODY:113] Upheaval
+1 [MB1:1395] Baleful Strix
+1 [DST:140] Skullclamp
+1 [XLN:110] Kitesail Freebooter
+1 [GRN:259] Watery Grave
+1 [LRW:88] Sower of Temptation
+1 [MBS:21] Consecrated Sphinx
+1 [WWK:31] Jace, the Mind Sculptor
+1 [VMA:324] Volcanic Island
+1 [M12:72] Phantasmal Image
+1 [ULG:126] Grim Monolith
+1 [ALA:60] Tezzeret the Seeker
+1 [GPT:152] Izzet Signet
+2 [THS:237] Island
+3 [THS:236] Island
+1 [THS:234] Island
+1 [THS:245] Mountain
+1 [THS:238] Swamp
+1 [THS:240] Swamp
+1 [THS:239] Swamp
+SB: 1 [SOM:94] Koth of the Hammer
+SB: 1 [EXO:115] Oath of Druids
+SB: 1 [XLN:22] Legion's Landing
+SB: 1 [ULG:38] Palinchron
+SB: 1 [MB1:898] Daretti, Scrap Savant
+SB: 1 [VMA:311] Savannah
+SB: 1 [M13:150] Thundermaw Hellkite
+SB: 1 [THS:172] Polukranos, World Eater
+SB: 1 [MBS:46] Massacre Wurm
+SB: 1 [ZEN:114] Vampire Hexmage
+SB: 1 [M13:112] Vampire Nighthawk
+SB: 1 [GRN:152] Assassin's Trophy
+SB: 1 [BOK:71] Ink-Eyes, Servant of Oni
+SB: 1 [BBD:33] Arcane Artisan
+SB: 1 [NPH:73] Sheoldred, Whispering One
+LAYOUT MAIN:(1,8)(CMC,false,92)|([TMP:330],[WWK:139],[KTK:239],[ZEN:211],[GRN:259],[VMA:324],[THS:237],[THS:237],[THS:236],[THS:236],[THS:236],[THS:234],[THS:245],[THS:238],[THS:240],[THS:239])([TSP:48])([THS:107],[DST:140])([MB1:1395],[XLN:110],[M12:72],[ULG:126],[GPT:152],[APC:128])([SOM:48],[DTK:224],[GRN:205],[THS:188],[3ED:185])([UDS:139],[10E:163],[LRW:88],[WWK:31])([MH1:199],[HOU:145],[LRW:139],[ALA:60])([ODY:113],[MBS:21])
+LAYOUT SIDEBOARD:(1,4)(NONE,false,89)|([SOM:94],[EXO:115],[XLN:22],[ULG:38],[MB1:898],[VMA:311],[M13:150],[THS:172],[MBS:46],[ZEN:114],[M13:112],[GRN:152])([BOK:71])([BBD:33])([NPH:73])

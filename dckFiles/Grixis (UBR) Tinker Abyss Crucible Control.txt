@@ -1,9 +1,12 @@
+2017
+12.17
+12.3.17
 4 Island
 3 Mountain
 3 Swamp
 1 Academy Ruins
 1 Ash Barrens
-1 Mishra’s Workshop
+1 Mishra's Workshop
 1 Polluted Delta
 1 Strip Mine
 1 Tolarian Academy
@@ -31,5 +34,3 @@
 1 Treachery
 1 Sundering Titan
 1 Wurmcoil Engine
-
-

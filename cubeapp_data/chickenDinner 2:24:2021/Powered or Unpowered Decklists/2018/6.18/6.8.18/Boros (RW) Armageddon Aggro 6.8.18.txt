@@ -1,0 +1,35 @@
+4 Mountain
+3 Plains
+1 Arid Mesa
+1 Sacred Foundry
+1 Ancient Tomb
+1 Windswept Heath
+1 Plateau
+1 Flooded Strand
+1 Chrome Mox
+1 Blood Crypt
+1 Sulfurous Springs
+1 Firedrinker Satyr
+1 Zurgo Bellstriker
+1 Falkenrath Gorger
+1 Dauntless Bodyguard
+1 Monastery Swiftspear
+1 Jackal Pup
+1 Burst Lightning
+1 Chain Lightning
+1 Arc Lightning
+1 Umezawa's Jitte
+1 Selfless Spirit
+1 Earthshaker Khenra
+1 Imposing Sovereign
+1 Scrapheap Scrounger
+1 Hellspark Elemental
+1 Phyrexian Revoker
+1 Sword of War and Peace
+1 Grafted Wargear
+1 Alesha, Who Smiles at Death
+1 Sulfuric Vortex
+1 Fiery Confluence
+1 Chandra, Torch of Defiance
+1 Ravages of War
+1 Ajani Vengeant

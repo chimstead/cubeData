@@ -1,0 +1,50 @@
+1 [4ED:363] Strip Mine
+1 [ICE:244] Fyndhorn Elves
+1 [M19:196] Reclamation Sage
+1 [NPH:1] Karn Liberated
+1 [NPH:103] Beast Within
+1 [UDS:118] Rofellos, Llanowar Emissary
+1 [HOU:129] Ramunap Excavator
+1 [THS:180] Sylvan Caryatid
+1 [FUT:161] Coalition Relic
+1 [M12:217] Solemn Simulacrum
+1 [3ED:194] Fastbond
+1 [FRF:1] Ugin, the Spirit Dragon
+1 [ELD:171] Questing Beast
+1 [ULG:129] Memory Jar
+1 [SOM:223] Wurmcoil Engine
+1 [M19:314] Llanowar Elves
+1 [WWK:123] Everflowing Chalice
+1 [VMA:266] Coercive Portal
+1 [ZEN:172] Oracle of Mul Daya
+1 [AER:181] Walking Ballista
+1 [2ED:265] Mox Ruby
+1 [NEM:139] Tangle Wire
+1 [WAR:169] Nissa, Who Shakes the World
+1 [CON:87] Noble Hierarch
+1 [5ED:408] Winter Orb
+1 [TSB:89] Wall of Roots
+5 [LEB:302] Forest
+6 [LEB:301] Forest
+3 [LEB:300] Forest
+SB: 1 [EXO:115] Oath of Druids
+SB: 1 [MH1:13] Giver of Runes
+SB: 1 [M11:154] Pyroclasm
+SB: 1 [NPH:161] Sword of War and Peace
+SB: 1 [ZEN:11] Emeria Angel
+SB: 1 [M13:22] Oblivion Ring
+SB: 1 [3ED:214] Regrowth
+SB: 1 [ISD:105] Liliana of the Veil
+SB: 1 [MRD:199] Lightning Greaves
+SB: 1 [DIS:133] Trygon Predator
+SB: 1 [MBS:46] Massacre Wurm
+SB: 1 [TMP:183] Jackal Pup
+SB: 1 [WWK:108] Nature's Claim
+SB: 1 [4ED:6] Balance
+SB: 1 [DKA:24] Thalia, Guardian of Thraben
+SB: 1 [WAR:160] Finale of Devastation
+SB: 1 [JR:97] Ravages of War
+SB: 1 [GRN:152] Assassin's Trophy
+SB: 1 [RAV:262] Golgari Signet
+LAYOUT MAIN:(1,9)(CMC,false,70)|([4ED:363],[2ED:265],[LEB:302],[LEB:302],[LEB:301],[LEB:302],[LEB:301],[LEB:302],[LEB:300],[LEB:301],[LEB:301],[LEB:301],[LEB:300],[LEB:300],[LEB:301],[LEB:302])([ICE:244],[3ED:194],[M19:314],[CON:87])([UDS:118],[THS:180],[5ED:408],[TSB:89],[WWK:123],[AER:181])([M19:196],[NPH:103],[HOU:129],[FUT:161],[NEM:139])([M12:217],[ELD:171],[VMA:266],[ZEN:172])([ULG:129],[WAR:169])([SOM:223])([NPH:1])([FRF:1])
+LAYOUT SIDEBOARD:(1,6)(COLOR,false,70)|([NPH:161],[MRD:199],[RAV:262])([ISD:105],[MBS:46])([EXO:115],[3ED:214],[WWK:108])([M11:154],[TMP:183])([MH1:13],[ZEN:11],[M13:22],[4ED:6],[DKA:24],[JR:97])([DIS:133],[GRN:152])

@@ -1,3 +1,6 @@
+2018
+3.18
+3.31.18
 15 Mountain
 1 Mutavault
 1 Falkenrath Gorger
@@ -8,7 +11,7 @@
 1 Chain Lightning
 1 Lightning Bolt
 1 Young Pyromancer
-1 Stormblood Beserker
+1 Stormblood Berserker
 1 Abbot of Keral Keep
 1 Hellspark Elemental
 1 Arc Trail

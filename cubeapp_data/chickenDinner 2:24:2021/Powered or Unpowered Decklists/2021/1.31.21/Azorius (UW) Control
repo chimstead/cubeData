@@ -1,0 +1,51 @@
+1 [2XM:11] Council's Judgment
+1 [M12:39] Sun Titan
+1 [RTR:200] Sphinx's Revelation
+1 [THB:4] Banishing Light
+1 [M13:22] Oblivion Ring
+1 [PLC:25] Mana Tithe
+1 [FRF:20] Monastery Mentor
+1 [DIS:159] Azorius Signet
+1 [M21:17] Faith's Fetters
+1 [ALA:9] Elspeth, Knight-Errant
+1 [GPT:32] Repeal
+1 [10E:61] Wrath of God
+1 [SOI:44] Thraben Inspector
+1 [M12:16] Gideon Jura
+1 [RAV:63] Remand
+1 [4ED:64] Control Magic
+1 [KTK:36] Dig Through Time
+1 [WAR:221*] Teferi, Time Raveler
+1 [PZ2:65681] Fractured Identity
+1 [7ED:67] Counterspell
+1 [ELD:281] Brazen Borrower
+1 [MOR:55] Vendilion Clique
+1 [M12:72] Phantasmal Image
+1 [MH1:244] Prismatic Vista
+1 [KTK:233] Flooded Strand
+1 [SUM:289] Tundra
+4 [2XM:375] Island
+3 [2XM:376] Island
+4 [2XM:374] Plains
+3 [2XM:373] Plains
+SB: 1 [APC:128] Fire // Ice
+SB: 1 [NEM:17] Parallax Wave
+SB: 1 [6ED:19] Enlightened Tutor
+SB: 1 [ELD:287] Murderous Rider
+SB: 1 [FRF:87] Tasigur, the Golden Fang
+SB: 1 [SOI:5] Archangel Avacyn
+SB: 1 [IKO:232] Yorion, Sky Nomad
+SB: 1 [NEM:139] Tangle Wire
+SB: 1 [SOM:169] Kuldotha Forgemaster
+SB: 1 [DKA:93] Hellrider
+SB: 1 [AVR:166] Zealous Conscripts
+SB: 1 [HOU:83] Abrade
+SB: 1 [KLD:4] Angel of Invention
+SB: 1 [RAV:213] Lightning Helix
+SB: 1 [JUD:139] Mirari's Wake
+SB: 1 [SUM:284] Plateau
+SB: 1 [6ED:83] Mystical Tutor
+SB: 1 [XLN:1] Adanto Vanguard
+SB: 1 [M12:12] Day of Judgment
+LAYOUT MAIN:(1,7)(CMC,false,50)|([2XM:375],[2XM:375],[2XM:375],[2XM:375],[2XM:376],[2XM:376],[2XM:376],[2XM:374],[2XM:374],[2XM:373],[2XM:374],[2XM:373],[2XM:373],[2XM:374],[MH1:244],[KTK:233],[SUM:289])([PLC:25],[SOI:44])([DIS:159],[RAV:63],[7ED:67],[M12:72],[ELD:281])([2XM:11],[THB:4],[M13:22],[FRF:20],[WAR:221*],[MOR:55])([M21:17],[ALA:9],[10E:61],[4ED:64],[GPT:32])([M12:16],[PZ2:65681])([M12:39],[RTR:200],[KTK:36])
+LAYOUT SIDEBOARD:(1,7)(COLOR,false,50)|([NEM:139],[SOM:169],[6ED:19])([ELD:287],[FRF:87])([DKA:93],[AVR:166],[HOU:83])([NEM:17],[SOI:5],[KLD:4],[XLN:1])([APC:128],[IKO:232],[RAV:213],[M12:12])([6ED:83])([SUM:284])

@@ -1,0 +1,54 @@
+1 [MMQ:324] Rishadan Port
+1 [4ED:361] Mishra's Factory
+1 [MH1:247] Sunbaked Canyon
+1 [ULG:14] Mother of Runes
+1 [EMA:123] Chain Lightning
+1 [CHK:19] Isamaru, Hound of Konda
+1 [EVE:139] Figure of Destiny
+1 [ISD:164] Stromkirk Noble
+1 [ZEN:119] Burst Lightning
+1 [ODY:193] Firebolt
+1 [MRD:146] Bonesplitter
+1 [DKA:24] Thalia, Guardian of Thraben
+1 [KLD:235] Smuggler's Copter
+1 [WWK:20] Stoneforge Mystic
+1 [AER:87] Kari Zev, Skyship Raider
+1 [XLN:1] Adanto Vanguard
+1 [DDN:23] Arc Trail
+1 [RAV:213] Lightning Helix
+1 [DST:148] Sword of Fire and Ice
+1 [EMN:46] Thalia, Heretic Cathar
+1 [NEM:139] Tangle Wire
+1 [6ED:4] Armageddon
+1 [DKA:93] Hellrider
+1 [SCG:106] Sulfuric Vortex
+1 [EMN:130a] Hanweir Garrison
+1 [TOR:100] Grim Lavamancer
+1 [MMQ:343] Mountain
+4 [MMQ:344] Mountain
+3 [MMQ:345] Mountain
+1 [MMQ:346] Mountain
+1 [MMQ:332] Plains
+1 [MMQ:334] Plains
+3 [MMQ:331] Plains
+SB: 1 [KLD:110] Chandra, Torch of Defiance
+SB: 1 [M20:200] Voracious Hydra
+SB: 1 [OGW:104] Chandra, Flamecaller
+SB: 1 [NPH:4] Blade Splicer
+SB: 1 [VIS:79] Fireblast
+SB: 1 [7ED:57] Wrath of God
+SB: 1 [CN2:71] Selvala's Stampede
+SB: 1 [MH1:228] Sword of Sinew and Steel
+SB: 1 [THB:148] Phoenix of Ash
+SB: 1 [NPH:42] Phyrexian Metamorph
+SB: 1 [5DN:118] Engineered Explosives
+SB: 1 [AVR:166] Zealous Conscripts
+SB: 1 [GRN:103] Goblin Cratermaker
+SB: 1 [MIR:253] Wall of Roots
+SB: 1 [MBS:1] Accorder Paladin
+SB: 1 [5DN:126] Grafted Wargear
+SB: 1 [LEG:185] Eureka
+SB: 1 [ZEN:14] Journey to Nowhere
+SB: 1 [THS:122] Firedrinker Satyr
+LAYOUT MAIN:(1,5)(CMC,false,21)|([MMQ:324],[4ED:361],[MH1:247],[MMQ:343],[MMQ:344],[MMQ:344],[MMQ:345],[MMQ:344],[MMQ:344],[MMQ:345],[MMQ:345],[MMQ:346],[MMQ:332],[MMQ:334],[MMQ:331],[MMQ:331],[MMQ:331])([ULG:14],[EMA:123],[CHK:19],[EVE:139],[ISD:164],[ZEN:119],[ODY:193],[MRD:146],[TOR:100])([DKA:24],[KLD:235],[WWK:20],[AER:87],[XLN:1],[DDN:23],[RAV:213])([DST:148],[EMN:46],[NEM:139],[SCG:106],[EMN:130a])([6ED:4],[DKA:93])
+LAYOUT SIDEBOARD:(1,7)(CMC,false,40)|([5DN:118])([THS:122])([M20:200],[GRN:103],[MIR:253],[MBS:1],[ZEN:14])([NPH:4],[MH1:228],[THB:148],[5DN:126])([KLD:110],[7ED:57],[NPH:42],[LEG:185])([AVR:166])([OGW:104],[VIS:79],[CN2:71])

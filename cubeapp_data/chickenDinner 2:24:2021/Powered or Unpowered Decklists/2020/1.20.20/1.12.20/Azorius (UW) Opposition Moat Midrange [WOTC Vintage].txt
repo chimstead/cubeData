@@ -1,0 +1,49 @@
+1 [XLN:81] Spell Pierce
+1 [LEG:65] Mana Drain
+1 [GPT:155] Orzhov Signet
+1 [MH1:37] Winds of Abandon
+1 [ROE:53] Wall of Omens
+1 [FUT:161] Coalition Relic
+1 [VMA:20] Council's Judgment
+1 [WAR:13] Gideon Blackblade
+1 [WAR:221] Teferi, Time Raveler
+1 [ZEN:11] Emeria Angel
+1 [BFZ:29] Gideon, Ally of Zendikar
+1 [10E:61] Wrath of God
+1 [JR:97] Ravages of War
+1 [LEG:28] Moat
+1 [ALA:9] Elspeth, Knight-Errant
+1 [MOR:22] Reveillark
+1 [C17:37] Fractured Identity
+1 [DOM:26] Lyra Dawnbringer
+1 [SOI:5] Archangel Avacyn
+1 [M11:7] Baneslayer Angel
+1 [THS:9] Elspeth, Sun's Champion
+1 [SOI:44] Thraben Inspector
+1 [7ED:92] Opposition
+1 [2ED:263] Mox Jet
+1 [SOM:229] Seachrome Coast
+1 [WWK:133] Celestial Colonnade
+6 [UGL:85] Island
+8 [UGL:84] Plains
+SB: 1 [3ED:286] Scrubland
+SB: 1 [AER:57] Fatal Push
+SB: 1 [NPH:9] Elesh Norn, Grand Cenobite
+SB: 1 [10E:163] Nekrataal
+SB: 1 [ULG:49] Bone Shredder
+SB: 1 [TSB:55] Avalanche Riders
+SB: 1 [SHM:229] Kitchen Finks
+SB: 1 [APC:126] Vindicate
+SB: 1 [EVE:6] Flickerwisp
+SB: 1 [ISD:105] Liliana of the Veil
+SB: 1 [FEM:38a] Hymn to Tourach
+SB: 1 [KLD:235] Smuggler's Copter
+SB: 1 [ALA:202] Tidehollow Sculler
+SB: 1 [DKA:140] Huntmaster of the Fells
+SB: 1 [TOR:77] Putrid Imp
+SB: 1 [M12:23] Honor of the Pure
+SB: 1 [ROE:33] Linvala, Keeper of Silence
+SB: 1 [RNA:27] Tithe Taker
+SB: 1 [ZEN:219] Marsh Flats
+LAYOUT MAIN:(1,7)(CMC,false,50)|([2ED:263],[SOM:229],[WWK:133],[UGL:85],[UGL:85],[UGL:85],[UGL:85],[UGL:85],[UGL:85],[UGL:84],[UGL:84],[UGL:84],[UGL:84],[UGL:84],[UGL:84],[UGL:84],[UGL:84])([XLN:81],[SOI:44])([LEG:65],[GPT:155],[MH1:37],[ROE:53])([FUT:161],[VMA:20],[WAR:13],[WAR:221])([ZEN:11],[BFZ:29],[10E:61],[JR:97],[LEG:28],[ALA:9],[7ED:92])([MOR:22],[C17:37],[DOM:26],[SOI:5],[M11:7])([THS:9])
+LAYOUT SIDEBOARD:(1,6)(CMC,false,50)|([3ED:286],[ZEN:219])([AER:57],[TOR:77])([FEM:38a],[KLD:235],[ALA:202],[M12:23],[RNA:27])([ULG:49],[SHM:229],[APC:126],[EVE:6],[ISD:105])([10E:163],[TSB:55],[DKA:140],[ROE:33])([NPH:9])

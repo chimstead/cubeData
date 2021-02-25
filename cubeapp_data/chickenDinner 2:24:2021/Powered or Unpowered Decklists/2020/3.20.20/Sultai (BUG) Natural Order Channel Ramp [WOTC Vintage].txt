@@ -1,0 +1,49 @@
+1 [RNA:131] Incubation Druid
+1 [M12:188] Primeval Titan
+1 [THS:180] Sylvan Caryatid
+1 [PUMA:U22] Leovold, Emissary of Trest
+1 [ROE:12] Ulamog, the Infinite Gyre
+1 [RAV:161] Elves of Deep Shadow
+1 [M13:160] Arbor Elf
+1 [NPH:42] Phyrexian Metamorph
+1 [ELD:197] Oko, Thief of Crowns
+1 [VIS:114] Natural Order
+1 [DIS:133] Trygon Predator
+1 [ROE:190] Joraga Treespeaker
+1 [MBS:81] Green Sun's Zenith
+1 [WAR:169] Nissa, Who Shakes the World
+1 [ELD:171] Questing Beast
+1 [2ED:84] Time Walk
+1 [INV:57] Fact or Fiction
+1 [ULG:126] Grim Monolith
+1 [THS:188] Ashiok, Nightmare Weaver
+1 [SOI:233] Tireless Tracker
+1 [ZEN:172] Oracle of Mul Daya
+1 [ICE:244] Fyndhorn Elves
+1 [4ED:236] Channel
+1 [AVR:172] Craterhoof Behemoth
+1 [STH:138] Mox Diamond
+1 [3ED:283] Bayou
+1 [KLD:243] Blooming Marsh
+1 [OGW:171] Hissing Quagmire
+1 [USG:321] Gaea's Cradle
+6 [THB:254] Forest
+5 [THB:251] Island
+SB: 1 [RIX:82] Ravenous Chupacabra
+SB: 1 [THS:90] Hero's Downfall
+SB: 1 [SOM:225] Copperline Gorge
+SB: 1 [MH1:217] Wrenn and Six
+SB: 1 [TOR:77] Putrid Imp
+SB: 1 [ELD:287] Murderous Rider
+SB: 1 [HOU:129] Ramunap Excavator
+SB: 1 [FRF:145] Whisperwood Elemental
+SB: 1 [GRN:183] Knight of Autumn
+SB: 1 [NPH:153] Shrine of Burning Rage
+SB: 1 [M12:72] Phantasmal Image
+SB: 1 [4ED:6] Balance
+SB: 1 [VIS:64] Necromancy
+SB: 1 [PLC:25] Mana Tithe
+SB: 1 [DIS:165] Rakdos Signet
+SB: 1 [M19:196] Reclamation Sage
+LAYOUT MAIN:(1,4)(CMC,false,69)|([STH:138],[3ED:283],[KLD:243],[OGW:171],[USG:321],[THB:254],[THB:254],[THB:254],[THB:254],[THB:254],[THB:254],[THB:251],[THB:251],[THB:251],[THB:251],[THB:251])([RAV:161],[M13:160],[ROE:190],[MBS:81],[ICE:244],[RNA:131],[THS:180],[2ED:84],[ULG:126],[4ED:236])([PUMA:U22],[ELD:197],[DIS:133],[THS:188],[SOI:233],[NPH:42],[VIS:114],[ELD:171],[INV:57],[ZEN:172])([WAR:169],[M12:188],[AVR:172],[ROE:12])
+LAYOUT SIDEBOARD:(1,1)(COLOR,false,50)|([SOM:225],[NPH:153],[DIS:165],[RIX:82],[THS:90],[MH1:217],[TOR:77],[ELD:287],[HOU:129],[FRF:145],[GRN:183],[M12:72],[4ED:6],[VIS:64],[PLC:25],[M19:196])

@@ -1,0 +1,49 @@
+1 [ICE:244] Fyndhorn Elves
+1 [6ED:217] Birds of Paradise
+1 [LEG:207] Sylvan Library
+1 [RAV:163] Farseek
+1 [BOK:163] Umezawa's Jitte
+1 [ULG:126] Grim Monolith
+1 [THS:180] Sylvan Caryatid
+1 [MH1:37] Winds of Abandon
+1 [STH:138] Mox Diamond
+1 [SHM:229] Kitchen Finks
+1 [5DN:86] Eternal Witness
+1 [GRN:183] Knight of Autumn
+1 [JOU:5] Banishing Light
+1 [EVE:6] Flickerwisp
+1 [NPH:4] Blade Splicer
+1 [OGW:138] Nissa, Voice of Zendikar
+1 [NEM:17] Parallax Wave
+1 [CN2:18] Palace Jailer
+1 [MBS:92] Thrun, the Last Troll
+1 [XLN:179] Carnage Tyrant
+1 [IKO:175] Vivien, Monsters' Advocate
+1 [ICE:326] Jeweled Amulet
+1 [MOR:22] Reveillark
+1 [M21:183] Garruk, Unleashed
+1 [IKO:248] Indatha Triome
+1 [MH1:246] Silent Clearing
+1 [ZEN:219] Marsh Flats
+1 [RAV:284] Temple Garden
+7 [GUR:1] Forest
+5 [GUR:4] Plains
+SB: 1 [VIS:72] Vampiric Tutor
+SB: 1 [RTR:73] Pack Rat
+SB: 1 [SOI:5] Archangel Avacyn
+SB: 1 [TSB:6] Disenchant
+SB: 1 [PTK:104] Burning of Xinye
+SB: 1 [EMN:46] Thalia, Heretic Cathar
+SB: 1 [MH1:229] Sword of Truth and Justice
+SB: 1 [ONS:319] Grand Coliseum
+SB: 1 [SHM:23] Spectral Procession
+SB: 1 [LEG:26] Land Tax
+SB: 1 [IKO:250] Ketria Triome
+SB: 1 [P02:12] Armageddon
+SB: 1 [APC:126] Vindicate
+SB: 1 [ALL:22a] Arcane Denial
+SB: 1 [SHM:135] Woodfall Primus
+SB: 1 [VIS:114] Natural Order
+SB: 1 [FUT:153] Tarmogoyf
+LAYOUT MAIN:(1,8)(CMC,false,77)|([GUR:1],[GUR:1],[GUR:1],[GUR:1],[GUR:1],[GUR:1],[GUR:1],[GUR:4],[GUR:4],[GUR:4],[GUR:4],[GUR:4])([IKO:248],[ZEN:219],[MH1:246],[RAV:284])([ICE:326],[STH:138],[6ED:217],[ICE:244])([RAV:163],[ULG:126],[THS:180],[LEG:207],[BOK:163],[MH1:37])([JOU:5],[NPH:4],[5DN:86],[EVE:6],[SHM:229],[GRN:183],[OGW:138])([M21:183],[CN2:18],[NEM:17],[MBS:92])([MOR:22],[IKO:175])([XLN:179])
+LAYOUT SIDEBOARD:(1,8)(CMC,false,69)|([ONS:319],[IKO:250])([VIS:72],[LEG:26])([RTR:73],[TSB:6],[ALL:22a],[FUT:153])([EMN:46],[MH1:229],[APC:126])([P02:12],[VIS:114])([SOI:5])([PTK:104],[SHM:23])([SHM:135])

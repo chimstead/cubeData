@@ -1,4 +1,7 @@
-3 Forest 
+2017
+12.17
+12.17.17
+3 Forest
 3 Island
 3 Mountain
 1 Karplusan Forest
@@ -6,7 +9,7 @@
 1 Steam Vents
 1 Stomping Ground
 1 Wandering Fumarole
-1 Windswept Heath 
+1 Windswept Heath
 1 Wooded Foothills
 1 Yavimaya Coast
 1 Abrade
@@ -25,12 +28,10 @@
 1 Through the Breach
 1 Thundermaw Hellkite
 1 Treachery
-1 Selvala’s Stampede
+1 Selvala's Stampede
 1 Angel of Serenity
 1 Dragonlord Atarka
 1 Elesh Norn, Grand Cenobite
 1 Sphinx of the Steel Wind
 1 Woodfall Primus
 1 Ulamog, the Ceaseless Hunger
-
-

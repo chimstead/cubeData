@@ -1,0 +1,53 @@
+1 [4ED:147] Mind Twist
+1 [CON:15] Path to Exile
+1 [GPT:150] Gruul Signet
+1 [CMA:27] Unexpectedly Absent
+1 [XLN:48] Chart a Course
+1 [ROE:53] Wall of Omens
+1 [M12:72] Phantasmal Image
+1 [BNG:5] Brimaz, King of Oreskos
+1 [NPH:4] Blade Splicer
+1 [JOU:5] Banishing Light
+1 [SOI:242] Anguished Unmaking
+1 [AKH:14] Gideon of the Trials
+1 [INV:57] Fact or Fiction
+1 [NEM:17] Parallax Wave
+1 [ALA:9] Elspeth, Knight-Errant
+1 [BBD:122] Mystic Confluence
+1 [DOM:207] Teferi, Hero of Dominaria
+1 [AKH:1] Angel of Sanctions
+1 [KLD:67] Torrential Gearhulk
+1 [DOM:26] Lyra Dawnbringer
+1 [KLD:4] Angel of Invention
+1 [ZEN:11] Emeria Angel
+1 [DST:148] Sword of Fire and Ice
+1 [2ED:262] Mox Emerald
+1 [3ED:289] Tundra
+1 [ZEN:229] Verdant Catacombs
+1 [2ED:263] Mox Jet
+1 [RNA:251] Hallowed Fountain
+1 [RNA:248] Godless Shrine
+1 [KLD:245] Concealed Courtyard
+1 [2ED:266] Mox Sapphire
+1 [ZEN:220] Misty Rainforest
+1 [4ED:363] Strip Mine
+1 [3ED:286] Scrubland
+1 [3ED:297] Island
+1 [3ED:296] Island
+2 [3ED:292] Plains
+1 [3ED:294] Plains
+1 [3ED:295] Island
+SB: 1 [OGW:104] Chandra, Flamecaller
+SB: 1 [DTK:216] Dragonlord Atarka
+SB: 1 [ZEN:119] Burst Lightning
+SB: 1 [ODY:117] Braids, Cabal Minion
+SB: 1 [EXO:72] Recurring Nightmare
+SB: 1 [DOM:129] Goblin Chainwhirler
+SB: 1 [M12:39] Sun Titan
+SB: 1 [ROE:33] Linvala, Keeper of Silence
+SB: 1 [CHK:193] Through the Breach
+SB: 1 [FRF:27] Soulfire Grand Master
+SB: 1 [WWK:144] Stirring Wildwood
+SB: 1 [3ED:294] Plains
+LAYOUT MAIN:(1,7)(CMC,false,50)|([2ED:262],[3ED:289],[ZEN:229],[2ED:263],[RNA:251],[RNA:248],[KLD:245],[2ED:266],[ZEN:220],[4ED:363],[3ED:286],[3ED:297],[3ED:295],[3ED:296],[3ED:292],[3ED:294],[3ED:292])([4ED:147],[CON:15])([GPT:150],[CMA:27],[XLN:48],[ROE:53],[M12:72])([BNG:5],[NPH:4],[JOU:5],[SOI:242],[AKH:14],[DST:148])([INV:57],[NEM:17],[ALA:9],[ZEN:11])([BBD:122],[DOM:207],[AKH:1],[DOM:26],[KLD:4])([KLD:67])
+LAYOUT SIDEBOARD:(1,8)(CMC,false,50)|([WWK:144],[3ED:294])([ZEN:119])([FRF:27])([EXO:72],[DOM:129])([ODY:117],[ROE:33])([CHK:193])([OGW:104],[M12:39])([DTK:216])

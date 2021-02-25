@@ -1,3 +1,6 @@
+2017
+12.17
+12.3.17
 2 Plains
 4 Swamp
 1 Ash Barrens
@@ -34,4 +37,3 @@
 1 Palace Jailer
 1 Smokestack
 1 Sorin, Lord of Innistrad
-

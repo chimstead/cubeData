@@ -1,0 +1,31 @@
+8 Island
+3 Swamp
+1 Plains
+1 City of Brass
+1 Polluted Delta
+1 Scrubland
+1 Tundra
+1 Karakas
+1 Duress
+1 Path to Exile
+1 Sensei's Divining Top
+1 Vampiric Tutor
+1 Engineered Explosives
+1 Arcane Denial
+1 Diabolic Edict
+1 Guardian Idol
+1 Talisman of Progress
+1 Jace Beleren
+1 Ophiomancer
+1 Toxic Deluge
+1 True-Name Nemesis
+1 Vendilion Clique
+1 Vindicate
+1 Control Magic
+1 Cryptic Command
+1 Fact or Fiction
+1 Venser, Shaper Savant
+1 Fractured Identity
+1 Mulldrifter
+1 Mystic Confluence
+1 Torrential Gearhulk

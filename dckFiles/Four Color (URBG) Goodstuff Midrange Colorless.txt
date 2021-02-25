@@ -1,3 +1,6 @@
+2018
+5.18
+5.26.18
 4 Forest
 1 Island
 1 Mountain
@@ -34,4 +37,4 @@
 1 Thundermaw Hellkite
 1 Chandra, Flamecaller
 1 Inferno Titan
-1 Nicol Bolas, God-Pharoah
+1 Nicol Bolas, God-Pharaoh

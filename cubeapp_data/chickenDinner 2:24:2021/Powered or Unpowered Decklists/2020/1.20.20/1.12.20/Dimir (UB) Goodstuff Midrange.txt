@@ -1,0 +1,52 @@
+1 [ELD:244] Fabled Passage
+1 [KLD:199] Bomat Courier
+1 [AER:181] Walking Ballista
+1 [PLC:85] Damnation
+1 [DOM:1] Karn, Scion of Urza
+1 [ORI:83] Whirler Rogue
+1 [C13:177] Baleful Strix
+1 [EMA:57] Jace, the Mind Sculptor
+1 [USG:330] Tolarian Academy
+1 [5DN:27] Condescend
+1 [EMA:42] Control Magic
+1 [ORI:229] Hangarback Walker
+1 [V12:10] Maze of Ith
+1 [LRW:88] Sower of Temptation
+1 [MRD:256] Talisman of Progress
+1 [BFZ:109] Drana, Liberator of Malakir
+1 [ELD:101] Rankle, Master of Pranks
+1 [NPH:57] Dismember
+1 [M12:55] Frost Titan
+1 [ELD:235] Stonecoil Serpent
+1 [ELD:39] Brazen Borrower
+1 [GRN:69] Doom Whisperer
+1 [WAR:248] Karn's Bastion
+1 [IMA:47] Consecrated Sphinx
+1 [MRD:254] Talisman of Impulse
+1 [5ED:413] City of Brass
+1 [MRD:257] Talisman of Unity
+1 [V13:8] Tangle Wire
+1 [TMP:315] Ancient Tomb
+1 [A25:223] Coalition Relic
+2 [ELD:256] Island
+2 [ELD:254] Island
+2 [ELD:257] Island
+2 [ELD:258] Swamp
+2 [ELD:259] Swamp
+SB: 1 [THB:148] Phoenix of Ash
+SB: 1 [A25:186] Rancor
+SB: 1 [M14:148] Ogre Battledriver
+SB: 1 [TSP:161] Greater Gargadon
+SB: 1 [DKA:93] Hellrider
+SB: 1 [DOM:143] Siege-Gang Commander
+SB: 1 [UMA:155] Young Pyromancer
+SB: 1 [RTR:86] Ash Zealot
+SB: 1 [SOM:33] Grand Architect
+SB: 1 [HOU:31] Champion of Wits
+SB: 1 [XLN:48] Chart a Course
+SB: 1 [V10:13] Sundering Titan
+SB: 1 [C16:54] Crystalline Crawler
+SB: 1 [NPH:19] Porcelain Legionnaire
+SB: 1 [C19:58] Scroll of Fate
+LAYOUT MAIN:(1,7)(CMC,false,50)|([TMP:315],[5ED:413],[ELD:244],[WAR:248],[V12:10],[USG:330],[ELD:256],[ELD:256],[ELD:254],[ELD:257],[ELD:257],[ELD:258],[ELD:259],[ELD:259],[ELD:258],[ELD:254])([KLD:199],[5DN:27],[ELD:235])([C13:177],[MRD:254],[MRD:256],[MRD:257],[AER:181],[ORI:229])([NPH:57],[BFZ:109],[V13:8],[A25:223])([EMA:42],[PLC:85],[EMA:57],[DOM:1],[ELD:101],[LRW:88],[ORI:83])([ELD:39],[GRN:69])([IMA:47],[M12:55])
+LAYOUT SIDEBOARD:(1,7)(CMC,false,50)|([A25:186])([RTR:86],[UMA:155],[XLN:48])([THB:148],[SOM:33],[HOU:31],[NPH:19],[C19:58])([DKA:93],[M14:148],[C16:54])([DOM:143])([V10:13])([TSP:161])

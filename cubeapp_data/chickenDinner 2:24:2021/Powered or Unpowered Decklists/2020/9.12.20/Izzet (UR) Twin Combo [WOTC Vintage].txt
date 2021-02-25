@@ -1,0 +1,49 @@
+1 [ELD:122] Embereth Shieldbreaker
+1 [NPH:19] Porcelain Legionnaire
+1 [M15:225] Phyrexian Revoker
+1 [M19:130] Banefire
+1 [XLN:81] Spell Pierce
+1 [LRW:56] Cryptic Command
+1 [PLS:60] Flametongue Kavu
+1 [KTK:36] Dig Through Time
+1 [M12:72] Phantasmal Image
+1 [M11:70] Preordain
+1 [TSP:48] Ancestral Vision
+1 [ROE:165] Splinter Twin
+1 [GPT:32] Repeal
+1 [KLD:235] Smuggler's Copter
+1 [XLN:48] Chart a Course
+1 [TSB:55] Avalanche Riders
+1 [NPH:35] Gitaxian Probe
+1 [UDS:50] Treachery
+1 [FUT:46] Venser, Shaper Savant
+1 [NPH:33] Deceiver Exarch
+1 [OGW:110] Goblin Dark-Dwellers
+1 [MH1:52] Force of Negation
+1 [M15:145] Goblin Rabblemaster
+1 [KLD:249] Spirebluff Canal
+1 [GRN:257] Steam Vents
+1 [OGW:182] Wandering Fumarole
+7 [UNH:137] Island
+7 [UNH:139] Mountain
+SB: 1 [M12:145] Grim Lavamancer
+SB: 1 [EVE:139] Figure of Destiny
+SB: 1 [SHM:229] Kitchen Finks
+SB: 1 [MBS:10] Leonin Relic-Warder
+SB: 1 [APC:114] Pernicious Deed
+SB: 1 [MB1:206] Recruiter of the Guard
+SB: 1 [FUT:101] Magus of the Moon
+SB: 1 [THB:229] Uro, Titan of Nature's Wrath
+SB: 1 [C16:195] Edric, Spymaster of Trest
+SB: 1 [ROE:53] Wall of Omens
+SB: 1 [SHM:23] Spectral Procession
+SB: 1 [CON:15] Path to Exile
+SB: 1 [ICE:54] Swords to Plowshares
+SB: 1 [MBS:8] Hero of Bladehold
+SB: 1 [LEG:303] Karakas
+SB: 1 [M14:228] Mutavault
+SB: 1 [C20:106] Unexpectedly Absent
+SB: 1 [MH1:199] Fallen Shinobi
+SB: 1 [THB:308] Thassa's Oracle
+LAYOUT MAIN:(1,8)(CMC,false,51)|([UNH:137],[UNH:137],[UNH:137],[UNH:137],[UNH:137],[UNH:137],[UNH:137],[UNH:139],[UNH:139],[UNH:139],[UNH:139],[UNH:139],[UNH:139],[UNH:139])([KLD:249],[GRN:257],[OGW:182])([NPH:35],[M11:70],[GPT:32],[XLN:81],[TSP:48],[ELD:122])([XLN:48],[M12:72],[M15:225],[KLD:235],[NPH:19])([NPH:33],[MH1:52],[M15:145])([TSB:55],[LRW:56],[PLS:60],[ROE:165],[FUT:46])([OGW:110],[UDS:50])([KTK:36],[M19:130])
+LAYOUT SIDEBOARD:(1,6)(CMC,false,50)|([M12:145],[EVE:139],[CON:15],[ICE:54])([MBS:10],[ROE:53],[C20:106],[THB:308])([SHM:229],[APC:114],[MB1:206],[FUT:101],[THB:229],[C16:195])([MBS:8],[MH1:199])([SHM:23])([LEG:303],[M14:228])

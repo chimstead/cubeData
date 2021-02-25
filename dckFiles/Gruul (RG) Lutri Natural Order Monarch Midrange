@@ -1,0 +1,56 @@
+2021
+1.31.21
+1 [MH1:168] Hexdrinker
+1 [ELD:171] Questing Beast
+1 [MH1:217] Wrenn and Six
+1 [6ED:326] Karplusan Forest
+1 [THS:127] Lightning Strike
+1 [SHM:135] Woodfall Primus
+1 [THB:220] Klothys, God of Destiny
+1 [M13:132] Flames of the Firebrand
+1 [WAR:169*] Nissa, Who Shakes the World
+1 [6ED:217] Birds of Paradise
+1 [CON:87] Noble Hierarch
+1 [MBS:81] Green Sun's Zenith
+1 [VIS:114] Natural Order
+1 [M11:146] Inferno Titan
+1 [LEA:161] Lightning Bolt
+1 [CMR:220] Court of Bounty
+1 [MH1:161] Deep Forest Hermit
+1 [CMD:159] Hornet Queen
+1 [C16:56] Ash Barrens
+1 [CMR:175] Emberwilde Captain
+1 [ICE:244] Fyndhorn Elves
+1 [GPT:165] Stomping Ground
+1 [CMR:170] Court of Ire
+1 [IKO:175] Vivien, Monsters' Advocate
+1 [M15:194] Reclamation Sage
+1 [GRN:103] Goblin Cratermaker
+3 [ELD:267] Forest
+1 [ELD:268] Forest
+4 [ELD:266] Forest
+2 [ELD:269] Forest
+1 [ELD:263] Mountain
+2 [ELD:262] Mountain
+1 [ELD:264] Mountain
+SB: 1 [LRW:78] Pestermite
+SB: 1 [TSP:161] Greater Gargadon
+SB: 1 [TMP:142] Living Death
+SB: 1 [C13:63] True-Name Nemesis
+SB: 1 [MH1:210] Nature's Chant
+SB: 1 [LEG:28] Moat
+SB: 1 [ULG:139] Faerie Conclave
+SB: 1 [ZNR:125] Skyclave Shade
+SB: 1 [DKA:64] Gravecrawler
+SB: 1 [SOI:5] Archangel Avacyn
+SB: 1 [M14:163] Young Pyromancer
+SB: 1 [KTK:66] Bloodsoaked Champion
+SB: 1 [RNA:183] Hydroid Krasis
+SB: 1 [IKO:176] Wilt
+SB: 1 [M21:183] Garruk, Unleashed
+SB: 1 [MBS:92] Thrun, the Last Troll
+SB: 1 [FUT:153] Tarmogoyf
+SB: 1 [OGW:104] Chandra, Flamecaller
+SB: 1 [IKO:227] Lutri, the Spellchaser
+LAYOUT MAIN:(1,9)(CMC,false,67)|([ELD:267],[ELD:268],[ELD:266],[ELD:269],[ELD:269],[ELD:266],[ELD:266],[ELD:267],[ELD:267],[ELD:266],[ELD:263],[ELD:262],[ELD:262],[ELD:264])([C16:56],[6ED:326],[GPT:165])([6ED:217],[ICE:244],[MBS:81],[MH1:168],[LEA:161],[CON:87])([THS:127],[MH1:217],[GRN:103])([M13:132],[THB:220],[M15:194])([CMR:220],[CMR:175],[VIS:114],[ELD:171])([CMR:170],[MH1:161],[WAR:169*],[IKO:175])([M11:146])([CMD:159],[SHM:135])
+LAYOUT SIDEBOARD:(1,7)(COLOR,false,50)|([ULG:139],[IKO:227])([DKA:64],[TMP:142],[ZNR:125],[KTK:66])([LRW:78],[C13:63])([IKO:176],[M21:183],[MBS:92],[FUT:153])([TSP:161],[M14:163],[OGW:104])([SOI:5],[LEG:28])([MH1:210],[RNA:183])

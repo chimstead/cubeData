@@ -1,0 +1,50 @@
+1 [C13:84] Ophiomancer
+1 [WAR:185] Angrath's Rampage
+1 [AER:62] Glint-Sleeve Siphoner
+1 [EMN:93] Liliana, the Last Hope
+1 [MOR:58] Bitterblossom
+1 [M20:126] Chandra, Acolyte of Flame
+1 [RIX:99] Dire Fleet Daredevil
+1 [DTK:224] Kolaghan's Command
+1 [WAR:137] Krenko, Tin Street Kingpin
+1 [RIX:111] Rekindling Phoenix
+1 [WAR:234] Saheeli, Sublime Artificer
+1 [RTR:157] Dreadbore
+1 [5DN:55] Night's Whisper
+1 [AKH:134] Glorybringer
+1 [RAV:81] Dark Confidant
+1 [CN2:41] Custodi Lich
+1 [MH1:145] Seasoned Pyromancer
+1 [AER:142] Aethersphere Harvester
+1 [KLD:110] Chandra, Torch of Defiance
+1 [GRN:109] Legion Warboss
+1 [LEA:277] Badlands
+1 [ONS:313] Bloodstained Mire
+1 [5ED:424] Sulfurous Springs
+1 [EXP:18] Bloodstained Mire
+5 [UST:215] Mountain
+1 [UST:212] Plains
+3 [UST:214] Swamp
+1 [RAV:213] Lightning Helix
+1 [FRF:20] Monastery Mentor
+1 [RNA:85] Spawn of Mayhem
+1 [MH1:247] Sunbaked Canyon
+1 [RAV:280] Sacred Foundry
+1 [ZEN:219] Marsh Flats
+1 [ZEN:211] Arid Mesa
+SB: 1 [PC2:82] Baleful Strix
+SB: 1 [MIR:80] Mystical Tutor
+SB: 1 [RNA:76] Gutterbones
+SB: 1 [MH1:103] Ransack the Lab
+SB: 1 [CMD:196] Edric, Spymaster of Trest
+SB: 1 [HOU:83] Abrade
+SB: 1 [C17:7] Stalking Leonin
+SB: 1 [XLN:22] Legion's Landing
+SB: 1 [XLN:118] Ruin Raider
+SB: 1 [RNA:27] Tithe Taker
+SB: 1 [FRF:75] Mardu Strike Leader
+SB: 1 [AKH:88] Dread Wanderer
+SB: 1 [ZEN:83] Bloodghast
+SB: 1 [M20:127] Chandra, Awakened Inferno
+LAYOUT MAIN:(1,4)(CMC,false,69)|([LEA:277],[ONS:313],[5ED:424],[EXP:18],[UST:215],[UST:215],[UST:215],[UST:215],[UST:215],[UST:212],[UST:214],[UST:214],[UST:214],[MH1:247],[RAV:280],[ZEN:219],[ZEN:211])([WAR:185],[AER:62],[MOR:58],[RIX:99],[RTR:157],[5DN:55],[RAV:81],[RAV:213])([C13:84],[EMN:93],[M20:126],[DTK:224],[WAR:137],[WAR:234],[MH1:145],[AER:142],[GRN:109],[FRF:20])([RIX:111],[RNA:85],[KLD:110],[AKH:134],[CN2:41])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([PC2:82],[MIR:80],[RNA:76],[AKH:88],[ZEN:83],[MH1:103],[CMD:196],[HOU:83],[M20:127],[C17:7],[XLN:22],[XLN:118],[RNA:27],[FRF:75])

@@ -1,0 +1,49 @@
+1 [TOR:69] Mesmeric Fiend
+1 [VMA:266] Coercive Portal
+1 [PLC:25] Mana Tithe
+1 [LRW:139] Shriekmaw
+1 [RNA:186] Kaya, Orzhov Usurper
+1 [KLD:13] Fairgrounds Warden
+1 [WWK:127] Lodestone Golem
+1 [MBS:8] Hero of Bladehold
+1 [RAV:270] Selesnya Signet
+1 [DKA:12] Lingering Souls
+1 [LRW:133] Oona's Prowler
+1 [ALA:202] Tidehollow Sculler
+1 [MBS:43] Go for the Throat
+1 [BFZ:29] Gideon, Ally of Zendikar
+1 [C13:84] Ophiomancer
+1 [DST:140] Skullclamp
+1 [NPH:4] Blade Splicer
+1 [NPH:19] Porcelain Legionnaire
+1 [GRN:208] Trostani Discordant
+1 [XLN:22] Legion's Landing
+1 [4ED:147] Mind Twist
+1 [3ED:105] Demonic Tutor
+1 [GRN:213] Vraska, Golgari Queen
+1 [6ED:4] Armageddon
+1 [KLD:245] Concealed Courtyard
+1 [WWK:144] Stirring Wildwood
+1 [2ED:262] Mox Emerald
+1 [SOM:228] Razorverge Thicket
+1 [LEG:303] Karakas
+4 [UNH:136] Plains
+7 [UNH:138] Swamp
+SB: 1 [MBS:21] Consecrated Sphinx
+SB: 1 [SHM:229] Kitchen Finks
+SB: 1 [CHK:163] Desperate Ritual
+SB: 1 [NEM:17] Parallax Wave
+SB: 1 [DOM:26] Lyra Dawnbringer
+SB: 1 [LEG:185] Eureka
+SB: 1 [M19:229] Crucible of Worlds
+SB: 1 [THS:33] Spear of Heliod
+SB: 1 [BFZ:239] Lumbering Falls
+SB: 1 [ZEN:223] Scalding Tarn
+SB: 1 [4ED:361] Mishra's Factory
+SB: 1 [M14:228] Mutavault
+SB: 1 [SOI:5] Archangel Avacyn
+SB: 1 [ROE:47] Student of Warfare
+SB: 1 [M12:23] Honor of the Pure
+SB: 1 [MBS:10] Leonin Relic-Warder
+LAYOUT MAIN:(1,7)(CMC,false,44)|([UNH:136],[UNH:136],[UNH:136],[UNH:136],[UNH:138],[UNH:138],[UNH:138],[UNH:138],[UNH:138],[UNH:138],[UNH:138])([KLD:245],[LEG:303],[SOM:228],[WWK:144],[2ED:262])([XLN:22],[PLC:25],[4ED:147],[DST:140])([3ED:105],[MBS:43],[TOR:69],[LRW:133],[RAV:270],[ALA:202],[LRW:139],[NPH:19])([NPH:4],[KLD:13],[RNA:186],[DKA:12],[C13:84])([6ED:4],[VMA:266],[BFZ:29],[MBS:8],[WWK:127],[GRN:213])([GRN:208])
+LAYOUT SIDEBOARD:(1,7)(CMC,false,50)|([CHK:163],[ROE:47])([M12:23],[MBS:10])([SHM:229],[M19:229],[THS:33])([NEM:17],[LEG:185])([DOM:26])([MBS:21],[SOI:5])([BFZ:239],[ZEN:223],[4ED:361],[M14:228])

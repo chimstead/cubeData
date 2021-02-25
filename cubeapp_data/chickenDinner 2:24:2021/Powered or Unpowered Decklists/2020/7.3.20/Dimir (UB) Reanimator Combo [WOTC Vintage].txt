@@ -1,0 +1,53 @@
+1 [MOR:55] Vendilion Clique
+1 [ODY:132] Entomb
+1 [GPT:155] Orzhov Signet
+1 [WWK:115] Terastodon
+1 [ARN:70] Bazaar of Baghdad
+1 [XLN:48] Chart a Course
+1 [RTR:73] Pack Rat
+1 [DIS:159] Azorius Signet
+1 [INV:57] Fact or Fiction
+1 [TSP:73] Riftwing Cloudskate
+1 [MBS:46] Massacre Wurm
+1 [USG:134] Exhume
+1 [ORI:90] Dark Petition
+1 [6ED:19] Enlightened Tutor
+1 [VIS:34] Impulse
+1 [M20:97] Duress
+1 [SOM:226] Darkslick Shores
+1 [VIS:64] Necromancy
+1 [AVR:106] Griselbrand
+1 [3ED:105] Demonic Tutor
+1 [MB1:1603] Mana Crypt
+1 [RAV:63] Remand
+1 [XLN:81] Spell Pierce
+1 [2ED:263] Mox Jet
+1 [ELD:287] Murderous Rider
+1 [ODY:113] Upheaval
+1 [RNA:248] Godless Shrine
+1 [SOM:48] Trinket Mage
+2 [3ED:295] Island
+1 [3ED:296] Island
+3 [3ED:297] Island
+2 [3ED:300] Swamp
+2 [3ED:299] Swamp
+2 [3ED:298] Swamp
+SB: 1 [RNA:47] Pteramander
+SB: 1 [BFZ:239] Lumbering Falls
+SB: 1 [ORI:229] Hangarback Walker
+SB: 1 [AVR:36] Silverblade Paladin
+SB: 1 [M20:226] Golos, Tireless Pilgrim
+SB: 1 [MRD:152] Chrome Mox
+SB: 1 [MBS:43] Go for the Throat
+SB: 1 [PLC:85] Damnation
+SB: 1 [MH1:116] Yawgmoth, Thran Physician
+SB: 1 [NPH:130] Batterskull
+SB: 1 [ULG:38] Palinchron
+SB: 1 [DOM:26] Lyra Dawnbringer
+SB: 1 [FRF:27] Soulfire Grand Master
+SB: 1 [GRN:253] Overgrown Tomb
+SB: 1 [MH1:37] Winds of Abandon
+SB: 1 [C13:84] Ophiomancer
+SB: 1 [EXO:72] Recurring Nightmare
+LAYOUT MAIN:(2,8)(CMC,true,62)|()()([RTR:73])([MOR:55],[SOM:48])()([TSP:73])([MBS:46],[ELD:287])([WWK:115],[AVR:106])([ARN:70],[SOM:226],[MB1:1603],[2ED:263],[RNA:248],[3ED:295],[3ED:296],[3ED:297],[3ED:297],[3ED:295],[3ED:297],[3ED:300],[3ED:299],[3ED:298],[3ED:298],[3ED:300],[3ED:299])([ODY:132],[6ED:19],[M20:97],[XLN:81])([GPT:155],[XLN:48],[DIS:159],[USG:134],[VIS:34],[3ED:105],[RAV:63])([VIS:64])([INV:57])([ORI:90])([ODY:113])()
+LAYOUT SIDEBOARD:(1,8)(COLOR_IDENTITY,false,51)|([ORI:229],[MRD:152],[NPH:130])([MBS:43],[PLC:85],[MH1:116],[C13:84],[EXO:72])([GRN:253])([RNA:47],[ULG:38])([BFZ:239])([AVR:36],[DOM:26],[MH1:37])([FRF:27])([M20:226])

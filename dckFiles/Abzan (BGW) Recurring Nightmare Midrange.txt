@@ -1,9 +1,12 @@
+2017
+12.17
+12.3.17
 5 Forest
 2 Plains
 2 Swamp
 1 Ash Barrens
 1 Brushland
-1 Gaea’s Cradle
+1 Gaea's Cradle
 1 Karakas
 1 Overgrown Tomb
 1 Polluted Delta
@@ -21,7 +24,7 @@
 1 Qasali Pridemage
 1 Regrowth
 1 Survival of the Fittest
-1 Tarmogoyf 
+1 Tarmogoyf
 1 Banishing Light
 1 Courser of Kruphix
 1 Eternal Witness
@@ -32,4 +35,3 @@
 1 Plow Under
 1 Shriekmaw
 1 Thragtusk
-

@@ -1,0 +1,52 @@
+1 [THB:148] Phoenix of Ash
+1 [DTK:210] Surrak, the Hunt Caller
+1 [5DN:126] Grafted Wargear
+1 [JOU:94] Eidolon of the Great Revel
+1 [WWK:141] Raging Ravine
+1 [KLD:110] Chandra, Torch of Defiance
+1 [MH1:247] Sunbaked Canyon
+1 [KTK:248] Windswept Heath
+1 [RNA:122] Biogenic Ooze
+1 [AER:87] Kari Zev, Skyship Raider
+1 [GN2:5] Earthshaker Giant
+1 [THS:180] Sylvan Caryatid
+1 [ROE:190] Joraga Treespeaker
+1 [M15:145] Goblin Rabblemaster
+1 [HOU:129] Ramunap Excavator
+1 [OGW:138] Nissa, Voice of Zendikar
+1 [KTK:249] Wooded Foothills
+1 [ZEN:126] Goblin Guide
+1 [C19:170] Great Oak Guardian
+1 [MRD:254] Talisman of Impulse
+1 [NEM:139] Tangle Wire
+1 [4ED:361] Mishra's Factory
+1 [M15:225] Phyrexian Revoker
+1 [GRN:109] Legion Warboss
+1 [ROE:165] Splinter Twin
+1 [LEG:137] Chain Lightning
+1 [MH1:249] Waterlogged Grove
+1 [BOK:163] Umezawa's Jitte
+1 [AKH:175] Manglehorn
+1 [M12:165] Birds of Paradise
+3 [LEB:300] Forest
+1 [LEB:302] Forest
+1 [LEB:301] Forest
+2 [LEB:299] Mountain
+3 [LEB:297] Mountain
+SB: 1 [MH1:232] Talisman of Curiosity
+SB: 1 [MH1:13] Giver of Runes
+SB: 1 [NPH:153] Shrine of Burning Rage
+SB: 1 [DTK:36] Secure the Wastes
+SB: 1 [5DN:86] Eternal Witness
+SB: 1 [SHM:229] Kitchen Finks
+SB: 1 [DOM:6] Benalish Marshal
+SB: 1 [MH1:231] Talisman of Creativity
+SB: 1 [ISD:6] Champion of the Parish
+SB: 1 [XLN:1] Adanto Vanguard
+SB: 1 [UDS:118] Rofellos, Llanowar Emissary
+SB: 1 [M11:175] Garruk Wildspeaker
+SB: 1 [EVE:139] Figure of Destiny
+SB: 1 [M12:145] Grim Lavamancer
+SB: 1 [MMQ:324] Rishadan Port
+LAYOUT MAIN:(1,5)(COLOR,false,70)|([5DN:126],[4ED:361],[M15:225],[NEM:139],[BOK:163],[MRD:254],[LEB:300],[LEB:300],[LEB:302],[LEB:300],[LEB:301],[LEB:299],[LEB:299],[LEB:297],[LEB:297],[LEB:297])([RNA:122],[M12:165],[GN2:5],[C19:170],[ROE:190],[AKH:175],[OGW:138],[HOU:129],[DTK:210],[THS:180])([LEG:137],[KLD:110],[JOU:94],[ZEN:126],[M15:145],[AER:87],[GRN:109],[THB:148],[ROE:165])([KTK:248],[MH1:249])([MH1:247],[WWK:141],[KTK:249])
+LAYOUT SIDEBOARD:(1,5)(COLOR,false,70)|([MH1:232],[NPH:153],[MH1:231],[MMQ:324])([5DN:86],[UDS:118],[M11:175])([M12:145])([MH1:13],[DTK:36],[DOM:6],[ISD:6],[XLN:1])([SHM:229],[EVE:139])

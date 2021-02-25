@@ -1,0 +1,53 @@
+1 [M20:14] Disenchant
+1 [LRW:139] Shriekmaw
+1 [EMA:108] Toxic Deluge
+1 [ROE:53] Wall of Omens
+1 [LRW:88] Sower of Temptation
+1 [ISD:105] Liliana of the Veil
+1 [ISD:78] Snapcaster Mage
+1 [M12:16] Gideon Jura
+1 [8ED:64] Bribery
+1 [7ED:67] Counterspell
+1 [RTR:44] Jace, Architect of Thought
+1 [M19:306] Nexus of Fate
+1 [THS:188] Ashiok, Nightmare Weaver
+1 [M14:7] Banisher Priest
+1 [ALA:9] Elspeth, Knight-Errant
+1 [GPT:155] Orzhov Signet
+1 [MRD:165] Duplicant
+1 [NPH:130] Batterskull
+1 [VMA:20] Council's Judgment
+1 [DKA:12] Lingering Souls
+1 [TOR:69] Mesmeric Fiend
+1 [M12:55] Frost Titan
+1 [CON:15] Path to Exile
+1 [2ED:264] Mox Pearl
+1 [M15:248] Urborg, Tomb of Yawgmoth
+1 [WWK:134] Creeping Tar Pit
+1 [3ED:289] Tundra
+1 [SOM:226] Darkslick Shores
+1 [GRN:258] Temple Garden
+1 [2ED:266] Mox Sapphire
+1 [ZEN:229] Verdant Catacombs
+1 [GRN:259] Watery Grave
+2 [INV:338] Island
+1 [INV:337] Island
+2 [INV:333] Plains
+1 [INV:331] Plains
+1 [INV:342] Swamp
+1 [INV:341] Swamp
+SB: 1 [UDS:75] Yawgmoth's Bargain
+SB: 1 [GRN:152] Assassin's Trophy
+SB: 1 [TSP:269] Academy Ruins
+SB: 1 [3ED:283] Bayou
+SB: 1 [CN2:22] Recruiter of the Guard
+SB: 1 [KLD:231] Scrapheap Scrounger
+SB: 1 [ALL:28] Force of Will
+SB: 1 [ZEN:13] Iona, Shield of Emeria
+SB: 1 [NPH:9] Elesh Norn, Grand Cenobite
+SB: 1 [AVR:38] Terminus
+SB: 1 [MRD:222] Oblivion Stone
+SB: 1 [CHK:62] Gifts Ungiven
+SB: 1 [FRF:27] Soulfire Grand Master
+LAYOUT MAIN:(1,8)(CMC,false,50)|([2ED:264],[M15:248],[WWK:134],[3ED:289],[SOM:226],[GRN:258],[2ED:266],[ZEN:229],[GRN:259],[INV:338],[INV:338],[INV:337],[INV:333],[INV:331],[INV:333],[INV:342],[INV:341])([CON:15])([M20:14],[ROE:53],[ISD:78],[7ED:67],[GPT:155],[TOR:69])([EMA:108],[ISD:105],[THS:188],[M14:7],[VMA:20],[DKA:12])([LRW:88],[RTR:44],[ALA:9])([LRW:139],[M12:16],[8ED:64],[NPH:130])([MRD:165],[M12:55])([M19:306])
+LAYOUT SIDEBOARD:(1,5)(COLOR,false,50)|([TSP:269],[3ED:283],[KLD:231],[MRD:222])([UDS:75])([ALL:28],[CHK:62])([CN2:22],[ZEN:13],[NPH:9],[AVR:38],[FRF:27])([GRN:152])

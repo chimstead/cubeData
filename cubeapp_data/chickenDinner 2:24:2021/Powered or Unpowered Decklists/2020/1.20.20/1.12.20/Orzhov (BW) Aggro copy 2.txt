@@ -1,0 +1,49 @@
+1 [ISD:97] Diregraf Ghoul
+1 [CHK:19] Isamaru, Hound of Konda
+1 [KTK:66] Bloodsoaked Champion
+1 [ORI:23] Kytheon, Hero of Akros
+1 [DOM:14] Dauntless Bodyguard
+1 [MRD:146] Bonesplitter
+1 [ICE:54] Swords to Plowshares
+1 [MOR:58] Bitterblossom
+1 [XLN:1] Adanto Vanguard
+1 [RAV:81] Dark Confidant
+1 [AKH:16] Glory-Bound Initiate
+1 [5ED:408] Winter Orb
+1 [C13:84] Ophiomancer
+1 [M20:22] Hanged Executioner
+1 [CNS:16] Council's Judgment
+1 [NEM:139] Tangle Wire
+1 [WAR:13] Gideon Blackblade
+1 [NPH:19] Porcelain Legionnaire
+1 [THB:14] Elspeth, Sun's Nemesis
+1 [CN2:18] Palace Jailer
+1 [BFZ:29] Gideon, Ally of Zendikar
+1 [KLD:214] Fleetwheel Cruiser
+1 [DKA:142] Sorin, Lord of Innistrad
+1 [VIS:167] Undiscovered Paradise
+1 [ARN:71] City of Brass
+1 [ONS:313] Bloodstained Mire
+1 [MH1:246] Silent Clearing
+1 [ZEN:219] Marsh Flats
+1 [ZEN:229] Verdant Catacombs
+8 [GUR:4] Plains
+3 [GUR:5] Swamp
+SB: 1 [CELD:369] Gilded Goose
+SB: 1 [SOM:175] Mimic Vat
+SB: 1 [EXO:53] Carnophage
+SB: 1 [TOR:100] Grim Lavamancer
+SB: 1 [AER:87] Kari Zev, Skyship Raider
+SB: 1 [FEM:38a] Hymn to Tourach
+SB: 1 [THS:32] Soldier of the Pantheon
+SB: 1 [MH1:145] Seasoned Pyromancer
+SB: 1 [ALA:154] Ajani Vengeant
+SB: 1 [OGW:86] Kalitas, Traitor of Ghet
+SB: 1 [DKA:24] Thalia, Guardian of Thraben
+SB: 1 [NPH:9] Elesh Norn, Grand Cenobite
+SB: 1 [MOR:148] Mutavault
+SB: 1 [MH1:210] Nature's Chant
+SB: 1 [CN2:22] Recruiter of the Guard
+SB: 1 [NEM:17] Parallax Wave
+LAYOUT MAIN:(1,6)(CMC,false,79)|([GUR:4],[GUR:4],[GUR:4],[GUR:4],[GUR:4],[GUR:4],[GUR:4],[GUR:4],[GUR:5],[GUR:5],[GUR:5])([ONS:313],[ARN:71],[ZEN:219],[MH1:246],[VIS:167],[ZEN:229])([KTK:66],[MRD:146],[DOM:14],[ISD:97],[CHK:19],[ORI:23],[ICE:54])([XLN:1],[MOR:58],[RAV:81],[AKH:16],[5ED:408],[NPH:19])([CNS:16],[WAR:13],[M20:22],[C13:84],[NEM:139])([THB:14],[KLD:214],[BFZ:29],[CN2:18],[DKA:142])
+LAYOUT SIDEBOARD:(1,6)(CMC,false,64)|([MOR:148])([CELD:369],[EXO:53],[TOR:100],[THS:32])([AER:87],[FEM:38a],[DKA:24],[MH1:210])([SOM:175],[MH1:145],[CN2:22])([ALA:154],[OGW:86],[NEM:17])([NPH:9])

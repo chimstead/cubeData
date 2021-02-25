@@ -1,0 +1,49 @@
+1 [LRW:272] Shelldock Isle
+1 [MBS:21] Consecrated Sphinx
+1 [2ED:262] Mox Emerald
+1 [UDS:118] Rofellos, Llanowar Emissary
+1 [ROE:190] Joraga Treespeaker
+9 [UNH:140] Forest
+1 [SHM:135] Woodfall Primus
+1 [3ED:194] Fastbond
+1 [M19:196] Reclamation Sage
+1 [M15:173] Elvish Mystic
+1 [3ED:274] Sol Ring
+1 [ZEN:168] Lotus Cobra
+1 [M15:225] Phyrexian Revoker
+1 [ODY:113] Upheaval
+1 [THS:180] Sylvan Caryatid
+1 [PLC:149] Harmonize
+3 [UNH:137] Island
+1 [8ED:64] Bribery
+1 [BFZ:239] Lumbering Falls
+1 [KLD:172] Verdurous Gearhulk
+1 [RAV:161] Elves of Deep Shadow
+1 [DST:146] Sundering Titan
+1 [M12:188] Primeval Titan
+1 [M12:165] Birds of Paradise
+1 [ZEN:172] Oracle of Mul Daya
+1 [ISD:170] Avacyn's Pilgrim
+1 [M19:314] Llanowar Elves
+1 [M10:191] Master of the Wild Hunt
+1 [TMP:315] Ancient Tomb
+1 [LRW:233] Primal Command
+SB: 1 [XLN:48] Chart a Course
+SB: 1 [C16:195] Edric, Spymaster of Trest
+SB: 1 [RIX:136] Jadelight Ranger
+SB: 1 [NPH:4] Blade Splicer
+SB: 1 [3ED:287] Taiga
+SB: 1 [FUT:153] Tarmogoyf
+SB: 1 [STH:125] Wall of Blossoms
+SB: 1 [DTK:216] Dragonlord Atarka
+SB: 1 [4ED:361] Mishra's Factory
+SB: 1 [USG:105] Turnabout
+SB: 1 [ARB:50] Bloodbraid Elf
+SB: 1 [SOM:208] Sword of Body and Mind
+SB: 1 [AVR:166] Zealous Conscripts
+SB: 1 [DKA:140] Huntmaster of the Fells
+SB: 1 [KLD:246] Inspiring Vantage
+SB: 1 [AVR:36] Silverblade Paladin
+SB: 1 [SHM:229] Kitchen Finks
+LAYOUT MAIN:(1,8)(CMC,false,51)|([TMP:315],[BFZ:239],[LRW:272],[2ED:262],[UNH:140],[UNH:140],[UNH:140],[UNH:140],[UNH:140],[UNH:140],[UNH:140],[UNH:140],[UNH:140],[UNH:137],[UNH:137],[UNH:137])([M12:165],[ROE:190],[ISD:170],[RAV:161],[3ED:274],[M15:173],[M19:314],[3ED:194])([UDS:118],[THS:180],[ZEN:168],[M15:225])([M19:196])([ZEN:172],[PLC:149],[M10:191])([8ED:64],[LRW:233],[KLD:172])([MBS:21],[ODY:113],[M12:188])([DST:146],[SHM:135])
+LAYOUT SIDEBOARD:(1,6)(CMC,false,50)|([4ED:361],[3ED:287],[KLD:246])([XLN:48],[FUT:153],[STH:125])([NPH:4],[C16:195],[SOM:208],[AVR:36],[RIX:136])([DKA:140],[ARB:50],[USG:105],[SHM:229])([AVR:166])([DTK:216])

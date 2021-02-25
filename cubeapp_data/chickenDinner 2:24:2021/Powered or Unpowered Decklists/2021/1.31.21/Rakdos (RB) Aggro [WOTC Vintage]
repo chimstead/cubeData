@@ -1,0 +1,49 @@
+1 [SUM:282] Badlands
+1 [ZEN:211] Arid Mesa
+1 [ZEN:223] Scalding Tarn
+1 [KTK:230] Bloodstained Mire
+1 [RNA:245] Blood Crypt
+1 [ODY:193] Firebolt
+1 [EMN:86] Cryptbreaker
+1 [ROE:115] Inquisition of Kozilek
+1 [ISD:140] Devil's Play
+1 [M11:149] Lightning Bolt
+1 [FEM:38a] Hymn to Tourach
+1 [THS:128] Magma Jet
+1 [M13:147] Searing Spear
+1 [WAR:125] Dreadhorde Arcanist
+1 [M14:163] Young Pyromancer
+1 [WAR:98] Liliana's Triumph
+1 [M19:152] Lightning Strike
+1 [RNA:109] Rix Maadi Reveler
+1 [GRN:115] Runaway Steam-Kin
+1 [ISD:105] Liliana of the Veil
+1 [M15:145] Goblin Rabblemaster
+1 [RNA:157] Bedevil
+1 [DTK:224] Kolaghan's Command
+1 [NPH:19] Porcelain Legionnaire
+1 [RIX:111] Rekindling Phoenix
+1 [RNA:85] Spawn of Mayhem
+1 [KLD:110] Chandra, Torch of Defiance
+1 [RAV:117] Char
+1 [EMN:123] Collective Defiance
+6 [THB:253] Mountain
+5 [THB:252] Swamp
+SB: 1 [RNA:246] Breeding Pool
+SB: 1 [EMN:6] Emrakul, the Promised End
+SB: 1 [WAR:97*] Liliana, Dreadhorde General
+SB: 1 [WAR:133] Ilharg, the Raze-Boar
+SB: 1 [DGM:114] Voice of Resurgence
+SB: 1 [KTK:81] Murderous Cut
+SB: 1 [NPH:4] Blade Splicer
+SB: 1 [NPH:33] Deceiver Exarch
+SB: 1 [SOI:44] Thraben Inspector
+SB: 1 [RNA:248] Godless Shrine
+SB: 1 [RNA:205] Seraph of the Scales
+SB: 1 [DKA:138] Falkenrath Aristocrat
+SB: 1 [M13:112] Vampire Nighthawk
+SB: 1 [TSP:176] Rift Bolt
+SB: 1 [ULG:49] Bone Shredder
+SB: 1 [SS3:3] Fiery Confluence
+LAYOUT MAIN:(1,5)(CMC,false,64)|([ZEN:211],[SUM:282],[RNA:245],[KTK:230],[THB:253],[THB:253],[THB:253],[THB:253],[THB:253],[THB:253],[ZEN:223],[THB:252],[THB:252],[THB:252],[THB:252],[THB:252])([EMN:86],[ISD:140],[ODY:193],[ROE:115],[M11:149])([WAR:125],[FEM:38a],[M19:152],[WAR:98],[THS:128],[RNA:109],[GRN:115],[M13:147],[M14:163])([RNA:157],[RAV:117],[EMN:123],[M15:145],[DTK:224],[ISD:105],[NPH:19])([KLD:110],[RIX:111],[RNA:85])
+LAYOUT SIDEBOARD:(1,8)(CMC,false,21)|([RNA:246],[RNA:248])([SOI:44])([DGM:114])([NPH:4],[NPH:33],[M13:112],[TSP:176],[ULG:49])([RNA:205],[DKA:138],[SS3:3])([WAR:133],[KTK:81])([WAR:97*])([EMN:6])

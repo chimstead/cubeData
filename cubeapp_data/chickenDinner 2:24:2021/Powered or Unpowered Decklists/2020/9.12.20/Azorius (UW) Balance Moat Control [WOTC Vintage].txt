@@ -1,0 +1,54 @@
+1 [M20:226] Golos, Tireless Pilgrim
+1 [10E:61] Wrath of God
+1 [C20:106] Unexpectedly Absent
+1 [BOK:163] Umezawa's Jitte
+1 [KTK:36] Dig Through Time
+1 [EVE:22] Glen Elendra Archmage
+1 [SOI:44] Thraben Inspector
+1 [DIS:165] Rakdos Signet
+1 [NPH:9] Elesh Norn, Grand Cenobite
+1 [LEG:28] Moat
+1 [LRW:56] Cryptic Command
+1 [WWK:31] Jace, the Mind Sculptor
+1 [THB:4] Banishing Light
+1 [4ED:6] Balance
+1 [NPH:130] Batterskull
+1 [LRW:76] Mulldrifter
+1 [BFZ:29] Gideon, Ally of Zendikar
+1 [M12:16] Gideon Jura
+1 [MB1:206] Recruiter of the Guard
+1 [ICE:54] Swords to Plowshares
+1 [ALL:28] Force of Will
+1 [CHK:268] Sensei's Divining Top
+1 [4ED:363] Strip Mine
+1 [ZEN:219] Marsh Flats
+1 [3ED:290] Underground Sea
+1 [KTK:233] Flooded Strand
+3 [M20:268] Island
+2 [M20:267] Island
+1 [M20:266] Island
+3 [M20:263] Plains
+2 [M20:262] Plains
+1 [M20:264] Plains
+1 [M20:261] Plains
+1 [BBD:25] Brightling
+SB: 1 [USG:96] Show and Tell
+SB: 1 [M14:228] Mutavault
+SB: 1 [MRD:152] Chrome Mox
+SB: 1 [WWK:144] Stirring Wildwood
+SB: 1 [WWK:134] Creeping Tar Pit
+SB: 1 [ORI:90] Dark Petition
+SB: 1 [ELD:287] Murderous Rider
+SB: 1 [HOU:145] The Scarab God
+SB: 1 [ULG:38] Palinchron
+SB: 1 [THS:33] Spear of Heliod
+SB: 1 [GRN:183] Knight of Autumn
+SB: 1 [C14:8] Hallowed Spiritkeeper
+SB: 1 [THB:308] Thassa's Oracle
+SB: 1 [7ED:92] Opposition
+SB: 1 [SOM:176] Mindslaver
+SB: 1 [MMQ:82] Gush
+SB: 1 [SOI:92] Thing in the Ice
+SB: 1 [FRF:27] Soulfire Grand Master
+LAYOUT MAIN:(1,8)(CMC,false,50)|([4ED:363],[ZEN:219],[3ED:290],[KTK:233],[M20:268],[M20:267],[M20:267],[M20:268],[M20:268],[M20:266],[M20:263],[M20:263],[M20:262],[M20:263],[M20:264],[M20:262],[M20:261])([SOI:44],[ICE:54],[CHK:268])([C20:106],[BOK:163],[DIS:165],[4ED:6])([THB:4],[MB1:206],[BBD:25])([10E:61],[EVE:22],[LEG:28],[LRW:56],[WWK:31],[BFZ:29])([M20:226],[NPH:130],[LRW:76],[M12:16],[ALL:28])([NPH:9])([KTK:36])
+LAYOUT SIDEBOARD:(1,5)(COLOR,false,48)|([M14:228],[MRD:152],[WWK:144],[WWK:134],[SOM:176])([ORI:90],[ELD:287])([USG:96],[ULG:38],[THB:308],[7ED:92],[MMQ:82],[SOI:92])([THS:33],[C14:8],[FRF:27])([HOU:145],[GRN:183])

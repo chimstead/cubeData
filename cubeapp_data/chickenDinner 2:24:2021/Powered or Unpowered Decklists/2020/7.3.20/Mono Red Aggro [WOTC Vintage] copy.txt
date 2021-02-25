@@ -1,0 +1,49 @@
+1 [DDL:3] Figure of Destiny
+1 [A25:141] Lightning Bolt
+1 [DTK:169] Zurgo Bellstriker
+1 [ELD:235] Stonecoil Serpent
+1 [MM3:96] Goblin Guide
+1 [CN2:157] Flame Slash
+1 [AKH:134] Glorybringer
+1 [M12:146] Incinerate
+1 [MH1:145] Seasoned Pyromancer
+1 [IMA:140] Monastery Swiftspear
+1 [ELD:122] Embereth Shieldbreaker
+1 [GK1:90] Lightning Helix
+1 [DDT:46] Goblin Rabblemaster
+1 [EMA:150] Sulfuric Vortex
+1 [GK1:97] Boros Signet
+1 [GRN:115] Runaway Steam-Kin
+1 [KLD:199] Bomat Courier
+1 [MM3:98] Hellrider
+1 [KLD:110] Chandra, Torch of Defiance
+1 [UMA:155] Young Pyromancer
+1 [DDI:44] Koth of the Hammer
+1 [AKH:136] Hazoret the Fervent
+1 [RNA:107] Light Up the Stage
+1 [JR:97] Ravages of War
+1 [VMA:8] Mox Ruby
+1 [VMA:308] Plateau
+1 [OGW:175] Needle Spires
+1 [VMA:4] Black Lotus
+1 [KLD:246] Inspiring Vantage
+1 [MRD:152] Chrome Mox
+9 [THB:253] Mountain
+1 [THB:250] Plains
+SB: 1 [UMA:11] Containment Priest
+SB: 1 [OGW:110] Goblin Dark-Dwellers
+SB: 1 [V17:13a] Kytheon, Hero of Akros
+SB: 1 [CM2:101] Goblin Welder
+SB: 1 [IMA:149] Thundermaw Hellkite
+SB: 1 [IMA:190] Wall of Roots
+SB: 1 [XLN:22] Legion's Landing
+SB: 1 [A25:128] Eidolon of the Great Revel
+SB: 1 [MM3:3] Blade Splicer
+SB: 1 [SOI:233] Tireless Tracker
+SB: 1 [GRN:213] Vraska, Golgari Queen
+SB: 1 [ELD:171] Questing Beast
+SB: 1 [DGM:135] Wear // Tear
+SB: 1 [UMA:216] Kitchen Finks
+SB: 1 [M12:23] Honor of the Pure
+LAYOUT MAIN:(2,4)(CMC,false,57)|([THB:253],[THB:253],[THB:253],[THB:253],[THB:253],[THB:253],[THB:253],[THB:253],[THB:253])([DDL:3],[A25:141],[DTK:169],[MM3:96],[CN2:157],[IMA:140],[KLD:199],[ELD:235],[RNA:107],[ELD:122])([MH1:145],[DDT:46],[EMA:150])([AKH:134])([MRD:152],[VMA:4],[VMA:8],[VMA:308],[OGW:175],[KLD:246],[THB:250])([M12:146],[GK1:90],[GK1:97],[GRN:115],[UMA:155])([MM3:98],[KLD:110],[DDI:44],[AKH:136],[JR:97])()
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([UMA:11],[OGW:110],[V17:13a],[CM2:101],[IMA:149],[IMA:190],[XLN:22],[A25:128],[MM3:3],[SOI:233],[GRN:213],[ELD:171],[DGM:135],[UMA:216],[M12:23])

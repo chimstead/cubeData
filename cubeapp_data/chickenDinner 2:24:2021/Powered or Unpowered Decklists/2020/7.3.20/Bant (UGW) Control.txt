@@ -1,0 +1,56 @@
+1 [IMA:46] Condescend
+1 [ELD:59] Opt
+1 [M12:73] Ponder
+1 [C18:57] Retrofitter Foundry
+1 [CON:15] Path to Exile
+1 [ISD:78] Snapcaster Mage
+1 [ULG:36] Miscalculation
+1 [MMQ:69] Counterspell
+1 [HOU:49] Supreme Will
+1 [MOR:55] Vendilion Clique
+1 [GNT:25] Whirler Rogue
+1 [C13:35] Control Magic
+1 [EMA:38] Wrath of God
+1 [E02:2] Day of Judgment
+1 [CMD:17] Journey to Nowhere
+1 [C17:37] Fractured Identity
+1 [MB1:118] Gideon Jura
+1 [C15:14] Mystic Confluence
+1 [GK2:10] Detention Sphere
+1 [LRW:76] Mulldrifter
+1 [AVR:32] Restoration Angel
+1 [RNA:183] Hydroid Krasis
+1 [M13:193] Thragtusk
+1 [7ED:325] Adarkar Wastes
+1 [MH1:249] Waterlogged Grove
+1 [MH1:244] Prismatic Vista
+1 [DIS:172] Breeding Pool
+1 [RTR:241] Hallowed Fountain
+1 [ZEN:220] Misty Rainforest
+1 [ELD:269] Forest
+2 [ELD:254] Island
+1 [ELD:256] Island
+2 [ELD:255] Island
+1 [ELD:250] Plains
+1 [ELD:251] Plains
+2 [ELD:252] Plains
+1 [ELD:253] Plains
+SB: 1 [V14:13] Upheaval
+SB: 1 [USG:318] Worn Powerstone
+SB: 1 [V17:3a] Arlinn Kord
+SB: 1 [GPT:164] Steam Vents
+SB: 1 [MH1:238] Fiery Islet
+SB: 1 [KTK:118] Monastery Swiftspear
+SB: 1 [M19:94] Duress
+SB: 1 [A25:219] Vindicate
+SB: 1 [WWK:144] Stirring Wildwood
+SB: 1 [ROE:190] Joraga Treespeaker
+SB: 1 [TSP:66] Looter il-Kor
+SB: 1 [C16:195] Edric, Spymaster of Trest
+SB: 1 [MH1:161] Deep Forest Hermit
+SB: 1 [ISD:181] Garruk Relentless
+SB: 1 [DST:148] Sword of Fire and Ice
+SB: 1 [EVG:9] Llanowar Elves
+SB: 1 [ELD:267] Forest
+LAYOUT MAIN:(1,6)(CMC,false,73)|([7ED:325],[DIS:172],[ELD:269],[RTR:241],[ELD:254],[ELD:254],[ELD:256],[ELD:255],[ELD:255],[ZEN:220],[ELD:250],[ELD:251],[ELD:252],[ELD:253],[ELD:252],[MH1:244],[MH1:249])([IMA:46],[ELD:59],[CON:15],[M12:73],[C18:57])([MMQ:69],[RNA:183],[CMD:17],[ULG:36],[ISD:78])([GK2:10],[HOU:49],[MOR:55],[LRW:76])([C13:35],[E02:2],[AVR:32],[GNT:25],[EMA:38])([C17:37],[MB1:118],[C15:14],[M13:193])
+LAYOUT SIDEBOARD:(1,6)(COLOR,false,50)|([MH1:238],[GPT:164],[WWK:144],[DST:148],[USG:318],[ELD:267])([M19:94])([TSP:66],[V14:13])([MH1:161],[ISD:181],[ROE:190],[EVG:9])([KTK:118])([V17:3a],[C16:195],[A25:219])

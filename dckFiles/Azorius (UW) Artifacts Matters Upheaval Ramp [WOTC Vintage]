@@ -1,0 +1,51 @@
+2021
+1.31.21
+1 [DIS:159] Azorius Signet
+1 [DOM:1] Karn, Scion of Urza
+1 [UDS:139] Thran Dynamo
+1 [ODY:113] Upheaval
+1 [FUT:161] Coalition Relic
+1 [VMA:2] Time Walk
+1 [STH:138] Mox Diamond
+1 [5ED:408] Winter Orb
+1 [ULG:129] Memory Jar
+1 [MB1:342] Daze
+1 [FRF:20] Monastery Mentor
+1 [C13:35] Control Magic
+1 [SOM:223] Wurmcoil Engine
+1 [USG:103] Time Spiral
+1 [AER:181] Walking Ballista
+1 [CMD:261] Sol Ring
+1 [WWK:127] Lodestone Golem
+1 [RAV:262] Golgari Signet
+1 [CNS:56] Coercive Portal
+1 [M11:58] Jace Beleren
+1 [VMA:14] Balance
+1 [ALA:60] Tezzeret the Seeker
+1 [6ED:83] Mystical Tutor
+1 [ZEN:220] Misty Rainforest
+1 [VMA:5] Mox Emerald
+1 [VMA:311] Savannah
+12 [UNH:137] Island
+2 [UNH:136] Plains
+SB: 1 [WAR:79] Bolas's Citadel
+SB: 1 [BBD:94] Land Tax
+SB: 1 [PLC:149] Harmonize
+SB: 1 [WAR:244] Blast Zone
+SB: 1 [THS:223] Nykthos, Shrine to Nyx
+SB: 1 [TSP:66] Looter il-Kor
+SB: 1 [VMA:200] Channel
+SB: 1 [ROE:6] Kozilek, Butcher of Truth
+SB: 1 [EXO:115] Oath of Druids
+SB: 1 [M13:150] Thundermaw Hellkite
+SB: 1 [XLN:254] Field of Ruin
+SB: 1 [DIS:8] Condemn
+SB: 1 [USG:309] Smokestack
+SB: 1 [SCG:106] Sulfuric Vortex
+SB: 1 [MH1:108] Sling-Gang Lieutenant
+SB: 1 [OGW:171] Hissing Quagmire
+SB: 1 [VMA:305] Mishra's Workshop
+SB: 1 [MOR:148] Mutavault
+SB: 1 [OGW:175] Needle Spires
+LAYOUT MAIN:(1,8)(CMC,false,51)|([UNH:137],[UNH:137],[UNH:137],[UNH:137],[UNH:137],[UNH:137],[UNH:137],[UNH:137],[UNH:137],[UNH:137],[UNH:137],[UNH:137],[UNH:136],[UNH:136])([ZEN:220],[VMA:311],[STH:138],[VMA:5])([6ED:83],[CMD:261])([VMA:14],[MB1:342],[VMA:2],[5ED:408],[AER:181],[RAV:262],[DIS:159])([FUT:161],[M11:58],[FRF:20])([CNS:56],[C13:35],[DOM:1],[WWK:127],[UDS:139])([ULG:129],[ALA:60])([USG:103],[ODY:113],[SOM:223])
+LAYOUT SIDEBOARD:(1,8)(CMC,false,50)|([OGW:171],[VMA:305],[MOR:148],[OGW:175],[WAR:244],[THS:223],[XLN:254])([BBD:94],[DIS:8])([TSP:66],[VMA:200],[EXO:115])([SCG:106])([PLC:149],[USG:309],[MH1:108])([M13:150])([WAR:79])([ROE:6])

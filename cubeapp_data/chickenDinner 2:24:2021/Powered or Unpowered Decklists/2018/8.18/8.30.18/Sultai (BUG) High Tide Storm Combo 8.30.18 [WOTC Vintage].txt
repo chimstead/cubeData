@@ -1,0 +1,51 @@
+NAME:BUG Storm
+1 [2ED:263] Mox Jet
+1 [5ED:388] Mana Vault
+1 [SOM:48] Trinket Mage
+1 [2ED:262] Mox Emerald
+1 [BFZ:209] Bring to Light
+1 [TSP:259] Lotus Bloom
+1 [JR:109] Imperial Seal
+1 [MMQ:82] Gush
+1 [MIR:307] Lion's Eye Diamond
+1 [TMP:294] Lotus Petal
+1 [FEM:18a] High Tide
+1 [SCG:29] Brain Freeze
+1 [RTR:243] Overgrown Tomb
+1 [USG:103] Time Spiral
+1 [TOR:51] Cabal Ritual
+1 [NPH:35] Gitaxian Probe
+1 [MMQ:129] Dark Ritual
+1 [RAV:40] Compulsive Research
+1 [LEG:65] Mana Drain
+1 [GPT:32] Repeal
+1 [WWK:134] Creeping Tar Pit
+1 [GUR:1] Forest
+1 [KTK:59] Treasure Cruise
+7 [GUR:2] Island
+1 [3ED:214] Regrowth
+2 [GUR:5] Swamp
+1 [MOR:55] Vendilion Clique
+1 [ULG:129] Memory Jar
+1 [2ED:48] Ancestral Recall
+1 [M13:43] Augur of Bolas
+1 [USG:171] Yawgmoth's Will
+1 [TOR:69] Mesmeric Fiend
+1 [ORI:60] Jace, Vryn's Prodigy
+SB: 1 [ROE:12] Ulamog, the Infinite Gyre
+SB: 1 [RIX:21] Skymarcher Aspirant
+SB: 1 [CHK:163] Desperate Ritual
+SB: 1 [LRW:78] Pestermite
+SB: 1 [TSB:97] Mystic Snake
+SB: 1 [JUD:139] Mirari's Wake
+SB: 1 [ROE:4] Emrakul, the Aeons Torn
+SB: 1 [TSP:216] Search for Tomorrow
+SB: 1 [NPH:73] Sheoldred, Whispering One
+SB: 1 [KTK:81] Murderous Cut
+SB: 1 [DTK:124] Ultimate Price
+SB: 1 [LRW:133] Oona's Prowler
+SB: 1 [PLC:149] Harmonize
+SB: 1 [THS:180] Sylvan Caryatid
+SB: 1 [DGM:114] Voice of Resurgence
+LAYOUT MAIN:(1,7)(CMC,false,57)|([WWK:134],[GUR:1],[GUR:2],[GUR:2],[GUR:2],[GUR:2],[GUR:2],[GUR:2],[GUR:2],[MIR:307],[TSP:259],[TMP:294],[2ED:262],[2ED:263],[RTR:243],[GUR:5],[GUR:5])([2ED:48],[MMQ:129],[NPH:35],[FEM:18a],[JR:109],[5ED:388],[GPT:32])([M13:43],[SCG:29],[TOR:51],[ORI:60],[LEG:65],[TOR:69],[3ED:214])([RAV:40],[SOM:48],[MOR:55],[USG:171])([BFZ:209],[MMQ:82],[ULG:129])([USG:103])([KTK:59])
+LAYOUT SIDEBOARD:(1,6)(CMC,false,63)|([RIX:21])([THS:180],[DTK:124],[DGM:114],[LRW:133],[CHK:163])([LRW:78],[TSP:216],[ROE:4],[ROE:12])([PLC:149],[TSB:97])([JUD:139],[KTK:81])([NPH:73])

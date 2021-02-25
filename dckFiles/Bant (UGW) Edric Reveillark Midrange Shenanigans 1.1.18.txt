@@ -1,8 +1,11 @@
+2018
+1.18
+1.1.18
 1 City of Brass
 1 Faerie Conclave
 1 Flooded Strand
 1 Horizon Canopy
-1 Mishra’s Factory
+1 Mishra's Factory
 1 Stirring Wildwood
 1 Temple Garden
 1 Tundra
@@ -17,10 +20,10 @@
 1 Wall of Roots
 1 Blade Splicer
 1 Coalition Relic
-1 Council’s Judgment
+1 Council's Judgment
 1 Edric, Spymaster of Trest
 1 Kitchen Finks
-1 Kodama’s Reach
+1 Kodama's Reach
 1 Reclamation Sage
 1 Reflector Mage
 1 Garruk Relentless

@@ -1,0 +1,367 @@
+name,text,count,landColor,numColors,power
+Academy Ruins,"{T}: Add {C}.
+{1}{U}, {T}: Put target artifact card from your graveyard on top of your library.",19,Blue ,1,0.24520515974492613
+Adarkar Wastes,"{T}: Add {C}.
+{T}: Add {W} or {U}. Adarkar Wastes deals 1 damage to you.",6,White Blue ,2,0
+Aether Hub,"When Aether Hub enters the battlefield, you get {E} (an energy counter).
+{T}: Add {C}.
+{T}, Pay {E}: Add one mana of any color.",28,White Blue Black Red Green,4,12.711039014199935
+Agadeem's Awakening,NA,8,White Blue Black Red Green,4,1.9693159036084407
+Ancient Tomb,{T}: Add {C}{C}. Ancient Tomb deals 2 damage to you.,65,White Blue Black Red Green,4,32.5832267687942
+Arid Mesa,"{T}, Pay 1 life, Sacrifice Arid Mesa: Search your library for a Mountain or Plains card, put it onto the battlefield, then shuffle your library.",106,White Red ,2,3.323218975887027
+Ash Barrens,"{T}: Add {C}.
+Basic landcycling {1} ({1}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.)",61,White Blue Black Red Green,4,30.434882146675896
+Bad River,"Bad River enters the battlefield tapped.
+{T}, Sacrifice Bad River: Search your library for an Island or Swamp card, put it onto the battlefield, then shuffle your library.",1,Blue Black ,2,0
+Badlands,({T}: Add {B} or {R}.),71,Black Red ,2,1.741360309696503
+Bala Ged Recovery,NA,4,White Blue Black Red Green,4,0
+Barren Moor,"Barren Moor enters the battlefield tapped.
+{T}: Add {B}.
+Cycling {B} ({B}, Discard this card: Draw a card.)",1,Black ,1,0
+Battlefield Forge,"{T}: Add {C}.
+{T}: Add {R} or {W}. Battlefield Forge deals 1 damage to you.",39,White Red ,2,0.2950895291794522
+Bayou,({T}: Add {B} or {G}.),76,Black Green ,2,1.9673401191522921
+Bazaar of Baghdad,"{T}: Draw two cards, then discard three cards.",17,White Blue Black Red Green,4,6.803091303374613
+Blackcleave Cliffs,"Blackcleave Cliffs enters the battlefield tapped unless you control two or fewer other lands.
+{T}: Add {B} or {R}.",40,Black Red ,2,0.34028549107061007
+Blast Zone,"Blast Zone enters the battlefield with a charge counter on it.
+{T}: Add {C}.
+{X}{X}, {T}: Put X charge counters on Blast Zone.
+{3}, {T}, Sacrifice Blast Zone: Destroy each nonland permanent with converted mana cost equal to the number of charge counters on Blast Zone.",34,White Blue Black Red Green,4,15.933555947377382
+Blinkmoth Nexus,"{T}: Add {C}.
+{1}: Blinkmoth Nexus becomes a 1/1 Blinkmoth artifact creature with flying until end of turn. It's still a land.
+{1}, {T}: Target Blinkmoth creature gets +1/+1 until end of turn.",5,White Blue Black Red Green,4,0.3580574370197166
+Blood Crypt,"({T}: Add {B} or {R}.)
+As Blood Crypt enters the battlefield, you may pay 2 life. If you don't, it enters the battlefield tapped.",72,Black Red ,2,1.7865562715876604
+Bloodstained Mire,"{T}, Pay 1 life, Sacrifice Bloodstained Mire: Search your library for a Swamp or Mountain card, put it onto the battlefield, then shuffle your library.",105,Black Red ,2,3.2780230139958695
+Blooming Marsh,"Blooming Marsh enters the battlefield tapped unless you control two or fewer other lands.
+{T}: Add {B} or {G}.",30,Black Green ,2,0
+Botanical Sanctum,"Botanical Sanctum enters the battlefield tapped unless you control two or fewer other lands.
+{T}: Add {G} or {U}.",23,Blue Green ,2,0
+Breeding Pool,"({T}: Add {G} or {U}.)
+As Breeding Pool enters the battlefield, you may pay 2 life. If you don't, it enters the battlefield tapped.",81,Blue Green ,2,2.1933199286080813
+Brightclimb Pathway,NA,1,White Blue Black Red Green,4,0
+Brushland,"{T}: Add {C}.
+{T}: Add {G} or {W}. Brushland deals 1 damage to you.",14,White Green ,2,0
+Canyon Slough,"({T}: Add {B} or {R}.)
+Canyon Slough enters the battlefield tapped.
+Cycling {2} ({2}, Discard this card: Draw a card.)",5,Black Red ,2,0
+Cascade Bluffs,"{T}: Add {C}.
+{U/R}, {T}: Add {U}{U}, {U}{R}, or {R}{R}.",1,Blue Red ,2,0
+Castle Ardenvale,"Castle Ardenvale enters the battlefield tapped unless you control a Plains.
+{T}: Add {W}.
+{2}{W}{W}, {T}: Create a 1/1 white Human creature token.",6,White ,1,0
+Castle Embereth,"Castle Embereth enters the battlefield tapped unless you control a Mountain.
+{T}: Add {R}.
+{1}{R}{R}, {T}: Creatures you control get +1/+0 until end of turn.",6,Red ,1,0
+Castle Locthwain,"Castle Locthwain enters the battlefield tapped unless you control a Swamp.
+{T}: Add {B}.
+{1}{B}{B}, {T}: Draw a card, then you lose life equal to the number of cards in your hand.",9,Black ,1,0
+Castle Vantress,"Castle Vantress enters the battlefield tapped unless you control an Island.
+{T}: Add {U}.
+{2}{U}{U}, {T}: Scry 2.",3,Blue ,1,0
+Caves of Koilos,"{T}: Add {C}.
+{T}: Add {W} or {B}. Caves of Koilos deals 1 damage to you.",32,White Black ,2,0
+Celestial Colonnade,"Celestial Colonnade enters the battlefield tapped.
+{T}: Add {W} or {U}.
+{3}{W}{U}: Until end of turn, Celestial Colonnade becomes a 4/4 white and blue Elemental creature with flying and vigilance. It's still a land.",79,White Blue ,2,2.1029280048257655
+City of Brass,"Whenever City of Brass becomes tapped, it deals 1 damage to you.
+{T}: Add one mana of any color.",92,White Blue Black Red Green,4,47.084552968092716
+City of Traitors,"When you play another land, sacrifice City of Traitors.
+{T}: Add {C}{C}.",2,White Blue Black Red Green,4,0
+Clearwater Pathway,NA,1,White Blue Black Red Green,4,0
+Clifftop Retreat,"Clifftop Retreat enters the battlefield tapped unless you control a Mountain or a Plains.
+{T}: Add {R} or {W}.",1,White Red ,2,0
+Concealed Courtyard,"Concealed Courtyard enters the battlefield tapped unless you control two or fewer other lands.
+{T}: Add {W} or {B}.",25,White Black ,2,0
+Copperline Gorge,"Copperline Gorge enters the battlefield tapped unless you control two or fewer other lands.
+{T}: Add {R} or {G}.",27,Red Green ,2,0
+Cragcrown Pathway,NA,5,White Blue Black Red Green,4,0.3580574370197166
+Crawling Barrens,"{T}: Add {C}.
+{4}: Put two +1/+1 counters on Crawling Barrens. Then you may have it become a 0/0 Elemental creature until end of turn. It's still a land.",6,White Blue Black Red Green,4,0.8951435925492912
+Creeping Tar Pit,"Creeping Tar Pit enters the battlefield tapped.
+{T}: Add {U} or {B}.
+{1}{U}{B}: Creeping Tar Pit becomes a 3/2 blue and black Elemental creature until end of turn and can't be blocked this turn. It's still a land.",78,Blue Black ,2,2.0577320429346075
+Crumbling Vestige,"Crumbling Vestige enters the battlefield tapped.
+When Crumbling Vestige enters the battlefield, add one mana of any color.
+{T}: Add {C}. ({C} represents colorless mana.)",1,White Blue Black Red Green,4,0
+Dark Depths,"Dark Depths enters the battlefield with ten ice counters on it.
+{3}: Remove an ice counter from Dark Depths.
+When Dark Depths has no ice counters on it, sacrifice it. If you do, create Marit Lage, a legendary 20/20 black Avatar creature token with flying and indestructible.",1,White Blue Black Red Green,4,0
+Darkslick Shores,"Darkslick Shores enters the battlefield tapped unless you control two or fewer other lands.
+{T}: Add {U} or {B}.",26,Blue Black ,2,0
+Darksteel Citadel,"Indestructible
+{T}: Add {C}.",1,White Blue Black Red Green,4,0
+Dragonskull Summit,"Dragonskull Summit enters the battlefield tapped unless you control a Swamp or a Mountain.
+{T}: Add {B} or {R}.",7,Black Red ,2,0
+Drowned Catacomb,"Drowned Catacomb enters the battlefield tapped unless you control an Island or a Swamp.
+{T}: Add {U} or {B}.",4,Blue Black ,2,0
+Dust Bowl,"{T}: Add {C}.
+{3}, {T}, Sacrifice a land: Destroy target nonbasic land.",14,White Blue Black Red Green,4,5.191832836785889
+Emeria's Call,NA,12,White Blue Black Red Green,4,4.117660525726739
+Evolving Wilds,"{T}, Sacrifice Evolving Wilds: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.",46,White Blue Black Red Green,4,22.378589813732276
+Fabled Passage,"{T}, Sacrifice Fabled Passage: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library. Then if you control four or more lands, untap that land.",23,White Blue Black Red Green,4,10.025608236552062
+Faerie Conclave,"Faerie Conclave enters the battlefield tapped.
+{T}: Add {U}.
+{1}{U}: Faerie Conclave becomes a 2/1 blue Faerie creature with flying until end of turn. It's still a land.",38,Blue ,1,1.3997152498716736
+Fetid Heath,"{T}: Add {C}.
+{W/B}, {T}: Add {W}{W}, {W}{B}, or {B}{B}.",2,White Black ,2,0
+Fetid Pools,"({T}: Add {U} or {B}.)
+Fetid Pools enters the battlefield tapped.
+Cycling {2} ({2}, Discard this card: Draw a card.)",21,Blue Black ,2,0
+Field of Ruin,"{T}: Add {C}.
+{2}, {T}, Sacrifice Field of Ruin: Destroy target nonbasic land an opponent controls. Each player searches their library for a basic land card, puts it onto the battlefield, then shuffles their library.",24,White Blue Black Red Green,4,10.562694392081635
+Fiery Islet,"{T}, Pay 1 life: Add {U} or {R}.
+{1}, {T}, Sacrifice Fiery Islet: Draw a card.",20,Blue Red ,2,0
+Flood Plain,"Flood Plain enters the battlefield tapped.
+{T}, Sacrifice Flood Plain: Search your library for a Plains or Island card, put it onto the battlefield, then shuffle your library.",5,White Blue ,2,0
+Flooded Grove,"{T}: Add {C}.
+{G/U}, {T}: Add {G}{G}, {G}{U}, or {U}{U}.",3,Blue Green ,2,0
+Flooded Strand,"{T}, Pay 1 life, Sacrifice Flooded Strand: Search your library for a Plains or Island card, put it onto the battlefield, then shuffle your library.",95,White Blue ,2,2.8260633950842906
+Gaea's Cradle,{T}: Add {G} for each creature you control.,63,Green ,1,2.9188074737226573
+Gemstone Mine,"Gemstone Mine enters the battlefield with three mining counters on it.
+{T}, Remove a mining counter from Gemstone Mine: Add one mana of any color. If there are no mining counters on Gemstone Mine, sacrifice it.",24,White Blue Black Red Green,4,10.562694392081635
+Ghost Quarter,"{T}: Add {C}.
+{T}, Sacrifice Ghost Quarter: Destroy target land. Its controller may search their library for a basic land card, put it onto the battlefield, then shuffle their library.",1,White Blue Black Red Green,4,0
+Glacial Fortress,"Glacial Fortress enters the battlefield tapped unless you control a Plains or an Island.
+{T}: Add {W} or {U}.",5,White Blue ,2,0
+Godless Shrine,"({T}: Add {W} or {B}.)
+As Godless Shrine enters the battlefield, you may pay 2 life. If you don't, it enters the battlefield tapped.",103,White Black ,2,3.1876310902135536
+Grand Coliseum,"Grand Coliseum enters the battlefield tapped.
+{T}: Add {C}.
+{T}: Add one mana of any color. Grand Coliseum deals 1 damage to you.",49,White Blue Black Red Green,4,23.989848280321
+Graven Cairns,"{T}: Add {C}.
+{B/R}, {T}: Add {B}{B}, {B}{R}, or {R}{R}.",1,Black Red ,2,0
+Grove of the Burnwillows,"{T}: Add {C}.
+{T}: Add {R} or {G}. Each opponent gains 1 life.",4,Red Green ,2,0
+Hagra Mauling,NA,5,White Blue Black Red Green,4,0.3580574370197166
+Hallowed Fountain,"({T}: Add {W} or {U}.)
+As Hallowed Fountain enters the battlefield, you may pay 2 life. If you don't, it enters the battlefield tapped.",76,White Blue ,2,1.9673401191522921
+Hanweir Battlements,"{T}: Add {C}.
+{R}, {T}: Target creature gains haste until end of turn.
+{3}{R}{R}, {T}: If you both own and control Hanweir Battlements and a creature named Hanweir Garrison, exile them, then meld them into Hanweir, the Writhing Township.",3,Red ,1,0
+Hinterland Harbor,"Hinterland Harbor enters the battlefield tapped unless you control a Forest or an Island.
+{T}: Add {G} or {U}.",2,Blue Green ,2,0
+Hissing Quagmire,"Hissing Quagmire enters the battlefield tapped.
+{T}: Add {B} or {G}.
+{1}{B}{G}: Hissing Quagmire becomes a 2/2 black and green Elemental creature with deathtouch until end of turn. It's still a land.",76,Black Green ,2,1.9673401191522921
+Horizon Canopy,"{T}, Pay 1 life: Add {G} or {W}.
+{1}, {T}, Sacrifice Horizon Canopy: Draw a card.",49,White Green ,2,0.7470491480910306
+Indatha Triome,"({T}: Add {W}, {B}, or {G}.)
+Indatha Triome enters the battlefield tapped.
+Cycling {3} ({3}, Discard this card: Draw a card.)",4,White Black Green ,3,0
+Inspiring Vantage,"Inspiring Vantage enters the battlefield tapped unless you control two or fewer other lands.
+{T}: Add {R} or {W}.",35,White Red ,2,0.1143056816148209
+Irrigated Farmland,"({T}: Add {W} or {U}.)
+Irrigated Farmland enters the battlefield tapped.
+Cycling {2} ({2}, Discard this card: Draw a card.)",27,White Blue ,2,0
+Isolated Chapel,"Isolated Chapel enters the battlefield tapped unless you control a Plains or a Swamp.
+{T}: Add {W} or {B}.",2,White Black ,2,0
+Karakas,"{T}: Add {W}.
+{T}: Return target legendary creature to its owner's hand.",82,White ,1,4.073317563849405
+Karn's Bastion,"{T}: Add {C}.
+{4}, {T}: Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)",5,White Blue Black Red Green,4,0.3580574370197166
+Karplusan Forest,"{T}: Add {C}.
+{T}: Add {R} or {G}. Karplusan Forest deals 1 damage to you.",35,Red Green ,2,0.1143056816148209
+Ketria Triome,"({T}: Add {G}, {U}, or {R}.)
+Ketria Triome enters the battlefield tapped.
+Cycling {3} ({3}, Discard this card: Draw a card.)",6,Blue Red Green ,3,0.8951435925492912
+Khalni Ambush,NA,1,White Blue Black Red Green,4,0
+Kjeldoran Outpost,"If Kjeldoran Outpost would enter the battlefield, sacrifice a Plains instead. If you do, put Kjeldoran Outpost onto the battlefield. If you don't, put it into its owner's graveyard.
+{T}: Add {W}.
+{1}{W}, {T}: Create a 1/1 white Soldier creature token.",4,White ,1,0
+Kor Haven,"{T}: Add {C}.
+{1}{W}, {T}: Prevent all combat damage that would be dealt by target attacking creature this turn.",16,White ,1,0.06291409288280807
+Lavaclaw Reaches,"Lavaclaw Reaches enters the battlefield tapped.
+{T}: Add {B} or {R}.
+{1}{B}{R}: Until end of turn, Lavaclaw Reaches becomes a 2/2 black and red Elemental creature with ""{X}: This creature gets +X/+0 until end of turn."" It's still a land.",57,Black Red ,2,1.1086168432202934
+Library of Alexandria,"{T}: Add {C}.
+{T}: Draw a card. Activate this ability only if you have exactly seven cards in hand.",30,White Blue Black Red Green,4,13.785211325259084
+Llanowar Wastes,"{T}: Add {C}.
+{T}: Add {B} or {G}. Llanowar Wastes deals 1 damage to you.",26,Black Green ,2,0
+Lonely Sandbar,"Lonely Sandbar enters the battlefield tapped.
+{T}: Add {U}.
+Cycling {U} ({U}, Discard this card: Draw a card.)",1,Blue ,1,0
+Lotus Field,"Hexproof
+Lotus Field enters the battlefield tapped.
+When Lotus Field enters the battlefield, sacrifice two lands.
+{T}: Add three mana of any one color.",1,White Blue Black Red Green,4,0
+Lumbering Falls,"Lumbering Falls enters the battlefield tapped.
+{T}: Add {G} or {U}.
+{2}{G}{U}: Lumbering Falls becomes a 3/3 green and blue Elemental creature with hexproof until end of turn. It's still a land.",85,Blue Green ,2,2.3741037761727126
+Mana Confluence,"{T}, Pay 1 life: Add one mana of any color.",98,White Blue Black Red Green,4,50.30706990127016
+Marsh Flats,"{T}, Pay 1 life, Sacrifice Marsh Flats: Search your library for a Plains or Swamp card, put it onto the battlefield, then shuffle your library.",114,White Black ,2,3.68478667101629
+Maze of Ith,{T}: Untap target attacking creature. Prevent all combat damage that would be dealt to and dealt by that creature this turn.,55,White Blue Black Red Green,4,27.212365213498448
+Mirrodin's Core,"{T}: Add {C}.
+{T}: Put a charge counter on Mirrodin's Core.
+{T}, Remove a charge counter from Mirrodin's Core: Add one mana of any color.",1,White Blue Black Red Green,4,0
+Mishra's Factory,"{T}: Add {C}.
+{1}: Mishra's Factory becomes a 2/2 Assembly-Worker artifact creature until end of turn. It's still a land.
+{T}: Target Assembly-Worker creature gets +1/+1 until end of turn.",121,White Blue Black Red Green,4,62.66005147845038
+Mishra's Workshop,{T}: Add {C}{C}{C}. Spend this mana only to cast artifact spells.,15,White Blue Black Red Green,4,5.728918992315464
+Misty Rainforest,"{T}, Pay 1 life, Sacrifice Misty Rainforest: Search your library for a Forest or Island card, put it onto the battlefield, then shuffle your library.",84,Blue Green ,2,2.3289078142815547
+Mossfire Valley,"{1}, {T}: Add {R}{G}.",1,Red Green ,2,0
+Mutavault,"{T}: Add {C}.
+{1}: Mutavault becomes a 2/2 creature with all creature types until end of turn. It's still a land.",107,White Blue Black Red Green,4,55.140845301036336
+Mystic Gate,"{T}: Add {C}.
+{W/U}, {T}: Add {W}{W}, {W}{U}, or {U}{U}.",1,White Blue ,2,0
+Needle Spires,"Needle Spires enters the battlefield tapped.
+{T}: Add {R} or {W}.
+{2}{R}{W}: Needle Spires becomes a 2/1 red and white Elemental creature with double strike until end of turn. It's still a land.",57,White Red ,2,1.1086168432202934
+Needleverge Pathway,NA,1,White Blue Black Red Green,4,0
+Nurturing Peatland,"{T}, Pay 1 life: Add {B} or {G}.
+{1}, {T}, Sacrifice Nurturing Peatland: Draw a card.",23,Black Green ,2,0
+"Nykthos, Shrine to Nyx","{T}: Add {C}.
+{2}, {T}: Choose a color. Add an amount of mana of that color equal to your devotion to that color. (Your devotion to a color is the number of mana symbols of that color in the mana costs of permanents you control.)",20,White Blue Black Red Green,4,8.414349769963337
+"Oran-Rief, the Vastwood","Oran-Rief, the Vastwood enters the battlefield tapped.
+{T}: Add {G}.
+{T}: Put a +1/+1 counter on each green creature that entered the battlefield this turn.",1,Green ,1,0
+Overgrown Tomb,"({T}: Add {B} or {G}.)
+As Overgrown Tomb enters the battlefield, you may pay 2 life. If you don't, it enters the battlefield tapped.",82,Black Green ,2,2.2385158904992393
+Phyrexian Tower,"{T}: Add {C}.
+{T}, Sacrifice a creature: Add {B}{B}.",1,Black ,1,0
+Plateau,({T}: Add {R} or {W}.),71,White Red ,2,1.741360309696503
+Polluted Delta,"{T}, Pay 1 life, Sacrifice Polluted Delta: Search your library for an Island or Swamp card, put it onto the battlefield, then shuffle your library.",97,Blue Black ,2,2.9164553188666065
+Prismatic Vista,"{T}, Pay 1 life, Sacrifice Prismatic Vista: Search your library for a basic land card, put it onto the battlefield, then shuffle your library.",38,White Blue Black Red Green,4,18.08190056949568
+Raging Ravine,"Raging Ravine enters the battlefield tapped.
+{T}: Add {R} or {G}.
+{2}{R}{G}: Until end of turn, Raging Ravine becomes a 3/3 red and green Elemental creature with ""Whenever this creature attacks, put a +1/+1 counter on it."" It's still a land.",57,Red Green ,2,1.1086168432202934
+Raugrin Triome,"({T}: Add {U}, {R}, or {W}.)
+Raugrin Triome enters the battlefield tapped.
+Cycling {3} ({3}, Discard this card: Draw a card.)",4,White Blue Red ,3,0
+Razorverge Thicket,"Razorverge Thicket enters the battlefield tapped unless you control two or fewer other lands.
+{T}: Add {G} or {W}.",30,White Green ,2,0
+Reflecting Pool,{T}: Add one mana of any type that a land you control could produce.,4,White Blue Black Red Green,4,0
+Rishadan Port,"{T}: Add {C}.
+{1}, {T}: Tap target land.",57,White Blue Black Red Green,4,28.2865375245576
+Rocky Tar Pit,"Rocky Tar Pit enters the battlefield tapped.
+{T}, Sacrifice Rocky Tar Pit: Search your library for a Swamp or Mountain card, put it onto the battlefield, then shuffle your library.",1,Black Red ,2,0
+Rootbound Crag,"Rootbound Crag enters the battlefield tapped unless you control a Mountain or a Forest.
+{T}: Add {R} or {G}.",1,Red Green ,2,0
+Sacred Foundry,"({T}: Add {R} or {W}.)
+As Sacred Foundry enters the battlefield, you may pay 2 life. If you don't, it enters the battlefield tapped.",81,White Red ,2,2.1933199286080813
+Savage Lands,"Savage Lands enters the battlefield tapped.
+{T}: Add {B}, {R}, or {G}.",1,Black Red Green ,3,0
+Savai Triome,"({T}: Add {R}, {W}, or {B}.)
+Savai Triome enters the battlefield tapped.
+Cycling {3} ({3}, Discard this card: Draw a card.)",6,White Black Red ,3,0.8951435925492912
+Savannah,({T}: Add {G} or {W}.),96,White Green ,2,2.8712593569754485
+Scalding Tarn,"{T}, Pay 1 life, Sacrifice Scalding Tarn: Search your library for an Island or Mountain card, put it onto the battlefield, then shuffle your library.",93,Blue Red ,2,2.735671471301975
+Scattered Groves,"({T}: Add {G} or {W}.)
+Scattered Groves enters the battlefield tapped.
+Cycling {2} ({2}, Discard this card: Draw a card.)",5,White Green ,2,0
+Scrubland,({T}: Add {W} or {B}.),91,White Black ,2,2.6452795475196598
+Sea Gate Restoration,NA,1,White Blue Black Red Green,4,0
+Seachrome Coast,"Seachrome Coast enters the battlefield tapped unless you control two or fewer other lands.
+{T}: Add {W} or {U}.",31,White Blue ,2,0
+Shambling Vent,"Shambling Vent enters the battlefield tapped.
+{T}: Add {W} or {B}.
+{1}{W}{B}: Shambling Vent becomes a 2/3 white and black Elemental creature with lifelink until end of turn. It's still a land.",70,White Black ,2,1.696164347805345
+Shatterskull Smashing,NA,5,White Blue Black Red Green,4,0.3580574370197166
+Shelldock Isle,"Hideaway (This land enters the battlefield tapped. When it does, look at the top four cards of your library, exile one face down, then put the rest on the bottom of your library.)
+{T}: Add {U}.
+{U}, {T}: You may play the exiled card without paying its mana cost if a library has twenty or fewer cards in it.",41,Blue ,1,1.5820063167337917
+Sheltered Thicket,"({T}: Add {R} or {G}.)
+Sheltered Thicket enters the battlefield tapped.
+Cycling {2} ({2}, Discard this card: Draw a card.)",6,Red Green ,2,0
+Shivan Reef,"{T}: Add {C}.
+{T}: Add {U} or {R}. Shivan Reef deals 1 damage to you.",33,Blue Red ,2,0.02391375783250521
+Silent Clearing,"{T}, Pay 1 life: Add {W} or {B}.
+{1}, {T}, Sacrifice Silent Clearing: Draw a card.",31,White Black ,2,0
+Skycloud Expanse,"{1}, {T}: Add {W}{U}.",1,White Blue ,2,0
+Smoldering Marsh,"({T}: Add {B} or {R}.)
+Smoldering Marsh enters the battlefield tapped unless you control two or more basic lands.",3,Black Red ,2,0
+Spikefield Hazard,NA,3,White Blue Black Red Green,4,0
+Spire of Industry,"{T}: Add {C}.
+{T}, Pay 1 life: Add one mana of any color. Activate this ability only if you control an artifact.",1,White Blue Black Red Green,4,0
+Spirebluff Canal,"Spirebluff Canal enters the battlefield tapped unless you control two or fewer other lands.
+{T}: Add {U} or {R}.",27,Blue Red ,2,0
+Steam Vents,"({T}: Add {U} or {R}.)
+As Steam Vents enters the battlefield, you may pay 2 life. If you don't, it enters the battlefield tapped.",93,Blue Red ,2,2.735671471301975
+Stirring Wildwood,"Stirring Wildwood enters the battlefield tapped.
+{T}: Add {G} or {W}.
+{1}{G}{W}: Until end of turn, Stirring Wildwood becomes a 3/4 green and white Elemental creature with reach. It's still a land.",75,White Green ,2,1.9221441572611342
+Stomping Ground,"({T}: Add {R} or {G}.)
+As Stomping Ground enters the battlefield, you may pay 2 life. If you don't, it enters the battlefield tapped.",77,Red Green ,2,2.01253608104345
+Strip Mine,"{T}: Add {C}.
+{T}, Sacrifice Strip Mine: Destroy target land.",92,White Blue Black Red Green,4,47.084552968092716
+Sulfur Falls,"Sulfur Falls enters the battlefield tapped unless you control an Island or a Mountain.
+{T}: Add {U} or {R}.",3,Blue Red ,2,0
+Sulfurous Springs,"{T}: Add {C}.
+{T}: Add {B} or {R}. Sulfurous Springs deals 1 damage to you.",43,Black Red ,2,0.47587337674408353
+Sunbaked Canyon,"{T}, Pay 1 life: Add {R} or {W}.
+{1}, {T}, Sacrifice Sunbaked Canyon: Draw a card.",30,White Red ,2,0
+Sunpetal Grove,"Sunpetal Grove enters the battlefield tapped unless you control a Forest or a Plains.
+{T}: Add {G} or {W}.",1,White Green ,2,0
+Taiga,({T}: Add {R} or {G}.),70,Red Green ,2,1.696164347805345
+Temple Garden,"({T}: Add {G} or {W}.)
+As Temple Garden enters the battlefield, you may pay 2 life. If you don't, it enters the battlefield tapped.",95,White Green ,2,2.8260633950842906
+Temple of Abandon,"Temple of Abandon enters the battlefield tapped.
+When Temple of Abandon enters the battlefield, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)
+{T}: Add {R} or {G}.",2,Red Green ,2,0
+Temple of Enlightenment,"Temple of Enlightenment enters the battlefield tapped.
+When Temple of Enlightenment enters the battlefield, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)
+{T}: Add {W} or {U}.",1,White Blue ,2,0
+Temple of Epiphany,"Temple of Epiphany enters the battlefield tapped.
+When Temple of Epiphany enters the battlefield, scry 1.
+{T}: Add {U} or {R}.",2,Blue Red ,2,0
+Temple of Malice,"Temple of Malice enters the battlefield tapped.
+When Temple of Malice enters the battlefield, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)
+{T}: Add {B} or {R}.",4,Black Red ,2,0
+Temple of Mystery,"Temple of Mystery enters the battlefield tapped.
+When Temple of Mystery enters the battlefield, scry 1.
+{T}: Add {G} or {U}.",1,Blue Green ,2,0
+Temple of Plenty,"Temple of Plenty enters the battlefield tapped.
+When Temple of Plenty enters the battlefield, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)
+{T}: Add {G} or {W}.",2,White Green ,2,0
+Temple of Triumph,"Temple of Triumph enters the battlefield tapped.
+When Temple of Triumph enters the battlefield, scry 1.
+{T}: Add {R} or {W}.",2,White Red ,2,0
+Tendo Ice Bridge,"Tendo Ice Bridge enters the battlefield with a charge counter on it.
+{T}: Add {C}.
+{T}, Remove a charge counter from Tendo Ice Bridge: Add one mana of any color.",22,White Blue Black Red Green,4,9.488522081022486
+Terramorphic Expanse,"{T}, Sacrifice Terramorphic Expanse: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.",37,White Blue Black Red Green,4,17.544814413966105
+Thespian's Stage,"{T}: Add {C}.
+{2}, {T}: Thespian's Stage becomes a copy of target land, except it has this ability.",1,White Blue Black Red Green,4,0
+Throne of the High City,"{T}: Add {C}.
+{4}, {T}, Sacrifice Throne of the High City: You become the monarch.",3,White Blue Black Red Green,4,0
+Tolarian Academy,{T}: Add {U} for each artifact you control.,48,Blue ,1,2.0073521394120672
+Treetop Village,"Treetop Village enters the battlefield tapped.
+{T}: Add {G}.
+{1}{G}: Treetop Village becomes a 3/3 green Ape creature with trample until end of turn. It's still a land. (It can deal excess combat damage to the player or planeswalker it's attacking.)",41,Green ,1,1.5820063167337917
+Tropical Island,({T}: Add {G} or {U}.),66,Blue Green ,2,1.5153805002407137
+Tundra,({T}: Add {W} or {U}.),76,White Blue ,2,1.9673401191522921
+Turntimber Symbiosis,NA,7,White Blue Black Red Green,4,1.432229748078866
+Twilight Mire,"{T}: Add {C}.
+{B/G}, {T}: Add {B}{B}, {B}{G}, or {G}{G}.",1,Black Green ,2,0
+Underground River,"{T}: Add {C}.
+{T}: Add {U} or {B}. Underground River deals 1 damage to you.",6,Blue Black ,2,0
+Underground Sea,({T}: Add {U} or {B}.),60,Blue Black ,2,1.2442047288937668
+Undiscovered Paradise,"{T}: Add one mana of any color. During your next untap step, as you untap your permanents, return Undiscovered Paradise to its owner's hand.",24,White Blue Black Red Green,4,10.562694392081635
+"Urborg, Tomb of Yawgmoth",Each land is a Swamp in addition to its other land types.,6,Black ,1,0
+Verdant Catacombs,"{T}, Pay 1 life, Sacrifice Verdant Catacombs: Search your library for a Swamp or Forest card, put it onto the battlefield, then shuffle your library.",107,Black Green ,2,3.3684149377781853
+Volcanic Island,({T}: Add {U} or {R}.),61,Blue Red ,2,1.2894006907849245
+Volrath's Stronghold,"{T}: Add {C}.
+{1}{B}, {T}: Put target creature card from your graveyard on top of your library.",23,Black ,1,0.4882599155610835
+Wandering Fumarole,"Wandering Fumarole enters the battlefield tapped.
+{T}: Add {U} or {R}.
+{2}{U}{R}: Until end of turn, Wandering Fumarole becomes a 1/4 blue and red Elemental creature with ""{0}: Switch this creature's power and toughness until end of turn."" It's still a land.",65,Blue Red ,2,1.4701845383495558
+Wasteland,"{T}: Add {C}.
+{T}, Sacrifice Wasteland: Destroy target nonbasic land.",87,White Blue Black Red Green,4,44.39912219044484
+Waterlogged Grove,"{T}, Pay 1 life: Add {G} or {U}.
+{1}, {T}, Sacrifice Waterlogged Grove: Draw a card.",29,Blue Green ,2,0
+Watery Grave,"({T}: Add {U} or {B}.)
+As Watery Grave enters the battlefield, you may pay 2 life. If you don't, it enters the battlefield tapped.",71,Blue Black ,2,1.741360309696503
+Westvale Abbey,"{T}: Add {C}.
+{5}, {T}, Pay 1 life: Create a 1/1 white and black Human Cleric creature token.
+{5}, {T}, Sacrifice five creatures: Transform Westvale Abbey, then untap it. Flying, lifelink, indestructible, haste",1,White Blue Black Red Green,4,0
+Windbrisk Heights,"Hideaway (This land enters the battlefield tapped. When it does, look at the top four cards of your library, exile one face down, then put the rest on the bottom of your library.)
+{T}: Add {W}.
+{W}, {T}: You may play the exiled card without paying its mana cost if you attacked with three or more creatures this turn.",1,White ,1,0
+Windswept Heath,"{T}, Pay 1 life, Sacrifice Windswept Heath: Search your library for a Forest or Plains card, put it onto the battlefield, then shuffle your library.",112,White Green ,2,3.594394747233974
+Wooded Foothills,"{T}, Pay 1 life, Sacrifice Wooded Foothills: Search your library for a Mountain or Forest card, put it onto the battlefield, then shuffle your library.",121,Red Green ,2,4.001158404254395
+Yavimaya Coast,"{T}: Add {C}.
+{T}: Add {G} or {U}. Yavimaya Coast deals 1 damage to you.",28,Blue Green ,2,0
+Zagoth Triome,"({T}: Add {B}, {G}, or {U}.)
+Zagoth Triome enters the battlefield tapped.
+Cycling {3} ({3}, Discard this card: Draw a card.)",5,Blue Black Green ,3,0.3580574370197166

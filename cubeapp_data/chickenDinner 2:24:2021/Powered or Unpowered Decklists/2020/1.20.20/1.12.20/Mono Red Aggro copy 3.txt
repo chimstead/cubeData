@@ -1,0 +1,48 @@
+1 [DTK:169] Zurgo Bellstriker
+1 [KTK:118] Monastery Swiftspear
+1 [ODY:193] Firebolt
+1 [ZEN:126] Goblin Guide
+1 [SOI:155] Falkenrath Gorger
+1 [TOR:100] Grim Lavamancer
+1 [CELD:365] Robber of the Rich
+1 [KLD:235] Smuggler's Copter
+1 [5DN:73] Magma Jet
+1 [AER:87] Kari Zev, Skyship Raider
+1 [AKH:135] Harsh Mentor
+1 [GRN:103] Goblin Cratermaker
+1 [BOK:163] Umezawa's Jitte
+1 [LEB:184] Wheel of Fortune
+1 [EMN:130a] Hanweir Garrison
+1 [SCG:106] Sulfuric Vortex
+1 [CELD:291] Bonecrusher Giant
+1 [GRN:109] Legion Warboss
+1 [WAR:137] Krenko, Tin Street Kingpin
+1 [PLS:60] Flametongue Kavu
+1 [SOM:94] Koth of the Hammer
+1 [M13:150] Thundermaw Hellkite
+1 [TSP:161] Greater Gargadon
+1 [AKH:136] Hazoret the Fervent
+1 [TMP:330] Wasteland
+1 [MH1:247] Sunbaked Canyon
+1 [ONS:313] Bloodstained Mire
+13 [UGL:87] Mountain
+SB: 1 [LEG:28] Moat
+SB: 1 [MH1:230] Talisman of Conviction
+SB: 1 [MBS:1] Accorder Paladin
+SB: 1 [RAV:280] Sacred Foundry
+SB: 1 [CN2:77] Leovold, Emissary of Trest
+SB: 1 [RNA:122] Biogenic Ooze
+SB: 1 [LEG:303] Karakas
+SB: 1 [RAV:213] Lightning Helix
+SB: 1 [ULG:139] Faerie Conclave
+SB: 1 [DST:148] Sword of Fire and Ice
+SB: 1 [MH1:228] Sword of Sinew and Steel
+SB: 1 [SOK:158] Pithing Needle
+SB: 1 [RNA:183] Hydroid Krasis
+SB: 1 [USG:174] Arc Lightning
+SB: 1 [BFZ:15] Ulamog, the Ceaseless Hunger
+SB: 1 [CN2:74] Daretti, Ingenious Iconoclast
+SB: 1 [WAR:244] Blast Zone
+SB: 1 [PLC:25] Mana Tithe
+LAYOUT MAIN:(1,7)(CMC,false,50)|([TMP:330],[MH1:247],[ONS:313],[UGL:87],[UGL:87],[UGL:87],[UGL:87],[UGL:87],[UGL:87],[UGL:87],[UGL:87],[UGL:87],[UGL:87],[UGL:87],[UGL:87],[UGL:87])([DTK:169],[KTK:118],[ODY:193],[ZEN:126],[SOI:155],[TOR:100])([CELD:365],[KLD:235],[5DN:73],[AER:87],[AKH:135],[GRN:103],[BOK:163])([LEB:184],[EMN:130a],[SCG:106],[CELD:291],[GRN:109],[WAR:137])([PLS:60],[SOM:94],[AKH:136])([M13:150])([TSP:161])
+LAYOUT SIDEBOARD:(1,7)(CMC,false,50)|([RAV:280],[LEG:303],[ULG:139],[WAR:244])([SOK:158],[PLC:25])([MH1:230],[MBS:1],[RAV:213],[RNA:183])([CN2:77],[DST:148],[MH1:228],[CN2:74],[USG:174])([LEG:28])([RNA:122])([BFZ:15])

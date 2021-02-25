@@ -1,3 +1,6 @@
+2018
+1.18
+1.21.18
 1 Brushland
 1 Yavimaya Coast
 1 Wasteland
@@ -6,7 +9,7 @@
 1 Strip Mine
 1 Scalding Tarn
 1 Raging Ravine
-1 Mishra’s Factory
+1 Mishra's Factory
 1 Lumbering Falls
 1 Faerie Conclave
 1 Forest
@@ -19,7 +22,7 @@
 1 Looter il-Kor
 1 Stoneforge Mystic
 1 Tarmogoyf
-1 True-name Nemesis
+1 True-Name Nemesis
 1 Reflector Mage
 1 Blade Splicer
 1 Oblivion Ring

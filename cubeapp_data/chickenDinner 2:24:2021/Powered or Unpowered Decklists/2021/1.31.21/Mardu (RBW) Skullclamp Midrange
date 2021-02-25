@@ -1,0 +1,55 @@
+1 [LRW:145] Thoughtseize
+1 [KLD:110] Chandra, Torch of Defiance
+1 [MRD:255] Talisman of Indulgence
+1 [THB:148] Phoenix of Ash
+1 [ROE:115] Inquisition of Kozilek
+1 [C13:84] Ophiomancer
+1 [MIR:184] Incinerate
+1 [C18:57] Retrofitter Foundry
+1 [DKA:12] Lingering Souls
+1 [KLD:4] Angel of Invention
+1 [GRN:109] Legion Warboss
+1 [BFZ:29] Gideon, Ally of Zendikar
+1 [RIX:82] Ravenous Chupacabra
+1 [DST:140] Skullclamp
+1 [CNS:16] Council's Judgment
+1 [SOI:242] Anguished Unmaking
+1 [LEB:105] Demonic Tutor
+1 [NPH:161] Sword of War and Peace
+1 [SCG:103] Siege-Gang Commander
+1 [MH1:37] Winds of Abandon
+1 [MOR:22] Reveillark
+1 [ELD:101] Rankle, Master of Pranks
+1 [DKA:93] Hellrider
+1 [ONS:319] Grand Coliseum
+1 [LEB:278] Badlands
+1 [BFZ:244] Shambling Vent
+1 [ZEN:211] Arid Mesa
+1 [LEB:280] Plateau
+1 [ELD:244] Fabled Passage
+1 [ZEN:219] Marsh Flats
+1 [LEG:303] Karakas
+1 [LRW:294] Mountain
+1 [LRW:295] Mountain
+1 [LRW:296] Mountain
+2 [LRW:283] Plains
+1 [LRW:282] Plains
+1 [LRW:292] Swamp
+1 [LRW:293] Swamp
+1 [LRW:290] Swamp
+SB: 1 [ROE:12] Ulamog, the Infinite Gyre
+SB: 1 [MBS:21] Consecrated Sphinx
+SB: 1 [P02:12] Armageddon
+SB: 1 [LEG:28] Moat
+SB: 1 [VIS:79] Fireblast
+SB: 1 [HOU:145] The Scarab God
+SB: 1 [KLD:67] Torrential Gearhulk
+SB: 1 [EXO:53] Carnophage
+SB: 1 [AER:87] Kari Zev, Skyship Raider
+SB: 1 [MRD:245] Solemn Simulacrum
+SB: 1 [C13:96] Toxic Deluge
+SB: 1 [EXO:72] Recurring Nightmare
+SB: 1 [SOI:247] Nahiri, the Harbinger
+SB: 1 [VIS:72] Vampiric Tutor
+LAYOUT MAIN:(1,6)(CMC,false,44)|([ONS:319],[LEB:278],[BFZ:244],[ZEN:211],[LEB:280],[ELD:244],[ZEN:219],[LEG:303],[LRW:294],[LRW:295],[LRW:296],[LRW:283],[LRW:282],[LRW:283],[LRW:292],[LRW:293],[LRW:290])([LRW:145],[ROE:115],[C18:57],[DST:140])([MRD:255],[MIR:184],[LEB:105],[MH1:37])([THB:148],[C13:84],[DKA:12],[GRN:109],[CNS:16],[SOI:242],[NPH:161])([KLD:110],[BFZ:29],[RIX:82],[ELD:101],[DKA:93])([KLD:4],[SCG:103],[MOR:22])
+LAYOUT SIDEBOARD:(1,7)(CMC,false,46)|([EXO:53],[VIS:72])([AER:87])([C13:96],[EXO:72])([P02:12],[LEG:28],[MRD:245],[SOI:247])([HOU:145])([MBS:21],[VIS:79],[KLD:67])([ROE:12])

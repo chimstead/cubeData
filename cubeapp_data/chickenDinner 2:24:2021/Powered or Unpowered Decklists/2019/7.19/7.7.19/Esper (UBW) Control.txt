@@ -1,0 +1,51 @@
+1 [VIS:72] Vampiric Tutor
+1 [CHK:268] Sensei's Divining Top
+1 [M11:70] Preordain
+1 [LEG:26] Land Tax
+1 [ULG:36] Miscalculation
+1 [STH:36] Mana Leak
+1 [ALL:22a] Arcane Denial
+1 [LEB:105] Demonic Tutor
+1 [MIR:74] Memory Lapse
+1 [NPH:4] Blade Splicer
+1 [ISD:213] Geist of Saint Traft
+1 [THS:90] Hero's Downfall
+1 [FRF:20] Monastery Mentor
+1 [C13:63] True-Name Nemesis
+1 [WWK:31] Jace, the Mind Sculptor
+1 [MMQ:162] Snuff Out
+1 [UDS:50] Treachery
+1 [C17:37] Fractured Identity
+1 [HOU:145] The Scarab God
+1 [MH1:233] Talisman of Hierarchy
+1 [5DN:55] Night's Whisper
+1 [RTR:73] Pack Rat
+1 [CHK:74] Meloku the Clouded Mirror
+1 [C16:56] Ash Barrens
+1 [MRD:152] Chrome Mox
+1 [AKH:243] Fetid Pools
+1 [ONS:316] Flooded Strand
+1 [GPT:157] Godless Shrine
+1 [LEG:303] Karakas
+1 [ZEN:219] Marsh Flats
+1 [BFZ:244] Shambling Vent
+1 [LEB:286] Underground Sea
+1 [ONS:328] Windswept Heath
+4 [MMQ:337] Island
+1 [MMQ:335] Island
+1 [MMQ:333] Plains
+1 [MMQ:342] Swamp
+SB: 1 [ODY:132] Entomb
+SB: 1 [ARB:110] Sphinx of the Steel Wind
+SB: 1 [MBS:21] Consecrated Sphinx
+SB: 1 [DTK:10] Dragon Hunter
+SB: 1 [TMP:154] Sarcomancy
+SB: 1 [FEM:38a] Hymn to Tourach
+SB: 1 [PTK:17] Ravages of War
+SB: 1 [USG:103] Time Spiral
+SB: 1 [ROE:53] Wall of Omens
+SB: 1 [TMP:151] Reanimate
+SB: 1 [5DN:164] Vedalken Shackles
+SB: 1 [VIS:66] Nekrataal
+LAYOUT MAIN:(1,7)(CMC,false,75)|([MMQ:337],[MMQ:337],[MMQ:335],[MMQ:337],[MMQ:337],[MMQ:333],[MMQ:342])([C16:56],[MRD:152],[AKH:243],[ONS:316],[GPT:157],[LEG:303],[ZEN:219],[BFZ:244],[LEB:286],[ONS:328])([LEG:26],[M11:70],[CHK:268],[VIS:72])([ALL:22a],[LEB:105],[STH:36],[MIR:74],[ULG:36],[5DN:55],[RTR:73],[MH1:233])([NPH:4],[ISD:213],[THS:90],[FRF:20],[C13:63])([WWK:31],[MMQ:162])([C17:37],[CHK:74],[HOU:145],[UDS:50])
+LAYOUT SIDEBOARD:(1,6)(CMC,false,50)|([DTK:10],[ODY:132],[TMP:151],[TMP:154])([FEM:38a],[ROE:53])([5DN:164])([PTK:17],[VIS:66])([MBS:21],[USG:103])([ARB:110])

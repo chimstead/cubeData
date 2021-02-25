@@ -1,0 +1,49 @@
+1 [TMP:330] Wasteland
+1 [EMA:199] Dack Fayden
+1 [ORI:127] Abbot of Keral Keep
+1 [THS:122] Firedrinker Satyr
+1 [THS:128] Magma Jet
+1 [XLN:74] Search for Azcanta
+1 [M14:163] Young Pyromancer
+1 [RTR:101] Mizzium Mortars
+1 [SCG:106] Sulfuric Vortex
+1 [4ED:361] Mishra's Factory
+1 [SOI:155] Falkenrath Gorger
+1 [ORI:143] Exquisite Firecraft
+1 [LRW:76] Mulldrifter
+1 [MRD:152] Chrome Mox
+1 [XLN:81] Spell Pierce
+1 [KTK:118] Monastery Swiftspear
+1 [M12:146] Incinerate
+1 [M12:145] Grim Lavamancer
+7 [GUR:3] Mountain
+6 [GUR:2] Island
+1 [HOU:83] Abrade
+1 [APC:128] Fire // Ice
+1 [CM2:98] Fiery Confluence
+1 [EVE:139] Figure of Destiny
+1 [LEG:137] Chain Lightning
+1 [RTR:44] Jace, Architect of Thought
+1 [WWK:31] Jace, the Mind Sculptor
+1 [2ED:265] Mox Ruby
+1 [VIS:34] Impulse
+SB: 1 [MMQ:129] Dark Ritual
+SB: 1 [KLD:96] Noxious Gearhulk
+SB: 1 [SCG:41] Mind's Desire
+SB: 1 [TSB:55] Avalanche Riders
+SB: 1 [TMP:116] Corpse Dance
+SB: 1 [CSP:96] Rite of Flame
+SB: 1 [FEM:38a] Hymn to Tourach
+SB: 1 [ROE:165] Splinter Twin
+SB: 1 [OGW:110] Goblin Dark-Dwellers
+SB: 1 [SCG:29] Brain Freeze
+SB: 1 [EMN:6] Emrakul, the Promised End
+SB: 1 [KLD:4] Angel of Invention
+SB: 1 [NPH:73] Sheoldred, Whispering One
+SB: 1 [A25:136] Imperial Recruiter
+SB: 1 [AKH:149] Sweltering Suns
+SB: 1 [MBS:46] Massacre Wurm
+SB: 1 [VIS:79] Fireblast
+SB: 1 [LRW:124] Makeshift Mannequin
+LAYOUT MAIN:(1,6)(CMC,false,65)|([4ED:361],[TMP:330],[2ED:265],[MRD:152],[GUR:2],[GUR:2],[GUR:2],[GUR:2],[GUR:2],[GUR:2],[GUR:3],[GUR:3],[GUR:3],[GUR:3],[GUR:3],[GUR:3],[GUR:3])([EVE:139],[THS:122],[LEG:137],[SOI:155],[XLN:81],[KTK:118],[M12:145])([HOU:83],[ORI:127],[RTR:101],[VIS:34],[THS:128],[XLN:74],[M14:163],[M12:146])([SCG:106],[ORI:143],[EMA:199])([APC:128],[RTR:44],[WWK:31],[CM2:98])([LRW:76])
+LAYOUT SIDEBOARD:(1,8)(CMC,false,60)|([CSP:96],[MMQ:129])([SCG:29],[FEM:38a])([A25:136],[AKH:149],[TMP:116])([LRW:124],[ROE:165],[TSB:55])([KLD:4],[OGW:110])([MBS:46],[VIS:79],[SCG:41],[KLD:96])([NPH:73])([EMN:6])

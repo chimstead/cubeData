@@ -1,0 +1,55 @@
+1 [UDS:50] Treachery
+1 [RNA:47] Pteramander
+1 [AVR:166] Zealous Conscripts
+1 [M12:63] Mana Leak
+1 [CHK:175] Kiki-Jiki, Mirror Breaker
+1 [M19:152] Lightning Strike
+1 [ARN:76] Library of Alexandria
+1 [GPT:32] Repeal
+1 [ULG:36] Miscalculation
+1 [WAR:61] Narset, Parter of Veils
+1 [M11:149] Lightning Bolt
+1 [TSP:73] Riftwing Cloudskate
+1 [ODY:193] Firebolt
+1 [LRW:78] Pestermite
+1 [ALL:28] Force of Will
+1 [RAV:255] Boros Signet
+1 [NPH:33] Deceiver Exarch
+1 [A25:136] Imperial Recruiter
+1 [2ED:48] Ancestral Recall
+1 [VIS:34] Impulse
+1 [LRW:76] Mulldrifter
+1 [ISD:78] Snapcaster Mage
+1 [GRN:224] Expansion // Explosion
+1 [KLD:249] Spirebluff Canal
+1 [DIS:166] Simic Signet
+3 [3ED:296] Island
+3 [3ED:295] Island
+2 [3ED:297] Island
+2 [3ED:303] Mountain
+3 [3ED:302] Mountain
+1 [3ED:301] Mountain
+1 [RNA:263] Mountain
+SB: 1 [9ED:228] Wildfire
+SB: 1 [CHK:163] Desperate Ritual
+SB: 1 [ZEN:119] Burst Lightning
+SB: 1 [CHK:212] Heartbeat of Spring
+SB: 1 [AKH:136] Hazoret the Fervent
+SB: 1 [ORI:127] Abbot of Keral Keep
+SB: 1 [JOU:94] Eidolon of the Great Revel
+SB: 1 [DTK:169] Zurgo Bellstriker
+SB: 1 [RAV:117] Char
+SB: 1 [9ED:216] Seething Song
+SB: 1 [KLD:243] Blooming Marsh
+SB: 1 [AKH:149] Sweltering Suns
+SB: 1 [DGM:135] Wear // Tear
+SB: 1 [NEM:17] Parallax Wave
+SB: 1 [AKH:134] Glorybringer
+SB: 1 [TMP:183] Jackal Pup
+SB: 1 [KTK:249] Wooded Foothills
+SB: 1 [3ED:287] Taiga
+SB: 1 [ROE:4] Emrakul, the Aeons Torn
+SB: 1 [CHK:193] Through the Breach
+SB: 1 [3ED:295] Island
+LAYOUT MAIN:(2,6)(CMC,true,50)|()([RNA:47])([ISD:78])([LRW:78],[NPH:33],[A25:136])([AVR:166],[CHK:175],[TSP:73],[LRW:76])()([ARN:76],[KLD:249],[3ED:296],[3ED:296],[3ED:295],[3ED:295],[3ED:297],[3ED:296],[3ED:297],[3ED:295],[3ED:303],[3ED:303],[3ED:302],[3ED:302],[3ED:302],[3ED:301],[RNA:263])([GPT:32],[M11:149],[ODY:193],[2ED:48])([M12:63],[M19:152],[ULG:36],[RAV:255],[VIS:34],[DIS:166])([WAR:61])([UDS:50],[ALL:28])([GRN:224])
+LAYOUT SIDEBOARD:(2,8)(CMC,true,32)|()([DTK:169],[TMP:183])([ORI:127],[JOU:94])()([AKH:136])([AKH:134])()([ROE:4])([KLD:243],[KTK:249],[3ED:287],[3ED:295])([ZEN:119])([CHK:163])([CHK:212],[RAV:117],[9ED:216],[AKH:149],[DGM:135])([NEM:17])([CHK:193])([9ED:228])()

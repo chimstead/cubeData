@@ -1,0 +1,50 @@
+1 [LEB:116] Mind Twist
+1 [CON:15] Path to Exile
+1 [MH1:233] Talisman of Hierarchy
+1 [CSP:136] Coldsteel Heart
+1 [STH:125] Wall of Blossoms
+1 [ZEN:14] Journey to Nowhere
+1 [ZEN:168] Lotus Cobra
+1 [DRK:102] Fellwar Stone
+1 [M11:172] Fauna Shaman
+1 [CNS:16] Council's Judgment
+1 [GRN:183] Knight of Autumn
+1 [LRW:34] Oblivion Ring
+1 [SOI:242] Anguished Unmaking
+1 [EVE:6] Flickerwisp
+1 [SOI:233] Tireless Tracker
+1 [LRW:213] Garruk Wildspeaker
+1 [ELD:171] Questing Beast
+1 [ISD:181] Garruk Relentless
+1 [ALA:9] Elspeth, Knight-Errant
+1 [CN2:18] Palace Jailer
+1 [MOR:22] Reveillark
+1 [KLD:4] Angel of Invention
+1 [MH1:161] Deep Forest Hermit
+1 [MH1:244] Prismatic Vista
+1 [ARN:71] City of Brass
+1 [LEB:279] Bayou
+1 [BFZ:244] Shambling Vent
+1 [WWK:144] Stirring Wildwood
+1 [LEB:281] Savannah
+4 [GUR:1] Forest
+5 [GUR:4] Plains
+2 [GUR:5] Swamp
+SB: 1 [MH1:229] Sword of Truth and Justice
+SB: 1 [MH1:13] Giver of Runes
+SB: 1 [ODY:193] Firebolt
+SB: 1 [ELD:238] Castle Ardenvale
+SB: 1 [BFZ:223] Hedron Archive
+SB: 1 [MMQ:324] Rishadan Port
+SB: 1 [CHK:225] Kodama's Reach
+SB: 1 [ATQ:80a] Mishra's Factory
+SB: 1 [EMN:40] Selfless Spirit
+SB: 1 [FRF:18] Mardu Woe-Reaper
+SB: 1 [ELD:288] Order of Midnight
+SB: 1 [TMP:47] Soltari Trooper
+SB: 1 [NEM:141] Kor Haven
+SB: 1 [ROE:21] Gideon Jura
+SB: 1 [M20:200] Voracious Hydra
+SB: 1 [ARB:75] Qasali Pridemage
+LAYOUT MAIN:(1,7)(CMC,false,87)|([GUR:1],[GUR:1],[GUR:1],[GUR:1],[GUR:4],[GUR:4],[GUR:4],[GUR:4],[GUR:4],[GUR:5],[GUR:5])([LEB:279],[ARN:71],[MH1:244],[LEB:281],[BFZ:244],[WWK:144])([LEB:116],[CON:15])([CSP:136],[M11:172],[DRK:102],[ZEN:14],[ZEN:168],[MH1:233],[STH:125])([SOI:242],[CNS:16],[EVE:6],[GRN:183],[LRW:34],[SOI:233])([ALA:9],[ISD:181],[LRW:213],[CN2:18],[ELD:171])([KLD:4],[MH1:161],[MOR:22])
+LAYOUT SIDEBOARD:(1,7)(CMC,false,70)|([ELD:238],[MMQ:324],[ATQ:80a],[NEM:141])([MH1:13],[ODY:193],[FRF:18],[ARB:75])([M20:200])([EMN:40],[TMP:47])([MH1:229],[CHK:225])([BFZ:223],[ELD:288])([ROE:21])

@@ -1,0 +1,34 @@
+4 Forest
+4 Island
+1 Swamp
+1 Ash Barrens
+1 Bayou
+1 Faerie Conclave
+1 Flooded Strand
+1 Gaea's Cradle
+1 Mana Confluence
+1 Strip Mine
+1 Treetop Village
+1 Wooded Foothills
+1 Mox Diamond
+1 Skullclamp
+1 Vampiric Tutor
+1 Demonic Tutor
+1 Life from the Loam
+1 Noose Constrictor
+1 Phyrexian Revoker
+1 Snapcaster Mage
+1 Time Walk
+1 Wall of Roots
+1 Green Sun's Zenith
+1 Eternal Witness
+1 Kitchen Finks
+1 Recurring Nightmare
+1 Vendilion Clique
+1 Garruk Relentless
+1 Master of the Wild Hunt
+1 Solemn Simulacrum
+1 Sower of Temptation
+1 Acidic Slime
+1 Deranged Hermit
+1 Shriekmaw

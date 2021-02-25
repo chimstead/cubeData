@@ -1,0 +1,32 @@
+6 Island
+1 Mountain
+4 Swamp
+1 Sulfurous Springs
+1 Wandering Fumarole
+1 Terramorphic Expanse
+1 Evolving Wilds
+1 Scalding Tarn
+1 Creeping Tar Pit
+1 Duress
+1 Rolling Earthquake
+1 Serum Visions
+1 Imperial Seal
+1 Dismember
+1 Mana Leak
+1 Miscalculation
+1 Ratchet Bomb
+1 Sorcerous Spyglass
+1 Spellskite
+1 Talisman of Dominance
+1 Everflowing Chalice
+1 Tinker
+1 Forbid
+1 Liliana, the Last Hope
+1 Control Magic
+1 Ral Zarek
+1 The Abyss
+1 Bribery
+1 Treachery
+1 Chandra, Flamecaller
+1 Blightsteel Colossus
+1 Sphinx of the Steel Wind

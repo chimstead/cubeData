@@ -1,0 +1,32 @@
+6 Swamp
+4 Forest
+1 Copperline Gorge
+1 Stomping Ground
+1 Scalding Tarn
+1 Overgrown Tomb
+1 Marsh Flats
+1 Bloodstained Mire
+1 Badlands
+1 Deathrite Shaman
+1 Elves of Deep Shadow
+1 Putrid Imp
+1 Entomb
+1 Faithless Looting
+1 Vampiric Tutor
+1 Fauna Shaman
+1 Sylvan Caryatid
+1 Abrupt Decay
+1 Demonic Tutor
+1 Golgari Signet
+1 Shallow Grave
+1 Terminate
+1 Ophiomancer
+1 Reclamation Sage
+1 Grim Tutor
+1 Recurring Nightmare
+1 Nekrataal
+1 Deranged Hermit
+1 Shriekmaw
+1 Living Death
+1 Dragonlord Atarka
+1 Griselbrand

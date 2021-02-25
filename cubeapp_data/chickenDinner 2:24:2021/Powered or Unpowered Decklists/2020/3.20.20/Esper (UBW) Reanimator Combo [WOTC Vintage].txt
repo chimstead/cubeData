@@ -1,0 +1,50 @@
+1 [6ED:19] Enlightened Tutor
+1 [FEM:38a] Hymn to Tourach
+1 [M13:112] Vampire Nighthawk
+1 [ELD:287] Murderous Rider
+1 [AKH:97] Liliana, Death's Majesty
+1 [ALA:202] Tidehollow Sculler
+1 [RIX:82] Ravenous Chupacabra
+1 [M13:22] Oblivion Ring
+1 [5DN:55] Night's Whisper
+1 [DKA:12] Lingering Souls
+1 [ARB:110] Sphinx of the Steel Wind
+1 [LRW:133] Oona's Prowler
+1 [FRF:20] Monastery Mentor
+1 [USG:96] Show and Tell
+1 [ISD:105] Liliana of the Veil
+1 [GPT:152] Izzet Signet
+1 [5ED:140] Animate Dead
+1 [ZEN:13] Iona, Shield of Emeria
+1 [M12:98] Grave Titan
+1 [ROE:115] Inquisition of Kozilek
+1 [TMP:151] Reanimate
+1 [3ED:274] Sol Ring
+1 [NPH:73] Sheoldred, Whispering One
+1 [KLD:245] Concealed Courtyard
+1 [2ED:265] Mox Ruby
+1 [RNA:248] Godless Shrine
+1 [ARN:76] Library of Alexandria
+1 [THB:251] Island
+4 [THB:250] Plains
+8 [THB:252] Swamp
+SB: 1 [M19:229] Crucible of Worlds
+SB: 1 [TMP:330] Wasteland
+SB: 1 [MBS:138] Sword of Feast and Famine
+SB: 1 [BOK:71] Ink-Eyes, Servant of Oni
+SB: 1 [EVE:139] Figure of Destiny
+SB: 1 [AER:57] Fatal Push
+SB: 1 [LEG:185] Eureka
+SB: 1 [ORI:105] Languish
+SB: 1 [ROE:47] Student of Warfare
+SB: 1 [THS:90] Hero's Downfall
+SB: 1 [SHM:229] Kitchen Finks
+SB: 1 [DTK:124] Ultimate Price
+SB: 1 [10E:163] Nekrataal
+SB: 1 [RNA:27] Tithe Taker
+SB: 1 [ARB:50] Bloodbraid Elf
+SB: 1 [AKH:136] Hazoret the Fervent
+SB: 1 [CON:30] Inkwell Leviathan
+SB: 1 [ROE:33] Linvala, Keeper of Silence
+LAYOUT MAIN:(1,5)(CMC,false,69)|([KLD:245],[2ED:265],[RNA:248],[ARN:76],[THB:251],[THB:250],[THB:250],[THB:250],[THB:250],[THB:252],[THB:252],[THB:252],[THB:252],[THB:252],[THB:252],[THB:252],[THB:252])([6ED:19],[ROE:115],[TMP:151],[3ED:274])([FEM:38a],[ALA:202],[5DN:55],[LRW:133],[GPT:152],[5ED:140])([M13:112],[M13:22],[DKA:12],[FRF:20],[USG:96],[ISD:105])([RIX:82],[AKH:97],[ELD:287],[M12:98],[NPH:73],[ARB:110],[ZEN:13])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([M19:229],[TMP:330],[MBS:138],[BOK:71],[EVE:139],[AER:57],[LEG:185],[ORI:105],[ROE:47],[THS:90],[SHM:229],[DTK:124],[10E:163],[RNA:27],[ARB:50],[AKH:136],[CON:30],[ROE:33])

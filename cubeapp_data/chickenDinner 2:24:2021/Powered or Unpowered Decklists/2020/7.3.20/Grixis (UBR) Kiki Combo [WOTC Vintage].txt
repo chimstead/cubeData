@@ -1,0 +1,50 @@
+1 [MH1:122] Firebolt
+1 [DDU:41] Trinket Mage
+1 [BBD:119] Impulse
+1 [GK2:76] Rakdos Signet
+1 [CN2:157] Flame Slash
+1 [TSP:73] Riftwing Cloudskate
+1 [MMA:59] Pestermite
+1 [EMA:199] Dack Fayden
+1 [AER:181] Walking Ballista
+1 [LEB:233] Black Lotus
+1 [IMA:136] Kiki-Jiki, Mirror Breaker
+1 [VMA:272] Mana Crypt
+1 [DDU:47] Pia and Kiran Nalaar
+1 [E02:12] Time Warp
+1 [MH1:50] Fact or Fiction
+1 [MEDM:GR3] Daretti, Ingenious Iconoclast
+1 [MM3:116] Zealous Conscripts
+1 [ULG:74] Avalanche Riders
+1 [WWK:31] Jace, the Mind Sculptor
+1 [BBD:131] Sower of Temptation
+1 [WAR:61] Narset, Parter of Veils
+1 [MM2:55] Remand
+1 [UMA:245] Lavaclaw Reaches
+1 [MH1:244] Prismatic Vista
+1 [OGW:182] Wandering Fumarole
+1 [MM3:244] Scalding Tarn
+7 [UNH:137] Island
+5 [UNH:139] Mountain
+1 [UNH:138] Swamp
+1 [UMA:128] Faithless Looting
+SB: 1 [ELD:342] Emry, Lurker of the Loch
+SB: 1 [CM2:101] Goblin Welder
+SB: 1 [VMA:73] High Tide
+SB: 1 [UMA:127] Desperate Ritual
+SB: 1 [TPR:89] Corpse Dance
+SB: 1 [ELD:110] Wishclaw Talisman
+SB: 1 [ME2:96] Imperial Seal
+SB: 1 [VMA:159] Fireblast
+SB: 1 [IMA:138] Magus of the Moon
+SB: 1 [VMA:57] Brain Freeze
+SB: 1 [THB:221] Kroxa, Titan of Death's Hunger
+SB: 1 [RNA:251] Hallowed Fountain
+SB: 1 [KLD:245] Concealed Courtyard
+SB: 1 [VMA:319] Tolarian Academy
+SB: 1 [KLD:243] Blooming Marsh
+SB: 1 [MMA:170] Tooth and Nail
+SB: 1 [GK2:21] Sphinx's Revelation
+SB: 1 [VMA:192] Wheel of Fortune
+LAYOUT MAIN:(1,7)(CMC,false,44)|([UNH:137],[UNH:137],[UNH:137],[UNH:137],[UNH:137],[UNH:137],[UNH:137],[UNH:139],[UNH:139],[UNH:139],[UNH:139],[UNH:139],[UNH:138])([UMA:245],[MM3:244],[MH1:244],[OGW:182],[LEB:233],[VMA:272])([UMA:128],[MH1:122],[CN2:157])([BBD:119],[GK2:76],[MM2:55],[AER:181],[TSP:73])([EMA:199],[MEDM:GR3],[WAR:61],[MMA:59],[DDU:41])([ULG:74],[MH1:50],[WWK:31],[DDU:47],[BBD:131])([IMA:136],[E02:12],[MM3:116])
+LAYOUT SIDEBOARD:(1,5)(CMC,false,50)|([CM2:101],[VMA:73],[ME2:96])([UMA:127],[ELD:110],[VMA:57],[THB:221])([ELD:342],[TPR:89],[IMA:138],[VMA:192])([VMA:159],[MMA:170],[GK2:21])([RNA:251],[KLD:245],[VMA:319],[KLD:243])

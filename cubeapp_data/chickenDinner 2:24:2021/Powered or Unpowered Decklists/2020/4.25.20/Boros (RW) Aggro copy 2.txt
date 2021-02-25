@@ -1,0 +1,52 @@
+1 [ELD:115] Bonecrusher Giant
+1 [BFZ:29] Gideon, Ally of Zendikar
+1 [PLS:60] Flametongue Kavu
+1 [C15:26] Fiery Confluence
+1 [ORI:157] Pia and Kiran Nalaar
+1 [DST:148] Sword of Fire and Ice
+1 [THB:148] Phoenix of Ash
+1 [CNS:16] Council's Judgment
+1 [XLN:1] Adanto Vanguard
+1 [THS:127] Lightning Strike
+1 [AER:87] Kari Zev, Skyship Raider
+1 [HOU:90] Earthshaker Khenra
+1 [GTC:148] Boros Charm
+1 [DST:140] Skullclamp
+1 [ZEN:126] Goblin Guide
+1 [ODY:193] Firebolt
+1 [EVE:139] Figure of Destiny
+1 [CHK:19] Isamaru, Hound of Konda
+1 [PLC:25] Mana Tithe
+1 [SOI:155] Falkenrath Gorger
+1 [DTK:169] Zurgo Bellstriker
+1 [THB:151] Purphoros's Intervention
+1 [M14:22] Imposing Sovereign
+1 [SHM:23] Spectral Procession
+1 [ONS:330] Wooded Foothills
+1 [ZEN:223] Scalding Tarn
+1 [LEB:280] Plateau
+1 [ELD:238] Castle Ardenvale
+1 [ZEN:211] Arid Mesa
+1 [ONS:316] Flooded Strand
+1 [ARN:71] City of Brass
+3 [3ED:301] Mountain
+1 [3ED:303] Mountain
+2 [3ED:293] Plains
+2 [3ED:292] Plains
+1 [3ED:294] Plains
+SB: 1 [DIS:171] Blood Crypt
+SB: 1 [ELD:122] Embereth Shieldbreaker
+SB: 1 [DOM:207] Teferi, Hero of Dominaria
+SB: 1 [BFZ:239] Lumbering Falls
+SB: 1 [M15:187] Nissa, Worldwaker
+SB: 1 [CHK:74] Meloku the Clouded Mirror
+SB: 1 [ROE:53] Wall of Omens
+SB: 1 [AVR:106] Griselbrand
+SB: 1 [CHK:193] Through the Breach
+SB: 1 [PTK:113] Imperial Recruiter
+SB: 1 [LEG:28] Moat
+SB: 1 [AKH:135] Harsh Mentor
+SB: 1 [USG:96] Show and Tell
+SB: 1 [MBS:8] Hero of Bladehold
+LAYOUT MAIN:(1,7)(CMC,false,50)|([ONS:330],[ZEN:223],[LEB:280],[ELD:238],[ZEN:211],[ONS:316],[ARN:71],[3ED:301],[3ED:301],[3ED:301],[3ED:303],[3ED:293],[3ED:292],[3ED:294],[3ED:293],[3ED:292])([DST:140],[ZEN:126],[ODY:193],[EVE:139],[CHK:19],[PLC:25],[SOI:155],[DTK:169],[THB:151])([XLN:1],[THS:127],[AER:87],[HOU:90],[GTC:148],[M14:22])([DST:148],[THB:148],[CNS:16])([BFZ:29],[PLS:60],[C15:26],[ORI:157])([ELD:115])([SHM:23])
+LAYOUT SIDEBOARD:(1,6)(CMC,false,50)|([DIS:171],[BFZ:239])([ROE:53],[AKH:135])([ELD:122],[PTK:113],[USG:96])([LEG:28],[MBS:8])([DOM:207],[M15:187],[CHK:74],[CHK:193])([AVR:106])

@@ -1,0 +1,53 @@
+1 [CON:15] Path to Exile
+1 [LRW:79] Ponder
+1 [DTK:36] Secure the Wastes
+1 [THS:107] Thoughtseize
+1 [MM3:50] Snapcaster Mage
+1 [SS1:4] Counterspell
+1 [SOI:242] Anguished Unmaking
+1 [A25:219] Vindicate
+1 [DKA:12] Lingering Souls
+1 [MM2:67] Vendilion Clique
+1 [HOU:49] Supreme Will
+1 [EMN:189] Spell Queller
+1 [EMA:57] Jace, the Mind Sculptor
+1 [IMA:48] Cryptic Command
+1 [C17:37] Fractured Identity
+1 [ELD:281] Brazen Borrower
+1 [AKH:14] Gideon of the Trials
+1 [IKO:319] Shark Typhoon
+1 [V14:15] Wrath of God
+1 [V13:9] Fact or Fiction
+1 [THB:302] Shatter the Sky
+1 [SOI:92] Thing in the Ice
+1 [VMA:289] Ancient Tomb
+1 [VMA:322] Tundra
+1 [VMA:313] Scrubland
+1 [MH1:244] Prismatic Vista
+1 [V12:10] Maze of Ith
+1 [GTC:242] Godless Shrine
+1 [KTK:233] Flooded Strand
+1 [WWK:133] Celestial Colonnade
+1 [KTK:230] Bloodstained Mire
+1 [LRW:288] Island
+2 [LRW:286] Island
+2 [LRW:289] Island
+2 [LRW:285] Plains
+1 [LRW:283] Plains
+1 [LRW:290] Swamp
+SB: 1 [KLD:231] Scrapheap Scrounger
+SB: 1 [V14:13] Upheaval
+SB: 1 [IKO:227] Lutri, the Spellchaser
+SB: 1 [VMA:235] Sylvan Library
+SB: 1 [A25:242] Mishra's Factory
+SB: 1 [ELD:335] Charming Prince
+SB: 1 [ZNR:335] Thieving Skydiver
+SB: 1 [DOM:1] Karn, Scion of Urza
+SB: 1 [AER:28] Baral, Chief of Compliance
+SB: 1 [M11:58] Jace Beleren
+SB: 1 [M19:79] Tezzeret, Artifice Master
+SB: 1 [TSP:66] Looter il-Kor
+SB: 1 [WAR:2*] Ugin, the Ineffable
+SB: 1 [DDQ:1] Geist of Saint Traft
+LAYOUT MAIN:(1,6)(CMC,false,85)|([VMA:289],[KTK:230],[WWK:133],[KTK:233],[GTC:242],[LRW:288],[LRW:286],[LRW:289],[LRW:289],[LRW:286],[V12:10],[LRW:285],[LRW:283],[LRW:285],[MH1:244],[VMA:313],[LRW:290],[VMA:322])([CON:15],[LRW:79],[DTK:36],[THS:107])([SS1:4],[MM3:50],[SOI:92],[IKO:319])([SOI:242],[AKH:14],[DKA:12],[EMN:189],[HOU:49],[MM2:67],[A25:219])([IMA:48],[V13:9],[EMA:57],[THB:302],[V14:15])([ELD:281],[C17:37])
+LAYOUT SIDEBOARD:(1,6)(CMC,false,90)|([A25:242])([AER:28],[ELD:335],[TSP:66],[KLD:231],[VMA:235],[ZNR:335])([M11:58],[IKO:227],[DDQ:1])([DOM:1])([M19:79])([WAR:2*],[V14:13])

@@ -1,3 +1,6 @@
+2018
+6.18
+6.1.18
 5 Forest
 4 Island
 3 Mountain
@@ -6,7 +9,7 @@
 1 City of Brass
 1 Lumbering Falls
 1 Earthquake
-1 Sensei’s Divining Top
+1 Sensei's Divining Top
 1 Serum Visions
 1 Subterranean Tremors
 1 Grim Monolith
@@ -23,7 +26,7 @@
 1 Mystic Confluence
 1 Thundermaw Hellkite
 1 Inferno Titan
-1 Selvala’s Stampede
+1 Selvala's Stampede
 1 Angel of Serenity
 1 Dragonlord Atarka
 1 Terastodon

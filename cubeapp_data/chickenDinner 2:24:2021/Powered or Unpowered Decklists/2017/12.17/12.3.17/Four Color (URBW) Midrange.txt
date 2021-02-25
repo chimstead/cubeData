@@ -1,0 +1,36 @@
+4 Island
+1 Plains
+2 Mountain
+1 Swamp
+1 Arid Mesa
+1 Badlands
+1 Blood Crypt
+1 Bloodstained Mire
+1 Flooded Strand
+1 Mana Confluence
+1 Steam Vents
+1 Sulfurous Springs
+1 Underground Sea
+1 Engineered Explosives
+1 Mox Diamond
+1 Mind Twist
+1 Abrade
+1 Baleful Strix
+1 Guardian Idol
+1 Izzet Charm
+1 Mind Stone
+1 Prismatic Lens
+1 Scroll Rack
+1 Crucible of Worlds
+1 Supreme Will
+1 Vendilion Clique
+1 Chandra, Torch of Defiance
+1 Control Magic
+1 Fiery Confluence
+1 Sower of Temptation
+1 Venser, Shaper Savant
+1 Batterskull
+1 Fractured Identity
+1 Mulldrifter
+1 Treachery
+1 Inferno Titan

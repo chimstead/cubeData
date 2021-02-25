@@ -1,0 +1,49 @@
+1 [ELD:59] Opt
+1 [FRF:118] Wild Slash
+1 [ELD:74] Witching Well
+1 [M14:163] Young Pyromancer
+1 [KLD:235] Smuggler's Copter
+1 [AER:87] Kari Zev, Skyship Raider
+1 [WAR:136] Jaya's Greeting
+1 [GRN:37] Disdainful Stroke
+1 [M13:43] Augur of Bolas
+1 [WAR:120] Chandra's Pyrohelix
+1 [M13:72] Talrand, Sky Summoner
+1 [RNA:55] Sphinx of Foresight
+1 [WAR:56] Kasmina, Enigmatic Mentor
+1 [AKH:57] Hieroglyphic Illumination
+1 [EMN:56] Docent of Perfection
+1 [RNA:114] Skarrgan Hellkite
+1 [AKH:49] Curator of Mysteries
+1 [M20:54] Cloudkin Seer
+1 [DOM:46] Blink of an Eye
+1 [THB:305] Nadir Kraken
+1 [GRN:222] Connive // Concoct
+1 [ORI:157] Pia and Kiran Nalaar
+1 [WAR:137] Krenko, Tin Street Kingpin
+1 [ELD:242] Castle Vantress
+1 [JOU:164] Temple of Epiphany
+1 [ISD:248] Sulfur Falls
+8 [UST:213] Island
+6 [UST:215] Mountain
+SB: 1 [SOI:181] Sin Prodder
+SB: 1 [ELD:288] Order of Midnight
+SB: 1 [WAR:234] Saheeli, Sublime Artificer
+SB: 1 [RNA:185] Judith, the Scourge Diva
+SB: 1 [WAR:213] Roalesk, Apex Hybrid
+SB: 1 [DGM:11] Aetherling
+SB: 1 [M13:5] Attended Knight
+SB: 1 [DGM:104] Sire of Insanity
+SB: 1 [KLD:15] Fumigate
+SB: 1 [M14:29] Planar Cleansing
+SB: 1 [WAR:223] Time Wipe
+SB: 1 [M19:33] Remorseful Cleric
+SB: 1 [KLD:124] Pia Nalaar
+SB: 1 [GTC:142] Assemble the Legion
+SB: 1 [WAR:45] Commence the Endgame
+SB: 1 [M13:225] Glacial Fortress
+SB: 1 [THS:228] Temple of Triumph
+SB: 1 [ELD:26] Realm-Cloaked Giant
+SB: 1 [THB:302] Shatter the Sky
+LAYOUT MAIN:(1,6)(CMC,false,81)|([ELD:242],[UST:213],[UST:213],[UST:213],[UST:213],[UST:213],[UST:213],[UST:213],[UST:213],[UST:215],[UST:215],[UST:215],[UST:215],[UST:215],[JOU:164],[ISD:248],[UST:215])([ELD:59],[FRF:118],[ELD:74])([M14:163],[KLD:235],[AER:87],[WAR:136],[GRN:37],[M13:43],[WAR:120],[DOM:46])([M20:54],[THB:305],[WAR:137])([M13:72],[RNA:55],[WAR:56],[AKH:57],[AKH:49],[GRN:222],[ORI:157])([EMN:56],[RNA:114])
+LAYOUT SIDEBOARD:(1,7)(CMC,false,50)|([M13:225],[THS:228])([M19:33])([KLD:124])([M13:5],[RNA:185],[WAR:234],[SOI:181])([ELD:288],[THB:302])([GTC:142],[KLD:15],[WAR:213],[WAR:223],[ELD:26])([DGM:11],[WAR:45],[M14:29],[DGM:104])

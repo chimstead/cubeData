@@ -1,0 +1,59 @@
+2021
+1.31.21
+1 [ZEN:223] Scalding Tarn
+1 [KTK:36] Dig Through Time
+1 [MH1:244] Prismatic Vista
+1 [CON:15] Path to Exile
+1 [10E:347] Adarkar Wastes
+1 [DKA:52] Thought Scour
+1 [GRN:254] Sacred Foundry
+1 [ROE:145] Flame Slash
+1 [DIS:33] Spell Snare
+1 [WAR:50] Fblthp, the Lost
+1 [KTK:233] Flooded Strand
+1 [SUM:284] Plateau
+1 [THB:229] Uro, Titan of Nature's Wrath
+1 [SUM:291] Volcanic Island
+1 [MH1:249] Waterlogged Grove
+1 [TSB:92] Fiery Justice
+1 [M12:63] Mana Leak
+1 [10E:349] Brushland
+1 [JUD:46] Mental Note
+1 [RAV:213] Lightning Helix
+1 [EVE:177] Flooded Grove
+1 [RTR:172] Izzet Charm
+1 [ZNR:170] Thundering Rebuke
+1 [ISD:78] Snapcaster Mage
+1 [ZNR:232] Omnath, Locus of Creation
+1 [ELD:197] Oko, Thief of Crowns
+1 [ISD:181] Garruk Relentless
+1 [C19:5] Sevinne's Reclamation
+1 [KTK:248] Windswept Heath
+1 [SUM:287] Taiga
+1 [RTR:201] Supreme Verdict
+1 [IKO:211] Sprite Dragon
+1 [5DN:118] Engineered Explosives
+1 [9ED:99] Sleight of Hand
+1 [UDS:50] Treachery
+1 [SHM:211] Manamorphose
+1 [SUM:285] Savannah
+1 [ZNR:269] Island
+1 [ZNR:275] Mountain
+1 [ZNR:266] Plains
+SB: 1 [AER:57] Fatal Push
+SB: 1 [M19:166] Viashino Pyromancer
+SB: 1 [ELD:188] Drown in the Loch
+SB: 1 [TMP:183] Jackal Pup
+SB: 5 [ZNR:266] Plains
+SB: 5 [ZNR:269] Island
+SB: 5 [ZNR:272] Swamp
+SB: 5 [ZNR:275] Mountain
+SB: 5 [ZNR:278] Forest
+SB: 1 [DTK:38] Silkwrap
+SB: 1 [FUT:52] Logic Knot
+SB: 1 [MH1:52] Force of Negation
+SB: 1 [ARB:75] Qasali Pridemage
+SB: 1 [FRF:118] Wild Slash
+SB: 1 [DIS:71] Seal of Fire
+LAYOUT MAIN:(1,7)(CMC,false,50)|([ZEN:223],[MH1:244],[10E:347],[GRN:254],[KTK:233],[SUM:284],[SUM:291],[MH1:249],[10E:349],[EVE:177],[KTK:248],[SUM:287],[5DN:118],[SUM:285],[ZNR:269],[ZNR:275],[ZNR:266])([CON:15],[DKA:52],[ROE:145],[DIS:33],[JUD:46],[9ED:99])([WAR:50],[M12:63],[RAV:213],[RTR:172],[ZNR:170],[ISD:78],[IKO:211],[SHM:211])([THB:229],[TSB:92],[ELD:197],[C19:5])([ZNR:232],[ISD:181],[RTR:201])([UDS:50])([KTK:36])
+LAYOUT SIDEBOARD:(1,4)(CMC,false,50)|([ZNR:266],[ZNR:266],[ZNR:266],[ZNR:266],[ZNR:266],[ZNR:269],[ZNR:269],[ZNR:269],[ZNR:269],[ZNR:269],[ZNR:272],[ZNR:272],[ZNR:272],[ZNR:272],[ZNR:272],[ZNR:275],[ZNR:275],[ZNR:275],[ZNR:275],[ZNR:275],[ZNR:278],[ZNR:278],[ZNR:278],[ZNR:278],[ZNR:278])([AER:57],[TMP:183],[FRF:118],[DIS:71])([M19:166],[ELD:188],[DTK:38],[FUT:52],[ARB:75])([MH1:52])

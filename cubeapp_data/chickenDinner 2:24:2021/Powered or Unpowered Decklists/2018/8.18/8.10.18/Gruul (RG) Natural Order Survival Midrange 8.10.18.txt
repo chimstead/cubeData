@@ -1,0 +1,53 @@
+1 [CMD:170] Scavenging Ooze
+1 [ORI:229] Hangarback Walker
+1 [EXO:129] Survival of the Fittest
+1 [SHM:135] Woodfall Primus
+1 [THS:209] Xenagos, the Reveler
+3 [6ED:350] Forest
+1 [CMD:159] Hornet Queen
+1 [MBS:81] Green Sun's Zenith
+1 [M15:194] Reclamation Sage
+1 [USG:309] Smokestack
+3 [6ED:347] Forest
+1 [OGW:140] Oath of Nissa
+1 [6ED:346] Mountain
+3 [6ED:349] Forest
+1 [6ED:348] Forest
+1 [DDL:43] Polukranos, World Eater
+1 [USG:321] Gaea's Cradle
+1 [AKH:175] Manglehorn
+1 [AER:181] Walking Ballista
+1 [DST:140] Skullclamp
+1 [ALA:191] Sarkhan Vol
+1 [6ED:343] Mountain
+1 [DTK:216] Dragonlord Atarka
+1 [6ED:217] Birds of Paradise
+1 [M10:191] Master of the Wild Hunt
+1 [ISD:170] Avacyn's Pilgrim
+1 [GPT:165] Stomping Ground
+1 [CON:87] Noble Hierarch
+1 [WWK:95] Arbor Elf
+1 [ULG:101] Deranged Hermit
+1 [JOU:163] Mana Confluence
+1 [ONS:330] Wooded Foothills
+1 [SOM:223] Wurmcoil Engine
+1 [VIS:114] Natural Order
+SB: 1 [AVR:32] Restoration Angel
+SB: 1 [BFZ:239] Lumbering Falls
+SB: 1 [RAV:279] Overgrown Tomb
+SB: 1 [TMP:245] Rampant Growth
+SB: 1 [MMA:180] Maelstrom Pulse
+SB: 1 [DIS:172] Breeding Pool
+SB: 1 [MMA:185] Trygon Predator
+SB: 1 [SOI:5] Archangel Avacyn
+SB: 1 [EXO:53] Carnophage
+SB: 1 [DIS:174] Hallowed Fountain
+SB: 1 [MMQ:69] Counterspell
+SB: 1 [ARB:75] Qasali Pridemage
+SB: 1 [NEM:18] Seal of Cleansing
+SB: 1 [VIS:37] Man-o'-War
+SB: 1 [ULG:110] Rancor
+SB: 1 [ISD:105] Liliana of the Veil
+SB: 1 [ORI:60] Jace, Vryn's Prodigy
+LAYOUT MAIN:(1,9)(CMC,false,60)|([USG:321],[JOU:163],[GPT:165],[ONS:330],[6ED:350],[6ED:347],[6ED:349],[6ED:347],[6ED:350],[6ED:349],[6ED:349],[6ED:350],[6ED:348],[6ED:347],[6ED:343],[6ED:346])([WWK:95],[6ED:217],[MBS:81],[CON:87],[OGW:140],[DST:140],[ISD:170])([CMD:170],[EXO:129],[AER:181],[ORI:229])([AKH:175],[M15:194])([M10:191],[VIS:114],[DDL:43],[ALA:191],[USG:309],[THS:209])([ULG:101])([SOM:223])([DTK:216],[CMD:159])([SHM:135])
+LAYOUT SIDEBOARD:(1,8)(CARD_TYPE,false,50)|([ORI:60],[MMA:185],[EXO:53],[VIS:37])([NEM:18],[ULG:110])([MMQ:69])([DIS:172],[DIS:174],[BFZ:239],[RAV:279])([ISD:105])([MMA:180])([AVR:32],[SOI:5],[ARB:75])([TMP:245])

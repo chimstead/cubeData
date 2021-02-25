@@ -1,0 +1,49 @@
+1 [TPR:113] Recurring Nightmare
+1 [HOU:145] The Scarab God
+1 [PM20:111p] Rotting Regisaur
+1 [C13:84] Ophiomancer
+1 [LRW:133] Oona's Prowler
+1 [DPAP:5] Grave Titan
+1 [VIS:64] Necromancy
+1 [CM2:231] Wurmcoil Engine
+1 [RIX:82] Ravenous Chupacabra
+1 [PD3:7] Terastodon
+1 [GRN:205] Thief of Sanity
+1 [UMA:88] Buried Alive
+1 [EMA:100] Night's Whisper
+1 [TSP:66] Looter il-Kor
+1 [ELD:287] Murderous Rider
+1 [VMA:294] Bazaar of Baghdad
+1 [VMA:104] Animate Dead
+1 [VMA:274] Mana Vault
+1 [MBS:21] Consecrated Sphinx
+1 [VMA:122] Hymn to Tourach
+1 [BBD:131] Sower of Temptation
+1 [PD3:17] Exhume
+1 [V15:9] Iona, Shield of Emeria
+1 [MH1:199] Fallen Shinobi
+1 [ZEN:116] Vampire Nighthawk
+6 [UST:213] Island
+9 [UST:214] Swamp
+SB: 1 [HOP:36] Phyrexian Arena
+SB: 1 [10E:151] Hypnotic Specter
+SB: 1 [THB:308] Thassa's Oracle
+SB: 1 [ZEN:114] Vampire Hexmage
+SB: 1 [V17:11a] Huntmaster of the Fells
+SB: 1 [KLD:246] Inspiring Vantage
+SB: 1 [NPH:35] Gitaxian Probe
+SB: 1 [RAV:63] Remand
+SB: 1 [MB1:655] Fatal Push
+SB: 1 [THB:255] Elspeth, Sun's Nemesis
+SB: 1 [ORI:23] Kytheon, Hero of Akros
+SB: 1 [PC2:33] Ink-Eyes, Servant of Oni
+SB: 1 [HOP:4] Oblivion Ring
+SB: 1 [GRN:183] Knight of Autumn
+SB: 1 [MB1:533] Trinket Mage
+SB: 1 [E01:21] Sun Titan
+SB: 1 [CNS:16] Council's Judgment
+SB: 1 [FRF:20] Monastery Mentor
+SB: 1 [KLD:13] Fairgrounds Warden
+SB: 1 [THS:33] Spear of Heliod
+LAYOUT MAIN:(2,5)(CMC,false,40)|([UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214])([VMA:274])([TPR:113],[PM20:111p],[C13:84],[VIS:64],[GRN:205],[UMA:88],[ZEN:116],[ELD:287])([HOU:145])([PD3:7])([VMA:294],[UST:213],[UST:213],[UST:213],[UST:213],[UST:213],[UST:213])([LRW:133],[EMA:100],[TSP:66],[VMA:104],[VMA:122],[PD3:17])([RIX:82],[BBD:131],[MH1:199])([DPAP:5],[CM2:231],[MBS:21])([V15:9])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([HOP:36],[10E:151],[THB:308],[ZEN:114],[V17:11a],[KLD:246],[NPH:35],[RAV:63],[MB1:655],[THB:255],[ORI:23],[PC2:33],[HOP:4],[GRN:183],[MB1:533],[E01:21],[CNS:16],[FRF:20],[KLD:13],[THS:33])

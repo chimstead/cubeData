@@ -1,0 +1,29 @@
+7 Island
+6 Swamp
+1 Watery Grave
+1 Tolarian Academy
+1 Strip Mine
+1 Condescend
+1 Mystical Tutor
+1 Pithing Needle
+1 Retrofitter Foundry
+1 Engineered Explosives
+1 Spellskite
+1 Hangarback Walker
+1 Demonic Tutor
+1 Remand
+1 Scroll Rack
+1 Sorcerous Spyglass
+1 Talisman of Creativity
+1 Talisman of Dominance
+1 Talisman of Hierarchy
+1 Everflowing Chalice
+1 Show and Tell
+1 Tangle Wire
+1 Tinker
+1 Vraska's Contempt
+1 Grave Titan
+1 Myr Battlesphere
+1 Griselbrand
+1 Sundering Titan
+1 Inkwell Leviathan

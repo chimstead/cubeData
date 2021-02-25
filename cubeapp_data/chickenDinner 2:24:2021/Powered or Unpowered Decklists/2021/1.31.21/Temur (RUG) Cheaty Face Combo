@@ -1,0 +1,50 @@
+1 [STH:138] Mox Diamond
+1 [ICE:326] Jeweled Amulet
+1 [MMQ:61] Brainstorm
+1 [EXO:115] Oath of Druids
+1 [SOM:81] Arc Trail
+1 [MRD:255] Talisman of Indulgence
+1 [MH1:234] Talisman of Resilience
+1 [USG:96] Show and Tell
+1 [INV:57] Fact or Fiction
+1 [LRW:213] Garruk Wildspeaker
+1 [USG:218] Sneak Attack
+1 [LEG:185] Eureka
+1 [CHK:193] Through the Breach
+1 [CN2:71] Selvala's Stampede
+1 [MBS:99] Blightsteel Colossus
+1 [ROE:12] Ulamog, the Infinite Gyre
+1 [ROE:6] Kozilek, Butcher of Truth
+1 [C18:53] Ancient Stone Idol
+1 [DTK:216] Dragonlord Atarka
+1 [M11:146] Inferno Titan
+1 [LEA:188] Channel
+1 [M21:232] Mazemind Tome
+1 [XLN:179] Carnage Tyrant
+1 [IKO:250] Ketria Triome
+1 [ONS:319] Grand Coliseum
+1 [BFZ:239] Lumbering Falls
+1 [ZEN:220] Misty Rainforest
+5 [PGRU:5] Forest
+5 [PGRU:2] Island
+3 [PGRU:4] Mountain
+SB: 1 [MOR:58] Bitterblossom
+SB: 1 [LRW:88] Sower of Temptation
+SB: 1 [MH1:247] Sunbaked Canyon
+SB: 1 [LEG:303] Karakas
+SB: 1 [ELD:235] Stonecoil Serpent
+SB: 1 [MBS:92] Thrun, the Last Troll
+SB: 1 [STH:125] Wall of Blossoms
+SB: 1 [AKH:14] Gideon of the Trials
+SB: 1 [NEM:141] Kor Haven
+SB: 1 [ROE:53] Wall of Omens
+SB: 1 [FUT:46] Venser, Shaper Savant
+SB: 1 [MH1:217] Wrenn and Six
+SB: 1 [CMD:159] Hornet Queen
+SB: 1 [MH1:52] Force of Negation
+SB: 1 [AVR:172] Craterhoof Behemoth
+SB: 1 [CON:121] Progenitus
+SB: 1 [AKH:134] Glorybringer
+SB: 1 [NPH:9] Elesh Norn, Grand Cenobite
+LAYOUT MAIN:(1,10)(CMC,false,64)|([PGRU:5],[PGRU:5],[PGRU:5],[PGRU:5],[PGRU:5],[PGRU:2],[PGRU:2],[PGRU:2],[PGRU:2],[PGRU:2],[PGRU:4],[PGRU:4],[PGRU:4])([ONS:319],[IKO:250],[BFZ:239],[ZEN:220])([STH:138],[ICE:326],[MMQ:61])([SOM:81],[LEA:188],[M21:232],[EXO:115],[MRD:255],[MH1:234])([USG:96])([LEG:185],[INV:57],[LRW:213],[USG:218])([CHK:193])([XLN:179],[M11:146],[CN2:71])([DTK:216])([C18:53],[ROE:6],[ROE:12],[MBS:99])
+LAYOUT SIDEBOARD:(1,8)(CMC,false,50)|([MH1:247],[LEG:303],[ELD:235],[NEM:141])([MOR:58],[STH:125],[ROE:53],[MH1:217])([AKH:14],[MH1:52])([LRW:88],[MBS:92],[FUT:46])([AKH:134])([CMD:159],[NPH:9])([AVR:172])([CON:121])

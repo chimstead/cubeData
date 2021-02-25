@@ -1,3 +1,6 @@
+2017
+12.17
+12.29.17
 1 Battlefield Forge
 1 Strip Mine
 3 Plains
@@ -18,7 +21,7 @@
 1 Lightning Helix
 1 Magma Jet
 1 Porcelain Legionnaire
-1 Smuggler’s Copter
+1 Smuggler's Copter
 1 Goblin Rabblemaster
 1 Hanweir Garrison
 1 Sulfuric Vortex

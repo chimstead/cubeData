@@ -1,0 +1,55 @@
+1 [IKO:21] Luminous Broodmoth
+1 [NPH:19] Porcelain Legionnaire
+1 [WAR:137] Krenko, Tin Street Kingpin
+1 [THB:4] Banishing Light
+1 [GRN:113] Risk Factor
+1 [BNG:5] Brimaz, King of Oreskos
+1 [KLD:235] Smuggler's Copter
+1 [DDN:23] Arc Trail
+1 [C13:179] Boros Charm
+1 [XLN:1] Adanto Vanguard
+1 [THS:128] Magma Jet
+1 [SOI:12] Declaration in Stone
+1 [M19:152] Lightning Strike
+1 [DKA:24] Thalia, Guardian of Thraben
+1 [ULG:14] Mother of Runes
+1 [THB:151] Purphoros's Intervention
+1 [CON:15] Path to Exile
+1 [KLD:199] Bomat Courier
+1 [EVE:139] Figure of Destiny
+1 [DOM:14] Dauntless Bodyguard
+1 [RTR:213] Deathrite Shaman
+1 [MMA:184] Tidehollow Sculler
+1 [M20:206] Corpse Knight
+1 [M20:111] Rotting Regisaur
+1 [GTC:242] Godless Shrine
+1 [JOU:163] Mana Confluence
+1 [RTR:238] Blood Crypt
+1 [MH1:247] Sunbaked Canyon
+1 [KTK:239] Polluted Delta
+1 [KLD:246] Inspiring Vantage
+1 [MH1:246] Silent Clearing
+1 [3ED:302] Mountain
+4 [3ED:292] Plains
+2 [3ED:301] Mountain
+1 [3ED:300] Swamp
+1 [3ED:298] Swamp
+SB: 1 [OGW:182] Wandering Fumarole
+SB: 1 [MIR:255] Worldly Tutor
+SB: 1 [USG:12] Disenchant
+SB: 1 [MM3:240] Misty Rainforest
+SB: 1 [RTR:243] Overgrown Tomb
+SB: 1 [C14:142] Dread Return
+SB: 1 [WWK:20] Stoneforge Mystic
+SB: 1 [ORI:229] Hangarback Walker
+SB: 1 [EMA:34] Wall of Omens
+SB: 1 [AKH:149] Sweltering Suns
+SB: 1 [DTK:124] Ultimate Price
+SB: 1 [AER:164] Metallic Mimic
+SB: 1 [WAR:117] Burning Prophet
+SB: 1 [C16:56] Ash Barrens
+SB: 1 [3ED:293] Plains
+SB: 1 [3ED:294] Plains
+SB: 1 [3ED:302] Mountain
+LAYOUT MAIN:(1,5)(CMC,false,50)|([GTC:242],[JOU:163],[RTR:238],[MH1:247],[KTK:239],[KLD:246],[MH1:246],[3ED:302],[3ED:301],[3ED:301],[3ED:292],[3ED:292],[3ED:292],[3ED:292],[3ED:300],[3ED:298])([ULG:14],[THB:151],[CON:15],[KLD:199],[EVE:139],[DOM:14],[RTR:213])([KLD:235],[DDN:23],[C13:179],[XLN:1],[THS:128],[SOI:12],[M19:152],[DKA:24],[MMA:184],[M20:206])([NPH:19],[WAR:137],[THB:4],[GRN:113],[BNG:5],[M20:111])([IKO:21])
+LAYOUT SIDEBOARD:(1,5)(CMC,false,50)|([OGW:182],[MM3:240],[RTR:243],[ORI:229],[C16:56],[3ED:293],[3ED:294],[3ED:302])([MIR:255])([USG:12],[WWK:20],[EMA:34],[DTK:124],[AER:164],[WAR:117])([AKH:149])([C14:142])

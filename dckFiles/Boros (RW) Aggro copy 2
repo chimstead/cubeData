@@ -1,50 +1,57 @@
-1 [AKH:136] Hazoret the Fervent
-1 [GRN:99] Experimental Frenzy
-1 [BFZ:29] Gideon, Ally of Zendikar
-1 [NEM:17] Parallax Wave
-1 [DST:148] Sword of Fire and Ice
-1 [BBD:25] Brightling
-1 [MH1:21] Ranger-Captain of Eos
-1 [C15:3] Grasp of Fate
-1 [SOI:12] Declaration in Stone
-1 [CMA:27] Unexpectedly Absent
-1 [XLN:1] Adanto Vanguard
-1 [TSP:26] Knight of the Holy Nimbus
-1 [BOK:163] Umezawa's Jitte
-1 [KLD:235] Smuggler's Copter
-1 [MH1:13] Giver of Runes
-1 [EVE:139] Figure of Destiny
-1 [ORI:23] Kytheon, Hero of Akros
-1 [CHK:19] Isamaru, Hound of Konda
+2021
+1.31.21
+1 [DDL:3] Figure of Destiny
+1 [ZEN:126] Goblin Guide
 1 [DOM:14] Dauntless Bodyguard
-1 [ULG:14] Mother of Runes
-1 [DST:140] Skullclamp
-1 [RIX:21] Skymarcher Aspirant
-1 [M19:33] Remorseful Cleric
-1 [STH:138] Mox Diamond
-1 [MRD:152] Chrome Mox
-1 [MH1:244] Prismatic Vista
-1 [8ED:322] City of Brass
-1 [TMP:330] Wasteland
-1 [OGW:175] Needle Spires
-1 [KLD:246] Inspiring Vantage
-1 [M14:228] Mutavault
-1 [3ED:303] Mountain
-5 [3ED:292] Plains
-3 [3ED:294] Plains
-SB: 1 [PLC:25] Mana Tithe
-SB: 1 [EVE:6] Flickerwisp
-SB: 1 [RTR:141] Abrupt Decay
-SB: 1 [DTK:169] Zurgo Bellstriker
-SB: 1 [SCG:41] Mind's Desire
-SB: 1 [9ED:226] Volcanic Hammer
-SB: 1 [LEG:137] Chain Lightning
-SB: 1 [MH1:26] Serra the Benevolent
-SB: 1 [AKH:14] Gideon of the Trials
-SB: 1 [SOM:81] Arc Trail
-SB: 1 [AVR:144] Lightning Mauler
-SB: 1 [SOM:228] Razorverge Thicket
-SB: 1 [LRW:17] Goldmeadow Harrier
-SB: 1 [WAR:20] Law-Rune Enforcer
-LAYOUT MAIN:(1,5)(CMC,false,50)|([STH:138],[MRD:152],[MH1:244],[8ED:322],[TMP:330],[OGW:175],[KLD:246],[M14:228],[3ED:303],[3ED:292],[3ED:294],[3ED:292],[3ED:292],[3ED:294],[3ED:292],[3ED:292],[3ED:294])([MH1:13],[EVE:139],[ORI:23],[CHK:19],[DOM:14],[ULG:14],[DST:140],[RIX:21])([SOI:12],[XLN:1],[TSP:26],[BOK:163],[KLD:235],[CMA:27],[M19:33])([DST:148],[BBD:25],[MH1:21],[C15:3])([AKH:136],[GRN:99],[BFZ:29],[NEM:17])
-LAYOUT SIDEBOARD:(1,6)(CMC,false,50)|([SOM:228])([PLC:25],[DTK:169],[LEG:137],[LRW:17],[WAR:20])([RTR:141],[9ED:226],[SOM:81],[AVR:144])([EVE:6],[AKH:14])([MH1:26])([SCG:41])
+1 [CHK:19] Isamaru, Hound of Konda
+1 [CMD:21] Mother of Runes
+1 [MM3:17] Path to Exile
+1 [BBD:171] Chain Lightning
+1 [XLN:1] Adanto Vanguard
+1 [PCA:39] Arc Trail
+1 [ICE:194] Incinerate
+1 [AER:87] Kari Zev, Skyship Raider
+1 [THB:148] Phoenix of Ash
+1 [EMA:150] Sulfuric Vortex
+1 [GK1:28] Char
+1 [ELD:115] Bonecrusher Giant
+1 [EMN:40] Selfless Spirit
+1 [NPH:4] Blade Splicer
+1 [M21:34] Seasoned Hallowblade
+1 [BNG:5] Brimaz, King of Oreskos
+1 [NEM:17] Parallax Wave
+1 [EMN:46] Thalia, Heretic Cathar
+1 [KLD:110] Chandra, Torch of Defiance
+1 [C19:227] Ash Barrens
+1 [GRN:254] Sacred Foundry
+1 [KTK:248] Windswept Heath
+1 [KTK:249] Wooded Foothills
+1 [DDL:77] Mountain
+1 [DDL:38] Mountain
+1 [DDL:75] Mountain
+1 [DDL:37] Mountain
+1 [DDL:35] Mountain
+1 [DDL:76] Mountain
+2 [DDL:40] Plains
+4 [DDL:42] Plains
+1 [MM3:98] Hellrider
+1 [V14:1] Armageddon
+SB: 1 [DIS:99] Utopia Sprawl
+SB: 1 [RNA:185] Judith, the Scourge Diva
+SB: 1 [ICE:214] Pyroclasm
+SB: 1 [C14:22] Flesh Carver
+SB: 1 [GNT:36] Zulaport Cutthroat
+SB: 1 [MM3:20] Restoration Angel
+SB: 1 [PPRE:38] Ajani Vengeant
+SB: 1 [RIX:21] Skymarcher Aspirant
+SB: 1 [MB1:171] Mana Tithe
+SB: 1 [M13:22] Oblivion Ring
+SB: 1 [ODY:193] Firebolt
+SB: 1 [VIS:79] Fireblast
+SB: 1 [MRD:146] Bonesplitter
+SB: 1 [KLD:199] Bomat Courier
+SB: 1 [BFZ:29] Gideon, Ally of Zendikar
+SB: 1 [M19:152] Lightning Strike
+SB: 1 [NEM:139] Tangle Wire
+LAYOUT MAIN:(1,5)(CMC,false,87)|([C19:227],[DDL:77],[DDL:38],[DDL:75],[DDL:37],[DDL:35],[DDL:76],[DDL:40],[DDL:42],[DDL:40],[DDL:42],[DDL:42],[DDL:42],[GRN:254],[KTK:248],[KTK:249])([BBD:171],[DOM:14],[DDL:3],[ZEN:126],[CHK:19],[CMD:21],[MM3:17])([XLN:1],[PCA:39],[ICE:194],[AER:87],[M21:34],[EMN:40],[ELD:115])([NPH:4],[BNG:5],[GK1:28],[THB:148],[EMA:150],[EMN:46])([KLD:110],[NEM:17],[MM3:98],[V14:1])
+LAYOUT SIDEBOARD:(1,5)(CMC,false,88)|([KLD:199],[MRD:146],[ODY:193],[MB1:171],[RIX:21],[DIS:99])([ICE:214],[GNT:36],[M19:152])([C14:22],[RNA:185],[M13:22],[NEM:139])([PPRE:38],[BFZ:29],[MM3:20])([VIS:79])

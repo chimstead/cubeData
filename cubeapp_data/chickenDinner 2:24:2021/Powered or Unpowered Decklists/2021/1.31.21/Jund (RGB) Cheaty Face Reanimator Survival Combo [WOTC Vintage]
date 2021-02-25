@@ -1,0 +1,50 @@
+1 [USG:218] Sneak Attack
+1 [STH:138] Mox Diamond
+1 [ZEN:13] Iona, Shield of Emeria
+1 [ISD:105] Liliana of the Veil
+1 [TMP:151] Reanimate
+1 [DKA:87] Faithless Looting
+1 [M11:172] Fauna Shaman
+1 [TOR:69] Mesmeric Fiend
+1 [TMP:116] Corpse Dance
+1 [M15:194] Reclamation Sage
+1 [M12:98] Grave Titan
+1 [4ED:147] Mind Twist
+1 [EXO:129] Survival of the Fittest
+1 [WWK:115] Terastodon
+1 [ROE:6] Kozilek, Butcher of Truth
+1 [EMN:6] Emrakul, the Promised End
+1 [BFZ:15] Ulamog, the Ceaseless Hunger
+1 [VMA:200] Channel
+1 [M14:169] Elvish Mystic
+1 [MIR:141] Shallow Grave
+1 [DDC:49] Demonic Tutor
+1 [RAV:161] Elves of Deep Shadow
+1 [PD3:16] Animate Dead
+1 [SOM:224] Blackcleave Cliffs
+1 [WWK:139] Lavaclaw Reaches
+1 [RAV:279] Overgrown Tomb
+1 [ONS:321] Polluted Delta
+1 [WWK:141] Raging Ravine
+6 [UNH:140] Forest
+1 [UNH:139] Mountain
+5 [UNH:138] Swamp
+SB: 1 [VMA:209] Fastbond
+SB: 1 [VMA:192] Wheel of Fortune
+SB: 1 [NPH:104] Birthing Pod
+SB: 1 [ULG:80] Goblin Welder
+SB: 1 [ISD:127] Ancient Grudge
+SB: 1 [THS:172] Polukranos, World Eater
+SB: 1 [5DN:114] Crucible of Worlds
+SB: 1 [TMP:142] Living Death
+SB: 1 [SHM:229] Kitchen Finks
+SB: 1 [KLD:199] Bomat Courier
+SB: 1 [GRN:82] Plaguecrafter
+SB: 1 [ISD:155] Past in Flames
+SB: 1 [PLS:60] Flametongue Kavu
+SB: 1 [CMD:152] Eternal Witness
+SB: 1 [M10:165] Acidic Slime
+SB: 1 [FRF:145] Whisperwood Elemental
+SB: 1 [RTR:73] Pack Rat
+LAYOUT MAIN:(1,7)(CMC,false,51)|([UNH:140],[UNH:140],[UNH:140],[UNH:140],[UNH:140],[UNH:140],[UNH:139],[UNH:138],[UNH:138],[UNH:138],[UNH:138],[UNH:138])([WWK:139],[RAV:279],[ONS:321],[WWK:141],[SOM:224],[STH:138])([RAV:161],[M14:169],[DKA:87],[4ED:147],[TMP:151])([PD3:16],[VMA:200],[DDC:49],[M11:172],[TOR:69],[MIR:141],[EXO:129])([TMP:116],[ISD:105],[M15:194])([USG:218])([M12:98],[EMN:6],[ZEN:13],[ROE:6],[WWK:115],[BFZ:15])
+LAYOUT SIDEBOARD:(1,5)(CMC,false,50)|([VMA:209],[ULG:80],[KLD:199])([ISD:127],[RTR:73])([VMA:192],[5DN:114],[SHM:229],[GRN:82],[CMD:152])([NPH:104],[THS:172],[ISD:155],[PLS:60])([TMP:142],[M10:165],[FRF:145])

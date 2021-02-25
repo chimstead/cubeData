@@ -1,0 +1,55 @@
+1 [ONS:316] Flooded Strand
+1 [BNG:5] Brimaz, King of Oreskos
+1 [KLD:242] Aether Hub
+1 [APC:140] Caves of Koilos
+1 [BOK:165] Tendo Ice Bridge
+1 [BOK:163] Umezawa's Jitte
+1 [C14:8] Hallowed Spiritkeeper
+1 [5DN:27] Condescend
+1 [STH:36] Mana Leak
+1 [EMN:40] Selfless Spirit
+3 [4ED:364] Plains
+1 [4ED:365] Plains
+1 [CN2:18] Palace Jailer
+1 [DKA:12] Lingering Souls
+1 [BFZ:29] Gideon, Ally of Zendikar
+1 [ONS:321] Polluted Delta
+1 [GPT:157] Godless Shrine
+1 [PC2:82] Baleful Strix
+1 [ULG:36] Miscalculation
+1 [4ED:366] Plains
+1 [4ED:367] Island
+3 [4ED:368] Island
+1 [4ED:369] Island
+1 [4ED:64] Control Magic
+1 [UDS:40] Opposition
+1 [NPH:42] Phyrexian Metamorph
+1 [NEM:18] Seal of Cleansing
+1 [SOM:208] Sword of Body and Mind
+1 [TSP:66] Looter il-Kor
+1 [NEM:17] Parallax Wave
+1 [FRF:20] Monastery Mentor
+1 [LEB:282] Scrubland
+1 [ISD:213] Geist of Saint Traft
+1 [TMP:47] Soltari Trooper
+1 [WWK:31] Jace, the Mind Sculptor
+1 [MBS:122] Phyrexian Revoker
+SB: 1 [VIS:64] Necromancy
+SB: 1 [UDS:136] Powder Keg
+SB: 1 [FRF:18] Mardu Woe-Reaper
+SB: 1 [EXO:72] Recurring Nightmare
+SB: 1 [THS:127] Lightning Strike
+SB: 1 [M14:22] Imposing Sovereign
+SB: 1 [LRW:10] Cloudgoat Ranger
+SB: 1 [5DN:126] Grafted Wargear
+SB: 1 [POR:5] Armageddon
+SB: 2 [4ED:366] Plains
+SB: 2 [4ED:367] Island
+SB: 1 [HOU:83] Abrade
+SB: 1 [APC:139] Battlefield Forge
+SB: 1 [THS:9] Elspeth, Sun's Champion
+SB: 1 [MRD:159] Crystal Shard
+SB: 1 [MBS:8] Hero of Bladehold
+SB: 1 [MRD:53] Thirst for Knowledge
+LAYOUT MAIN:(1,5)(CMC,false,49)|([KLD:242],[APC:140],[ONS:316],[GPT:157],[4ED:369],[4ED:368],[4ED:367],[4ED:368],[4ED:368],[4ED:366],[4ED:364],[4ED:365],[4ED:364],[4ED:364],[ONS:321],[LEB:282],[BOK:165])([5DN:27])([PC2:82],[TSP:66],[STH:36],[ULG:36],[MBS:122],[NEM:18],[EMN:40],[TMP:47],[BOK:163])([C14:8],[BNG:5],[ISD:213],[DKA:12],[FRF:20],[SOM:208],[NPH:42])([4ED:64],[BFZ:29],[WWK:31],[UDS:40],[CN2:18],[NEM:17])
+LAYOUT SIDEBOARD:(1,2)(COLOR,false,50)|([UDS:136],[MRD:53],[MRD:159],[FRF:18],[MBS:8],[LRW:10],[POR:5],[THS:9],[M14:22])([VIS:64],[EXO:72],[4ED:366],[4ED:366],[4ED:367],[4ED:367],[THS:127],[5DN:126],[HOU:83],[APC:139])

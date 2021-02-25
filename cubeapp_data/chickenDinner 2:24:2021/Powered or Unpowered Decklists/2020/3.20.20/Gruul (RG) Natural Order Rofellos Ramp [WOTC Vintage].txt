@@ -1,0 +1,49 @@
+1 [LRW:233] Primal Command
+1 [WWK:96] Avenger of Zendikar
+1 [BNG:119] Courser of Kruphix
+1 [9ED:216] Seething Song
+1 [VIS:114] Natural Order
+1 [ISD:181] Garruk Relentless
+1 [AVR:172] Craterhoof Behemoth
+1 [MH1:217] Wrenn and Six
+1 [ELD:171] Questing Beast
+1 [DTK:216] Dragonlord Atarka
+1 [M19:196] Reclamation Sage
+1 [5ED:388] Mana Vault
+1 [UDS:118] Rofellos, Llanowar Emissary
+1 [SHM:110] Devoted Druid
+1 [USG:218] Sneak Attack
+1 [CHK:225] Kodama's Reach
+1 [WWK:115] Terastodon
+1 [M19:130] Banefire
+1 [M19:314] Llanowar Elves
+1 [DKA:140] Huntmaster of the Fells
+1 [M14:195] Scavenging Ooze
+1 [RTR:101] Mizzium Mortars
+1 [M13:174] Garruk, Primal Hunter
+1 [TMP:330] Wasteland
+1 [ZEN:223] Scalding Tarn
+1 [MPS:16] Mana Crypt
+1 [SOM:225] Copperline Gorge
+9 [THB:254] Forest
+4 [THB:253] Mountain
+SB: 1 [TSB:55] Avalanche Riders
+SB: 1 [M20:111] Rotting Regisaur
+SB: 1 [5ED:249] Mana Flare
+SB: 1 [DST:149] Sword of Light and Shadow
+SB: 1 [RAV:117] Char
+SB: 1 [ORI:157] Pia and Kiran Nalaar
+SB: 1 [WAR:160] Finale of Devastation
+SB: 1 [C16:195] Edric, Spymaster of Trest
+SB: 1 [WAR:125] Dreadhorde Arcanist
+SB: 1 [MOR:22] Reveillark
+SB: 1 [LRW:78] Pestermite
+SB: 1 [THS:172] Polukranos, World Eater
+SB: 1 [WAR:244] Blast Zone
+SB: 1 [M14:163] Young Pyromancer
+SB: 1 [GRN:254] Sacred Foundry
+SB: 1 [EVE:6] Flickerwisp
+SB: 1 [DGM:135] Wear // Tear
+SB: 1 [MIR:141] Shallow Grave
+LAYOUT MAIN:(2,6)(CMC,false,58)|([MPS:16],[THB:254],[THB:254],[THB:254],[THB:254],[THB:254],[THB:254],[THB:254],[THB:254],[THB:254])([THB:253],[THB:253],[THB:253],[THB:253],[SOM:225],[ZEN:223],[TMP:330])([5ED:388],[M19:130],[M19:314])([BNG:119],[9ED:216],[M19:196],[CHK:225])([LRW:233],[M13:174])([AVR:172],[WWK:115])()()([MH1:217],[UDS:118],[SHM:110],[M14:195],[RTR:101])([VIS:114],[ISD:181],[ELD:171],[USG:218],[DKA:140])([WWK:96],[DTK:216])()
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([TSB:55],[M20:111],[5ED:249],[DST:149],[RAV:117],[ORI:157],[WAR:160],[C16:195],[WAR:125],[MOR:22],[LRW:78],[THS:172],[WAR:244],[M14:163],[GRN:254],[EVE:6],[DGM:135],[MIR:141])

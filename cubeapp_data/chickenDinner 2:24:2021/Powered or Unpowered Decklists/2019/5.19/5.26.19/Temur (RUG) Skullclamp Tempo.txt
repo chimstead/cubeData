@@ -1,0 +1,37 @@
+2 Island
+2 Forest
+2 Mountain
+1 Ash Barrens
+1 Bloodstained Mire
+1 City of Brass
+1 Evolving Wilds
+1 Grand Coliseum
+1 Karplusan Forest
+1 Raging Ravine
+1 Rishadan Port
+1 Shivan Reef
+1 Strip Mine
+1 Yavimaya Coast
+1 Mox Diamond
+1 Burst Lightning
+1 Falkenrath Gorger
+1 Firedrinker Satyr
+1 Goblin Glory Chaser
+1 Skullclamp
+1 Zurgo Bellstriker
+1 Dismissive Pyromancer
+1 Looter il-Kor
+1 Lotus Cobra
+1 Sylvan Library
+1 Tarmogoyf
+1 Imperial Recruiter
+1 Legion Warboss
+1 Pia Nalaar
+1 Reclamation Sage
+1 Sword of Fire and Ice
+1 Bloodbraid Elf
+1 Control Magic
+1 Frenzied Fugue
+1 Sower of Temptation
+1 Thrun, the Last Troll
+1 Whirler Rogue

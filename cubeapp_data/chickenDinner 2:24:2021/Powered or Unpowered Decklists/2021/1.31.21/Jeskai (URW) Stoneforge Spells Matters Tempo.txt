@@ -1,0 +1,37 @@
+1 Plateau
+1 Teferi, Time Raveler
+1 Spell Pierce
+1 Sprite Dragon
+1 Shark Typhoon
+1 Sleight of Hand
+1 Lightning Bolt
+1 Preordain
+1 Monastery Mentor
+1 Brainstorm
+1 Sunbaked Canyon
+1 Sea Gate Stormcaller
+1 Electrolyze
+1 Flame Slash
+1 Searing Spear
+1 Bloodstained Mire
+1 Shivan Reef
+1 Snapcaster Mage
+1 Dreadhorde Arcanist
+1 Dack Fayden
+1 Gitaxian Probe
+1 Hallowed Fountain
+1 Volcanic Island
+1 Fiery Islet
+1 Chain Lightning
+1 Adanto Vanguard
+1 Spell Snare
+1 Flooded Strand
+1 Seachrome Coast
+1 Stoneforge Mystic
+1 Batterskull
+1 Sword of Fire and Ice
+1 Daze
+1 Abrade
+2 Mountain
+1 Plains
+3 Island

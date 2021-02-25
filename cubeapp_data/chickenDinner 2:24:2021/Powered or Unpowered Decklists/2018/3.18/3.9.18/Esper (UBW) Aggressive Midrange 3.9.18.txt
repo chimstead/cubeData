@@ -1,0 +1,33 @@
+3 Island
+1 Plains
+6 Swamp
+1 Celestial Colonnade
+1 Hallowed Fountain
+1 Mana Confluence
+1 Marsh Flats
+1 Karakas
+1 Windswept Heath
+1 Chrome Mox
+1 Bloodsoaked Champion
+1 Bonesplitter
+1 Inquisition of Kozilek
+1 Rakdos Cackler
+1 Bitterblossom
+1 Glint-Sleeve Siphoner
+1 Looter il-Kor
+1 Scrapheap Scrounger
+1 Smuggler's Copter
+1 Stoneforge Mystic
+1 Umezawa's Jitte
+1 Flesh Carver
+1 Lingering Souls
+1 Man-o'-War
+1 Ophiomancer
+1 Vendilion Clique
+1 Phyrexian Metamorph
+1 Ravenous Chupacabra
+1 Sower of Temptation
+1 Venser, Shaper Savant
+1 Custodi Lich
+1 Fractured Identity
+1 Shriekmaw

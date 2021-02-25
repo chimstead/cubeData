@@ -1,0 +1,50 @@
+1 [LRW:133] Oona's Prowler
+1 [PD3:17] Exhume
+1 [EMN:85] Collective Brutality
+1 [UMA:94] Entomb
+1 [UMA:119] Unburial Rites
+1 [VIS:64] Necromancy
+1 [TSP:66] Looter il-Kor
+1 [CM2:68] Living Death
+1 [EMA:78] Animate Dead
+1 [IMA:108] Sheoldred, Whispering One
+1 [UMA:88] Buried Alive
+1 [CMA:34] Control Magic
+1 [ELD:281] Brazen Borrower
+1 [DDE:5] Bone Shredder
+1 [ARC:20] Makeshift Mannequin
+1 [XLN:48] Chart a Course
+1 [MMQ:62] Bribery
+1 [MM3:46] Phantasmal Image
+1 [CM2:37] Sun Titan
+1 [IMA:18] Elesh Norn, Grand Cenobite
+1 [ZEN:13] Iona, Shield of Emeria
+1 [TPR:113] Recurring Nightmare
+1 [M11:97] Grave Titan
+1 [A25:76] Vendilion Clique
+1 [VMA:7] Mox Pearl
+1 [VMA:323] Underground Sea
+1 [VMA:6] Mox Jet
+1 [MM3:239] Marsh Flats
+1 [BFZ:244] Shambling Vent
+5 [UGL:85] Island
+1 [UGL:84] Plains
+5 [UGL:86] Swamp
+SB: 1 [GRN:82] Plaguecrafter
+SB: 1 [THB:308] Thassa's Oracle
+SB: 1 [EMA:99] Nekrataal
+SB: 1 [CON:121] Progenitus
+SB: 1 [GRN:224] Expansion // Explosion
+SB: 1 [THS:9] Elspeth, Sun's Champion
+SB: 1 [UMA:16] Faith's Fetters
+SB: 1 [UDS:40] Opposition
+SB: 1 [RIX:77] Mastermind's Acquisition
+SB: 1 [V17:1a] Archangel Avacyn
+SB: 1 [DDU:47] Pia and Kiran Nalaar
+SB: 1 [UDS:50] Treachery
+SB: 1 [PCA:33] Ink-Eyes, Servant of Oni
+SB: 1 [THS:188] Ashiok, Nightmare Weaver
+SB: 1 [C16:195] Edric, Spymaster of Trest
+SB: 1 [MM3:63] Damnation
+LAYOUT MAIN:(2,5)(CMC,false,40)|([UGL:86],[UGL:86],[UGL:86],[UGL:86],[UGL:86],[VMA:323])([UMA:94])([DDE:5],[UMA:88],[VIS:64],[TPR:113],[A25:76])([MMQ:62],[CM2:68],[UMA:119])([IMA:18],[IMA:108])([UGL:85],[UGL:85],[UGL:85],[UGL:85],[UGL:85],[MM3:239],[VMA:6],[VMA:7],[UGL:84],[BFZ:244])([EMA:78],[XLN:48],[EMN:85],[PD3:17],[TSP:66],[LRW:133],[MM3:46],[ELD:281])([CMA:34],[ARC:20])([M11:97],[CM2:37])([ZEN:13])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([GRN:82],[THB:308],[EMA:99],[CON:121],[GRN:224],[THS:9],[UMA:16],[UDS:40],[RIX:77],[V17:1a],[DDU:47],[UDS:50],[PCA:33],[THS:188],[C16:195],[MM3:63])

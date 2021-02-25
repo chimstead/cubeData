@@ -1,3 +1,6 @@
+2018
+5.18
+5.31.18
 8 Island
 6 Swamp
 1 Windswept Heath
@@ -14,7 +17,7 @@
 1 Go for the Throat
 1 Condescend
 1 Necromancy
-1 Life//Death
+1 Life // Death
 1 Animate Dead
 1 Cryptic Command
 1 Fact or Fiction

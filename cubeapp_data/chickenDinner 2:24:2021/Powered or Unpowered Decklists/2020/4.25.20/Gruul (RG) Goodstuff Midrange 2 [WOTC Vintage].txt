@@ -1,0 +1,49 @@
+1 [M12:165] Birds of Paradise
+1 [RAV:161] Elves of Deep Shadow
+1 [M15:173] Elvish Mystic
+1 [THS:180] Sylvan Caryatid
+1 [M14:195] Scavenging Ooze
+1 [CHK:239] Sakura-Tribe Elder
+1 [RNA:131] Incubation Druid
+1 [M12:146] Incinerate
+1 [RAV:262] Golgari Signet
+1 [NPH:57] Dismember
+1 [M19:196] Reclamation Sage
+1 [UDS:124] Yavimaya Elder
+1 [KLD:110] Chandra, Torch of Defiance
+1 [ARB:50] Bloodbraid Elf
+1 [PLS:60] Flametongue Kavu
+1 [DKA:93] Hellrider
+1 [ELD:171] Questing Beast
+1 [FRF:145] Whisperwood Elemental
+1 [M19:208] Vivien Reid
+1 [M13:150] Thundermaw Hellkite
+1 [AKH:134] Glorybringer
+1 [M13:174] Garruk, Primal Hunter
+1 [RNA:122] Biogenic Ooze
+1 [3ED:287] Taiga
+1 [WWK:141] Raging Ravine
+1 [2ED:262] Mox Emerald
+1 [SOM:225] Copperline Gorge
+8 [UST:216] Forest
+5 [UST:215] Mountain
+SB: 1 [JOU:94] Eidolon of the Great Revel
+SB: 1 [GRN:115] Runaway Steam-Kin
+SB: 1 [CN2:22] Recruiter of the Guard
+SB: 1 [SHM:23] Spectral Procession
+SB: 1 [ORI:105] Languish
+SB: 1 [ZEN:114] Vampire Hexmage
+SB: 1 [SOM:228] Razorverge Thicket
+SB: 1 [4ED:236] Channel
+SB: 1 [LRW:233] Primal Command
+SB: 1 [APC:114] Pernicious Deed
+SB: 1 [ODY:193] Firebolt
+SB: 1 [M12:145] Grim Lavamancer
+SB: 1 [WWK:108] Nature's Claim
+SB: 1 [ISD:127] Ancient Grudge
+SB: 1 [5DN:55] Night's Whisper
+SB: 1 [5ED:329] Sylvan Library
+SB: 1 [WAR:169] Nissa, Who Shakes the World
+SB: 1 [FRF:1] Ugin, the Spirit Dragon
+LAYOUT MAIN:(1,6)(CMC,false,77)|([3ED:287],[WWK:141],[2ED:262],[SOM:225],[UST:216],[UST:216],[UST:216],[UST:216],[UST:216],[UST:216],[UST:216],[UST:216],[UST:215],[UST:215],[UST:215],[UST:215],[UST:215])([M12:165],[RAV:161],[M15:173],[NPH:57])([THS:180],[M14:195],[CHK:239],[RNA:131],[M12:146],[RAV:262])([M19:196],[UDS:124])([KLD:110],[ARB:50],[PLS:60],[DKA:93],[ELD:171])([FRF:145],[M19:208],[M13:150],[AKH:134],[M13:174],[RNA:122])
+LAYOUT SIDEBOARD:(1,8)(CMC,false,81)|([SOM:228])([ODY:193],[M12:145],[WWK:108])([4ED:236],[JOU:94],[GRN:115],[ZEN:114],[ISD:127],[5DN:55],[5ED:329])([APC:114],[CN2:22])([ORI:105])([LRW:233],[WAR:169])([SHM:23])([FRF:1])

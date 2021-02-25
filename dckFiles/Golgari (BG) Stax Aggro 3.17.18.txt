@@ -1,7 +1,10 @@
+2018
+3.18
+3.17.18
 5 Forest
 8 Swamp
 1 Bayou
-1 Llanowar Waste
+1 Llanowar Wastes
 1 Strip Mine
 1 Birds of Paradise
 1 Bloodsoaked Champion

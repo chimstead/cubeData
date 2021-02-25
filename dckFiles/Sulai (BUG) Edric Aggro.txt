@@ -1,24 +1,27 @@
+2017
+12.17
+12.3.17
 4 Forest
 4 Swamp
 1 Island
-1 Yaviamaya Coast
+1 Yavimaya Coast
 1 Wasteland
 1 Llanowar Wastes
 1 Fetid Pools
 1 Overgrown Tomb
 1 Verdant Catacombs
-1 Mishra’s Factory
+1 Mishra's Factory
 1 Mox Diamond
 1 Oath of Nissa
 1 Diregraf Ghoul
 1 Dread Wanderer
 1 Rakdos Cackler
-1 Experiment one
+1 Experiment One
 1 Bloodsoaked Champion
 1 Joraga Treespeaker
 1 Pack Rat
 1 Scrapheap Scrounger
-1 Chainer’s Edict
+1 Chainer's Edict
 1 Demonic Tutor
 1 Simic Signet
 1 Edric, Spymaster of Trest

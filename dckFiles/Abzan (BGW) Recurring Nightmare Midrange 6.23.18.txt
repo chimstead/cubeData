@@ -1,3 +1,6 @@
+2018
+6.18
+6.23.18
 1 Brushland
 1 Verdant Catacombs
 1 Llanowar Wastes
@@ -24,7 +27,7 @@
 1 Recurring Nightmare
 1 Sword of War and Peace
 1 Maelstrom Pulse
-1 Nissa. Voice of Zendikar
+1 Nissa, Voice of Zendikar
 1 Liliana, the Last Hope
 1 Vindicate
 1 Ravenous Chupacabra

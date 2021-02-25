@@ -1,0 +1,55 @@
+1 [M15:194] Reclamation Sage
+1 [M20:185] Nightpack Ambusher
+1 [DTK:23] Hidden Dragonslayer
+1 [XLN:22] Legion's Landing
+1 [KTK:137] Hooting Mandrills
+1 [M15:34] Soul of Theros
+1 [EMN:155] Eldritch Evolution
+1 [RTR:194] Selesnya Charm
+1 [KLD:4] Angel of Invention
+1 [GRN:30] Venerated Loxodon
+1 [KLD:15] Fumigate
+1 [ELD:335] Charming Prince
+1 [WAR:37] The Wanderer
+1 [AKH:172] Honored Hydra
+1 [EMN:46] Thalia, Heretic Cathar
+1 [RNA:27] Tithe Taker
+1 [M20:19] Gods Willing
+1 [M19:23] Leonin Warleader
+1 [OGW:20] Immolating Glare
+1 [M12:182] Llanowar Elves
+1 [THB:4] Banishing Light
+1 [KLD:242] Aether Hub
+1 [SOI:44] Thraben Inspector
+1 [GRN:183] Knight of Autumn
+1 [BNG:165] Temple of Plenty
+1 [XLN:257] Sunpetal Grove
+2 [ZEN:246] Forest
+1 [ZEN:247] Forest
+1 [ZEN:249] Forest
+1 [ZEN:248] Forest
+2 [ZEN:230] Plains
+3 [ZEN:231] Plains
+3 [ZEN:233] Plains
+1 [ZEN:232] Plains
+SB: 1 [OGW:157] Reflector Mage
+SB: 1 [DOM:87] Divest
+SB: 1 [FRF:118] Wild Slash
+SB: 1 [XLN:130] Walk the Plank
+SB: 1 [DTK:10] Dragon Hunter
+SB: 1 [RTR:214] Dryad Militant
+SB: 1 [XLN:136] Captain Lannery Storm
+SB: 1 [M20:62] Frost Lynx
+SB: 1 [XLN:1] Adanto Vanguard
+SB: 1 [GTC:92] Foundry Street Denizen
+SB: 1 [M20:59] Flood of Tears
+SB: 1 [THS:124] Hammer of Purphoros
+SB: 1 [ISD:97] Diregraf Ghoul
+SB: 1 [THS:108] Tormented Hero
+SB: 1 [DTK:2] Anafenza, Kin-Tree Spirit
+SB: 1 [AKH:175] Manglehorn
+SB: 1 [WAR:32] Teyo, the Shieldmage
+SB: 1 [FRF:25] Sandsteppe Outcast
+SB: 1 [SOI:12] Declaration in Stone
+LAYOUT MAIN:(1,8)(CMC,false,68)|([ZEN:246],[ZEN:247],[ZEN:246],[ZEN:249],[ZEN:248],[ZEN:230],[ZEN:231],[ZEN:231],[ZEN:233],[ZEN:232],[ZEN:233],[ZEN:231],[ZEN:230],[ZEN:233])([KLD:242],[BNG:165],[XLN:257])([XLN:22],[M20:19],[M12:182],[SOI:44])([DTK:23],[RTR:194],[ELD:335],[RNA:27],[OGW:20])([M15:194],[EMN:155],[EMN:46],[THB:4],[GRN:183])([M20:185],[WAR:37],[M19:23])([KLD:4],[GRN:30],[KLD:15])([M15:34],[AKH:172],[KTK:137])
+LAYOUT SIDEBOARD:(1,4)(CMC,false,50)|([DOM:87],[FRF:118],[DTK:10],[RTR:214],[GTC:92],[ISD:97],[THS:108])([XLN:130],[XLN:1],[DTK:2],[SOI:12])([OGW:157],[XLN:136],[M20:62],[THS:124],[AKH:175],[WAR:32],[FRF:25])([M20:59])

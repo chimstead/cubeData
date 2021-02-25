@@ -1,0 +1,49 @@
+1 [ELD:160] Gilded Goose
+1 [M20:199] Vivien, Arkbow Ranger
+1 [IKO:248] Indatha Triome
+1 [MMA:174] Woodfall Primus
+1 [ISD:170] Avacyn's Pilgrim
+1 [ELD:171] Questing Beast
+1 [DIS:171] Blood Crypt
+1 [WAR:171] Paradise Druid
+1 [IKO:175] Vivien, Monsters' Advocate
+1 [ELD:165] Lovestruck Beast
+1 [M20:185] Nightpack Ambusher
+1 [THS:180] Sylvan Caryatid
+1 [ISD:181] Garruk Relentless
+1 [MBS:81] Green Sun's Zenith
+1 [LEB:116] Mind Twist
+1 [ONS:330] Wooded Foothills
+1 [GRN:152] Assassin's Trophy
+1 [MH1:244] Prismatic Vista
+1 [OGW:138] Nissa, Voice of Zendikar
+1 [ICE:277] Wild Growth
+1 [RIX:136] Jadelight Ranger
+1 [RNA:122] Biogenic Ooze
+1 [DIS:99] Utopia Sprawl
+1 [ARB:92] Maelstrom Pulse
+1 [DRK:76] Elves of Deep Shadow
+1 [BNG:119] Courser of Kruphix
+1 [M12:174] Garruk, Primal Hunter
+1 [VIS:114] Natural Order
+1 [MH1:243] Nurturing Peatland
+10 [UST:216] Forest
+1 [UST:214] Swamp
+SB: 1 [M20:105] Knight of the Ebon Legion
+SB: 1 [APC:126] Vindicate
+SB: 1 [MH1:246] Silent Clearing
+SB: 1 [IKO:253] Savai Triome
+SB: 1 [FRF:20] Monastery Mentor
+SB: 1 [RAV:284] Temple Garden
+SB: 1 [C13:96] Toxic Deluge
+SB: 1 [IKO:250] Ketria Triome
+SB: 1 [WWK:118] Wolfbriar Elemental
+SB: 1 [RNA:83] Priest of Forgotten Gods
+SB: 1 [NPH:153] Shrine of Burning Rage
+SB: 1 [ODY:113] Upheaval
+SB: 1 [ONS:321] Polluted Delta
+SB: 1 [LEB:46] Wrath of God
+SB: 1 [KLD:246] Inspiring Vantage
+SB: 1 [ORI:229] Hangarback Walker
+LAYOUT MAIN:(1,7)(CMC,false,71)|([IKO:248],[DIS:171],[MH1:243],[ONS:330],[MH1:244],[UST:216],[UST:216],[UST:216],[UST:216],[UST:216],[UST:216],[UST:216],[UST:216],[UST:216],[UST:216],[UST:214])([ELD:160],[ISD:170],[MBS:81],[ICE:277],[DIS:99],[DRK:76],[ELD:165],[LEB:116])([WAR:171],[THS:180],[GRN:152])([OGW:138],[RIX:136],[BNG:119],[ARB:92])([M20:199],[ISD:181],[ELD:171],[VIS:114],[M20:185])([RNA:122],[M12:174],[IKO:175])([MMA:174])
+LAYOUT SIDEBOARD:(1,6)(COLOR,false,100)|([MH1:246],[RAV:284],[IKO:250],[ONS:321],[KLD:246],[NPH:153],[IKO:253])([M20:105],[ORI:229],[C13:96],[RNA:83])([ODY:113])([WWK:118])([FRF:20],[LEB:46])([APC:126])

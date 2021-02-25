@@ -1,8 +1,11 @@
-4 Forest 
+2017
+12.17
+12.3.17
+4 Forest
 1 Mountain
 1 Swamp
 1 Ancient Tomb
-1 Grand Coliseum 
+1 Grand Coliseum
 1 Hissing Quagmire
 1 Llanowar Wastes
 1 Mana Confluence
@@ -17,10 +20,10 @@
 1 Abrupt Decay
 1 Noose Constrictor
 1 Survival of the Fittest
-1 Sylvan Caryatid 
-1 Tarmogoyf 
+1 Sylvan Caryatid
+1 Tarmogoyf
 1 Courser of Kruphix
-1 Kodama’s Reach
+1 Kodama's Reach
 1 Maelstrom Pulse
 1 Recruiter of the Guard
 1 Recurring Nightmare
@@ -35,4 +38,3 @@
 1 Inferno Titan
 1 Craterhoof Behemoth
 1 Woodfall Primus
-

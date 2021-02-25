@@ -1,0 +1,53 @@
+1 [MMQ:61] Brainstorm
+1 [5DN:27] Condescend
+1 [ORI:60] Jace, Vryn's Prodigy
+1 [ISD:78] Snapcaster Mage
+1 [PLC:25] Mana Tithe
+1 [C13:96] Toxic Deluge
+1 [WAR:221*] Teferi, Time Raveler
+1 [LRW:34] Oblivion Ring
+1 [EXO:35] Forbid
+1 [PC2:82] Baleful Strix
+1 [IKO:319] Shark Typhoon
+1 [MMQ:62] Bribery
+1 [THB:14] Elspeth, Sun's Nemesis
+1 [BFZ:29] Gideon, Ally of Zendikar
+1 [LEG:28] Moat
+1 [10E:61] Wrath of God
+1 [ZEN:9] Day of Judgment
+1 [THS:9] Elspeth, Sun's Champion
+1 [5DN:164] Vedalken Shackles
+1 [HOU:145] The Scarab God
+1 [NPH:130] Batterskull
+1 [DTK:224] Kolaghan's Command
+1 [CNS:42] Dack Fayden
+1 [TMP:315] Ancient Tomb
+1 [MIR:324] Bad River
+1 [WWK:133] Celestial Colonnade
+1 [WWK:134] Creeping Tar Pit
+1 [ELD:244] Fabled Passage
+1 [MIR:326] Flood Plain
+1 [GPT:157] Godless Shrine
+1 [TSP:279] Terramorphic Expanse
+1 [LEB:285] Tundra
+1 [RAV:286] Watery Grave
+1 [OGW:182] Wandering Fumarole
+1 [MMQ:336] Island
+1 [MMQ:343] Mountain
+2 [MMQ:332] Plains
+1 [MMQ:331] Plains
+1 [MMQ:339] Swamp
+SB: 1 [M14:163] Young Pyromancer
+SB: 1 [RTR:73] Pack Rat
+SB: 1 [NEM:141] Kor Haven
+SB: 1 [THB:151] Purphoros's Intervention
+SB: 1 [TMP:308] Scroll Rack
+SB: 1 [CN2:74] Daretti, Ingenious Iconoclast
+SB: 1 [KLD:110] Chandra, Torch of Defiance
+SB: 1 [WAR:185] Angrath's Rampage
+SB: 1 [SCG:106] Sulfuric Vortex
+SB: 1 [5DN:114] Crucible of Worlds
+SB: 1 [ROE:146] Forked Bolt
+SB: 1 [MMQ:336] Island
+LAYOUT MAIN:(1,7)(CMC,false,87)|([TMP:315],[MIR:324],[WWK:133],[WWK:134],[ELD:244],[MIR:326],[GPT:157],[MMQ:336],[MMQ:343],[MMQ:332],[MMQ:331],[MMQ:332],[MMQ:339],[TSP:279],[LEB:285],[OGW:182],[RAV:286])([MMQ:61],[5DN:27],[PLC:25])([PC2:82],[ORI:60],[ISD:78],[IKO:319])([CNS:42],[EXO:35],[DTK:224],[LRW:34],[WAR:221*],[C13:96],[5DN:164])([ZEN:9],[THB:14],[BFZ:29],[LEG:28],[10E:61])([NPH:130],[MMQ:62],[HOU:145])([THS:9])
+LAYOUT SIDEBOARD:(1,4)(COLOR,false,88)|([5DN:114],[MMQ:336],[NEM:141],[TMP:308])([RTR:73])([KLD:110],[ROE:146],[THB:151],[SCG:106],[M14:163])([WAR:185],[CN2:74])

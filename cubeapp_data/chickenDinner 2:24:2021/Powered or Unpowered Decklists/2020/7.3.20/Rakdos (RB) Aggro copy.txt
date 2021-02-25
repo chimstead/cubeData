@@ -1,0 +1,55 @@
+1 [XLN:252] Dragonskull Summit
+1 [ELD:288] Order of Midnight
+1 [M19:152] Lightning Strike
+1 [XLN:118] Ruin Raider
+1 [AKH:88] Dread Wanderer
+1 [ELD:137] Rimrock Knight
+1 [AKH:237] Throne of the God-Pharaoh
+1 [BFZ:247] Smoldering Marsh
+1 [WAR:137] Krenko, Tin Street Kingpin
+1 [AKH:136] Hazoret the Fervent
+1 [FRF:118] Wild Slash
+1 [BNG:164] Temple of Malice
+1 [WAR:90] Eternal Taskmaster
+1 [KLD:214] Fleetwheel Cruiser
+1 [M20:105] Knight of the Ebon Legion
+1 [XLN:136] Captain Lannery Storm
+1 [JOU:62] Brain Maggot
+1 [KLD:242] Aether Hub
+1 [M12:126] Chandra's Phoenix
+1 [ELD:203] Stormfist Crusader
+1 [SOI:116] Heir of Falkenrath
+1 [AKH:239] Canyon Slough
+1 [KTK:118] Monastery Swiftspear
+1 [DTK:169] Zurgo Bellstriker
+1 [HOU:90] Earthshaker Khenra
+1 [RNA:185] Judith, the Scourge Diva
+1 [KTK:66] Bloodsoaked Champion
+1 [RTR:220] Rakdos Cackler
+1 [SOI:155] Falkenrath Gorger
+2 [ZEN:245] Mountain
+1 [ZEN:244] Mountain
+2 [ZEN:242] Mountain
+1 [ZEN:243] Mountain
+1 [ZEN:240] Swamp
+1 [ZEN:238] Swamp
+2 [ZEN:241] Swamp
+1 [ZEN:239] Swamp
+SB: 1 [GRN:102] Goblin Banneret
+SB: 1 [WAR:173] Pollenbright Druid
+SB: 1 [M20:3] Ancestral Blade
+SB: 1 [M15:115] Soul of Innistrad
+SB: 1 [WAR:223] Time Wipe
+SB: 1 [ORI:175] Elvish Visionary
+SB: 1 [M14:215] Ratchet Bomb
+SB: 1 [BFZ:126] Zulaport Cutthroat
+SB: 1 [DTK:172] Ainok Survivalist
+SB: 1 [THS:224] Temple of Abandon
+SB: 1 [KTK:111] Hordeling Outburst
+SB: 1 [EMN:123] Collective Defiance
+SB: 1 [KLD:124] Pia Nalaar
+SB: 1 [THS:122] Firedrinker Satyr
+SB: 1 [RNA:107] Light Up the Stage
+SB: 1 [RTR:86] Ash Zealot
+LAYOUT MAIN:(1,6)(CMC,false,68)|([ZEN:245],[ZEN:244],[ZEN:242],[ZEN:243],[ZEN:245],[ZEN:242],[ZEN:240],[ZEN:238],[ZEN:241],[ZEN:239],[ZEN:241])([KLD:242],[AKH:239],[XLN:252],[BFZ:247],[BNG:164])([KTK:66],[AKH:88],[SOI:155],[M20:105],[KTK:118],[RTR:220],[FRF:118],[DTK:169])([JOU:62],[HOU:90],[WAR:90],[SOI:116],[M19:152],[ELD:203],[AKH:237])([XLN:136],[M12:126],[RNA:185],[WAR:137],[ELD:137],[XLN:118])([KLD:214],[AKH:136],[ELD:288])
+LAYOUT SIDEBOARD:(1,6)(CMC,false,50)|([THS:224])([GRN:102],[THS:122])([DTK:172],[M20:3],[ORI:175],[WAR:173],[M14:215],[BFZ:126],[RTR:86])([EMN:123],[KTK:111],[KLD:124],[RNA:107])([WAR:223])([M15:115])

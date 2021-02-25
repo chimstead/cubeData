@@ -1,0 +1,50 @@
+1 [ORI:229] Hangarback Walker
+1 [DST:140] Skullclamp
+1 [M13:160] Arbor Elf
+1 [5ED:388] Mana Vault
+1 [4ED:147] Mind Twist
+1 [ZEN:168] Lotus Cobra
+1 [M11:172] Fauna Shaman
+1 [5DN:55] Night's Whisper
+1 [RTR:73] Pack Rat
+1 [RAV:81] Dark Confidant
+1 [BOK:163] Umezawa's Jitte
+1 [EXO:129] Survival of the Fittest
+1 [IKO:366] Heartless Act
+1 [THS:180] Sylvan Caryatid
+1 [GRN:152] Assassin's Trophy
+1 [M19:196] Reclamation Sage
+1 [ARB:92] Maelstrom Pulse
+1 [THS:90] Hero's Downfall
+1 [ELD:287] Murderous Rider
+1 [XLN:179] Carnage Tyrant
+1 [ULG:101] Deranged Hermit
+1 [FRF:145] Whisperwood Elemental
+1 [MH1:217] Wrenn and Six
+1 [2ED:262] Mox Emerald
+1 [SUM:287] Taiga
+1 [ZEN:229] Verdant Catacombs
+1 [WWK:141] Raging Ravine
+1 [4ED:363] Strip Mine
+1 [KLD:243] Blooming Marsh
+1 [KTK:249] Wooded Foothills
+1 [KTK:230] Bloodstained Mire
+4 [PGRU:5] Forest
+1 [PGRU:4] Mountain
+4 [PGRU:3] Swamp
+SB: 1 [VIS:114] Natural Order
+SB: 1 [MH1:145] Seasoned Pyromancer
+SB: 1 [RAV:117] Char
+SB: 1 [RIX:99] Dire Fleet Daredevil
+SB: 1 [SUM:288] Tropical Island
+SB: 1 [M12:145] Grim Lavamancer
+SB: 1 [DOM:1] Karn, Scion of Urza
+SB: 1 [AVR:32] Restoration Angel
+SB: 1 [SOI:5] Archangel Avacyn
+SB: 1 [M14:163] Young Pyromancer
+SB: 1 [MH1:116] Yawgmoth, Thran Physician
+SB: 1 [GRN:213] Vraska, Golgari Queen
+SB: 1 [10E:163*] Nekrataal
+SB: 1 [ROE:115] Inquisition of Kozilek
+LAYOUT MAIN:(1,7)(CMC,false,82)|([PGRU:5],[PGRU:5],[PGRU:5],[PGRU:5],[PGRU:3],[PGRU:3],[PGRU:3],[PGRU:3])([KTK:230],[KLD:243],[PGRU:4],[WWK:141],[4ED:363],[SUM:287],[ZEN:229],[KTK:249])([2ED:262],[M13:160],[5ED:388],[4ED:147],[DST:140])([GRN:152],[RAV:81],[M11:172],[IKO:366],[ZEN:168],[5DN:55],[RTR:73],[EXO:129],[THS:180],[BOK:163],[ORI:229],[MH1:217])([THS:90],[ARB:92],[M19:196],[ELD:287])([ULG:101],[FRF:145])([XLN:179])
+LAYOUT SIDEBOARD:(1,6)(CMC,false,77)|([SUM:288])([M12:145],[ROE:115])([RIX:99],[M14:163])([MH1:145],[RAV:117])([VIS:114],[DOM:1],[AVR:32],[MH1:116],[GRN:213],[10E:163*])([SOI:5])

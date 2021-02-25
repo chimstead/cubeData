@@ -1,0 +1,50 @@
+1 [M11:172] Fauna Shaman
+1 [ELD:171] Questing Beast
+1 [RIX:82] Ravenous Chupacabra
+1 [THS:180] Sylvan Caryatid
+1 [RAV:161] Elves of Deep Shadow
+1 [ICE:244] Fyndhorn Elves
+1 [WAR:169] Nissa, Who Shakes the World
+1 [LRW:133] Oona's Prowler
+1 [NPH:73] Sheoldred, Whispering One
+1 [USG:134] Exhume
+1 [TMP:142] Living Death
+1 [2ED:48] Ancestral Recall
+1 [SOI:233] Tireless Tracker
+1 [RNA:131] Incubation Druid
+1 [ROE:190] Joraga Treespeaker
+1 [5DN:86] Eternal Witness
+1 [VIS:64] Necromancy
+1 [HOU:145] The Scarab God
+1 [WWK:115] Terastodon
+1 [DIS:166] Simic Signet
+1 [3ED:235] Basalt Monolith
+1 [USG:321] Gaea's Cradle
+1 [ZEN:229] Verdant Catacombs
+8 [THB:254] Forest
+1 [THB:251] Island
+6 [THB:252] Swamp
+1 [DST:146] Sundering Titan
+1 [ISD:122] Unburial Rites
+SB: 1 [MBS:21] Consecrated Sphinx
+SB: 1 [CON:30] Inkwell Leviathan
+SB: 1 [M10:191] Master of the Wild Hunt
+SB: 1 [NEM:17] Parallax Wave
+SB: 1 [VMA:20] Council's Judgment
+SB: 1 [LEG:185] Eureka
+SB: 1 [ULG:49] Bone Shredder
+SB: 1 [TSB:89] Wall of Roots
+SB: 1 [KTK:59] Treasure Cruise
+SB: 1 [ISD:213] Geist of Saint Traft
+SB: 1 [GRN:208] Trostani Discordant
+SB: 1 [4ED:34] Land Tax
+SB: 1 [MH1:145] Seasoned Pyromancer
+SB: 1 [PUMA:U22] Leovold, Emissary of Trest
+SB: 1 [BFZ:15] Ulamog, the Ceaseless Hunger
+SB: 1 [TOR:51] Cabal Ritual
+SB: 1 [ISD:181] Garruk Relentless
+SB: 1 [ZEN:114] Vampire Hexmage
+SB: 1 [M19:208] Vivien Reid
+SB: 1 [THS:187] Ashen Rider
+LAYOUT MAIN:(2,5)(CMC,false,57)|([ZEN:229],[THB:254],[THB:254],[THB:254],[THB:254],[THB:254],[THB:254],[THB:254],[THB:254],[USG:321])([RAV:161],[ICE:244],[2ED:48],[ROE:190])([SOI:233],[5DN:86],[VIS:64],[3ED:235])([WAR:169],[TMP:142],[HOU:145],[ISD:122])([DST:146],[WWK:115])([THB:252],[THB:252],[THB:252],[THB:252],[THB:252],[THB:252],[THB:251])([M11:172],[THS:180],[LRW:133],[USG:134],[RNA:131],[DIS:166])([ELD:171],[RIX:82])([NPH:73])()
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([MBS:21],[CON:30],[M10:191],[NEM:17],[VMA:20],[LEG:185],[ULG:49],[TSB:89],[KTK:59],[ISD:213],[GRN:208],[4ED:34],[MH1:145],[PUMA:U22],[BFZ:15],[TOR:51],[ISD:181],[ZEN:114],[M19:208],[THS:187])

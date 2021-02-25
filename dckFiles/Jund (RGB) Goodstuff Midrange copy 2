@@ -1,0 +1,52 @@
+2021
+1.31.21
+1 [MMQ:170] Vendetta
+1 [RTR:213] Deathrite Shaman
+1 [ROE:145] Flame Slash
+1 [RNA:131] Incubation Druid
+1 [KLD:235] Smuggler's Copter
+1 [RTR:157] Dreadbore
+1 [MOR:58] Bitterblossom
+1 [DOM:81] Cast Down
+1 [THB:221] Kroxa, Titan of Death's Hunger
+1 [WWK:99] Explore
+1 [AER:62] Glint-Sleeve Siphoner
+1 [ORI:127] Abbot of Keral Keep
+1 [ARB:92] Maelstrom Pulse
+1 [MH1:145] Seasoned Pyromancer
+1 [THB:170] The First Iroan Games
+1 [THB:220] Klothys, God of Destiny
+1 [EMN:93] Liliana, the Last Hope
+1 [M21:183] Garruk, Unleashed
+1 [ELD:171] Questing Beast
+1 [ARB:50] Bloodbraid Elf
+1 [LRW:139] Shriekmaw
+1 [RNA:122] Biogenic Ooze
+1 [OGW:86] Kalitas, Traitor of Ghet
+1 [SOM:225] Copperline Gorge
+1 [JOU:163] Mana Confluence
+1 [ONS:313] Bloodstained Mire
+1 [OGW:171] Hissing Quagmire
+1 [MH1:243] Nurturing Peatland
+1 [RAV:279] Overgrown Tomb
+1 [ONS:330] Wooded Foothills
+1 [M10:223] Dragonskull Summit
+1 [WWK:141] Raging Ravine
+2 [UGL:88] Forest
+3 [UGL:87] Mountain
+3 [UGL:86] Swamp
+SB: 1 [C17:16] Curse of Disturbance
+SB: 1 [ORI:157] Pia and Kiran Nalaar
+SB: 1 [M12:174] Garruk, Primal Hunter
+SB: 1 [C19:30] Wildfire Devils
+SB: 1 [APC:130] Life // Death
+SB: 1 [MMQ:162] Snuff Out
+SB: 1 [THB:87] Cling to Dust
+SB: 1 [EMN:189] Spell Queller
+SB: 1 [ODY:70] Careful Study
+SB: 1 [NPH:130] Batterskull
+SB: 1 [MH1:21] Ranger-Captain of Eos
+SB: 1 [IKO:220] Fiend Artisan
+SB: 1 [FRF:87] Tasigur, the Golden Fang
+LAYOUT MAIN:(1,6)(CMC,false,50)|([SOM:225],[JOU:163],[ONS:313],[OGW:171],[MH1:243],[RAV:279],[ONS:330],[M10:223],[WWK:141],[UGL:88],[UGL:88],[UGL:87],[UGL:87],[UGL:87],[UGL:86],[UGL:86],[UGL:86])([MMQ:170],[RTR:213],[ROE:145])([RNA:131],[KLD:235],[RTR:157],[MOR:58],[DOM:81],[THB:221],[WWK:99],[AER:62],[ORI:127])([ARB:92],[MH1:145],[THB:170],[THB:220],[EMN:93])([M21:183],[ELD:171],[ARB:50],[OGW:86])([LRW:139],[RNA:122])
+LAYOUT SIDEBOARD:(1,6)(CMC,false,50)|([THB:87],[ODY:70])([IKO:220])([C17:16],[APC:130],[EMN:189],[MH1:21])([ORI:157],[C19:30],[MMQ:162])([M12:174],[NPH:130])([FRF:87])

@@ -1,0 +1,55 @@
+1 [LRW:78] Pestermite
+1 [FUT:161] Coalition Relic
+1 [M19:152] Lightning Strike
+1 [GRN:205] Thief of Sanity
+1 [RIX:77] Mastermind's Acquisition
+1 [M12:146] Incinerate
+1 [M21:164] Terror of the Peaks
+1 [CHK:175] Kiki-Jiki, Mirror Breaker
+1 [OGW:110] Goblin Dark-Dwellers
+1 [AKH:134] Glorybringer
+1 [GRN:115] Runaway Steam-Kin
+1 [MEDM:GR3] Daretti, Ingenious Iconoclast
+1 [3ED:274] Sol Ring
+1 [3ED:105] Demonic Tutor
+1 [2ED:48] Ancestral Recall
+1 [BBD:41] Spellseeker
+1 [WAR:207] Nicol Bolas, Dragon-God
+1 [RIX:82] Ravenous Chupacabra
+1 [ROE:165] Splinter Twin
+1 [ORI:60] Jace, Vryn's Prodigy
+1 [PLS:60] Flametongue Kavu
+1 [SHM:211] Manamorphose
+1 [UDS:75] Yawgmoth's Bargain
+1 [2ED:263] Mox Jet
+1 [ZEN:223] Scalding Tarn
+1 [KTK:230] Bloodstained Mire
+1 [TSP:259] Lotus Bloom
+1 [RNA:245] Blood Crypt
+1 [SOM:224] Blackcleave Cliffs
+3 [LRW:289] Island
+1 [LRW:286] Island
+2 [LRW:296] Mountain
+1 [LRW:294] Mountain
+1 [LRW:297] Mountain
+1 [LRW:293] Swamp
+1 [LRW:291] Swamp
+1 [LRW:290] Swamp
+SB: 1 [ORI:229] Hangarback Walker
+SB: 1 [SCG:75] Tendrils of Agony
+SB: 1 [RTR:101] Mizzium Mortars
+SB: 1 [EVE:139] Figure of Destiny
+SB: 1 [ODY:118] Buried Alive
+SB: 1 [GRN:207] Thousand-Year Storm
+SB: 1 [EXO:129] Survival of the Fittest
+SB: 1 [VIS:64] Necromancy
+SB: 1 [M11:172] Fauna Shaman
+SB: 1 [SCG:41] Mind's Desire
+SB: 1 [AVR:32] Restoration Angel
+SB: 1 [TMP:142] Living Death
+SB: 1 [CHK:62] Gifts Ungiven
+SB: 1 [FEM:18a] High Tide
+SB: 1 [AKH:136] Hazoret the Fervent
+SB: 1 [M14:163] Young Pyromancer
+LAYOUT MAIN:(1,7)(CMC,false,50)|([SOM:224],[RNA:245],[KTK:230],[LRW:289],[LRW:289],[LRW:286],[LRW:289],[TSP:259],[LRW:296],[LRW:294],[LRW:296],[LRW:297],[2ED:263],[ZEN:223],[LRW:293],[LRW:291],[LRW:290])([2ED:48],[3ED:274])([3ED:105],[M12:146],[ORI:60],[M19:152],[SHM:211],[GRN:115])([FUT:161],[MEDM:GR3],[LRW:78],[BBD:41],[GRN:205])([PLS:60],[RIX:77],[RIX:82],[ROE:165])([AKH:134],[OGW:110],[CHK:175],[WAR:207],[M21:164])([UDS:75])
+LAYOUT SIDEBOARD:(1,7)(COLOR,false,48)|([ORI:229])([SCG:75],[ODY:118],[VIS:64],[TMP:142])([SCG:41],[CHK:62],[FEM:18a])([EXO:129],[M11:172])([RTR:101],[AKH:136],[M14:163])([AVR:32])([EVE:139],[GRN:207])

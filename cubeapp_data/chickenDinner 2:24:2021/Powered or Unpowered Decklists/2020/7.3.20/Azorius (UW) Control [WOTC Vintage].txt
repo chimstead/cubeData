@@ -1,0 +1,54 @@
+1 [KTK:59] Treasure Cruise
+1 [NEM:17] Parallax Wave
+1 [ROE:53] Wall of Omens
+1 [M12:73] Ponder
+1 [ULG:14] Mother of Runes
+1 [LRW:88] Sower of Temptation
+1 [THB:14] Elspeth, Sun's Nemesis
+1 [WAR:13] Gideon Blackblade
+1 [WAR:221] Teferi, Time Raveler
+1 [8ED:64] Bribery
+1 [AVR:32] Restoration Angel
+1 [RTR:200] Sphinx's Revelation
+1 [NPH:57] Dismember
+1 [FRF:20] Monastery Mentor
+1 [XLN:81] Spell Pierce
+1 [M19:229] Crucible of Worlds
+1 [MMQ:61] Brainstorm
+1 [XLN:74] Search for Azcanta
+1 [2ED:84] Time Walk
+1 [BFZ:29] Gideon, Ally of Zendikar
+1 [M12:55] Frost Titan
+1 [EVE:6] Flickerwisp
+1 [TSP:48] Ancestral Vision
+1 [STH:138] Mox Diamond
+1 [ZEN:211] Arid Mesa
+1 [TMP:330] Wasteland
+1 [ARN:76] Library of Alexandria
+1 [KTK:239] Polluted Delta
+1 [4ED:363] Strip Mine
+1 [3ED:289] Tundra
+2 [KTK:254] Island
+1 [KTK:256] Island
+1 [KTK:255] Island
+1 [KTK:257] Island
+3 [KTK:251] Plains
+1 [KTK:253] Plains
+1 [KTK:252] Plains
+SB: 1 [DST:149] Sword of Light and Shadow
+SB: 1 [AVR:166] Zealous Conscripts
+SB: 1 [4ED:147] Mind Twist
+SB: 1 [LRW:78] Pestermite
+SB: 1 [DTK:224] Kolaghan's Command
+SB: 1 [ODY:132] Entomb
+SB: 1 [ROE:47] Student of Warfare
+SB: 1 [KLD:235] Smuggler's Copter
+SB: 1 [MBS:8] Hero of Bladehold
+SB: 1 [M11:153] Pyretic Ritual
+SB: 1 [5ED:249] Mana Flare
+SB: 1 [SOM:94] Koth of the Hammer
+SB: 1 [TOR:51] Cabal Ritual
+SB: 1 [ALA:218] Relic of Progenitus
+SB: 1 [RNA:27] Tithe Taker
+LAYOUT MAIN:(1,8)(CMC,false,54)|([TSP:48],[STH:138],[ZEN:211],[TMP:330],[ARN:76],[KTK:239],[4ED:363],[3ED:289],[KTK:254],[KTK:254],[KTK:256],[KTK:255],[KTK:257],[KTK:251],[KTK:253],[KTK:252],[KTK:251],[KTK:251])([M12:73],[ULG:14],[XLN:81],[MMQ:61])([ROE:53],[XLN:74],[2ED:84])([WAR:13],[WAR:221],[RTR:200],[NPH:57],[FRF:20],[M19:229],[EVE:6])([NEM:17],[LRW:88],[THB:14],[AVR:32],[BFZ:29])([8ED:64])([M12:55])([KTK:59])
+LAYOUT SIDEBOARD:(1,5)(CMC,false,58)|([4ED:147],[ODY:132],[ROE:47],[ALA:218])([KLD:235],[M11:153],[TOR:51],[RNA:27])([DST:149],[LRW:78],[DTK:224],[5ED:249])([MBS:8],[SOM:94])([AVR:166])

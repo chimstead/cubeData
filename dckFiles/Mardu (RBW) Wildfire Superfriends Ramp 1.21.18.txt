@@ -1,3 +1,6 @@
+2018
+1.18
+1.21.18
 1 Grand Coliseum
 1 Ash Barrens
 1 Sulfurous Springs
@@ -25,10 +28,10 @@
 1 Ajani Vengeant
 1 Elspeth, Knight-Errant
 1 Sorin, Lord of Innistrad
-1 Than Dynamo
+1 Thran Dynamo
 1 Gideon Jura
 1 Sarkhan, the Dragonspeaker
-1 Elspeth, Sun’s Champion
+1 Elspeth, Sun's Champion
 1 Chandra, Flamecaller
 1 Inferno Titan
 1 Burning of Xinye

@@ -1,0 +1,31 @@
+1 City of Brass
+1 Gemstone Mine
+1 Maze of Ith
+1 Misty Rainforest
+1 Overgrown Tomb
+1 Treetop Village
+5 Forest
+4 Swamp
+3 Mountain
+1 Mox Diamond
+1 Imperial Seal
+1 Inquisition of Kozilek
+1 Thoughtseize
+1 Chainer's Edict
+1 Demonic Tutor
+1 Izzet Signet
+1 Oath of Druids
+1 Scroll Rack
+1 Everflowing Chalice
+1 Eureka
+1 Garruk Wildspeaker
+1 Thran Dynamo
+1 Gilded Lotus
+1 Through the Breach
+1 Inferno Titan
+1 Primeval Titan
+1 Selvala's Stampede
+1 Dragonlord Atarka
+1 Elesh Norn, Grand Cenobite
+1 Hornet Queen
+1 Griselbrand

@@ -1,3 +1,6 @@
+2017
+12.17
+12.22.17
 9 Island
 5 Mountain
 1 Steam Vents
@@ -5,13 +8,13 @@
 1 Scalding Tarn
 1 Serum Visions
 1 Arc Trail
-1 Smuggler’s Copter
-1 Umezawa’s Jitte
+1 Smuggler's Copter
+1 Umezawa's Jitte
 1 Gilded Drake
-1 Incinerate 
+1 Incinerate
 1 Young Pyromancer
-1 Miscalculation 
-1 Jace, Vryn’s Prodigy
+1 Miscalculation
+1 Jace, Vryn's Prodigy
 1 Supreme Will
 1 True-Name Nemesis
 1 Hanweir Garrison
@@ -26,4 +29,3 @@
 1 Thundermaw Hellkite
 1 Inferno Titan
 1 Treasure Cruise
-

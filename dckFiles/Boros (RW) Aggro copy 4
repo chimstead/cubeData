@@ -1,0 +1,54 @@
+2021
+1.31.21
+1 [ROE:146] Forked Bolt
+1 [DOM:14] Dauntless Bodyguard
+1 [MM3:96] Goblin Guide
+1 [CHK:19] Isamaru, Hound of Konda
+1 [ORI:23] Kytheon, Hero of Akros
+1 [DTK:169] Zurgo Bellstriker
+1 [ROE:47] Student of Warfare
+1 [PF20:1] Path to Exile
+1 [PHOU:83] Abrade
+1 [XLN:1] Adanto Vanguard
+1 [C13:179] Boros Charm
+1 [PGPX:2016] Stoneforge Mystic
+1 [EMN:40] Selfless Spirit
+1 [THS:128] Magma Jet
+1 [ZNR:24] Luminarch Aspirant
+1 [JVC:51] Incinerate
+1 [THB:125] Anax, Hardened in the Forge
+1 [2XM:11] Council's Judgment
+1 [GRN:109] Legion Warboss
+1 [ZNR:27] Maul of the Skyclaves
+1 [GRN:204] Tajic, Legion's Edge
+1 [ELD:115] Bonecrusher Giant
+1 [IKO:21] Luminous Broodmoth
+1 [ELD:238] Castle Ardenvale
+1 [EMA:136] Keldon Marauders
+1 [MH1:247] Sunbaked Canyon
+1 [GTC:245] Sacred Foundry
+1 [M14:228] Mutavault
+1 [ORI:244] Battlefield Forge
+1 [MM3:229] Arid Mesa
+4 [ROE:241] Mountain
+1 [ROE:243] Mountain
+2 [ROE:231] Plains
+2 [ROE:230] Plains
+1 [M14:139] Flames of the Firebrand
+SB: 1 [2XM:383] Wrath of God
+SB: 1 [DDC:49] Demonic Tutor
+SB: 1 [C16:299] Grand Coliseum
+SB: 1 [TSP:66] Looter il-Kor
+SB: 1 [ZNR:259] Brightclimb Pathway
+SB: 1 [MH1:10] Force of Virtue
+SB: 1 [GRN:208] Trostani Discordant
+SB: 1 [MH1:161] Deep Forest Hermit
+SB: 1 [VMA:137] Recurring Nightmare
+SB: 1 [EMA:175] Llanowar Elves
+SB: 1 [PELD:43p] Emry, Lurker of the Loch
+SB: 1 [XLN:34] Settle the Wreckage
+SB: 1 [ZNR:223] Grakmaw, Skyclave Ravager
+SB: 1 [GRN:183] Knight of Autumn
+SB: 1 [ROE:231] Plains
+LAYOUT MAIN:(1,5)(CMC,false,82)|([MM3:229],[ORI:244],[ELD:238],[ROE:241],[ROE:241],[ROE:243],[ROE:241],[ROE:241],[M14:228],[ROE:231],[ROE:230],[ROE:231],[ROE:230],[GTC:245],[MH1:247])([DOM:14],[ROE:146],[MM3:96],[CHK:19],[ORI:23],[PF20:1],[ROE:47],[DTK:169])([PHOU:83],[XLN:1],[C13:179],[JVC:51],[EMA:136],[ZNR:24],[THS:128],[EMN:40],[PGPX:2016],[ELD:115])([THB:125],[2XM:11],[GRN:109],[ZNR:27],[GRN:204],[M14:139])([IKO:21])
+LAYOUT SIDEBOARD:(1,6)(CMC,false,50)|([ZNR:259],[C16:299])([EMA:175],[ROE:231])([DDC:49],[TSP:66])([PELD:43p],[ZNR:223],[GRN:183],[VMA:137])([MH1:10],[XLN:34],[2XM:383])([MH1:161],[GRN:208])

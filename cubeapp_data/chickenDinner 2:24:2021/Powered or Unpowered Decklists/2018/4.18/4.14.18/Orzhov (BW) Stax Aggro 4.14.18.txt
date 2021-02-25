@@ -1,0 +1,30 @@
+6 Plains
+6 Swamp
+1 Aether Hub
+1 Mishra's Factory
+1 Strip Mine
+1 Undiscovered Paradise
+1 Verdant Catacombs
+1 Dark Ritual
+1 Duress
+1 Enlightened Tutor
+1 Land Tax
+1 Mind Twist
+1 Swords to Plowshares
+1 Accorder Paladin
+1 Dark Confidant
+1 Gerrard's Verdict
+1 Pack Rat
+1 Scrapheap Scrounger
+1 Sinkhole
+1 Trueheart Duelist
+1 Council's Judgment
+1 Flickerwisp
+1 Lingering Souls
+1 Thalia, Heretic Cathar
+1 Never // Return
+1 Elspeth, Knight-Errant
+1 Palace Jailer
+1 Skinrender
+1 Smokestack
+1 Exalted Angel

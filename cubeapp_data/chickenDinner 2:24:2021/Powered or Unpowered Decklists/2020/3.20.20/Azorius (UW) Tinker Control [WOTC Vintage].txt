@@ -1,0 +1,50 @@
+NAME:3-11 vc
+1 [ULG:14] Mother of Runes
+1 [M12:63] Mana Leak
+1 [LEG:65] Mana Drain
+1 [AER:28] Baral, Chief of Compliance
+1 [WAR:61] Narset, Parter of Veils
+1 [MH1:52] Force of Negation
+1 [NPH:19] Porcelain Legionnaire
+1 [ULG:45] Tinker
+1 [USG:318] Worn Powerstone
+1 [M13:22] Oblivion Ring
+1 [ISD:213] Geist of Saint Traft
+1 [AVR:32] Restoration Angel
+1 [ROE:33] Linvala, Keeper of Silence
+1 [M12:12] Day of Judgment
+1 [VMA:266] Coercive Portal
+1 [DOM:207] Teferi, Hero of Dominaria
+1 [C17:37] Fractured Identity
+1 [UDS:50] Treachery
+1 [ALL:28] Force of Will
+1 [ARB:110] Sphinx of the Steel Wind
+1 [6ED:83] Mystical Tutor
+1 [6ED:19] Enlightened Tutor
+1 [MPS:16] Mana Crypt
+1 [WWK:133] Celestial Colonnade
+1 [TMP:330] Wasteland
+1 [4ED:363] Strip Mine
+1 [KTK:248] Windswept Heath
+1 [RNA:251] Hallowed Fountain
+1 [DRK:117] Maze of Ith
+1 [STH:138] Mox Diamond
+1 [ARN:76] Library of Alexandria
+1 [XLN:74] Search for Azcanta
+5 [THB:251] Island
+3 [THB:250] Plains
+SB: 1 [RNA:47] Pteramander
+SB: 1 [M19:130] Banefire
+SB: 1 [MH1:145] Seasoned Pyromancer
+SB: 1 [MH1:37] Winds of Abandon
+SB: 1 [WAR:207] Nicol Bolas, Dragon-God
+SB: 1 [RAV:213] Lightning Helix
+SB: 1 [SOM:226] Darkslick Shores
+SB: 1 [FUT:101] Magus of the Moon
+SB: 1 [TSP:269] Academy Ruins
+SB: 1 [M14:228] Mutavault
+SB: 1 [SOM:169] Kuldotha Forgemaster
+SB: 1 [ALA:154] Ajani Vengeant
+SB: 1 [CON:30] Inkwell Leviathan
+LAYOUT MAIN:(1,7)(CMC,false,81)|([WWK:133],[TMP:330],[4ED:363],[KTK:248],[RNA:251],[DRK:117],[ARN:76],[THB:251],[THB:251],[THB:251],[THB:251],[THB:251],[THB:250],[THB:250],[THB:250])([ULG:14],[6ED:83],[6ED:19],[STH:138],[MPS:16])([LEG:65],[M12:63],[AER:28],[XLN:74])([WAR:61],[MH1:52],[NPH:19],[ULG:45],[USG:318],[M13:22],[ISD:213])([AVR:32],[ROE:33],[M12:12],[VMA:266])([DOM:207],[C17:37],[UDS:50],[ALL:28])([ARB:110])
+LAYOUT SIDEBOARD:(1,7)(CMC,false,61)|([SOM:226],[TSP:269],[M14:228])([RNA:47],[M19:130])([MH1:37],[RAV:213])([MH1:145],[FUT:101])([ALA:154])([WAR:207],[SOM:169])([CON:30])

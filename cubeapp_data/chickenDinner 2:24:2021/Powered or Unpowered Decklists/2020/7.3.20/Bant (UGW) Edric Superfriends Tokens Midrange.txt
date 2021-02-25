@@ -1,0 +1,51 @@
+1 [WAR:169] Nissa, Who Shakes the World
+1 [C17:37] Fractured Identity
+1 [CN2:18] Palace Jailer
+1 [MH1:26] Serra the Benevolent
+1 [THB:14] Elspeth, Sun's Nemesis
+1 [ALA:9] Elspeth, Knight-Errant
+1 [ISD:181] Garruk Relentless
+1 [AVR:32] Restoration Angel
+1 [ISD:170] Avacyn's Pilgrim
+1 [C18:57] Retrofitter Foundry
+1 [ELD:160] Gilded Goose
+1 [M14:169] Elvish Mystic
+1 [EMN:40] Selfless Spirit
+1 [SOI:12] Declaration in Stone
+1 [RAV:63] Remand
+1 [CNS:16] Council's Judgment
+1 [OGW:138] Nissa, Voice of Zendikar
+1 [ELD:197] Oko, Thief of Crowns
+1 [CNS:187] Edric, Spymaster of Trest
+1 [WAR:221] Teferi, Time Raveler
+1 [STH:138] Mox Diamond
+1 [LEG:58] Force Spike
+1 [ULG:14] Mother of Runes
+1 [LEG:26] Land Tax
+1 [MIR:326] Flood Plain
+1 [ONS:316] Flooded Strand
+1 [ONS:321] Polluted Delta
+1 [FUT:177] Horizon Canopy
+1 [LEG:303] Karakas
+1 [ARN:71] City of Brass
+1 [LEB:285] Tundra
+2 [3ED:306] Forest
+5 [3ED:304] Forest
+1 [3ED:305] Forest
+1 [3ED:293] Plains
+SB: 1 [M10:191] Master of the Wild Hunt
+SB: 1 [BNG:5] Brimaz, King of Oreskos
+SB: 1 [OGW:175] Needle Spires
+SB: 1 [AER:87] Kari Zev, Skyship Raider
+SB: 1 [LEB:280] Plateau
+SB: 1 [KLD:4] Angel of Invention
+SB: 1 [WWK:20] Stoneforge Mystic
+SB: 1 [ARB:75] Qasali Pridemage
+SB: 1 [KTK:36] Dig Through Time
+SB: 1 [ALL:22a] Arcane Denial
+SB: 1 [XLN:179] Carnage Tyrant
+SB: 1 [ORI:105] Languish
+SB: 1 [EVE:6] Flickerwisp
+SB: 1 [VIS:34] Impulse
+LAYOUT MAIN:(1,6)(CMC,false,50)|([STH:138],[MIR:326],[ONS:316],[ONS:321],[FUT:177],[LEG:303],[ARN:71],[LEB:285],[3ED:306],[3ED:304],[3ED:305],[3ED:304],[3ED:304],[3ED:304],[3ED:304],[3ED:306],[3ED:293])([ISD:170],[C18:57],[ELD:160],[M14:169],[LEG:58],[ULG:14],[LEG:26])([EMN:40],[SOI:12],[RAV:63])([CNS:16],[OGW:138],[ELD:197],[CNS:187],[WAR:221])([CN2:18],[MH1:26],[THB:14],[ALA:9],[ISD:181],[AVR:32])([WAR:169],[C17:37])
+LAYOUT SIDEBOARD:(1,7)(CMC,false,50)|([OGW:175],[LEB:280])([AER:87],[WWK:20],[ARB:75],[ALL:22a],[VIS:34])([BNG:5],[EVE:6])([M10:191],[ORI:105])([KLD:4])([XLN:179])([KTK:36])

@@ -1,0 +1,53 @@
+1 [C17:37] Fractured Identity
+1 [C15:14] Mystic Confluence
+1 [DOM:207] Teferi, Hero of Dominaria
+1 [BFZ:29] Gideon, Ally of Zendikar
+1 [NEM:17] Parallax Wave
+1 [C13:63] True-Name Nemesis
+1 [MOR:55] Vendilion Clique
+1 [GRN:109] Legion Warboss
+1 [WAR:221] Teferi, Time Raveler
+1 [ULG:36] Miscalculation
+1 [5DN:73] Magma Jet
+1 [THS:127] Lightning Strike
+1 [MIR:74] Memory Lapse
+1 [ISD:78] Snapcaster Mage
+1 [C13:25] Unexpectedly Absent
+1 [WWK:20] Stoneforge Mystic
+1 [BOK:163] Umezawa's Jitte
+1 [MMQ:69] Counterspell
+1 [NEM:30] Daze
+1 [LEA:161] Lightning Bolt
+1 [ICE:54] Swords to Plowshares
+1 [5DN:27] Condescend
+1 [SHM:229] Kitchen Finks
+1 [ZEN:67] Spell Pierce
+1 [OGW:182] Wandering Fumarole
+1 [LEB:280] Plateau
+1 [ZEN:219] Marsh Flats
+1 [LEB:287] Volcanic Island
+1 [LEB:285] Tundra
+1 [ZEN:223] Scalding Tarn
+1 [MH1:247] Sunbaked Canyon
+1 [RAV:280] Sacred Foundry
+1 [WWK:133] Celestial Colonnade
+1 [3ED:296] Island
+2 [3ED:295] Island
+1 [3ED:303] Mountain
+1 [3ED:292] Plains
+1 [3ED:294] Plains
+1 [3ED:293] Plains
+SB: 1 [KTK:36] Dig Through Time
+SB: 1 [MBS:8] Hero of Bladehold
+SB: 1 [LRW:71] Jace Beleren
+SB: 1 [M19:33] Remorseful Cleric
+SB: 1 [TMP:47] Soltari Trooper
+SB: 1 [AKH:136] Hazoret the Fervent
+SB: 1 [PC2:82] Baleful Strix
+SB: 1 [THS:32] Soldier of the Pantheon
+SB: 1 [EXO:115] Oath of Druids
+SB: 1 [MH1:145] Seasoned Pyromancer
+SB: 1 [OGW:138] Nissa, Voice of Zendikar
+SB: 1 [VIS:114] Natural Order
+LAYOUT MAIN:(1,6)(CMC,false,50)|([OGW:182],[LEB:280],[ZEN:219],[LEB:287],[LEB:285],[ZEN:223],[MH1:247],[RAV:280],[WWK:133],[3ED:296],[3ED:295],[3ED:295],[3ED:303],[3ED:292],[3ED:294],[3ED:293])([LEA:161],[ICE:54],[5DN:27],[ZEN:67])([ULG:36],[5DN:73],[THS:127],[MIR:74],[ISD:78],[C13:25],[WWK:20],[BOK:163],[MMQ:69],[NEM:30])([C13:63],[MOR:55],[GRN:109],[WAR:221],[SHM:229])([BFZ:29],[NEM:17])([C17:37],[C15:14],[DOM:207])
+LAYOUT SIDEBOARD:(1,5)(CMC,false,50)|([THS:32])([M19:33],[TMP:47],[PC2:82],[EXO:115])([LRW:71],[MH1:145],[OGW:138])([MBS:8],[AKH:136],[VIS:114])([KTK:36])

@@ -1,0 +1,54 @@
+1 [ICE:91] Power Sink
+1 [RTR:44] Jace, Architect of Thought
+1 [M19:79] Tezzeret, Artifice Master
+1 [XLN:223] Hostage Taker
+1 [NEM:30] Daze
+1 [MH1:52] Force of Negation
+1 [MM3:51] Spell Pierce
+1 [ULG:36] Miscalculation
+1 [AVR:32] Restoration Angel
+1 [WAR:61] Narset, Parter of Veils
+1 [MH1:100] Plague Engineer
+1 [EMN:93] Liliana, the Last Hope
+1 [C13:96] Toxic Deluge
+1 [ROE:115] Inquisition of Kozilek
+1 [5DN:36] Serum Visions
+1 [ISD:105] Liliana of the Veil
+1 [ISD:78] Snapcaster Mage
+1 [UMA:79] Treasure Cruise
+1 [MBS:43] Go for the Throat
+1 [M12:73] Ponder
+1 [DOM:207] Teferi, Hero of Dominaria
+1 [MOR:58] Bitterblossom
+1 [7ED:76] Force Spike
+1 [XLN:74] Search for Azcanta
+1 [KTK:239] Polluted Delta
+1 [MH1:244] Prismatic Vista
+1 [SOM:229] Seachrome Coast
+1 [DIS:174] Hallowed Fountain
+1 [BFZ:244] Shambling Vent
+1 [WWK:134] Creeping Tar Pit
+2 [3ED:295] Island
+2 [3ED:297] Island
+1 [3ED:296] Island
+1 [3ED:293] Plains
+3 [3ED:298] Swamp
+1 [3ED:299] Swamp
+SB: 1 [WWK:144] Stirring Wildwood
+SB: 1 [SOI:116] Heir of Falkenrath
+SB: 1 [BFZ:239] Lumbering Falls
+SB: 1 [SOI:155] Falkenrath Gorger
+SB: 1 [RAV:279] Overgrown Tomb
+SB: 1 [GRN:152] Assassin's Trophy
+SB: 1 [RTR:141] Abrupt Decay
+SB: 1 [SOM:81] Arc Trail
+SB: 1 [UMA:225] Fire // Ice
+SB: 1 [DIS:172] Breeding Pool
+SB: 1 [MH1:243] Nurturing Peatland
+SB: 1 [C14:283] Wurmcoil Engine
+SB: 1 [WAR:44] Callous Dismissal
+SB: 1 [C13:71] Curse of Shallow Graves
+SB: 1 [M14:96] Doom Blade
+SB: 1 [3ED:296] Island
+LAYOUT MAIN:(1,7)(CMC,false,50)|([KTK:239],[MH1:244],[SOM:229],[DIS:174],[BFZ:244],[WWK:134],[3ED:295],[3ED:295],[3ED:297],[3ED:297],[3ED:296],[3ED:293],[3ED:298],[3ED:298],[3ED:298],[3ED:299])([ICE:91],[MM3:51],[ROE:115],[5DN:36],[M12:73],[7ED:76])([NEM:30],[ULG:36],[ISD:78],[MBS:43],[MOR:58],[XLN:74])([MH1:52],[WAR:61],[MH1:100],[EMN:93],[C13:96],[ISD:105])([RTR:44],[XLN:223],[AVR:32])([M19:79],[DOM:207])([UMA:79])
+LAYOUT SIDEBOARD:(1,6)(CMC,false,50)|([WWK:144],[BFZ:239],[RAV:279],[DIS:172],[MH1:243],[3ED:296])([SOI:155])([SOI:116],[GRN:152],[RTR:141],[SOM:81],[WAR:44],[M14:96])([C13:71])([UMA:225])([C14:283])

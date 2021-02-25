@@ -1,0 +1,51 @@
+1 [EMA:82] Braids, Cabal Minion
+1 [AKH:97] Liliana, Death's Majesty
+1 [WAR:98] Liliana's Triumph
+1 [C17:16] Curse of Disturbance
+1 [RTR:73] Pack Rat
+1 [EMN:93] Liliana, the Last Hope
+1 [MM2:71] Bitterblossom
+1 [AKH:88] Dread Wanderer
+1 [CN2:41] Custodi Lich
+1 [SOI:131] Relentless Dead
+1 [C14:147] Liliana's Reaver
+1 [BFZ:109] Drana, Liberator of Malakir
+1 [EMA:84] Carrion Feeder
+1 [MH1:116] Yawgmoth, Thran Physician
+1 [RNA:76] Gutterbones
+1 [CELD:287] Murderous Rider
+1 [AKH:98] Liliana's Mastery
+1 [AKH:212] Never // Return
+1 [DDQ:59] Gravecrawler
+1 [DTK:98] Duress
+1 [MM3:76] Liliana of the Veil
+1 [5DN:126] Grafted Wargear
+1 [EMN:85] Collective Brutality
+1 [DOM:81] Cast Down
+1 [EMA:241] Maze of Ith
+1 [MM3:239] Marsh Flats
+6 [AKH:263] Swamp
+3 [AKH:252] Swamp
+3 [AKH:261] Swamp
+2 [AKH:262] Swamp
+SB: 1 [HOU:145] The Scarab God
+SB: 1 [VIS:64] Necromancy
+SB: 1 [M20:126] Chandra, Acolyte of Flame
+SB: 1 [HOU:129] Ramunap Excavator
+SB: 1 [HOU:140] Nicol Bolas, God-Pharaoh
+SB: 1 [SOI:5] Archangel Avacyn
+SB: 1 [RIX:21] Skymarcher Aspirant
+SB: 1 [WWK:139] Lavaclaw Reaches
+SB: 1 [BNG:119] Courser of Kruphix
+SB: 1 [BBD:41] Spellseeker
+SB: 1 [GTC:182] Obzedat, Ghost Council
+SB: 1 [MM2:143] Cytoplast Root-Kin
+SB: 1 [GTC:242] Godless Shrine
+SB: 1 [AER:164] Metallic Mimic
+SB: 1 [V14:11] Smokestack
+SB: 1 [XLN:110] Kitesail Freebooter
+SB: 1 [RTR:213] Deathrite Shaman
+SB: 1 [ORI:240] Sword of the Animist
+SB: 1 [M12:86] Cemetery Reaper
+LAYOUT MAIN:(1,7)(CMC,false,45)|([EMA:241],[MM3:239],[AKH:263],[AKH:252],[AKH:261],[AKH:252],[AKH:263],[AKH:263],[AKH:261],[AKH:262],[AKH:263],[AKH:261],[AKH:262],[AKH:263],[AKH:263],[AKH:252])([AKH:88],[EMA:84],[RNA:76],[DDQ:59],[DTK:98])([WAR:98],[RTR:73],[MM2:71],[SOI:131],[EMN:85],[DOM:81])([C17:16],[EMN:93],[BFZ:109],[CELD:287],[MM3:76],[5DN:126])([EMA:82],[C14:147],[MH1:116])([AKH:97],[CN2:41],[AKH:98])([AKH:212])
+LAYOUT SIDEBOARD:(1,7)(CMC,false,50)|([WWK:139],[GTC:242])([RIX:21],[RTR:213])([AER:164],[XLN:110],[ORI:240])([VIS:64],[M20:126],[HOU:129],[BNG:119],[BBD:41],[M12:86])([MM2:143],[V14:11])([HOU:145],[SOI:5],[GTC:182])([HOU:140])

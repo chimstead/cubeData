@@ -1,0 +1,51 @@
+1 [CN2:74] Daretti, Ingenious Iconoclast
+1 [GRN:109] Legion Warboss
+1 [EVE:139] Figure of Destiny
+1 [SOM:224] Blackcleave Cliffs
+1 [ELD:122] Embereth Shieldbreaker
+1 [LEB:280] Plateau
+1 [LEB:278] Badlands
+1 [RIX:99] Dire Fleet Daredevil
+1 [CON:15] Path to Exile
+1 [MH1:246] Silent Clearing
+1 [NPH:19] Porcelain Legionnaire
+1 [M12:146] Incinerate
+1 [KLD:84] Gonti, Lord of Luxury
+1 [ZEN:119] Burst Lightning
+1 [EMN:130a] Hanweir Garrison
+1 [LEG:137] Chain Lightning
+1 [ZEN:219] Marsh Flats
+1 [IKO:253] Savai Triome
+1 [LEB:116] Mind Twist
+1 [ELD:115] Bonecrusher Giant
+1 [LEB:265] Mox Ruby
+1 [KTK:230] Bloodstained Mire
+1 [MH1:230] Talisman of Conviction
+1 [WWK:139] Lavaclaw Reaches
+1 [LEB:264] Mox Pearl
+1 [RAV:81] Dark Confidant
+1 [BFZ:29] Gideon, Ally of Zendikar
+1 [CN2:18] Palace Jailer
+1 [C18:57] Retrofitter Foundry
+1 [CN2:22] Recruiter of the Guard
+1 [WAR:13] Gideon Blackblade
+1 [RNA:245] Blood Crypt
+1 [MH1:37] Winds of Abandon
+1 [MBS:8] Hero of Bladehold
+1 [ZEN:223] Scalding Tarn
+1 [MH1:233] Talisman of Hierarchy
+1 [LEB:299] Mountain
+1 [LEB:298] Mountain
+1 [LEB:290] Plains
+1 [LEB:295] Swamp
+SB: 1 [LEG:28] Moat
+SB: 1 [IMA:18] Elesh Norn, Grand Cenobite
+SB: 1 [GRN:207] Thousand-Year Storm
+SB: 1 [ICE:214] Pyroclasm
+SB: 1 [RTR:247] Steam Vents
+SB: 1 [EVE:6] Flickerwisp
+SB: 1 [ORI:23] Kytheon, Hero of Akros
+SB: 1 [TOR:69] Mesmeric Fiend
+SB: 1 [AVR:32] Restoration Angel
+LAYOUT MAIN:(1,5)(CMC,false,76)|([LEB:278],[SOM:224],[RNA:245],[KTK:230],[WWK:139],[ZEN:219],[LEB:299],[LEB:298],[LEB:264],[LEB:265],[LEB:290],[LEB:280],[ZEN:223],[MH1:246],[LEB:295],[IKO:253])([ZEN:119],[LEG:137],[EVE:139],[C18:57],[ELD:122],[CON:15])([RAV:81],[RIX:99],[M12:146],[MH1:230],[MH1:233],[MH1:37],[ELD:115],[LEB:116])([CN2:74],[WAR:13],[EMN:130a],[NPH:19],[CN2:22],[GRN:109])([BFZ:29],[KLD:84],[MBS:8],[CN2:18])
+LAYOUT SIDEBOARD:(1,5)(COLOR,false,61)|([RTR:247])([ICE:214])([LEG:28],[IMA:18])([GRN:207])([EVE:6],[ORI:23],[TOR:69],[AVR:32])

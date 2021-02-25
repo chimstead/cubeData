@@ -1,0 +1,50 @@
+1 [ELD:160] Gilded Goose
+1 [M15:173] Elvish Mystic
+1 [M21:96] Duress
+1 [CON:15] Path to Exile
+1 [EXO:129] Survival of the Fittest
+1 [RAV:81] Dark Confidant
+1 [MBS:43] Go for the Throat
+1 [BOK:163] Umezawa's Jitte
+1 [MH1:37] Winds of Abandon
+1 [RAV:270] Selesnya Signet
+1 [M21:204] Scavenging Ooze
+1 [M21:107] Kitesail Freebooter
+1 [ARB:92] Maelstrom Pulse
+1 [C13:84] Ophiomancer
+1 [GRN:183] Knight of Autumn
+1 [VMA:20] Council's Judgment
+1 [BFZ:29] Gideon, Ally of Zendikar
+1 [MH1:116] Yawgmoth, Thran Physician
+1 [ALA:9] Elspeth, Knight-Errant
+1 [ELD:287] Murderous Rider
+1 [LRW:139] Shriekmaw
+1 [GRN:208] Trostani Discordant
+1 [KLD:4] Angel of Invention
+1 [2ED:262] Mox Emerald
+1 [ZEN:229] Verdant Catacombs
+1 [KTK:230] Bloodstained Mire
+1 [3ED:285] Savannah
+1 [3ED:286] Scrubland
+1 [KLD:243] Blooming Marsh
+1 [OGW:171] Hissing Quagmire
+1 [BFZ:244] Shambling Vent
+2 [GUR:1] Forest
+4 [GUR:4] Plains
+3 [GUR:5] Swamp
+SB: 1 [ELD:281] Brazen Borrower
+SB: 1 [RNA:122] Biogenic Ooze
+SB: 1 [LEG:28] Moat
+SB: 1 [C14:8] Hallowed Spiritkeeper
+SB: 1 [TOR:51] Cabal Ritual
+SB: 1 [BBD:25] Brightling
+SB: 1 [ELD:197] Oko, Thief of Crowns
+SB: 1 [ULG:36] Miscalculation
+SB: 1 [MH1:13] Giver of Runes
+SB: 1 [M21:13] Containment Priest
+SB: 1 [SHM:23] Spectral Procession
+SB: 1 [RTR:200] Sphinx's Revelation
+SB: 1 [AVR:32] Restoration Angel
+SB: 1 [KLD:244] Botanical Sanctum
+LAYOUT MAIN:(1,7)(CMC,false,87)|([GUR:1],[GUR:1],[GUR:4],[GUR:4],[GUR:4],[GUR:4],[GUR:5],[GUR:5],[GUR:5])([KTK:230],[KLD:243],[OGW:171],[3ED:285],[3ED:286],[BFZ:244],[ZEN:229])([2ED:262],[M21:96],[M15:173],[ELD:160],[CON:15])([RAV:81],[MBS:43],[M21:107],[M21:204],[RAV:270],[EXO:129],[BOK:163],[MH1:37])([VMA:20],[GRN:183],[ARB:92],[C13:84],[ELD:287])([ALA:9],[BFZ:29],[MH1:116])([KLD:4],[LRW:139],[GRN:208])
+LAYOUT SIDEBOARD:(1,7)(CMC,false,77)|([KLD:244])([MH1:13])([TOR:51],[ULG:36],[M21:13])([C14:8],[BBD:25],[ELD:197],[RTR:200])([LEG:28],[AVR:32])([ELD:281],[RNA:122])([SHM:23])

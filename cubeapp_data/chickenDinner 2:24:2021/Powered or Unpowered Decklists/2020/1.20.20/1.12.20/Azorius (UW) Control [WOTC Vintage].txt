@@ -1,0 +1,52 @@
+1 [MRD:256] Talisman of Progress
+1 [IMA:65] Mana Drain
+1 [BBD:110] Swords to Plowshares
+1 [CMD:17] Journey to Nowhere
+1 [C18:94] Mulldrifter
+1 [8ED:64] Bribery
+1 [PUMA:U2] Karn Liberated
+1 [CN2:22] Recruiter of the Guard
+1 [A25:76] Vendilion Clique
+1 [IMA:66] Mana Leak
+1 [UMA:58] Glen Elendra Archmage
+1 [CN2:18] Palace Jailer
+1 [MH1:233] Talisman of Hierarchy
+1 [2ED:48] Ancestral Recall
+1 [7ED:57] Wrath of God
+1 [E01:90] Talisman of Dominance
+1 [C19:76] Sun Titan
+1 [WAR:13] Gideon Blackblade
+1 [ULG:126] Grim Monolith
+1 [SS1:6] Mystical Tutor
+1 [BBD:119] Impulse
+1 [IMA:47] Consecrated Sphinx
+1 [NPH:19] Porcelain Legionnaire
+1 [PUMA:U33] Celestial Colonnade
+1 [2ED:264] Mox Pearl
+1 [EXP:16] Flooded Strand
+1 [3ED:289] Tundra
+1 [LRW:272] Shelldock Isle
+1 [MPS:16] Mana Crypt
+1 [EXP:43] Strip Mine
+1 [MM3:239] Marsh Flats
+3 [3ED:295] Island
+2 [3ED:296] Island
+1 [3ED:294] Plains
+2 [3ED:292] Plains
+1 [3ED:293] Plains
+SB: 1 [E02:2] Day of Judgment
+SB: 1 [WAR:137] Krenko, Tin Street Kingpin
+SB: 1 [MMA:196] Aether Spellbomb
+SB: 1 [C13:84] Ophiomancer
+SB: 1 [M14:228] Mutavault
+SB: 1 [C14:145] Grave Titan
+SB: 1 [PTK:17] Ravages of War
+SB: 1 [V09:14] Tinker
+SB: 1 [A25:219] Vindicate
+SB: 1 [KLD:231] Scrapheap Scrounger
+SB: 1 [PUMA:U38] Raging Ravine
+SB: 1 [C19:225] Thran Dynamo
+SB: 1 [AKH:136] Hazoret the Fervent
+SB: 1 [EMA:241] Maze of Ith
+LAYOUT MAIN:(1,8)(CMC,false,83)|([PUMA:U33],[EXP:16],[MPS:16],[MM3:239],[2ED:264],[LRW:272],[EXP:43],[3ED:289],[3ED:295],[3ED:296],[3ED:295],[3ED:295],[3ED:294],[3ED:292],[3ED:293],[3ED:292],[3ED:296])([2ED:48],[SS1:6],[BBD:110])([ULG:126],[BBD:119],[CMD:17],[IMA:65],[IMA:66],[E01:90],[MH1:233],[MRD:256])([WAR:13],[NPH:19],[CN2:22],[A25:76])([UMA:58],[CN2:18],[7ED:57])([8ED:64],[C18:94])([IMA:47],[C19:76])([PUMA:U2])
+LAYOUT SIDEBOARD:(2,6)(CMC,true,51)|()()([KLD:231])([WAR:137],[C13:84])([AKH:136])([C14:145])([M14:228],[PUMA:U38],[EMA:241])([MMA:196])()([V09:14],[A25:219])([E02:2],[PTK:17],[C19:225])()

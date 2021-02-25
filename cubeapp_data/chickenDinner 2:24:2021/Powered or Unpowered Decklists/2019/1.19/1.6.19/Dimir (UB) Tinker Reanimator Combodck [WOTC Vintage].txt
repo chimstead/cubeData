@@ -1,0 +1,49 @@
+1 [ULG:45] Tinker
+1 [SOM:48] Trinket Mage
+1 [C18:91] Inkwell Leviathan
+1 [MIR:307] Lion's Eye Diamond
+1 [AKH:97] Liliana, Death's Majesty
+1 [MMQ:62] Bribery
+1 [MPS:14] Lightning Greaves
+1 [HOP:36] Phyrexian Arena
+1 [RIX:82] Ravenous Chupacabra
+8 [UNH:137] Island
+1 [VMA:283] Sol Ring
+5 [UNH:138] Swamp
+1 [XLN:248] Sorcerous Spyglass
+1 [VMA:6] Mox Jet
+1 [XLN:48] Chart a Course
+1 [GTC:249] Watery Grave
+1 [ARC:118] Sundering Titan
+1 [KTK:233] Flooded Strand
+1 [EMA:242] Mishra's Factory
+1 [C13:247] Myr Battlesphere
+1 [VMA:116] Demonic Tutor
+1 [TSP:48] Ancestral Vision
+1 [VMA:136] Reanimate
+1 [TSP:66] Looter il-Kor
+1 [MM2:212] Everflowing Chalice
+1 [DDE:54] Coalition Relic
+1 [MM3:224] Orzhov Signet
+1 [KLD:84] Gonti, Lord of Luxury
+1 [SOM:169] Kuldotha Forgemaster
+SB: 1 [GRN:153] Aurelia, Exemplar of Justice
+SB: 1 [ORI:127] Abbot of Keral Keep
+SB: 1 [THS:122] Firedrinker Satyr
+SB: 1 [MM3:6] Flickerwisp
+SB: 1 [EMA:128] Faithless Looting
+SB: 1 [NPH:103] Beast Within
+SB: 1 [MM2:71] Bitterblossom
+SB: 1 [RTR:243] Overgrown Tomb
+SB: 1 [C14:177] Goblin Welder
+SB: 1 [DTK:124] Ultimate Price
+SB: 1 [NPH:9] Elesh Norn, Grand Cenobite
+SB: 1 [IMA:139] Magus of the Moon
+SB: 1 [VMA:324] Volcanic Island
+SB: 1 [VMA:126] Living Death
+SB: 1 [MED:103] Mana Flare
+SB: 1 [KLD:245] Concealed Courtyard
+SB: 1 [SOM:225] Copperline Gorge
+SB: 1 [VMA:291] Badlands
+LAYOUT MAIN:(1,9)(CMC,false,51)|([TSP:48],[KTK:233],[UNH:137],[UNH:137],[UNH:137],[UNH:137],[UNH:137],[UNH:137],[UNH:137],[UNH:137],[EMA:242],[UNH:138],[UNH:138],[UNH:138],[UNH:138],[UNH:138],[GTC:249])([VMA:136],[VMA:283],[MIR:307],[VMA:6],[MM2:212])([XLN:48],[VMA:116],[MPS:14],[TSP:66],[MM3:224],[XLN:248])([DDE:54],[HOP:36],[ULG:45],[SOM:48])([KLD:84],[RIX:82])([MMQ:62],[SOM:169],[AKH:97])([C13:247])([ARC:118])([C18:91])
+LAYOUT SIDEBOARD:(1,6)(CMC,false,50)|([RTR:243],[SOM:225],[KLD:245],[VMA:324],[VMA:291])([C14:177],[THS:122],[EMA:128])([MM2:71],[ORI:127],[DTK:124])([IMA:139],[NPH:103],[MED:103],[MM3:6])([GRN:153],[VMA:126])([NPH:9])

@@ -1,18 +1,21 @@
+2017
+12.17
+12.25.17
 5 Island
 4 Plains
 1 Mountain
-1 Celestial Colonnade 
+1 Celestial Colonnade
 1 Plateau
 1 Scalding Tarn
 1 Tropical Island
 1 Tundra
-1 Windsweapt Heath
+1 Windswept Heath
 1 Mox Diamond
 1 Chrome Mox
 1 Mystical Tutor
 1 Balance
 1 Coldsteel Heart
-1 Miscalculation 
+1 Miscalculation
 1 Orzhov Signet
 1 Remand
 1 Snapcaster Mage
@@ -31,4 +34,3 @@
 1 Fractured Identity
 1 Keranos, God of Storms
 1 Dig Through Time
-

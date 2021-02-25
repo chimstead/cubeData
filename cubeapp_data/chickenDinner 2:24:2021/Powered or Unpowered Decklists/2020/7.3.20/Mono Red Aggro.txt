@@ -1,0 +1,51 @@
+1 [THB:148] Phoenix of Ash
+1 [EVE:139] Figure of Destiny
+1 [M13:132] Flames of the Firebrand
+1 [AKH:135] Harsh Mentor
+1 [GRN:109] Legion Warboss
+1 [HOU:90] Earthshaker Khenra
+1 [TMP:183] Jackal Pup
+1 [M12:156] Stormblood Berserker
+1 [SCG:106] Sulfuric Vortex
+1 [AER:87] Kari Zev, Skyship Raider
+1 [AKH:125] Combat Celebrant
+1 [5DN:73] Magma Jet
+1 [ELD:138] Robber of the Rich
+1 [THS:127] Lightning Strike
+1 [M13:147] Searing Spear
+1 [DTK:169] Zurgo Bellstriker
+1 [TOR:100] Grim Lavamancer
+1 [THS:122] Firedrinker Satyr
+1 [MH1:145] Seasoned Pyromancer
+1 [PTK:122] Rolling Earthquake
+1 [NPH:19] Porcelain Legionnaire
+1 [KTK:118] Monastery Swiftspear
+1 [MRD:146] Bonesplitter
+1 [GRN:103] Goblin Cratermaker
+1 [NPH:57] Dismember
+1 [ATQ:82a] Strip Mine
+3 [SWS:264a] Mountain
+5 [SWS:264c] Mountain
+2 [SWS:264d] Mountain
+4 [SWS:264b] Mountain
+SB: 1 [RAV:280] Sacred Foundry
+SB: 1 [THB:14] Elspeth, Sun's Nemesis
+SB: 1 [M11:35] Sun Titan
+SB: 1 [P02:12] Armageddon
+SB: 1 [PLC:85] Damnation
+SB: 1 [NPH:161] Sword of War and Peace
+SB: 1 [EMN:46] Thalia, Heretic Cathar
+SB: 1 [RTR:141] Abrupt Decay
+SB: 1 [LEB:278] Badlands
+SB: 1 [TSB:6] Disenchant
+SB: 1 [M14:163] Young Pyromancer
+SB: 1 [STH:143] Volrath's Stronghold
+SB: 1 [MH1:230] Talisman of Conviction
+SB: 1 [M13:150] Thundermaw Hellkite
+SB: 1 [ARN:71] City of Brass
+SB: 1 [MBS:99] Blightsteel Colossus
+SB: 1 [OGW:104] Chandra, Flamecaller
+SB: 1 [MBS:122] Phyrexian Revoker
+SB: 1 [SOM:78] Skinrender
+LAYOUT MAIN:(2,4)(CMC,true,50)|()([EVE:139],[TMP:183],[DTK:169],[TOR:100],[THS:122],[KTK:118])([AKH:135],[HOU:90],[M12:156],[AER:87],[ELD:138],[GRN:103])([THB:148],[GRN:109],[AKH:125],[MH1:145],[NPH:19])([ATQ:82a],[SWS:264a],[SWS:264a],[SWS:264c],[SWS:264c],[SWS:264c],[SWS:264c],[SWS:264c],[SWS:264a],[SWS:264d],[SWS:264b],[SWS:264b],[SWS:264d],[SWS:264b],[SWS:264b])([PTK:122],[MRD:146])([5DN:73],[THS:127],[M13:147])([M13:132],[SCG:106],[NPH:57])
+LAYOUT SIDEBOARD:(1,5)(COLOR,false,50)|([RAV:280],[NPH:161],[LEB:278],[STH:143],[MH1:230],[ARN:71],[MBS:99],[MBS:122])([PLC:85],[SOM:78])([M14:163],[M13:150],[OGW:104])([THB:14],[M11:35],[P02:12],[EMN:46],[TSB:6])([RTR:141])

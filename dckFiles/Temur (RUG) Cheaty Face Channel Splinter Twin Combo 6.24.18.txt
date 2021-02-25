@@ -1,3 +1,6 @@
+2018
+6.18
+6.24.18
 1 Breeding Pool
 3 Forest
 1 Island
@@ -24,7 +27,7 @@
 1 Deceiver Exarch
 1 Mimic Vat
 1 Eureka
-1 Fact of Fiction
+1 Fact or Fiction
 1 Polukranos, World Eater
 1 Sneak Attack
 1 Solemn Simulacrum

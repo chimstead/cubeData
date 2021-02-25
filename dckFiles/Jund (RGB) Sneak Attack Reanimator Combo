@@ -1,0 +1,52 @@
+2021
+1.31.21
+1 [MBS:43] Go for the Throat
+1 [PD3:15] Reanimate
+1 [UMA:93] Demonic Tutor
+1 [PD3:17] Exhume
+1 [EMA:148] Sneak Attack
+1 [EMA:78] Animate Dead
+1 [C13:84] Ophiomancer
+1 [EMN:85] Collective Brutality
+1 [SLD:93] Gilded Goose
+1 [TPR:199] Survival of the Fittest
+1 [AKH:97] Liliana, Death's Majesty
+1 [UMA:155] Young Pyromancer
+1 [EMA:112] Vampiric Tutor
+1 [EMA:128] Faithless Looting
+1 [IKO:366] Heartless Act
+1 [PD3:14] Entomb
+1 [UMA:164] Fauna Shaman
+1 [EMA:92] Hymn to Tourach
+1 [ZNR:180] Bala Ged Recovery
+1 [ELD:244] Fabled Passage
+1 [VMA:291] Badlands
+1 [KTK:230] Bloodstained Mire
+1 [ZEN:229] Verdant Catacombs
+1 [ROE:190] Joraga Treespeaker
+4 [UNH:140] Forest
+2 [UNH:139] Mountain
+6 [UNH:138] Swamp
+1 [AVR:106] Griselbrand
+1 [M12:147] Inferno Titan
+1 [SOM:180] Myr Battlesphere
+1 [IMA:183] Primeval Titan
+SB: 1 [EMA:81] Blood Artist
+SB: 1 [M11:168] Cultivate
+SB: 1 [M21:150] Heartfire Immolator
+SB: 1 [ISD:164] Stromkirk Noble
+SB: 1 [CMR:242] Magus of the Order
+SB: 1 [DTK:36] Secure the Wastes
+SB: 1 [M20:200] Voracious Hydra
+SB: 1 [RAV:117] Char
+SB: 1 [M21:348] Barrin, Tolarian Archmage
+SB: 1 [ICE:326] Jeweled Amulet
+SB: 1 [VMA:313] Scrubland
+SB: 1 [VMA:311] Savannah
+SB: 1 [RNA:185] Judith, the Scourge Diva
+SB: 1 [M21:34] Seasoned Hallowblade
+SB: 1 [C15:49] Meren of Clan Nel Toth
+SB: 1 [CMR:220] Court of Bounty
+SB: 1 [TPR:225] Lotus Petal
+LAYOUT MAIN:(1,7)(CMC,false,50)|([VMA:291],[KTK:230],[ELD:244],[ZEN:229],[UNH:140],[UNH:140],[UNH:140],[UNH:140],[UNH:139],[UNH:139],[UNH:138],[UNH:138],[UNH:138],[UNH:138],[UNH:138],[UNH:138])([PD3:14],[EMA:128],[SLD:93],[PD3:15],[EMA:112],[ROE:190])([EMA:78],[EMN:85],[UMA:93],[PD3:17],[UMA:164],[MBS:43],[IKO:366],[EMA:92],[TPR:199],[UMA:155])([ZNR:180],[C13:84])([EMA:148])([AKH:97])([AVR:106],[M12:147],[SOM:180],[IMA:183])
+LAYOUT SIDEBOARD:(1,7)(COLOR,false,50)|([EMA:81])([M21:348],[TPR:225])([M11:168],[CMR:242],[M20:200],[CMR:220])([M21:150],[ISD:164],[RAV:117],[C15:49])([DTK:36],[M21:34])([ICE:326],[VMA:313],[VMA:311])([RNA:185])

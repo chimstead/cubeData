@@ -1,0 +1,49 @@
+1 [PLC:25] Mana Tithe
+1 [2ED:264] Mox Pearl
+1 [ROE:47] Student of Warfare
+1 [NPH:161] Sword of War and Peace
+1 [M11:7] Baneslayer Angel
+1 [4ED:361] Mishra's Factory
+1 [M15:225] Phyrexian Revoker
+1 [ISD:15] Fiend Hunter
+1 [KLD:245] Concealed Courtyard
+1 [WWK:20] Stoneforge Mystic
+1 [MBS:14] Mirran Crusader
+1 [SHM:229] Kitchen Finks
+1 [GTC:242] Godless Shrine
+1 [BFZ:29] Gideon, Ally of Zendikar
+1 [ISD:105] Liliana of the Veil
+1 [2ED:233] Black Lotus
+1 [MBS:10] Leonin Relic-Warder
+1 [RAV:81] Dark Confidant
+1 [AER:57] Fatal Push
+1 [6ED:19] Enlightened Tutor
+1 [M14:7] Banisher Priest
+1 [4ED:147] Mind Twist
+1 [SHM:23] Spectral Procession
+1 [KTK:233] Flooded Strand
+3 [GUR:5] Swamp
+6 [GUR:4] Plains
+1 [DST:148] Sword of Fire and Ice
+1 [VMA:20] Council's Judgment
+1 [ORI:23] Kytheon, Hero of Akros
+1 [M14:228] Mutavault
+1 [JOU:163] Mana Confluence
+1 [THS:33] Spear of Heliod
+1 [MBS:8] Hero of Bladehold
+SB: 1 [EVE:22] Glen Elendra Archmage
+SB: 1 [5DN:164] Vedalken Shackles
+SB: 1 [JR:97] Ravages of War
+SB: 1 [SOM:180] Myr Battlesphere
+SB: 1 [KTK:59] Treasure Cruise
+SB: 1 [USG:218] Sneak Attack
+SB: 1 [AKH:134] Glorybringer
+SB: 1 [ODY:113] Upheaval
+SB: 1 [BFZ:120] Painful Truths
+SB: 1 [INV:57] Fact or Fiction
+SB: 1 [LEG:28] Moat
+SB: 1 [M12:12] Day of Judgment
+SB: 1 [MBS:46] Massacre Wurm
+SB: 1 [FRF:27] Soulfire Grand Master
+LAYOUT MAIN:(1,7)(CMC,false,65)|([2ED:264],[KTK:233],[4ED:361],[GTC:242],[KLD:245],[2ED:233],[M14:228],[JOU:163],[GUR:4],[GUR:4],[GUR:4],[GUR:4],[GUR:4],[GUR:4],[GUR:5],[GUR:5],[GUR:5])([ROE:47],[ORI:23],[AER:57],[6ED:19],[4ED:147],[PLC:25])([WWK:20],[M15:225],[RAV:81],[MBS:10])([VMA:20],[THS:33],[ISD:105],[MBS:14],[DST:148],[NPH:161],[ISD:15],[SHM:229],[M14:7])([MBS:8],[BFZ:29])([M11:7])([SHM:23])
+LAYOUT SIDEBOARD:(1,7)(CMC,false,60)|([FRF:27])([BFZ:120],[5DN:164])([EVE:22],[LEG:28],[INV:57],[M12:12],[JR:97],[USG:218])([AKH:134])([MBS:46],[ODY:113])([SOM:180])([KTK:59])

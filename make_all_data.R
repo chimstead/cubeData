@@ -4,307 +4,48 @@
 #
 #Make cube cards data
 
-library(RCurl)
 library(tidytext)
 library(tidyverse)
 library(knitr)
 library(ggplot2)
 library(reshape2)
-library(leaflet)
 library(stringr)
-library(rvest)
+library(data.table)
+library(shiny)
+library(rjson)
+library(lubridate)
 library(data.table)
 
-library(shiny)
-library(stats)
-library(openintro)
-library(wordcloud)
-library(rjson)
-
 #load data
-setwd("/Users/conorhimstead/Desktop/math216/finalProject/data")
+setwd("/Users/conorhimstead/Desktop/xcd")
 
-cube_cards<-read_csv('deckfile.csv')
+cube_cards<-read.csv('deckfile.csv')
 
 
 #Clean the data
 
-num = 0
-for (i in 1:length(cube_cards$name)){
-  if(cube_cards$name[i]=="15 Mountainpar"){
-    num = cube_cards$deckID[i]
-    print(cube_cards[i,])
-    print(num)
-  }
-}
-
-cube_cards<-cube_cards%>%
-  filter(deckID!=num)
-
 cube_cards$deckID<-cube_cards$deckID+1
 
-cube_cards<-cube_cards%>%
-  filter(name != "Jeskai Oath - not possible",
-         name != "Mardu Wildfire Superfriends - Looks more Ramp to me",
-         name != 'going to assume all "Shenanigans" decks are Midrange'
-         )
+cube_cards$name = str_replace_all(cube_cards$name, "  ", " // ")%>%
+  str_replace_all("Sword of Dungeons // Dragons", 'Sword of Dungeons & Dragons')
 
-
-cube_cards<-cube_cards%>%
-  mutate(deckID = ifelse(deckID>num, deckID-1, deckID))
-unique(cube_cards$deckID)
-
-#fix names with mistakes
-cube_cards$name <- recode_factor(cube_cards$name, "Celestial Collonade" = "Celestial Colonnade",
-                                 "Assassins Trophy" = "Assassin's Trophy",
-                                 "Heros Downfall" = "Hero's Downfall",
-                                 "Kodamas Reach" = "Kodama's Reach",
-                                 "Avacyns Pilgrim" = "Avacyns Pilgrim",
-                                 "Life  Death" = "Death",
-                                 "Nights Whisper" = "Night's Whisper",
-                                 "Elsepth, Knight-Errant" = "Elspeth, Knight-Errant",
-                                 "Geist of Saint Taft" = "Geist of Saint Traft",
-                                 "Smugglers Copter" = "Smuggler's Copter",
-                                 "Umezawas Jitte" = "Umezawa's Jitte",
-                                 "Swords to Plowshare" = "Swords to Plowshares",
-                                 "Nissa, Steward of The Elements" = "Nissa, Steward of Elements",
-                                 "Elspeth, Suns Champion" = "Elspeth, Sun's Champion",
-                                 "Senseis Divining Top" = "Sensei's Divining Top",
-                                 "Selvalas Stampede" = "Selvala's Stampede",
-                                 "Abbot of the Keral Keep" = "Abbot of Keral Keep",
-                                 "Verdant Catacomb" = "Verdant Catacombs",
-                                 "Devils Play" = "Devil's Play",
-                                 "Gerrards Verdict" = "Gerrard's Verdict",
-                                 "Kolaghans Command" = "Kolaghan's Command",
-                                 "Jace, Vryns Prodigy" = "Jace, Vryn's Prodigy",
-                                 "Srams Expertise" = "Sram's Expertise",
-                                 "Gaeas Cradle" = "Gaea's Cradle",
-                                 "Stomping Grounds" = "Stomping Ground",
-                                 "Green Suns Zenith" = "Green Sun's Zenith",
-                                 "Mishras Factory" = "Mishra's Factory",
-                                 "Councils Judgment" = "Council's Judgment",
-                                 "Shambling Vents" = "Shambling Vents",
-                                 "Chat a Course" = "Chart a Course",
-                                 "Oonas Prowler" = "Oonas Prowler",
-                                 "Elesh Norn" = "Elesh Norn, Grand Cenobite",
-                                 "Insult  Injury" = "Insult",
-                                 "Legions Landing" = "Legion's Landing",
-                                 "Never Return" = "Never",
-                                 "Natures Claim" = "Nature's Claim",
-                                 "Commit  Memory" = "Commit",
-                                 "Vraskas Contempt" = "Vraskas Contempt",
-                                 "Liliana, Deaths Majesty" = "Liliana, Death's Majesty",
-                                 "Chainers Edict" = "Chainer's Edict",
-                                 "Meloku, the Clouded Mirror" = "Meloku the Clouded Mirror",
-                                 "Horne t Queen" = "Hornet Queen",
-                                 "Bone shredder" = "Bone Shredder",
-                                 "Braids, Cabal Minon" = "Braids, Cabal Minion",
-                                 "Zealous CONSCRIPTS" = "Zealous Conscripts",
-                                 "Hymn to Touch" = "Hymn to Tourach",
-                                 "Leovold, Spymaster of Trest" = "Leovold, Emissary of Trest",
-                                 "Lions Eye Diamond" = "Lion's Eye Diamond",
-                                 "Yawgmoths Will" = "Yawgmoth's Will",
-                                 "Miraris Wake" = "Mirari's Wake",
-                                 "Volraths Stronghold" = "Volrath's Stronghold",
-                                 "Oracle of Mul Day" = "Oracle of Mul Daya",
-                                 "Sulfurous Spring" = "Sulfurous Springs",
-                                 "Man-o-War" = "Man-o'-War",
-                                 "Chandras Phoenix" = "Chandra's Phoenix",
-                                 "Natures Lore" = "Nature's Lore",
-                                 "Nevinyrrals Disk" = "Nevinyrral's Disk",
-                                 "Fact of Fiction" = "Fact or Fiction",
-                                 "Maze of Its" = "Maze of Ith",
-                                 "Isareth, the Awakener" = "Isareth the Awakener",
-                                 "Survival of Fittest" = "Survival of the Fittest",
-                                 "Fetid Pools1 Karplusan Forest" = "Fetid Pools",
-                                 "Nicol Bolas, God-Pharoah" = "Nicol Bolas, God-Pharaoh",
-                                 "Faiths Fetters" = "Faith's Fetters",
-                                 "Deck Fayden" = "Dack Fayden",
-                                 "NIssa, Vastwood Seer" = "Nissa, Vastwood Seer",
-                                 "Nissa. Voice of Zendikar" = "Nissa, Voice of Zendikar",
-                                 "Mishras Workshop" = "Mishra's Workshop",
-                                 "Wear  Tear" = "Wear",
-                                 "Kinjallis Sunwing" = "Kinjalli's Sunwing",
-                                 "Olivias Dragoon" = "Olivia's Dragoon",
-                                 "Rakdoss Return" = "Rakdos's Return",
-                                 "Dissenters Deliverance" = "Dissenter's Deliverance",
-                                 "Thalias Lancers" = "Thalia's Lancers",
-                                 "Elsepth, Suns Champion" = "Elsepth, Suns Champion",
-                                 'Avacyns Pilgrim' = "Avacyn's Pilgrim",
-                                 "Elsepth, Suns Champion" = "Elspeth, Sun's Champion",
-                                 "Swords to Splowshares" = "Swords to Plowshares",
-                                 "Bontus Last Reckoning" = "Bontu's Last Reckoning",
-                                 "Brand Coliseum" = "Grand Coliseum",
-                                 "Experiment one" = "Experiment One",
-                                 "Faeire Conclave" = "Faerie Conclave",
-                                 "Fire Ice" = "Ice",
-                                 "Floded Strand" = "Flooded Strand",
-                                 "Fracutred Identity" = "Fractured Identity",
-                                 "Glen Elendra Archmarge" = "Glen Elendra Archmage",
-                                 "Grand Coliseium" = "Grand Coliseum",
-                                 "Hymn to Torach" = "Hymn to Tourach",
-                                 "Mardue Woe-Reaper" = "Mardu Woe-Reaper",
-                                 "Mirrodins Core" = "Mirrodin's Core",
-                                 "Mystic Confliuence" = "Mystic Confluence",
-                                 "Mystical Confluence" = "Mystic Confluence",
-                                 "Oracale of Mul Daya" = "Oracle of Mul Daya",
-                                 "Stoneforge mystic" = "Stoneforge Mystic",
-                                 "Tajic, Legions Edge" = "Tajic, Legion's Edge",
-                                 "Yaviamaya Coast" = "Yavimaya Coast",
-                                 "Yawgmoths Bargain" = "Yawgmoth's Bargain",
-                                 "JackaL Pup" = "Jackal Pup",
-                                 "Llanowar Waste" = "Llanowar Wastes",
-                                 "Wooded Foothill" = "Wooded Foothills",
-                                 "Hadanas Climb" = "Hadana's Climb",
-                                 "Rishkhar, Peema Renegade" = "Rishkar, Peema Renegade",
-                                 "Fatihless Looting" = "Faithless Looting",
-                                 "Alesha, Who Smile at Death" = "Alesha, Who Smiles at Death",
-                                 "Hallowed Foundtain" = "Hallowed Fountain",
-                                 "inquisition of Kozilek" = "Inquisition of Kozilek",
-                                 "Bloodbraif Elf" = "Bloodbraid Elf",
-                                 "Windsweapt Heath" = "Windswept Heath",
-                                 "Greater Gargdon" = "Greater Gargadon",
-                                 "Kozilek, the Butcher" = "Kozilek, Butcher of Truth",
-                                 "Coperline Gorge" = "Copperline Gorge",
-                                 "Deranged hermit" = "Deranged Hermit",
-                                 "Rofellos, Llanowar Emmissary" = "Rofellos, Llanowar Emissary",
-                                 "of Destiny" = "Figure of Destiny",
-                                 "Stormblood Beserker" = "Stormblood Berserker",
-                                 "True-name Nemesis" = "True-Name Nemesis",
-                                 "Senseis Diving Top" = "Sensei's Divining Top",
-                                 "Zealous Conscript" = "Zealous Conscripts",
-                                 "Vendillion Clique" = "Vendilion Clique",
-                                 "Mardu Woe- Reaper" = "Mardu Woe-Reaper",
-                                 "Than Dynamo" = "Thran Dynamo",
-                                 "Faiths Feather" = "Faith's Fetters",
-                                 "Sulfuric Cortex" = "Sulfuric Vortex",
-                                 "Nissa, Stewart of Elements" = "Nissa, Steward of Elements",
-                                 "Wall of Omen" = "Wall of Omens",
-                                 "NIssa, Voice of Zendikar" = "Nissa, Voice of Zendikar",
-                                 "MIraris Wake" = "Mirari's Wake",
-                                 "Elspeth, Kinght-Errant" = "Elspeth, Knight-Errant",
-                                 "Gideon of Trials" = "Gideon of the Trials",
-                                 "Sakura Tribe-Elder" = "Sakura-Tribe Elder",
-                                 
-)
-cube_cards$name <- recode_factor(cube_cards$name,
-                                 "Shambling Vents" = "Shambling Vent")
-cube_cards$name <- recode_factor(cube_cards$name,
-                                 "Never Return" = "Never")
-cube_cards$name <- recode_factor(cube_cards$name,
-                                 "Oonas Prowler" = "Oona's Prowler")
-cube_cards$name <- recode_factor(cube_cards$name,
-                                 "Avacyns Pilgrim" = "Avacyn's Pilgrim")
-cube_cards$name <- recode_factor(cube_cards$name,
-                                 "Nissa, Steward of the Elements" = "Nissa, Steward of Elements")
-cube_cards$name <- recode_factor(cube_cards$name,
-                                 "Vraskas Contempt" = "Vraska's Contempt")
-cube_cards$name <- recode_factor(cube_cards$name,
-                                 "Elsepth, Suns Champion" = "Elspeth, Sun's Champion")
 
 #fix mismatched basics in different listings
 c3<-cube_cards%>%
   filter(str_detect(name, '^Forest$|^Island$|^Mountain$|^Swamp$|^Plains$'))%>%
-  group_by(name, deckID, location, deckName)%>%
+  group_by(name, deckID, location, deckName, date)%>%
   summarise(number = sum(number))
 
 c4<-cube_cards%>%
   filter(!str_detect(name, '^Forest$|^Island$|^Mountain$|^Swamp$|^Plains$'))
 
-c5<-bind_rows(c4, c3)
+c4<-unique(c4)
 
+c5<-bind_rows(c4, c3)
 
 c5$name <- as.character(c5$name)
 
-
-
-c6<-c5%>%
-  filter(str_sub(name, 1, 1) != ',')
-
-#fix more names
-c6<-c6%>%
-  filter(name != "aggro",
-         name != "for the best",
-         name != "Twin Combo",
-         name != "Arid Hub",
-         name != "Twin",
-         name != "Storm",
-         name != "Ramp",
-         name != "OPPOSITION-SLAVER")
-
-c6$name<-recode_factor(c6$name, 
-                       "Aetherligng" = "Aetherling",
-                       "plains" = "Plains",
-                       "LifeDeath" = "Death",
-                       "NeverReturn" = "Never",
-                       "FireIce" = "Ice",
-                       "Shreikmaw" = "Shriekmaw",
-                       "Yahennis Expertise" = "Yahenni's Expertise",
-                       "Pestermine" = "Pestermite",
-                       "Ruin-Raider" = "Ruin Raider",
-                       "Rofellos, Llanowar Emmisary" = "Rofellos, Llanowar Emissary",
-                       "Carnoophage" = "Carnophage",
-                       "Damnatinon" = "Damnation",
-                       "Horne	t Queen" = "Hornet Queen",
-                       "Man-o-war" = "Man-o'-War",
-                       "Rofellos, Llanowar Emmissary" = "Rofellos, Llanowar Emissary",
-                       "Winter Orb" = "Winter Orb",
-                       "Hornet Queen" = "Hornet Queen",
-                       "Sphinxs Revelation" = "Sphinx's Revelation",
-                       "Minds Desire" = "Mind's Desire",
-                       "Fire  Ice" = "Ice",
-                       "Never  Return" = "Never",
-                       "Arguels Blood Fast" = "Arguel's Blood Fast",
-                       "Consuls Lieutenant" = "Consul's Lieutenant")
-
-
-
-num = 0
-
-for (i in 1:length(c6$name)){
-  if(c6$name[i]=="13 Plains"){
-    num = i
-  }
-}
-
-c6[num,]
-c6$number[num] = 13
-c6$name[num] = "Plains"
-c6[num,]
-
-
-num = 0
-
-for (z in 1:length(c6$name)){
-  if(c6$name[z]=="1 Verdant Catacombs"){
-    num = z
-    print(c6[z,])
-  }
-}
-
-c6[num,]
-c6$number[num] = 1
-c6$name[num] = "Verdant Catacombs"
-
-c6$name<-recode_factor(c6$name, 
-                       "Death" = "Life // Death",
-                       "Never" = "Never // Return",
-                       "Mirris Guile" = "Mirri's Guile",
-                       "Natures Chant" = "Nature's Chant",
-                       "Expansion  Explosion" = "Expansion // Explosion",
-                       "Commit" = "Commit // Memory",
-                       "Ice" = "Fire // Ice",
-                       "Wear" = "Wear // Tear",
-                       "Viviens Arkbow" = "Vivien's Arkbow",
-                       "Dire-Fleet Daredevil" = "Dire Fleet Daredevil",
-                       "Dovins Veto" = "Dovin's Veto",
-                       "Angraths Rampage" = "Angrath's Rampage",
-                       "Lilianas Triumph" = "Liliana's Triumph",
-                       "Lilianas Reaver" = "Liliana's Reaver",
-                       "Cultivators Caravan" = "Cultivator's Caravan",
-                       "Dacks Duplicate" = "Dack's Duplicate",
-                       "Insult" = "Insult // Injury")
-
+c6<-c5
 
 
 #from make_cards_data.R
@@ -455,7 +196,7 @@ card_types = rep("", length(cards))
 for (i in 1:length(cards)){
   if (is.null(cards[[i]]$type)||!str_detect(cards[[i]]$type, "—")){
     card_types[i] = ''
-  }else if(card_layout[i]=='transform'||card_layout[i]=='adventure'){
+  }else if(card_layout[i]%in%c('transform', 'adventure', 'modal_dfc')){
     card_types[i] = cards[[i]]$card_face[[1]]$type
   }
   else{
@@ -519,10 +260,9 @@ omit_list = c('token', 'double_faced_token', 'scheme', 'vanguard', 'augment', 'p
 crads<-crads%>%
   filter(!layout%in%omit_list)
 
-#fix wierd cards
+#fix weird cards
 crads<-crads%>%
-  mutate(name = ifelse(layout%in%c('transform', 'flip', 'adventure'), str_match(name, ".*(?= //)"), str_match(name, ".*")))
-
+  mutate(name = ifelse(layout%in%c('transform', 'flip', 'adventure', 'modal_dfc'), str_match(name, ".*(?= //)"), str_match(name, ".*")))
 
 
 crads2<-crads
@@ -544,7 +284,21 @@ write_csv(crads2, "crads2.csv")
 
 crads2<-read_csv("crads2.csv")
 
-joined_cards<-left_join(c6, crads2, by = c('name', 'name'))
+joined_cards<-left_join(c6, crads2, by = c('name' = 'name'))
+
+joined_cards<-joined_cards%>%
+  mutate(date = mdy(date))%>%
+  arrange(deckID)
+
+#fix any mistaken deckIDs
+didc<-unique(joined_cards$deckID)
+dids<-c(1:length(didc))
+diddf<-data.frame(didc, dids)
+joined_cards<-joined_cards%>%
+  left_join(diddf, by = c('deckID' ='didc'))%>%
+  mutate(deckID = dids)%>%
+  select(-dids)
+
 
 #create deck color column
 dck_by_color = data.frame("deckID" = c(), 'color' = c(), "count" = c())
@@ -553,7 +307,8 @@ for (i in 1:length(unique(joined_cards$deckID))){
     filter(deckID == i,
            !str_detect(types, "Land"),
            !str_detect(color, "Colorless"),
-           location == "MB")%>%
+           location == "MB",
+           cmc<7)%>%
     group_by(deckID, color)%>%
     summarise(count = n())%>%
     mutate('red' = str_detect(color, "Red"),
@@ -606,34 +361,18 @@ decks<-data.frame("deckID" = unique(joined_cards$deckID),
                   'baseColors' = deck_baseColors,
                   'splashes' = deck_splashes)
 
-#separate powered decks
-powered<-rep(FALSE, length(decks$deckID))
-for (i in 1:length(joined_cards$name)){
-  if(joined_cards$name[i] == "Black Lotus" |
-     joined_cards$name[i] == "Mox Jet" |
-     joined_cards$name[i] == "Time Walk" |
-     joined_cards$name[i] == "Ancestral Recall" |
-     joined_cards$name[i] == "Mox Sapphire" |
-     joined_cards$name[i] == "Mox Emerald" |
-     joined_cards$name[i] == "Mox Ruby" |
-     joined_cards$name[i] == "Mox Pearl" |
-     joined_cards$name[i] == "Sol Ring" |
-     joined_cards$name[i] == "Library of Alexandria" |
-     joined_cards$name[i] == "Mana Crypt"){
-    powered[joined_cards$deckID[i]] <- TRUE
-  }
-}
-
-decks$powered <- powered
 
 
 
-jdd_new<-left_join(joined_cards, decks, by = c("deckID", "deckID"))
+
+#create joined decks, cards table
+jdd_new<-left_join(joined_cards, decks, by = c("deckID" = "deckID"))
 
 jdd10<-jdd_new%>%
   mutate(sphere = "",
          archetype = "")
 
+#add spheres
 jdd10$sphere<-rep("", length(jdd10$sphere))
 for (i in 1:length(jdd10$sphere)){
   if(str_detect(tolower(jdd10$deckName[i]), "combo")){
@@ -657,21 +396,6 @@ for (i in 1:length(jdd10$sphere)){
 }
 
 for (i in 1:length(jdd10$sphere)){
-  if(jdd10$deckName[i] == 'Dimir (UB) Reanimator 2.11.18.txt'){
-    jdd10$sphere[i] <- "combo"
-  }
-  if(jdd10$deckName[i] == 'Dimir (UB) Reanimator 2.5.18.txt'){
-    jdd10$sphere[i] <- "combo"
-  }
-  if(jdd10$deckName[i] == 'Esper (UBW) Balance Moat Contro 6.16.18.txt'){
-    jdd10$sphere[i] <- "control"
-  }
-  if(jdd10$deckName[i] == 'Esper (UBW) Reanimator 3.24.18.txt'){
-    jdd10$sphere[i] <- "combo"
-  }
-  if(jdd10$deckName[i] == 'Golgari (BG) Reanimator 3.24.18.txt'){
-    jdd10$sphere[i] <- "combo"
-  }
   if(jdd10$deckName[i] == 'Mono Black Devotion'){
     jdd10$sphere[i] <- "Midrange"
   }
@@ -791,7 +515,7 @@ for (i in 1:length(jdd10$archetype)){
   }
 }
 
-
+#give a name to no archetype, splashes
 for(i in 1:length(jdd10$archetype)){
   if(jdd10$archetype[i] == ''){
     jdd10$archetype[i]<-'-'
@@ -805,18 +529,42 @@ for(i in 1:length(jdd10$splashes)){
   }
 }
 
-setwd("/Users/conorhimstead/Desktop/math216/finalProject/data/apperino")
+#add in cube types from deck names
+jdd10 <- jdd10%>%
+  mutate(cubeType = case_when(
+    !str_detect(deckName, '\\[') ~ "Vintage Unpowered",
+    str_detect(deckName, '\\[WOTC Vintage\\]') ~ "WOTC Vintage",
+    str_detect(deckName, '\\[WOTC VIntage\\]') ~ "WOTC Vintage",
+    str_detect(deckName, '\\[Vintage\\]') ~  "Vintage Powered",
+    str_detect(deckName, '\\[Vintage Powered\\]') ~  "Vintage Powered",
+    str_detect(deckName, '\\[Set\\]') ~  "Set Cube",
+    str_detect(deckName, '\\[Arena\\]') ~  "Arena (Historic) Cube",
+    str_detect(deckName, '\\[WOTC Arena\\]') ~  "WOTC Arena (Historic) Cube",
+    str_detect(deckName, '\\[Legacy\\]') ~  "Legacy",
+    str_detect(deckName, '\\[WOTC Legacy\\]') ~  "WOTC Legacy",
+    str_detect(deckName, '\\[WOTC Modern\\]') ~  "WOTC Modern",
+    str_detect(deckName, '\\[Modern\\]') ~  "Modern",
+    str_detect(deckName, '\\[Pioneer\\]') ~  "Pioneer",
+    str_detect(deckName, '\\[WOTC Pioneer\\]') ~  "WOTC Pioneer",
+    str_detect(deckName, '\\[WOTC Standard\\]') ~  "WOTC Standard",
+    str_detect(deckName, '\\[Standard\\]') ~  "Standard",
+    str_detect(deckName, '\\[Peasant\\]') ~  "Peasant",
+    str_detect(deckName, '\\[Pauper\\]') ~  "Pauper",
+    str_detect(deckName, '\\[WOTC Peasant\\]') ~  "WOTC Peasant",
+    str_detect(deckName, '\\[WOTC Pauper\\]') ~  "WOTC Pauper"
+  ))
+
+
+setwd("/Users/conorhimstead/Desktop/xcd/app")
 write_csv(jdd10, "jdd_newest.csv")
 
-#new shit bb
-#start here
+
 jdd1<-read_csv("jdd_newest.csv")
 
 
 #add card pip totals
 jdd2<-jdd1%>%
-  filter(!str_detect(jdd1$types, "Land"),
-         !powered)%>%
+  filter(!str_detect(jdd1$types, "Land"))%>%
   group_by(name, color, cmc, manaCost, types)%>%
   summarise(count = n())%>%
   mutate(pips = str_count(manaCost, "\\{(B|G|W|R|U)\\}"))
@@ -978,29 +726,31 @@ jdd2<-jdd1%>%
   mutate(landColor = "")
 
 for (i in 1:length(jdd2$landColor)){
-  if(str_detect(jdd2$text[i], "any color")){
-    jdd2$landColor[i] <- "White Blue Black Red Green"
-  }
-  else{
-    if(str_detect(jdd2$text[i], "\\{W\\}")|
-       str_detect(jdd2$text[i], "Plains")){
-      jdd2$landColor[i]<- "White "
+  if(!is.na(jdd2$text[i])){
+    if(str_detect(jdd2$text[i], "any color")){
+      jdd2$landColor[i] <- "White Blue Black Red Green"
     }
-    if(str_detect(jdd2$text[i], "\\{U\\}")|
-       str_detect(jdd2$text[i], "Island")){
-      jdd2$landColor[i]<- paste(jdd2$landColor[i], "Blue ", sep = "")
-    }
-    if(str_detect(jdd2$text[i], "\\{B\\}")|
-       str_detect(jdd2$text[i], "Swamp")){
-      jdd2$landColor[i]<- paste(jdd2$landColor[i], "Black ", sep = "")
-    }
-    if(str_detect(jdd2$text[i], "\\{R\\}")|
-       str_detect(jdd2$text[i], "Mountain")){
-      jdd2$landColor[i]<- paste(jdd2$landColor[i], "Red ", sep = "")
-    }
-    if(str_detect(jdd2$text[i], "\\{G\\}")|
-       str_detect(jdd2$text[i], "Forest")){
-      jdd2$landColor[i]<- paste(jdd2$landColor[i], "Green ", sep = "")
+    else{
+      if(str_detect(jdd2$text[i], "\\{W\\}")|
+         str_detect(jdd2$text[i], "Plains")){
+        jdd2$landColor[i]<- "White "
+      }
+      if(str_detect(jdd2$text[i], "\\{U\\}")|
+         str_detect(jdd2$text[i], "Island")){
+        jdd2$landColor[i]<- paste(jdd2$landColor[i], "Blue ", sep = "")
+      }
+      if(str_detect(jdd2$text[i], "\\{B\\}")|
+         str_detect(jdd2$text[i], "Swamp")){
+        jdd2$landColor[i]<- paste(jdd2$landColor[i], "Black ", sep = "")
+      }
+      if(str_detect(jdd2$text[i], "\\{R\\}")|
+         str_detect(jdd2$text[i], "Mountain")){
+        jdd2$landColor[i]<- paste(jdd2$landColor[i], "Red ", sep = "")
+      }
+      if(str_detect(jdd2$text[i], "\\{G\\}")|
+         str_detect(jdd2$text[i], "Forest")){
+        jdd2$landColor[i]<- paste(jdd2$landColor[i], "Green ", sep = "")
+      }
     }
   }
   if(jdd2$landColor[i] == ""){
@@ -1089,7 +839,7 @@ arch_vector <- c("twin", "wildfire", "opposition", "reanimator", "cheat", "artif
                  "fivecolor", "balance", "moat", "upheaval", "mentor", "abyss", "crucible", "superfriends",
                  "survival", "blink", "tokens", "channel")
 
-arch_c = data_frame("name" = unique(jdd1$name))
+arch_c = tibble("name" = unique(jdd1$name))
 
 for (i in 1:length(arch_vector)){
   eval(parse(text = paste("arch_c$", arch_vector[i], "= rep(0, length(arch_c$name))", sep = "")))
@@ -1116,9 +866,174 @@ arch_c<-read_csv("arch_c.csv")
 
 
 #create sb% numbers
+sb <- jdd10%>%
+  filter(location == "SB")
+
 jdd_sb <- jdd10%>%
+  filter(deckID %in% sb$deckID)%>%
   mutate(isSB = ifelse(location == "SB", 1, 0))%>%
   group_by(name)%>%
-  summarise(`sb%` = round(100*sum(isSB)/n(), digits = 1))
+  summarise(`sb%` = as.character(round(100*sum(isSB)/n(), digits = 1)))
+
+nonsb<-jdd10%>%
+  filter(!name %in% jdd_sb$name)%>%
+  group_by(name)%>%
+  summarise(`sb%` = 'Low Data')
+
+jdd_sb<-rbind(jdd_sb, nonsb)
+
 colnames(jdd_sb)<-c("Name", "sb%")
 write_csv(jdd_sb, "jdd_sb.csv")
+
+
+
+
+#create both time trend .csv's
+jdd1<-read_csv("jdd_newest.csv")
+jdd7<-read_csv("jdd7.csv")
+jdd20<-jdd1
+arch_c<-read_csv("arch_c.csv")
+jdd_lands<-read_csv("jdd_lands.csv")
+jdd_sb<-read_csv("jdd_sb.csv")
+color_vector <- c("white", "blue", "black", "red", "green")
+none_color_vector <- c("white", "blue", "black", "red", "green", "-")
+type_vector <- c("Artifact", "Creature", "Enchantment", "Instant", "Land", "Planeswalker", "Sorcery")
+sphere_vector <- c('midrange', 'ramp', 'control', 'combo', 'aggro')
+arch_vector <- c("twin", "wildfire", "opposition", "reanimator", "cheat", "artifacts", "storm", "stax",
+                 "burn", "stoneforge", "armageddon", "skullclamp", "counterburn", "pox", "monowhite",
+                 "monored", "naturalorder", "edric", "reveillark", "spellsmatter", "pod", "oath",
+                 "fivecolor", "balance", "moat", "upheaval", "mentor", "abyss", "crucible", "superfriends",
+                 "survival", "blink", "tokens", "channel")
+
+
+
+decks<-jdd1%>%
+  group_by(deckID, colors, baseColors, splashes, sphere, archetype, deckName, date, cubeType)%>%
+  summarise(count = n())%>%
+  select(-count)
+
+decks %>% 
+  write_csv("decks.csv")
+
+#get into format: sphere, date, decks_to_date, 
+sptb<-jdd1%>%
+  mutate(aggro = str_detect(sphere, "aggro"),
+         control = str_detect(sphere, "control"),
+         midrange = str_detect(sphere, "midrange"),
+         combo = str_detect(sphere, "combo"),
+         ramp = str_detect(sphere, "ramp"))
+
+sptb1<-sptb%>%
+  group_by(deckID, date, aggro, control, midrange, combo, ramp)%>%
+  summarise(count = n())%>%
+  select(-count)
+
+sptb2<-sptb1%>%
+  gather("sphere", "isSphere", aggro, control, midrange, ramp, combo)%>%
+  filter(isSphere)%>%
+  select(-isSphere)%>%
+  arrange(date)
+
+dates<-unique(sptb2$date)
+ramp<-rep(0, length(dates))
+aggro<-rep(0, length(dates))
+midrange<-rep(0, length(dates))
+combo<-rep(0, length(dates))
+control<-rep(0, length(dates))
+
+for(i in 1:length(dates)){
+  aggro[i] = length(filter(sptb2, sphere == "aggro", date<=dates[i] & date>=dates[i]-365)$deckID)
+  ramp[i] = length(filter(sptb2, sphere == "ramp", date<=dates[i] & date>=dates[i]-365)$deckID)
+  midrange[i] = length(filter(sptb2, sphere == "midrange", date<=dates[i] & date>=dates[i]-365)$deckID)
+  combo[i] = length(filter(sptb2, sphere == "combo", date<=dates[i] & date>=dates[i]-365)$deckID)
+  control[i] = length(filter(sptb2, sphere == "control", date<=dates[i] & date>=dates[i]-365)$deckID)
+  print(i)
+}
+
+sptb4<-data.frame(dates, aggro, midrange, control, ramp, combo)
+
+v <- decks$date
+retvec = rep(0, length(decks$date))
+
+for (i in 1:length(decks$date)) {
+  retvec[i] = length(decks$date[decks$date<=v[i] & decks$date>=v[i]-365])
+}
+
+decks2<-decks
+
+decks2$numbefore = retvec
+
+decks2<-decks2%>%
+  group_by(date, numbefore)%>%
+  summarise(count = n())%>%
+  select(-count)
+
+
+sptb5<-sptb4%>%
+  gather(key = "sphere", value = "decksBefore", aggro, control, midrange, combo, ramp)%>%
+  rename(date = dates)%>%
+  left_join(decks2, by = "date")%>%
+  mutate(pct_of_decks = 100*decksBefore/numbefore)
+
+write_csv(sptb5, "sphere_time.csv")
+
+
+
+
+
+#color popularity
+ctb<-jdd1%>%
+  mutate(red = str_detect(colors, "red"),
+         blue = str_detect(colors, "blue"),
+         green = str_detect(colors, "green"),
+         black = str_detect(colors, "black"),
+         white = str_detect(colors, "white"))
+
+ctb1<-ctb%>%
+  group_by(deckID, date, red, blue, green, black, white)%>%
+  summarise(count = n())%>%
+  select(-count)
+
+ctb2<-ctb1%>%
+  gather("color", "isColor", red, blue, white, black, green)%>%
+  filter(isColor)%>%
+  select(-isColor)%>%
+  arrange(date)
+
+ctb3<- ctb1%>%
+  gather("col", "isColor", red, blue, white, black, green)%>%
+  group_by(col, date)%>%
+  summarise(count = n())%>%
+  select(-count)%>%
+  rename(deckDate = date)
+
+
+dates<-unique(ctb3$deckDate)
+red<-rep(0, length(dates))
+blue<-rep(0, length(dates))
+green<-rep(0, length(dates))
+black<-rep(0, length(dates))
+white<-rep(0, length(dates))
+
+for(i in 1:length(dates)){
+  red[i] = length(filter(ctb2, color == "red", date<=dates[i] & date>=dates[i]-365)$deckID)
+  blue[i] = length(filter(ctb2, color == "blue", date<=dates[i] & date>=dates[i]-365)$deckID)
+  green[i] = length(filter(ctb2, color == "green", date<=dates[i] & date>=dates[i]-365)$deckID)
+  black[i] = length(filter(ctb2, color == "black", date<=dates[i] & date>=dates[i]-365)$deckID)
+  white[i] = length(filter(ctb2, color == "white", date<=dates[i] & date>=dates[i]-365)$deckID)
+  print(i)
+}
+
+ctb4<-data.frame(dates, red, blue, green, black, white)
+
+ctb5<-ctb4%>%
+  gather(key = "color", value = "decksBefore", red, blue, black, white, green)%>%
+  rename(date = dates)%>%
+  left_join(decks2, by = "date")%>%
+  mutate(pct_of_decks = 100*decksBefore/numbefore)
+
+write_csv(ctb5, "color_time.csv")
+
+
+
+

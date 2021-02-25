@@ -1,0 +1,50 @@
+1 [DOM:14] Dauntless Bodyguard
+1 [ME2:27] Ravages of War
+1 [DOM:21] History of Benalia
+1 [DOM:6] Benalish Marshal
+1 [ORI:23] Kytheon, Hero of Akros
+1 [LEB:2] Armageddon
+1 [EVE:139] Figure of Destiny
+1 [CN2:18] Palace Jailer
+1 [ATQ:80a] Mishra's Factory
+1 [TMP:330] Wasteland
+1 [SOI:12] Declaration in Stone
+1 [STH:138] Mox Diamond
+1 [DKA:24] Thalia, Guardian of Thraben
+1 [ELD:35] Venerable Knight
+1 [KLD:235] Smuggler's Copter
+1 [ICE:54] Swords to Plowshares
+1 [VMA:20] Council's Judgment
+1 [MMA:216] Sword of Fire and Ice
+1 [ATQ:82a] Strip Mine
+1 [5DN:126] Grafted Wargear
+1 [WAR:13] Gideon Blackblade
+1 [KLD:231] Scrapheap Scrounger
+1 [MRD:152] Chrome Mox
+1 [ISD:6] Champion of the Parish
+1 [M14:228] Mutavault
+1 [ORI:40] Vryn Wingmare
+1 [WWK:20] Stoneforge Mystic
+1 [CMA:27] Unexpectedly Absent
+6 [LEB:289] Plains
+4 [LEB:290] Plains
+2 [LEB:288] Plains
+SB: 1 [CON:87] Noble Hierarch
+SB: 1 [LEB:211] Llanowar Elves
+SB: 1 [M13:193] Thragtusk
+SB: 1 [UDS:40] Opposition
+SB: 1 [LEB:283] Taiga
+SB: 1 [AVR:172] Craterhoof Behemoth
+SB: 1 [M12:145] Grim Lavamancer
+SB: 1 [M12:147] Inferno Titan
+SB: 1 [WWK:118] Wolfbriar Elemental
+SB: 1 [NEM:30] Daze
+SB: 1 [PLS:60] Flametongue Kavu
+SB: 1 [AVR:166] Zealous Conscripts
+SB: 1 [BFZ:239] Lumbering Falls
+SB: 1 [ZEN:211] Arid Mesa
+SB: 1 [RAV:161] Elves of Deep Shadow
+SB: 1 [AVR:32] Restoration Angel
+SB: 1 [KLD:13] Fairgrounds Warden
+LAYOUT MAIN:(1,5)(CMC,false,87)|([ATQ:80a],[M14:228],[ATQ:82a],[TMP:330],[LEB:289],[LEB:290],[LEB:289],[LEB:289],[LEB:290],[LEB:289],[LEB:288],[LEB:288],[LEB:289],[LEB:289],[LEB:290],[LEB:290])([ISD:6],[DOM:14],[EVE:139],[ORI:23],[ICE:54],[ELD:35],[MRD:152],[STH:138])([SOI:12],[KLD:231],[KLD:235],[WWK:20],[DKA:24],[CMA:27])([DOM:6],[VMA:20],[WAR:13],[5DN:126],[DOM:21],[MMA:216],[ORI:40])([LEB:2],[CN2:18],[ME2:27])
+LAYOUT SIDEBOARD:(1,5)(COLOR,false,100)|([LEB:283],[BFZ:239],[ZEN:211])([UDS:40],[NEM:30])([CON:87],[LEB:211],[M13:193],[AVR:172],[WWK:118],[RAV:161])([M12:145],[M12:147],[PLS:60],[AVR:166])([AVR:32],[KLD:13])

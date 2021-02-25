@@ -1,52 +1,50 @@
-1 [MH1:229] Sword of Truth and Justice
-1 [DST:140] Skullclamp
-1 [GRN:109] Legion Warboss
+2021
+1.31.21
+1 [HOU:90] Earthshaker Khenra
+1 [SOM:94] Koth of the Hammer
+1 [RTR:220] Rakdos Cackler
+1 [M21:150] Heartfire Immolator
+1 [C16:18] Frenzied Fugue
+1 [ELD:115] Bonecrusher Giant
 1 [DKA:93] Hellrider
-1 [CON:65] Hellspark Elemental
-1 [KLD:235] Smuggler's Copter
-1 [ODY:193] Firebolt
+1 [VIS:79] Fireblast
+1 [DTK:169] Zurgo Bellstriker
+1 [5DN:126] Grafted Wargear
+1 [MH1:145] Seasoned Pyromancer
+1 [AKH:134] Glorybringer
+1 [ZEN:126] Goblin Guide
+1 [AER:87] Kari Zev, Skyship Raider
+1 [KTK:118] Monastery Swiftspear
+1 [LEA:161] Lightning Bolt
+1 [MIR:184] Incinerate
+1 [RAV:117] Char
+1 [GRN:109] Legion Warboss
+1 [M20:126] Chandra, Acolyte of Flame
 1 [M15:145] Goblin Rabblemaster
 1 [SCG:106] Sulfuric Vortex
-1 [KLD:124] Pia Nalaar
-1 [MRD:254] Talisman of Impulse
-1 [KLD:214] Fleetwheel Cruiser
-1 [AER:87] Kari Zev, Skyship Raider
-1 [C15:26] Fiery Confluence
-1 [5DN:126] Grafted Wargear
-1 [AKH:148] Soul-Scar Mage
-1 [SOM:94] Koth of the Hammer
-1 [TOR:100] Grim Lavamancer
-1 [M13:150] Thundermaw Hellkite
-1 [MRD:146] Bonesplitter
-1 [M12:156] Stormblood Berserker
-1 [DST:148] Sword of Fire and Ice
-1 [DKA:87] Faithless Looting
-1 [AKH:136] Hazoret the Fervent
-1 [MOR:148] Mutavault
-1 [THS:122] Firedrinker Satyr
-14 [ARN:77] Mountain
-SB: 1 [M11:146] Inferno Titan
-SB: 1 [USG:174] Arc Lightning
+1 [ODY:193] Firebolt
+1 [EVE:139] Figure of Destiny
+1 [ZNR:161] Shatterskull Smashing
+1 [ATQ:82a] Strip Mine
+1 [TMP:315] Ancient Tomb
+13 [UST:215] Mountain
+SB: 1 [PC2:84] Bloodbraid Elf
 SB: 1 [USG:228] Wildfire
 SB: 1 [RAV:280] Sacred Foundry
+SB: 1 [ROE:47] Student of Warfare
+SB: 1 [5ED:408] Winter Orb
+SB: 1 [P02:12] Armageddon
+SB: 1 [THB:302] Shatter the Sky
+SB: 1 [SOI:44] Thraben Inspector
 SB: 1 [ROE:165] Splinter Twin
-SB: 1 [UDS:40] Opposition
-SB: 1 [SOI:155] Falkenrath Gorger
-SB: 1 [DST:149] Sword of Light and Shadow
-SB: 1 [DTK:248] Evolving Wilds
-SB: 1 [AER:76] Aether Chaser
-SB: 1 [M19:136] Dismissive Pyromancer
-SB: 1 [TMP:281] Cursed Scroll
-SB: 1 [MMQ:316] Dust Bowl
-SB: 1 [AKH:135] Harsh Mentor
-SB: 1 [DTK:224] Kolaghan's Command
-SB: 1 [AKH:97] Liliana, Death's Majesty
-SB: 1 [POR:5] Armageddon
-SB: 1 [ODY:117] Braids, Cabal Minion
-SB: 1 [VIS:72] Vampiric Tutor
-SB: 7 [ZEN:245] Mountain
-SB: 9 [ZEN:242] Mountain
-SB: 7 [ZEN:244] Mountain
-SB: 12 [ZEN:243] Mountain
-LAYOUT MAIN:(1,6)(CMC,false,50)|([MOR:148],[ARN:77],[ARN:77],[ARN:77],[ARN:77],[ARN:77],[ARN:77],[ARN:77],[ARN:77],[ARN:77],[ARN:77],[ARN:77],[ARN:77],[ARN:77],[ARN:77])([DST:140],[ODY:193],[AKH:148],[TOR:100],[MRD:146],[DKA:87],[THS:122])([CON:65],[KLD:235],[MRD:254],[AER:87],[M12:156])([MH1:229],[GRN:109],[M15:145],[SCG:106],[KLD:124],[5DN:126],[DST:148])([DKA:93],[KLD:214],[C15:26],[SOM:94],[AKH:136])([M13:150])
-LAYOUT SIDEBOARD:(1,7)(CMC,false,50)|([RAV:280],[DTK:248],[MMQ:316],[ZEN:245],[ZEN:242],[ZEN:245],[ZEN:242],[ZEN:244],[ZEN:243],[ZEN:243],[ZEN:242],[ZEN:245],[ZEN:243],[ZEN:242],[ZEN:243],[ZEN:242],[ZEN:244],[ZEN:243],[ZEN:243],[ZEN:243],[ZEN:244],[ZEN:242],[ZEN:243],[ZEN:244],[ZEN:245],[ZEN:243],[ZEN:242],[ZEN:244],[ZEN:243],[ZEN:245],[ZEN:244],[ZEN:245],[ZEN:243],[ZEN:242],[ZEN:245],[ZEN:244],[ZEN:242],[ZEN:243])([SOI:155],[TMP:281],[VIS:72])([AER:76],[M19:136],[AKH:135])([USG:174],[DST:149],[DTK:224])([ROE:165],[UDS:40],[POR:5],[ODY:117])([AKH:97])([M11:146],[USG:228])
+SB: 1 [AVR:106] Griselbrand
+SB: 1 [ORI:157] Pia and Kiran Nalaar
+SB: 1 [USG:174] Arc Lightning
+SB: 1 [OGW:175] Needle Spires
+SB: 1 [OGW:140] Oath of Nissa
+SB: 1 [FRF:143] Warden of the First Tree
+SB: 1 [SCG:103] Siege-Gang Commander
+SB: 1 [RIX:99] Dire Fleet Daredevil
+SB: 1 [GRN:103] Goblin Cratermaker
+LAYOUT MAIN:(2,7)(CMC,true,50)|()()([RTR:220],[DTK:169],[ZEN:126],[KTK:118],[EVE:139])([HOU:90],[M21:150],[AER:87])([MH1:145],[GRN:109],[M15:145])([DKA:93])([AKH:134])([ATQ:82a],[TMP:315],[ZNR:161],[UST:215],[UST:215],[UST:215],[UST:215],[UST:215],[UST:215],[UST:215],[UST:215],[UST:215],[UST:215],[UST:215],[UST:215],[UST:215])([VIS:79])([LEA:161],[ODY:193])([MIR:184],[ELD:115])([5DN:126],[RAV:117],[M20:126],[SCG:106])([SOM:94],[C16:18])()
+LAYOUT SIDEBOARD:(1,3)(COLOR,false,50)|([USG:174],[GRN:103])([RIX:99])([5ED:408])

@@ -1,0 +1,50 @@
+1 [WAR:169] Nissa, Who Shakes the World
+1 [MH1:243] Nurturing Peatland
+1 [DIS:172] Breeding Pool
+1 [MIR:255] Worldly Tutor
+1 [NPH:1] Karn Liberated
+1 [XLN:250] Treasure Map
+1 [ULG:45] Tinker
+1 [USG:318] Worn Powerstone
+1 [TMP:245] Rampant Growth
+1 [C18:57] Retrofitter Foundry
+1 [ICE:326] Jeweled Amulet
+1 [PTK:153] Three Visits
+1 [MH1:233] Talisman of Hierarchy
+1 [MIR:80] Mystical Tutor
+1 [DST:146] Sundering Titan
+1 [M11:192] Primeval Titan
+1 [ATQ:82a] Strip Mine
+1 [LEA:188] Channel
+1 [LRW:213] Garruk Wildspeaker
+1 [EXO:115] Oath of Druids
+1 [RAV:172] Life from the Loam
+1 [ROE:6] Kozilek, Butcher of Truth
+1 [C18:53] Ancient Stone Idol
+1 [POR:178] Nature's Lore
+1 [CSP:136] Coldsteel Heart
+1 [CN2:71] Selvala's Stampede
+10 [UST:216] Forest
+3 [UST:213] Island
+1 [ODY:113] Upheaval
+SB: 1 [M14:169] Elvish Mystic
+SB: 1 [ZEN:219] Marsh Flats
+SB: 1 [FRF:18] Mardu Woe-Reaper
+SB: 1 [AKH:16] Glory-Bound Initiate
+SB: 1 [ALA:154] Ajani Vengeant
+SB: 1 [ELD:138] Robber of the Rich
+SB: 1 [RAV:163] Farseek
+SB: 1 [MH1:217] Wrenn and Six
+SB: 1 [LEA:129] Sinkhole
+SB: 1 [SCG:106] Sulfuric Vortex
+SB: 1 [NEM:139] Tangle Wire
+SB: 1 [ISD:97] Diregraf Ghoul
+SB: 1 [ULG:129] Memory Jar
+SB: 1 [P02:12] Armageddon
+SB: 1 [THB:157] Storm's Wrath
+SB: 1 [TMP:154] Sarcomancy
+SB: 1 [KTK:118] Monastery Swiftspear
+SB: 1 [IKO:176] Wilt
+SB: 1 [UST:216] Forest
+LAYOUT MAIN:(1,8)(CMC,false,67)|([MH1:243],[DIS:172],[ATQ:82a],[UST:216],[UST:216],[UST:216],[UST:216],[UST:216],[UST:216],[UST:216],[UST:216],[UST:216],[UST:216],[UST:213],[UST:213],[UST:213])([MIR:255],[C18:57],[MIR:80],[ICE:326])([XLN:250],[MH1:233],[CSP:136],[LEA:188],[EXO:115],[RAV:172],[POR:178],[TMP:245],[PTK:153])([USG:318],[ULG:45])([LRW:213])([WAR:169])([M11:192],[CN2:71],[ODY:113])([NPH:1],[DST:146],[ROE:6],[C18:53])
+LAYOUT SIDEBOARD:(1,6)(COLOR,false,79)|([ZEN:219],[NEM:139],[UST:216],[ULG:129])([LEA:129],[ISD:97],[TMP:154])([M14:169],[RAV:163],[IKO:176])([ELD:138],[SCG:106],[KTK:118],[THB:157])([FRF:18],[AKH:16],[P02:12])([ALA:154],[MH1:217])

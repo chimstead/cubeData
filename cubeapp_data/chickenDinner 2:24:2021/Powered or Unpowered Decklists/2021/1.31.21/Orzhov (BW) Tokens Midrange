@@ -1,0 +1,51 @@
+1 [MD1:3] Path to Exile
+1 [M19:3] Ajani, Adversary of Tyrants
+1 [KLD:4] Angel of Invention
+1 [THB:123] Woe Strider
+1 [UMA:86] Bloodflow Connoisseur
+1 [AVR:86] Blood Artist
+1 [BFZ:126] Zulaport Cutthroat
+1 [WAR:96] Lazotep Reaver
+1 [CN2:22] Recruiter of the Guard
+1 [NPH:63] Grim Affliction
+1 [MH1:229] Sword of Truth and Justice
+1 [THB:13] Elspeth Conquers Death
+1 [SOM:144] Contagion Clasp
+1 [DTK:2] Anafenza, Kin-Tree Spirit
+1 [HOU:155] Grind // Dust
+1 [SHM:161] Fate Transfer
+1 [SHM:65] Dusk Urchins
+1 [BFZ:42] Planar Outburst
+1 [C14:168] Vampire Hexmage
+1 [C16:15] Parting Thoughts
+1 [MH1:101] Putrid Goblin
+1 [AER:74] Yahenni, Undying Partisan
+1 [GVL:20] Serrated Arrows
+1 [IKO:35] Swallow Whole
+4 [NPH:167] Plains
+4 [NPH:166] Plains
+5 [NPH:171] Swamp
+3 [NPH:170] Swamp
+SB: 1 [DDM:18] Riftwing Cloudskate
+SB: 1 [THB:53] Medomai's Prophecy
+SB: 1 [2XM:256] Flayer Husk
+SB: 1 [DOM:76] Zahid, Djinn of the Lamp
+SB: 1 [DOM:62] Relic Runner
+SB: 1 [NEM:18] Seal of Cleansing
+SB: 1 [MRD:106] Shrapnel Blast
+SB: 1 [DDE:2] Carrion Feeder
+SB: 1 [ORI:21] Knight of the White Orchid
+SB: 1 [NPH:104] Birthing Pod
+SB: 1 [JOU:158] Armory of Iroas
+SB: 1 [IMA:2] Abzan Battle Priest
+SB: 1 [C16:123] Daretti, Scrap Savant
+SB: 1 [SOM:40] Riddlesmith
+SB: 1 [AER:184] Spire of Industry
+SB: 1 [2XM:86] Disciple of the Vault
+SB: 1 [KLD:79] Embraal Bruiser
+SB: 1 [PLC:102] Keldon Marauders
+SB: 1 [WAR:23] Martyr for the Cause
+SB: 1 [TSP:120] Nether Traitor
+SB: 1 [SOM:63] Fume Spitter
+LAYOUT MAIN:(2,6)(CMC,true,50)|()()([AVR:86],[BFZ:126],[WAR:96],[DTK:2],[C14:168],[MH1:101])([THB:123],[UMA:86],[CN2:22],[SHM:65],[AER:74])()([KLD:4])([NPH:167],[NPH:167],[NPH:166],[NPH:166],[NPH:167],[NPH:167],[NPH:166],[NPH:166],[NPH:171],[NPH:171],[NPH:171],[NPH:170],[NPH:170],[NPH:171],[NPH:170],[NPH:171])([MD1:3],[IKO:35])([SOM:144],[SHM:161],[HOU:155])([NPH:63],[MH1:229],[C16:15])([M19:3],[GVL:20])([THB:13],[BFZ:42])
+LAYOUT SIDEBOARD:(1,6)(COLOR,false,50)|([DDE:2],[TSP:120],[SOM:63])([NPH:104])([IMA:2],[WAR:23])([NEM:18])([ORI:21])([JOU:158])

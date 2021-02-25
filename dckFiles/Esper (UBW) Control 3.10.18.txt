@@ -1,6 +1,9 @@
+2018
+3.18
+3.10.18
 1 Watery Grave
 1 Tundra
-1 Hallowed Foundtain
+1 Hallowed Fountain
 1 Flooded Strand
 1 Shambling Vent
 1 Scrubland
@@ -20,7 +23,7 @@
 1 Unexpectedly Absent
 1 Wall of Omens
 1 Phantasmal Image
-1 Umezawa’s Jitte
+1 Umezawa's Jitte
 1 Entreat the Angels
 1 Monastery Mentor
 1 Vampiric Tutor

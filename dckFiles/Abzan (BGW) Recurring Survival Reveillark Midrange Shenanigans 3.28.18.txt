@@ -1,3 +1,6 @@
+2018
+3.18
+3.25.18
 5 Forest
 1 Plains
 5 Swamp
@@ -12,11 +15,11 @@
 1 Entomb
 1 Skullclamp
 1 Lotus Cobra
-1 Oona’s Prowler
+1 Oona's Prowler
 1 Sakura-Tribe Elder
 1 Survival of the Fittest
 1 Sylvan Caryatid
-1 Kodama’s Reach
+1 Kodama's Reach
 1 Ophiomancer
 1 Reclamation Sage
 1 Recurring Nightmare

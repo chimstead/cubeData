@@ -1,0 +1,53 @@
+1 [LRW:124] Makeshift Mannequin
+1 [RAV:63] Remand
+1 [MIR:141] Shallow Grave
+1 [3ED:105] Demonic Tutor
+1 [M20:97] Duress
+1 [NPH:73] Sheoldred, Whispering One
+1 [LRW:272] Shelldock Isle
+1 [2ED:266] Mox Sapphire
+1 [BBD:41] Spellseeker
+1 [ELD:110] Wishclaw Talisman
+1 [INV:57] Fact or Fiction
+1 [FUT:46] Venser, Shaper Savant
+1 [TOR:77] Putrid Imp
+1 [AVR:106] Griselbrand
+1 [AKH:97] Liliana, Death's Majesty
+1 [ODY:132] Entomb
+1 [MOR:55] Vendilion Clique
+1 [XLN:48] Chart a Course
+1 [VIS:64] Necromancy
+1 [GPT:32] Repeal
+1 [7ED:67] Counterspell
+1 [GPT:155] Orzhov Signet
+1 [BBD:122] Mystic Confluence
+1 [GRN:259] Watery Grave
+1 [EMN:6] Emrakul, the Promised End
+3 [3ED:296] Island
+2 [3ED:295] Island
+1 [3ED:297] Island
+3 [3ED:298] Swamp
+3 [3ED:300] Swamp
+2 [3ED:299] Swamp
+1 [DTK:124] Ultimate Price
+SB: 1 [CHK:62] Gifts Ungiven
+SB: 1 [DGM:135] Wear // Tear
+SB: 1 [SHM:23] Spectral Procession
+SB: 1 [3ED:285] Savannah
+SB: 1 [DST:149] Sword of Light and Shadow
+SB: 1 [USG:321] Gaea's Cradle
+SB: 1 [THS:33] Spear of Heliod
+SB: 1 [SHM:229] Kitchen Finks
+SB: 1 [M11:7] Baneslayer Angel
+SB: 1 [FEM:38a] Hymn to Tourach
+SB: 1 [APC:128] Fire // Ice
+SB: 1 [RNA:248] Godless Shrine
+SB: 1 [RNA:246] Breeding Pool
+SB: 1 [ROE:33] Linvala, Keeper of Silence
+SB: 1 [ZEN:11] Emeria Angel
+SB: 1 [AKH:1] Angel of Sanctions
+SB: 1 [TMP:116] Corpse Dance
+SB: 1 [ODY:118] Buried Alive
+SB: 1 [BOK:71] Ink-Eyes, Servant of Oni
+LAYOUT MAIN:(2,9)(CMC,true,61)|()([TOR:77])()([BBD:41],[MOR:55])([FUT:46])()([NPH:73])([AVR:106])([EMN:6])([LRW:272],[2ED:266],[GRN:259],[3ED:296],[3ED:296],[3ED:295],[3ED:296],[3ED:295],[3ED:297],[3ED:298],[3ED:300],[3ED:300],[3ED:299],[3ED:298],[3ED:299],[3ED:298],[3ED:300])([M20:97],[ODY:132],[GPT:32])([RAV:63],[MIR:141],[3ED:105],[ELD:110],[XLN:48],[7ED:67],[GPT:155],[DTK:124])([VIS:64])([LRW:124],[INV:57])([AKH:97],[BBD:122])()()()
+LAYOUT SIDEBOARD:(2,6)(CMC,true,62)|()()([SHM:229])([ROE:33],[ZEN:11])([M11:7],[AKH:1])([BOK:71])([3ED:285],[USG:321],[RNA:248],[RNA:246])([FEM:38a])([DGM:135],[DST:149],[THS:33],[TMP:116],[ODY:118])([CHK:62],[APC:128])()([SHM:23])

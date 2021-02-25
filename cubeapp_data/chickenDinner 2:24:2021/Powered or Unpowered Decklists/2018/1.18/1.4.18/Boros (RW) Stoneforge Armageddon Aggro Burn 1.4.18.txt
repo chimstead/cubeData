@@ -1,0 +1,30 @@
+4 Plains
+8 Mountain
+1 Fireblast
+1 Ancient Tomb
+1 Plateau
+1 Mishra's Factory
+1 Mox Diamond
+1 Chrome Mox
+1 Rift Bolt
+1 Lightning Bolt
+1 Land Tax
+1 Faithless Looting
+1 Skullclamp
+1 Stoneforge Mystic
+1 Young Pyromancer
+1 Adanto Vanguard
+1 Fire // Ice
+1 Guttersnipe
+1 Dualcaster Mage
+1 Sword of War and Peace
+1 Tangle Wire
+1 Seething Song
+1 Sulfuric Vortex
+1 Lingering Souls
+1 Lodestone Golem
+1 Chandra, Torch of Defiance
+1 Armageddon
+1 Siege-Gang Commander
+1 Batterskull
+1 Spectral Procession

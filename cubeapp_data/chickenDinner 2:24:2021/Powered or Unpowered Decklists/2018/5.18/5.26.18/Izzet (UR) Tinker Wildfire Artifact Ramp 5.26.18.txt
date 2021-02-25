@@ -1,0 +1,32 @@
+6 Island
+4 Mountain
+1 Bloodstained Mire
+1 Flooded Strand
+1 Polluted Delta
+1 Tolarian Academy
+1 Underground Sea
+1 Volcanic Island
+1 Wooded Foothills
+1 Brainstorm
+1 Mystical Tutor
+1 Pithing Needle
+1 Grim Monolith
+1 Talisman of Dominance
+1 Talisman of Indulgence
+1 Talisman of Unity
+1 Everflowing Chalice
+1 Coalition Relic
+1 Jace Beleren
+1 Tinker
+1 Vedalken Shackles
+1 Control Magic
+1 Fiery Confluence
+1 Ral Zarek
+1 Venser, Shaper Savant
+1 Bribery
+1 Mystic Confluence
+1 Sarkhan, the Dragonspeaker
+1 Inferno Titan
+1 Wildfire
+1 Wurmcoil Engine
+1 Myr Battlesphere

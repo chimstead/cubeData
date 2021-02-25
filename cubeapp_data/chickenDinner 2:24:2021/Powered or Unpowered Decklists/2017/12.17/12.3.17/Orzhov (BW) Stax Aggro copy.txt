@@ -1,0 +1,31 @@
+5 Plains
+6 Swamp
+1 Mana Confluence
+1 Marsh Flats
+1 Scrubland
+1 Wasteland
+1 Chrome Mox
+1 Dark Ritual
+1 Dread Wanderer
+1 Dryad Militant
+1 Mind Twist
+1 Rakdos Cackler
+1 Savannah Lions
+1 Swords to Plowshares
+1 Bitterblossom
+1 Dark Confidant
+1 Declaration in Stone
+1 Hymn to Tourach
+1 Pack Rat
+1 Sinkhole
+1 Soltari Priest
+1 Umezawa's Jitte
+1 Lingering Souls
+1 Oblivion Ring
+1 Sword of Body and Mind
+1 Tangle Wire
+1 Vindicate
+1 Armageddon
+1 Fleetwheel Cruiser
+1 Ravages of War
+1 Smokestack

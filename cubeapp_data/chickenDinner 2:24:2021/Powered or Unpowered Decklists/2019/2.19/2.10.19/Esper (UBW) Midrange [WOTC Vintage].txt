@@ -1,0 +1,49 @@
+1 [MBS:43] Go for the Throat
+1 [ULG:49] Bone Shredder
+1 [GRN:69] Doom Whisperer
+1 [ROE:115] Inquisition of Kozilek
+1 [FEM:38a] Hymn to Tourach
+1 [DOM:207] Teferi, Hero of Dominaria
+1 [3ED:289] Tundra
+1 [ZEN:223] Scalding Tarn
+1 [5DN:55] Night's Whisper
+1 [MPS:16] Mana Crypt
+1 [HOU:145] The Scarab God
+1 [CN2:18] Palace Jailer
+1 [KLD:245] Concealed Courtyard
+1 [E01:80] Baleful Strix
+1 [M12:72] Phantasmal Image
+1 [BFZ:29] Gideon, Ally of Zendikar
+1 [UNH:137] Island
+1 [2ED:233] Black Lotus
+9 [UNH:138] Swamp
+1 [FUT:161] Coalition Relic
+1 [AER:181] Walking Ballista
+1 [RAV:81] Dark Confidant
+1 [RAV:63] Remand
+1 [M13:112] Vampire Nighthawk
+1 [3ED:284] Plateau
+1 [MOR:55] Vendilion Clique
+1 [UDS:50] Treachery
+1 [SOM:229] Seachrome Coast
+1 [LRW:139] Shriekmaw
+1 [KLD:84] Gonti, Lord of Luxury
+1 [TOR:69] Mesmeric Fiend
+1 [RNA:251] Hallowed Fountain
+SB: 1 [SOM:176] Mindslaver
+SB: 1 [ORI:90] Dark Petition
+SB: 1 [C16:195] Edric, Spymaster of Trest
+SB: 1 [DOM:26] Lyra Dawnbringer
+SB: 1 [SHM:75] Puppeteer Clique
+SB: 1 [LRW:78] Pestermite
+SB: 1 [M12:147] Inferno Titan
+SB: 1 [RTR:101] Mizzium Mortars
+SB: 1 [SCG:106] Sulfuric Vortex
+SB: 1 [ZEN:114] Vampire Hexmage
+SB: 1 [M19:229] Crucible of Worlds
+SB: 1 [M14:228] Mutavault
+SB: 1 [FRF:87] Tasigur, the Golden Fang
+SB: 1 [SOM:224] Blackcleave Cliffs
+SB: 1 [CON:121] Progenitus
+LAYOUT MAIN:(1,6)(CMC,false,51)|([2ED:233],[KLD:245],[RNA:251],[UNH:137],[MPS:16],[3ED:284],[ZEN:223],[SOM:229],[UNH:138],[UNH:138],[UNH:138],[UNH:138],[UNH:138],[UNH:138],[UNH:138],[UNH:138],[UNH:138],[3ED:289],[AER:181])([ROE:115])([E01:80],[RAV:81],[MBS:43],[FEM:38a],[TOR:69],[5DN:55],[M12:72],[RAV:63])([ULG:49],[FUT:161],[M13:112],[MOR:55])([BFZ:29],[KLD:84],[CN2:18])([GRN:69],[LRW:139],[DOM:207],[HOU:145],[UDS:50])
+LAYOUT SIDEBOARD:(1,6)(CMC,false,50)|([SOM:224],[M14:228])([RTR:101],[ZEN:114])([LRW:78],[M19:229],[C16:195],[SCG:106])([ORI:90],[DOM:26])([M12:147],[SOM:176],[FRF:87],[SHM:75])([CON:121])

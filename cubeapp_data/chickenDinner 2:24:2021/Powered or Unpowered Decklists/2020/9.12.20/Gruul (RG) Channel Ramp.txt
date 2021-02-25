@@ -1,0 +1,46 @@
+NAME:gr ramo
+2 [ME3:229] Forest
+1 [PCA:155] Forest
+1 [P02:164] Forest
+1 [8ED:350] Forest
+1 [ALA:247] Forest
+1 [TMP:349] Forest
+1 [2ED:300] Forest
+1 [PF20:5] Mountain
+1 [ATH:83] Mountain
+1 [ORI:265] Mountain
+1 [M13:242] Mountain
+1 [P02:162] Mountain
+1 [JMP:63] Mountain
+1 [DD1:61] Mountain
+1 [GNT:46] Llanowar Elves
+1 [3ED:187] Birds of Paradise
+1 [3ED:162] Lightning Bolt
+1 [EMA:130] Firebolt
+1 [6ED:269] Worldly Tutor
+1 [ME2:238] Taiga
+1 [UMA:249] Raging Ravine
+1 [AKR:136] Abrade
+1 [THS:180] Sylvan Caryatid
+1 [PTC:bl273] Sylvan Library
+1 [MRD:254] Talisman of Impulse
+1 [VMA:200] Channel
+1 [PM20:200s] Voracious Hydra
+1 [USG:174] Arc Lightning
+1 [THS:209] Xenagos, the Reveler
+1 [PRIX:111s] Rekindling Phoenix
+1 [E01:68] Nissa, Worldwaker
+1 [M13:193] Thragtusk
+1 [SOM:223] Wurmcoil Engine
+1 [PZ2:65787] Selvala's Stampede
+1 [M12:188] Primeval Titan
+1 [PWAR:2s] Ugin, the Ineffable
+1 [MED:WS1] Ugin, the Spirit Dragon
+1 [2XM:357] Blightsteel Colossus
+1 [PUMA:U3] Kozilek, Butcher of Truth
+SB: 1 [4ED:189] Earthquake
+SB: 1 [ARB:50] Bloodbraid Elf
+SB: 1 [PRIX:99p] Dire Fleet Daredevil
+SB: 1 [9ED:228] Wildfire
+LAYOUT MAIN:(1,8)(CMC,false,40)|([ME3:229],[PCA:155],[P02:164],[8ED:350],[ALA:247],[ME3:229],[TMP:349],[2ED:300],[PF20:5],[ATH:83],[ORI:265],[M13:242],[P02:162],[JMP:63],[DD1:61],[ME2:238],[UMA:249])([GNT:46],[3ED:187],[3ED:162],[EMA:130],[6ED:269])([AKR:136],[THS:180],[PTC:bl273],[MRD:254],[VMA:200],[PM20:200s])([USG:174])([THS:209],[PRIX:111s])([E01:68],[M13:193])([SOM:223],[PZ2:65787],[M12:188],[PWAR:2s])([MED:WS1],[PUMA:U3],[2XM:357])
+LAYOUT SIDEBOARD:(1,1)(CMC,false,50)|([4ED:189],[ARB:50],[PRIX:99p],[9ED:228])

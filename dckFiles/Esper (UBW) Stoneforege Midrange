@@ -1,0 +1,56 @@
+2021
+1.31.21
+1 [LEG:26] Land Tax
+1 [ULG:14] Mother of Runes
+1 [SOI:44] Thraben Inspector
+1 [MH1:37] Winds of Abandon
+1 [ROE:53] Wall of Omens
+1 [WWK:20] Stoneforge Mystic
+1 [KLD:235] Smuggler's Copter
+1 [NPH:4] Blade Splicer
+1 [MH1:229] Sword of Truth and Justice
+1 [MH1:26] Serra the Benevolent
+1 [NPH:130] Batterskull
+1 [THS:9] Elspeth, Sun's Champion
+1 [C17:37] Fractured Identity
+1 [AVR:32] Restoration Angel
+1 [BFZ:29] Gideon, Ally of Zendikar
+1 [ALA:9] Elspeth, Knight-Errant
+1 [DKA:12] Lingering Souls
+1 [WAR:13*] Gideon Blackblade
+1 [CNS:16] Council's Judgment
+1 [C13:25] Unexpectedly Absent
+1 [EVE:139] Figure of Destiny
+1 [ELD:335] Charming Prince
+1 [KLD:4] Angel of Invention
+1 [MMQ:324] Rishadan Port
+1 [ATQ:82a] Strip Mine
+1 [DIS:174] Hallowed Fountain
+1 [C16:56] Ash Barrens
+1 [SOI:288] Island
+5 [SOI:284] Plains
+2 [SOI:283] Plains
+4 [SOI:285] Plains
+1 [SOI:289] Swamp
+SB: 1 [GRN:109] Legion Warboss
+SB: 1 [LEG:28] Moat
+SB: 1 [RIX:82] Ravenous Chupacabra
+SB: 1 [LEA:129] Sinkhole
+SB: 1 [C14:22] Flesh Carver
+SB: 1 [SOM:175] Mimic Vat
+SB: 1 [WAR:137] Krenko, Tin Street Kingpin
+SB: 1 [M15:145] Goblin Rabblemaster
+SB: 1 [ZEN:9] Day of Judgment
+SB: 1 [THB:151] Purphoros's Intervention
+SB: 1 [ISD:213] Geist of Saint Traft
+SB: 1 [LEA:214] Regrowth
+SB: 1 [P02:12] Armageddon
+SB: 1 [ROE:47] Student of Warfare
+SB: 1 [SOK:158] Pithing Needle
+SB: 1 [CHK:193] Through the Breach
+SB: 1 [SOI:283] Plains
+SB: 1 [SOI:288] Island
+SB: 1 [C18:57] Retrofitter Foundry
+SB: 1 [MBS:8] Hero of Bladehold
+LAYOUT MAIN:(1,7)(CMC,false,74)|([SOI:288],[SOI:284],[SOI:283],[SOI:283],[SOI:285],[SOI:284],[SOI:285],[SOI:284],[SOI:284],[SOI:284],[SOI:285],[SOI:285],[SOI:289],[MMQ:324],[ATQ:82a],[DIS:174],[C16:56])([LEG:26],[ULG:14],[SOI:44],[EVE:139])([MH1:37],[ROE:53],[WWK:20],[KLD:235],[C13:25])([NPH:4],[MH1:229],[DKA:12],[WAR:13*],[CNS:16],[ELD:335])([MH1:26],[AVR:32],[BFZ:29],[ALA:9])([NPH:130],[C17:37],[KLD:4])([THS:9])
+LAYOUT SIDEBOARD:(1,6)(CMC,false,88)|([SOI:283])([SOK:158],[THB:151],[ROE:47],[SOI:288])([LEA:214],[LEA:129])([C14:22],[ISD:213],[M15:145],[WAR:137],[C18:57],[GRN:109],[SOM:175])([P02:12],[ZEN:9],[LEG:28],[MBS:8],[RIX:82])([CHK:193])

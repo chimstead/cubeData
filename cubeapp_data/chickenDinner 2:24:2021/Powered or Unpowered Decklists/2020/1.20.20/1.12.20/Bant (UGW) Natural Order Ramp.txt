@@ -1,0 +1,51 @@
+1 [WWK:95] Arbor Elf
+1 [BNG:119] Courser of Kruphix
+1 [M14:169] Elvish Mystic
+1 [CMD:157] Garruk Wildspeaker
+1 [6ED:239] Llanowar Elves
+1 [EMA:177] Natural Order
+1 [OGW:138] Nissa, Voice of Zendikar
+1 [WAR:169] Nissa, Who Shakes the World
+1 [CON:87] Noble Hierarch
+1 [M11:192] Primeval Titan
+1 [4ED:273] Sylvan Library
+1 [GRN:183] Knight of Autumn
+1 [ELD:197] Oko, Thief of Crowns
+1 [MIR:253] Wall of Roots
+1 [SOI:233] Tireless Tracker
+1 [M13:193] Thragtusk
+1 [5DN:86] Eternal Witness
+1 [AVR:172] Craterhoof Behemoth
+1 [EMA:42] Control Magic
+1 [EMA:57] Jace, the Mind Sculptor
+1 [C17:37] Fractured Identity
+1 [TMP:315] Ancient Tomb
+1 [M15:194] Reclamation Sage
+1 [GRN:208] Trostani Discordant
+1 [KTK:233] Flooded Strand
+1 [USG:321] Gaea's Cradle
+1 [RTR:241] Hallowed Fountain
+1 [JOU:163] Mana Confluence
+1 [2ED:281] Savannah
+1 [WWK:144] Stirring Wildwood
+1 [MH1:249] Waterlogged Grove
+1 [KTK:248] Windswept Heath
+5 [UNH:140] Forest
+3 [UNH:137] Island
+SB: 1 [FRF:1] Ugin, the Spirit Dragon
+SB: 1 [UDS:118] Rofellos, Llanowar Emissary
+SB: 1 [MMA:218] Vedalken Shackles
+SB: 1 [MMA:180] Maelstrom Pulse
+SB: 1 [PLC:85] Damnation
+SB: 1 [MBS:21] Consecrated Sphinx
+SB: 1 [AER:62] Glint-Sleeve Siphoner
+SB: 1 [MIR:255] Worldly Tutor
+SB: 1 [CN2:18] Palace Jailer
+SB: 1 [MBS:92] Thrun, the Last Troll
+SB: 1 [OGW:182] Wandering Fumarole
+SB: 1 [UDS:117] Plow Under
+SB: 1 [ODY:113] Upheaval
+SB: 1 [UNH:140] Forest
+SB: 1 [UNH:136] Plains
+LAYOUT MAIN:(1,8)(CMC,false,64)|([TMP:315],[KTK:233],[UNH:140],[UNH:140],[UNH:140],[UNH:140],[UNH:140],[USG:321],[RTR:241],[UNH:137],[UNH:137],[UNH:137],[JOU:163],[2ED:281],[WWK:144],[MH1:249],[KTK:248])([WWK:95],[M14:169],[6ED:239],[CON:87])([4ED:273],[MIR:253])([BNG:119],[5DN:86],[GRN:183],[OGW:138],[ELD:197],[M15:194],[SOI:233])([EMA:42],[CMD:157],[EMA:57],[EMA:177])([C17:37],[WAR:169],[M13:193],[GRN:208])([M11:192])([AVR:172])
+LAYOUT SIDEBOARD:(1,6)(COLOR,false,63)|([OGW:182],[UNH:140],[UNH:136])([PLC:85],[AER:62],[MMA:180])([FRF:1])([CN2:18])([UDS:117],[UDS:118],[MBS:92],[MIR:255])([MMA:218],[MBS:21],[ODY:113])

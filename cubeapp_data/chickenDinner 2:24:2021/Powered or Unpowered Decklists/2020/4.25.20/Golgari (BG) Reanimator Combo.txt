@@ -1,0 +1,49 @@
+1 [XLN:232] Vraska, Relic Seeker
+1 [AVR:106] Griselbrand
+1 [SOM:223] Wurmcoil Engine
+1 [M20:185] Nightpack Ambusher
+1 [MBS:43] Go for the Throat
+1 [ARB:92] Maelstrom Pulse
+1 [THB:170] The First Iroan Games
+1 [UMA:110] Reanimate
+1 [EMA:78] Animate Dead
+1 [DD2:22] Mind Stone
+1 [WAR:169] Nissa, Who Shakes the World
+1 [THS:90] Hero's Downfall
+1 [MM3:122] Craterhoof Behemoth
+1 [ELD:169] Once Upon a Time
+1 [M20:200] Voracious Hydra
+1 [THB:123] Woe Strider
+1 [ROE:190] Joraga Treespeaker
+1 [ZEN:168] Lotus Cobra
+1 [MBS:81] Green Sun's Zenith
+1 [LRW:133] Oona's Prowler
+1 [THS:180] Sylvan Caryatid
+1 [EMA:92] Hymn to Tourach
+1 [DDF:60] Everflowing Chalice
+1 [ZEN:220] Misty Rainforest
+1 [MRD:152] Chrome Mox
+1 [DDD:27] Treetop Village
+1 [RAV:279] Overgrown Tomb
+1 [KTK:248] Windswept Heath
+1 [MH1:243] Nurturing Peatland
+1 [MH1:249] Waterlogged Grove
+4 [UST:216] Forest
+5 [UST:214] Swamp
+1 [A25:187] Regrowth
+SB: 1 [MRD:175] Gilded Lotus
+SB: 1 [CN2:75] Kaya, Ghost Assassin
+SB: 1 [NPH:9] Elesh Norn, Grand Cenobite
+SB: 1 [BFZ:244] Shambling Vent
+SB: 1 [LRW:272] Shelldock Isle
+SB: 1 [CMD:159] Hornet Queen
+SB: 1 [ODY:117] Braids, Cabal Minion
+SB: 1 [MH1:100] Plague Engineer
+SB: 1 [C17:43] Mirri, Weatherlight Duelist
+SB: 1 [SOI:245] The Gitrog Monster
+SB: 1 [UMA:171] Kodama's Reach
+SB: 1 [DDE:24] Worn Powerstone
+SB: 1 [WWK:133] Celestial Colonnade
+SB: 1 [C16:159] Oath of Druids
+LAYOUT MAIN:(1,8)(CMC,false,65)|([UST:216],[UST:216],[UST:216],[UST:216],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[ZEN:220],[MRD:152],[DDD:27],[RAV:279],[MH1:249],[KTK:248],[MH1:243])([UMA:110],[ROE:190],[MBS:81])([MBS:43],[EMA:78],[DD2:22],[ELD:169],[M20:200],[ZEN:168],[LRW:133],[THS:180],[EMA:92],[A25:187],[DDF:60])([ARB:92],[THB:170],[THS:90],[THB:123])([M20:185])([WAR:169])([XLN:232],[SOM:223])([AVR:106],[MM3:122])
+LAYOUT SIDEBOARD:(1,2)(COLOR,false,77)|([MRD:175],[CN2:75],[NPH:9],[BFZ:244],[LRW:272],[WWK:133],[C17:43])([CMD:159],[ODY:117],[MH1:100],[UMA:171],[SOI:245],[C16:159],[DDE:24])

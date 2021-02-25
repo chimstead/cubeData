@@ -1,0 +1,40 @@
+3 [GUR:1] Forest
+4 [GUR:2] Island
+3 [GUR:3] Mountain
+1 [LEB:279] Bayou
+1 [DIS:172] Breeding Pool
+1 [ARN:71] City of Brass
+1 [DTK:248] Evolving Wilds
+1 [BFZ:239] Lumbering Falls
+1 [ONS:321] Polluted Delta
+1 [MH1:244] Prismatic Vista
+1 [INV:64] Opt
+1 [M10:68] Ponder
+1 [M11:70] Preordain
+1 [P02:46] Sleight of Hand
+1 [LEA:188] Channel
+1 [XLN:48] Chart a Course
+1 [MMQ:69] Counterspell
+1 [RTR:172] Izzet Charm
+1 [EXO:115] Oath of Druids
+1 [TMP:308] Scroll Rack
+1 [MH1:232] Talisman of Curiosity
+1 [EMN:65] Imprisoned in the Moon
+1 [USG:96] Show and Tell
+1 [LRW:56] Cryptic Command
+1 [LEG:185] Eureka
+1 [APC:128] Fire // Ice
+1 [CHK:193] Through the Breach
+1 [UDS:50] Treachery
+1 [NPH:9] Elesh Norn, Grand Cenobite
+1 [KTK:36] Dig Through Time
+1 [AVR:106] Griselbrand
+1 [ROE:6] Kozilek, Butcher of Truth
+1 [ROE:4] Emrakul, the Aeons Torn
+SB: 1 [VIS:167] Undiscovered Paradise
+SB: 1 [WAR:244] Blast Zone
+SB: 1 [M13:147] Searing Spear
+SB: 1 [EXO:35] Forbid
+SB: 1 [USG:174] Arc Lightning
+LAYOUT MAIN:(1,10)(CMC,false,49)|([GUR:1],[GUR:1],[GUR:1],[GUR:2],[GUR:2],[GUR:2],[GUR:2],[GUR:3],[GUR:3],[GUR:3],[LEB:279],[DIS:172],[ARN:71],[DTK:248],[BFZ:239],[ONS:321],[MH1:244])([INV:64],[M10:68],[M11:70],[P02:46])([LEA:188],[XLN:48],[MMQ:69],[RTR:172],[EXO:115],[TMP:308],[MH1:232])([EMN:65],[USG:96])([LRW:56],[LEG:185],[APC:128])([CHK:193],[UDS:50])([NPH:9])([KTK:36],[AVR:106])([ROE:6])([ROE:4])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,61)|([VIS:167],[WAR:244],[M13:147],[EXO:35],[USG:174])

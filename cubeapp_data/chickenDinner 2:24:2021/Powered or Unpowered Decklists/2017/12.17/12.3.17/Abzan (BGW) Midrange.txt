@@ -1,0 +1,34 @@
+5 Forest
+2 Plains
+2 Swamp
+1 Ash Barrens
+1 Brushland
+1 Gaea's Cradle
+1 Karakas
+1 Overgrown Tomb
+1 Polluted Delta
+1 Treetop Village
+1 Tropical Island
+1 Verdant Catacombs
+1 Walking Ballista
+1 Arbor Elf
+1 Llanowar Elves
+1 Mind Twist
+1 Noble Hierarch
+1 Heir of Falkenrath
+1 Lotus Cobra
+1 Noose Constrictor
+1 Qasali Pridemage
+1 Regrowth
+1 Survival of the Fittest
+1 Tarmogoyf
+1 Banishing Light
+1 Courser of Kruphix
+1 Eternal Witness
+1 Recruiter of the Guard
+1 Recurring Nightmare
+1 Garruk Wildspeaker
+1 Master of the Wild Hunt
+1 Plow Under
+1 Shriekmaw
+1 Thragtusk

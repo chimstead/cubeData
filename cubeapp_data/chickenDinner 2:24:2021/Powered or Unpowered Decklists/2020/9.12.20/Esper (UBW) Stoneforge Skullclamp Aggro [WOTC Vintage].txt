@@ -1,0 +1,55 @@
+1 [BFZ:29] Gideon, Ally of Zendikar
+1 [SHM:23] Spectral Procession
+1 [C20:106] Unexpectedly Absent
+1 [IKO:366] Heartless Act
+1 [2ED:48] Ancestral Recall
+1 [JR:97] Ravages of War
+1 [RAV:81] Dark Confidant
+1 [DST:148] Sword of Fire and Ice
+1 [DST:140] Skullclamp
+1 [WWK:20] Stoneforge Mystic
+1 [ROE:47] Student of Warfare
+1 [ALA:9] Elspeth, Knight-Errant
+1 [ROE:115] Inquisition of Kozilek
+1 [FEM:38a] Hymn to Tourach
+1 [NEM:17] Parallax Wave
+1 [ULG:14] Mother of Runes
+1 [XLN:22] Legion's Landing
+1 [BOK:163] Umezawa's Jitte
+1 [ORI:23] Kytheon, Hero of Akros
+1 [MOR:58] Bitterblossom
+1 [5DN:55] Night's Whisper
+1 [NPH:42] Phyrexian Metamorph
+1 [CON:15] Path to Exile
+1 [3ED:289] Tundra
+1 [ZEN:219] Marsh Flats
+1 [RNA:248] Godless Shrine
+1 [2ED:262] Mox Emerald
+1 [KLD:245] Concealed Courtyard
+1 [2ED:263] Mox Jet
+1 [BFZ:259] Island
+2 [BFZ:254] Plains
+1 [BFZ:251] Plains
+2 [BFZ:252] Plains
+1 [BFZ:253] Plains
+1 [BFZ:260] Swamp
+3 [BFZ:264] Swamp
+SB: 1 [EMA:108] Toxic Deluge
+SB: 1 [MBS:21] Consecrated Sphinx
+SB: 1 [IKO:319] Shark Typhoon
+SB: 1 [NPH:153] Shrine of Burning Rage
+SB: 1 [4ED:34] Land Tax
+SB: 1 [SOM:228] Razorverge Thicket
+SB: 1 [M21:13] Containment Priest
+SB: 1 [MBS:8] Hero of Bladehold
+SB: 1 [SOM:224] Blackcleave Cliffs
+SB: 1 [BOK:71] Ink-Eyes, Servant of Oni
+SB: 1 [UDS:75] Yawgmoth's Bargain
+SB: 1 [NPH:161] Sword of War and Peace
+SB: 1 [SOM:225] Copperline Gorge
+SB: 1 [RIX:99] Dire Fleet Daredevil
+SB: 1 [SHM:229] Kitchen Finks
+SB: 1 [M10:100] Hypnotic Specter
+SB: 1 [BFZ:250] Plains
+LAYOUT MAIN:(1,6)(CMC,false,50)|([BFZ:259],[BFZ:254],[BFZ:251],[BFZ:252],[BFZ:253],[BFZ:252],[BFZ:254],[BFZ:260],[BFZ:264],[BFZ:264],[BFZ:264])([2ED:48],[DST:140],[ROE:47],[ROE:115],[ULG:14],[XLN:22],[ORI:23],[CON:15])([C20:106],[IKO:366],[RAV:81],[WWK:20],[FEM:38a],[BOK:163],[MOR:58],[5DN:55])([DST:148],[NPH:42])([BFZ:29],[JR:97],[ALA:9],[NEM:17],[SHM:23])([3ED:289],[ZEN:219],[RNA:248],[2ED:262],[KLD:245],[2ED:263])
+LAYOUT SIDEBOARD:(1,6)(COLOR,false,50)|([NPH:153],[SOM:228],[SOM:224],[NPH:161],[SOM:225],[BFZ:250])([EMA:108],[BOK:71],[UDS:75],[M10:100])([MBS:21],[IKO:319])([RIX:99])([4ED:34],[M21:13],[MBS:8])([SHM:229])

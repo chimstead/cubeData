@@ -1,0 +1,53 @@
+1 [4ED:147] Mind Twist
+1 [AER:57] Fatal Push
+1 [ROE:115] Inquisition of Kozilek
+1 [ICE:54] Swords to Plowshares
+1 [M20:97] Duress
+1 [3ED:105] Demonic Tutor
+1 [RAV:63] Remand
+1 [LEG:65] Mana Drain
+1 [5DN:143] Pentad Prism
+1 [M12:63] Mana Leak
+1 [C13:84] Ophiomancer
+1 [EMA:108] Toxic Deluge
+1 [M13:22] Oblivion Ring
+1 [XLN:223] Hostage Taker
+1 [CN2:18] Palace Jailer
+1 [NEM:17] Parallax Wave
+1 [4ED:64] Control Magic
+1 [M12:12] Day of Judgment
+1 [INV:57] Fact or Fiction
+1 [LRW:88] Sower of Temptation
+1 [HOU:145] The Scarab God
+1 [THS:9] Elspeth, Sun's Champion
+1 [ULG:49] Bone Shredder
+1 [BFZ:244] Shambling Vent
+1 [ARN:76] Library of Alexandria
+1 [3ED:286] Scrubland
+1 [3ED:290] Underground Sea
+1 [LEG:303] Karakas
+1 [KLD:245] Concealed Courtyard
+1 [SOM:229] Seachrome Coast
+1 [WWK:134] Creeping Tar Pit
+2 [3ED:296] Island
+1 [3ED:295] Island
+2 [3ED:294] Plains
+1 [3ED:293] Plains
+1 [3ED:299] Swamp
+2 [3ED:300] Swamp
+SB: 1 [RAV:81] Dark Confidant
+SB: 1 [WWK:144] Stirring Wildwood
+SB: 1 [CON:30] Inkwell Leviathan
+SB: 1 [ODY:193] Firebolt
+SB: 1 [BBD:25] Brightling
+SB: 1 [RNA:259] Stomping Ground
+SB: 1 [GRN:183] Knight of Autumn
+SB: 1 [CON:87] Noble Hierarch
+SB: 1 [MIR:307] Lion's Eye Diamond
+SB: 1 [CON:121] Progenitus
+SB: 1 [XLN:179] Carnage Tyrant
+SB: 1 [ARB:50] Bloodbraid Elf
+SB: 1 [CHK:193] Through the Breach
+SB: 1 [GRN:69] Doom Whisperer
+LAYOUT MAIN:(1,7)(CMC,false,50)|([BFZ:244],[ARN:76],[3ED:286],[3ED:290],[LEG:303],[KLD:245],[SOM:229],[WWK:134],[3ED:296],[3ED:295],[3ED:296],[3ED:294],[3ED:293],[3ED:294],[3ED:299],[3ED:300],[3ED:300])([4ED:147],[AER:57],[ROE:115],[ICE:54],[M20:97])([3ED:105],[RAV:63],[LEG:65],[5DN:143],[M12:63])([C13:84],[EMA:108],[M13:22],[ULG:49])([XLN:223],[CN2:18],[NEM:17],[4ED:64],[M12:12],[INV:57],[LRW:88])([HOU:145])([THS:9])
+LAYOUT SIDEBOARD:(1,9)(CMC,false,50)|([WWK:144],[RNA:259],[MIR:307])([ODY:193],[CON:87])([RAV:81])([BBD:25],[GRN:183])([ARB:50])([CHK:193],[GRN:69])([XLN:179])([CON:30])([CON:121])

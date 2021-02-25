@@ -1,0 +1,49 @@
+1 [A25:136] Imperial Recruiter
+1 [SOI:92] Thing in the Ice
+1 [XLN:81] Spell Pierce
+1 [TSP:48] Ancestral Vision
+1 [FUT:46] Venser, Shaper Savant
+1 [CON:15] Path to Exile
+1 [9ED:216] Seething Song
+1 [MBS:99] Blightsteel Colossus
+1 [CHK:193] Through the Breach
+1 [ROE:4] Emrakul, the Aeons Torn
+1 [7ED:67] Counterspell
+1 [RIX:111] Rekindling Phoenix
+1 [NPH:33] Deceiver Exarch
+1 [BBD:41] Spellseeker
+1 [2ED:84] Time Walk
+1 [DKA:87] Faithless Looting
+1 [WAR:61] Narset, Parter of Veils
+1 [ORI:60] Jace, Vryn's Prodigy
+1 [CHK:175] Kiki-Jiki, Mirror Breaker
+1 [USG:103] Time Spiral
+1 [ROE:165] Splinter Twin
+1 [MH1:52] Force of Negation
+1 [M12:146] Incinerate
+1 [GRN:257] Steam Vents
+1 [GRN:254] Sacred Foundry
+1 [ARN:76] Library of Alexandria
+1 [3ED:291] Volcanic Island
+1 [SOM:229] Seachrome Coast
+6 [THB:251] Island
+5 [THB:253] Mountain
+1 [ELD:122] Embereth Shieldbreaker
+SB: 1 [DTK:216] Dragonlord Atarka
+SB: 1 [OGW:175] Needle Spires
+SB: 1 [BFZ:29] Gideon, Ally of Zendikar
+SB: 1 [GRN:82] Plaguecrafter
+SB: 1 [SHM:135] Woodfall Primus
+SB: 1 [SCG:41] Mind's Desire
+SB: 1 [TSP:73] Riftwing Cloudskate
+SB: 1 [CON:121] Progenitus
+SB: 1 [THS:187] Ashen Rider
+SB: 1 [XLN:74] Search for Azcanta
+SB: 1 [SOM:176] Mindslaver
+SB: 1 [VMA:20] Council's Judgment
+SB: 1 [DKA:140] Huntmaster of the Fells
+SB: 1 [ROE:53] Wall of Omens
+SB: 1 [NPH:1] Karn Liberated
+SB: 1 [PLS:60] Flametongue Kavu
+LAYOUT MAIN:(2,6)(CMC,false,58)|([THB:251],[THB:251],[THB:251],[THB:251],[THB:251],[THB:251],[THB:253],[THB:253],[THB:253],[THB:253],[THB:253])([GRN:257],[GRN:254],[ARN:76],[3ED:291],[SOM:229])([TSP:48],[XLN:81],[CON:15],[DKA:87],[ELD:122])([A25:136],[9ED:216],[NPH:33],[BBD:41],[WAR:61],[MH1:52])([CHK:193],[CHK:175])([MBS:99])()()([SOI:92],[7ED:67],[2ED:84],[ORI:60],[M12:146])([FUT:46],[RIX:111],[ROE:165])([USG:103])([ROE:4])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([DTK:216],[OGW:175],[BFZ:29],[GRN:82],[SHM:135],[SCG:41],[TSP:73],[CON:121],[THS:187],[XLN:74],[SOM:176],[VMA:20],[DKA:140],[ROE:53],[NPH:1],[PLS:60])

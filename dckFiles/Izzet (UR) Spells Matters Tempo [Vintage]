@@ -1,0 +1,51 @@
+2021
+1.31.21
+1 [SLD:111] Opt
+1 [7ED:76] Force Spike
+1 [BBD:171] Chain Lightning
+1 [UMA:155] Young Pyromancer
+1 [M13:147] Searing Spear
+1 [IKO:211] Sprite Dragon
+1 [M19:152] Lightning Strike
+1 [EMA:43] Counterspell
+1 [JVC:23] Daze
+1 [XLN:48] Chart a Course
+1 [MB1:425] Memory Lapse
+1 [HOU:83] Abrade
+1 [JVC:51] Incinerate
+1 [THB:148] Phoenix of Ash
+1 [BBD:136] True-Name Nemesis
+1 [EMA:199] Dack Fayden
+1 [MH1:145] Seasoned Pyromancer
+1 [MH1:52] Force of Negation
+1 [EMA:150] Sulfuric Vortex
+1 [UMA:225] Fire // Ice
+1 [WWK:31] Jace, the Mind Sculptor
+1 [IKO:319] Shark Typhoon
+1 [UMA:50] Dig Through Time
+1 [VMA:8] Mox Ruby
+1 [GRN:257] Steam Vents
+1 [VMA:324] Volcanic Island
+1 [A25:237] Cascade Bluffs
+1 [MH1:244] Prismatic Vista
+1 [MH1:238] Fiery Islet
+1 [VMA:4] Black Lotus
+6 [UGL:85] Island
+4 [UGL:87] Mountain
+SB: 1 [ICE:118] Dance of the Dead
+SB: 1 [THB:159] Thrill of Possibility
+SB: 1 [2XM:297] Sword of Fire and Ice
+SB: 1 [C19:31] Apex Altisaur
+SB: 1 [EMA:78] Animate Dead
+SB: 1 [A25:128] Eidolon of the Great Revel
+SB: 1 [THS:122] Firedrinker Satyr
+SB: 1 [JUD:46] Mental Note
+SB: 1 [CM2:59] Buried Alive
+SB: 1 [A25:82] Dark Ritual
+SB: 1 [EMA:34] Wall of Omens
+SB: 1 [DDR:1] Nissa, Voice of Zendikar
+SB: 1 [ODY:70] Careful Study
+SB: 1 [ZNR:155] Roil Eruption
+SB: 1 [TPR:228] Mox Diamond
+LAYOUT MAIN:(1,7)(CMC,false,50)|([VMA:8],[GRN:257],[VMA:324],[A25:237],[MH1:244],[MH1:238],[VMA:4],[UGL:85],[UGL:85],[UGL:85],[UGL:85],[UGL:85],[UGL:85],[UGL:87],[UGL:87],[UGL:87],[UGL:87])([SLD:111],[7ED:76],[BBD:171])([UMA:155],[M13:147],[IKO:211],[M19:152],[EMA:43],[JVC:23],[XLN:48],[MB1:425],[HOU:83],[JVC:51])([THB:148],[BBD:136],[EMA:199],[MH1:145],[MH1:52],[EMA:150])([UMA:225],[WWK:31])([IKO:319])([UMA:50])
+LAYOUT SIDEBOARD:(1,5)(CMC,false,50)|([TPR:228])([THS:122],[JUD:46],[A25:82],[ODY:70])([ICE:118],[THB:159],[EMA:78],[A25:128],[EMA:34],[ZNR:155])([2XM:297],[CM2:59],[DDR:1])([C19:31])

@@ -1,0 +1,55 @@
+1 [ONS:316] Flooded Strand
+1 [MOR:55] Vendilion Clique
+1 [LEB:187] Birds of Paradise
+1 [ELD:344] Gadwick, the Wizened
+1 [UDS:118] Rofellos, Llanowar Emissary
+1 [LRW:272] Shelldock Isle
+1 [MRD:256] Talisman of Progress
+1 [C18:159] Reclamation Sage
+1 [ZEN:229] Verdant Catacombs
+1 [MH1:249] Waterlogged Grove
+1 [C15:14] Mystic Confluence
+1 [ORI:60] Jace, Vryn's Prodigy
+1 [MIR:74] Memory Lapse
+1 [ELD:244] Fabled Passage
+1 [ELD:171] Questing Beast
+1 [ONS:330] Wooded Foothills
+1 [ELD:197] Oko, Thief of Crowns
+1 [MOR:43] Negate
+1 [DIS:172] Breeding Pool
+1 [RAV:40] Compulsive Research
+1 [DOM:207] Teferi, Hero of Dominaria
+1 [RAV:163] Farseek
+1 [RNA:131] Incubation Druid
+1 [WAR:169] Nissa, Who Shakes the World
+1 [5DN:36] Serum Visions
+1 [WWK:31] Jace, the Mind Sculptor
+1 [DD2:28] Condescend
+1 [FUT:46] Venser, Shaper Savant
+1 [UDS:50] Treachery
+1 [LEG:207] Sylvan Library
+1 [WAR:61] Narset, Parter of Veils
+1 [BFZ:274] Forest
+1 [BFZ:271] Forest
+1 [BFZ:270] Forest
+2 [BFZ:258] Island
+2 [BFZ:256] Island
+1 [BFZ:253] Plains
+1 [BFZ:272] Forest
+SB: 1 [DKA:24] Thalia, Guardian of Thraben
+SB: 1 [ULG:101] Deranged Hermit
+SB: 1 [TOR:100] Grim Lavamancer
+SB: 1 [TMP:330] Wasteland
+SB: 1 [USG:318] Worn Powerstone
+SB: 1 [WWK:118] Wolfbriar Elemental
+SB: 1 [BBD:33] Arcane Artisan
+SB: 1 [KLD:110] Chandra, Torch of Defiance
+SB: 1 [GRN:223] Discovery // Dispersal
+SB: 1 [FRF:145] Whisperwood Elemental
+SB: 1 [NEM:17] Parallax Wave
+SB: 1 [RTR:201] Supreme Verdict
+SB: 1 [DDF:23] Journey to Nowhere
+SB: 1 [RIX:136] Jadelight Ranger
+SB: 1 [BFZ:257] Island
+LAYOUT MAIN:(1,6)(CMC,false,50)|([ONS:316],[LRW:272],[ZEN:229],[MH1:249],[ELD:244],[ONS:330],[DIS:172],[BFZ:274],[BFZ:271],[BFZ:270],[BFZ:258],[BFZ:256],[BFZ:256],[BFZ:258],[BFZ:253],[BFZ:272])([LEB:187],[5DN:36],[DD2:28])([UDS:118],[MRD:256],[ORI:60],[MIR:74],[MOR:43],[RAV:163],[RNA:131],[LEG:207])([MOR:55],[ELD:344],[C18:159],[ELD:197],[RAV:40],[WAR:61])([ELD:171],[WWK:31],[FUT:46])([C15:14],[DOM:207],[WAR:169],[UDS:50])
+LAYOUT SIDEBOARD:(1,6)(COLOR,false,50)|([TMP:330],[USG:318],[BFZ:257])([BBD:33])([ULG:101],[WWK:118],[FRF:145],[RIX:136])([TOR:100],[KLD:110])([DKA:24],[NEM:17],[DDF:23])([GRN:223],[RTR:201])

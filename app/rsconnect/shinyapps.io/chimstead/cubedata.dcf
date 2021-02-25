@@ -1,0 +1,12 @@
+name: cubedata
+title: cubedata
+username:
+account: chimstead
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 963475
+bundleId: 4269127
+url: https://chimstead.shinyapps.io/cubedata/
+when: 1614220266.56817
+asMultiple: FALSE
+asStatic: FALSE

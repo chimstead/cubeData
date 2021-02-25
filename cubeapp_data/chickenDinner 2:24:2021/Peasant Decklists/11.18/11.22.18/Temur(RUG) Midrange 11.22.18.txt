@@ -1,0 +1,47 @@
+1 [FRF:172] Swiftwater Cliffs
+1 [TMP:179] Goblin Bombardment
+1 [TSP:216] Search for Tomorrow
+1 [DIS:180] Simic Growth Chamber
+1 [CM2:83] Beetleback Chief
+1 [NPH:50] Wing Splicer
+1 [ODY:193] Firebolt
+1 [ZEN:48] Into the Roil
+1 [PCA:104] Shardless Agent
+1 [FUT:138] Sprout Swarm
+1 [GPT:150] Gruul Signet
+1 [GPT:158] Gruul Turf
+1 [THS:47] Dissolve
+1 [CM2:115] Rite of the Raging Storm
+1 [KTK:97] Arc Lightning
+1 [4ED:64] Control Magic
+1 [KTK:236] Mystic Monastery
+1 [KTK:234] Frontier Bivouac
+1 [APC:128] Fire // Ice
+1 [5DN:86] Eternal Witness
+1 [VIS:37] Man-o'-War
+1 [M14:43] Archaeomancer
+1 [LRW:276] Vivid Creek
+1 [ORI:83] Whirler Rogue
+1 [MRD:159] Crystal Shard
+1 [ME4:113] Fire Imp
+1 [THS:55] Mnemonic Wall
+1 [M12:41] Aether Adept
+1 [VIS:34] Impulse
+SB: 1 [M19:55] Exclusion Mage
+SB: 1 [FRF:175] Wind-Scarred Crag
+SB: 1 [TMP:122] Dauthi Horror
+SB: 1 [M19:61] Mirror Image
+SB: 1 [PLS:9] Lashknife Barrier
+SB: 1 [C16:18] Frenzied Fugue
+SB: 1 [OGW:116] Reckless Bushwhacker
+SB: 1 [NPH:103] Beast Within
+SB: 1 [DIS:10] Guardian of the Guildpact
+SB: 1 [M12:186] Overrun
+SB: 1 [EXO:53] Carnophage
+SB: 1 [M13:185] Rancor
+SB: 1 [TSB:119] Gemstone Mine
+SB: 1 [DGM:127] Far // Away
+SB: 1 [ZEN:209] Trusty Machete
+SB: 1 [TSP:29] Momentary Blink
+LAYOUT MAIN:(1,6)(CMC,false,68)|([GPT:158],[DIS:180],[KTK:236],[FRF:172],[LRW:276],[KTK:234])([ODY:193],[TSP:216])([ZEN:48],[VIS:34],[GPT:150],[FUT:138],[TMP:179])([MRD:159],[ME4:113],[THS:47],[M12:41],[5DN:86],[VIS:37],[KTK:97],[PCA:104])([ORI:83],[APC:128],[NPH:50],[M14:43],[CM2:83],[4ED:64])([CM2:115],[THS:55])
+LAYOUT SIDEBOARD:(1,6)(CMC,false,85)|([FRF:175],[TSB:119])([EXO:53],[ZEN:209],[M13:185])([OGW:116],[TSP:29],[NPH:103],[M19:61],[M19:55])([PLS:9])([DIS:10],[C16:18])([M12:186],[DGM:127])

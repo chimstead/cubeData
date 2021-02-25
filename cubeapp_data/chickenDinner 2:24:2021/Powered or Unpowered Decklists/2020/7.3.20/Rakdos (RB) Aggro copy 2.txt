@@ -1,0 +1,49 @@
+1 [SOM:81] Arc Trail
+1 [M14:163] Young Pyromancer
+1 [THB:148] Phoenix of Ash
+1 [ELD:137] Rimrock Knight
+1 [GRN:109] Legion Warboss
+1 [KLD:231] Scrapheap Scrounger
+1 [AER:87] Kari Zev, Skyship Raider
+1 [ROE:146] Forked Bolt
+1 [AKH:148] Soul-Scar Mage
+1 [ELD:115] Bonecrusher Giant
+1 [DTK:169] Zurgo Bellstriker
+1 [C13:71] Curse of Shallow Graves
+1 [ELD:138] Robber of the Rich
+1 [LRW:139] Shriekmaw
+1 [LEG:137] Chain Lightning
+1 [ELD:120] Embercleave
+1 [C17:16] Curse of Disturbance
+1 [ODY:193] Firebolt
+1 [M15:145] Goblin Rabblemaster
+1 [M20:105] Knight of the Ebon Legion
+1 [KTK:118] Monastery Swiftspear
+1 [MOR:58] Bitterblossom
+1 [ELD:235] Stonecoil Serpent
+1 [DDI:44] Koth of the Hammer
+1 [MOR:148] Mutavault
+1 [ZEN:223] Scalding Tarn
+1 [ELD:244] Fabled Passage
+1 [ONS:319] Grand Coliseum
+9 [UST:215] Mountain
+3 [UST:214] Swamp
+SB: 1 [MBS:43] Go for the Throat
+SB: 1 [ICE:194] Incinerate
+SB: 1 [NPH:42] Phyrexian Metamorph
+SB: 1 [ELD:199] The Royal Scions
+SB: 1 [GRN:103] Goblin Cratermaker
+SB: 1 [M12:174] Garruk, Primal Hunter
+SB: 1 [WAR:171] Paradise Druid
+SB: 1 [NPH:4] Blade Splicer
+SB: 1 [M19:34] Resplendent Angel
+SB: 1 [EMN:133] Incendiary Flow
+SB: 1 [RIX:60] Warkite Marauder
+SB: 1 [THB:123] Woe Strider
+SB: 1 [ZEN:119] Burst Lightning
+SB: 1 [ROE:115] Inquisition of Kozilek
+SB: 1 [AKH:149] Sweltering Suns
+SB: 1 [ZEN:9] Day of Judgment
+SB: 1 [M11:97] Grave Titan
+LAYOUT MAIN:(2,4)(CMC,false,57)|([MOR:148],[ZEN:223],[ELD:244],[ONS:319],[UST:214],[UST:214],[UST:214])([ROE:146],[AKH:148],[DTK:169],[LEG:137],[ODY:193],[M20:105],[KTK:118],[ELD:235])([THB:148],[ELD:137],[GRN:109],[C13:71],[C17:16],[M15:145])([ELD:115],[LRW:139])([UST:215],[UST:215],[UST:215],[UST:215],[UST:215],[UST:215],[UST:215],[UST:215],[UST:215])([SOM:81],[M14:163],[KLD:231],[AER:87],[ELD:138],[MOR:58])([DDI:44])([ELD:120])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([MBS:43],[ICE:194],[NPH:42],[ELD:199],[GRN:103],[M12:174],[WAR:171],[NPH:4],[M19:34],[EMN:133],[RIX:60],[THB:123],[ZEN:119],[ROE:115],[AKH:149],[ZEN:9],[M11:97])

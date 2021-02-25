@@ -1,0 +1,52 @@
+1 [M11:149] Lightning Bolt
+1 [ARB:46] Terminate
+1 [ROE:115] Inquisition of Kozilek
+1 [STH:138] Mox Diamond
+1 [FRF:87] Tasigur, the Golden Fang
+1 [KLD:235] Smuggler's Copter
+1 [ISD:105] Liliana of the Veil
+1 [MBS:138] Sword of Feast and Famine
+1 [ORI:127] Abbot of Keral Keep
+1 [KLD:84] Gonti, Lord of Luxury
+1 [KLD:110] Chandra, Torch of Defiance
+1 [FEM:38a] Hymn to Tourach
+1 [M14:163] Young Pyromancer
+1 [10E:163] Nekrataal
+1 [M12:98] Grave Titan
+1 [RAV:81] Dark Confidant
+1 [M13:112] Vampire Nighthawk
+1 [KTK:118] Monastery Swiftspear
+1 [RTR:157] Dreadbore
+1 [KLD:124] Pia Nalaar
+1 [C13:84] Ophiomancer
+1 [ARB:50] Bloodbraid Elf
+1 [MPS:16] Mana Crypt
+1 [RNA:259] Stomping Ground
+1 [3ED:287] Taiga
+1 [ZEN:229] Verdant Catacombs
+1 [ZEN:223] Scalding Tarn
+1 [KTK:248] Windswept Heath
+1 [KTK:230] Bloodstained Mire
+1 [3ED:282] Badlands
+1 [3ED:283] Bayou
+1 [P02:161] Mountain
+1 [P02:162] Mountain
+1 [P02:160] Mountain
+2 [P02:157] Swamp
+3 [P02:158] Swamp
+1 [M19:94] Duress
+SB: 1 [V14:2] Burning of Xinye
+SB: 1 [AKH:136] Hazoret the Fervent
+SB: 1 [ZEN:114] Vampire Hexmage
+SB: 1 [MBS:14] Mirran Crusader
+SB: 1 [ORI:105] Languish
+SB: 1 [5ED:408] Winter Orb
+SB: 1 [AER:57] Fatal Push
+SB: 1 [5ED:140] Animate Dead
+SB: 1 [ULG:14] Mother of Runes
+SB: 1 [CON:15] Path to Exile
+SB: 1 [ORI:23] Kytheon, Hero of Akros
+SB: 1 [EMA:108] Toxic Deluge
+SB: 1 [LEG:137] Chain Lightning
+LAYOUT MAIN:(2,6)(CMC,true,45)|()([KTK:118])([ORI:127],[M14:163],[RAV:81])([M13:112],[KLD:124],[C13:84])([KLD:84],[10E:163],[ARB:50])([FRF:87],[M12:98])([STH:138],[MPS:16],[RNA:259],[3ED:287],[ZEN:229],[ZEN:223],[KTK:248],[KTK:230],[3ED:282],[3ED:283],[P02:161],[P02:162],[P02:160],[P02:157],[P02:157],[P02:158],[P02:158],[P02:158])([M11:149],[ROE:115],[M19:94])([ARB:46],[KLD:235],[FEM:38a],[RTR:157])([ISD:105],[MBS:138])([KLD:110])()
+LAYOUT SIDEBOARD:(1,5)(CMC,false,43)|([AER:57],[ULG:14],[CON:15],[ORI:23],[LEG:137])([ZEN:114],[5ED:408],[5ED:140])([MBS:14],[EMA:108])([AKH:136],[ORI:105])([V14:2])

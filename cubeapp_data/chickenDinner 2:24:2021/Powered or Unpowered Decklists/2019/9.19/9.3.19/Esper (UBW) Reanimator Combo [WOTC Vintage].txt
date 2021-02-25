@@ -1,0 +1,50 @@
+1 [ARB:110] Sphinx of the Steel Wind
+1 [VIS:64] Necromancy
+1 [USG:134] Exhume
+1 [LRW:124] Makeshift Mannequin
+1 [6ED:83] Mystical Tutor
+1 [ZEN:13] Iona, Shield of Emeria
+1 [HOU:145] The Scarab God
+1 [5ED:140] Animate Dead
+1 [ORI:60] Jace, Vryn's Prodigy
+1 [RTR:73] Pack Rat
+1 [BBD:136] True-Name Nemesis
+1 [USG:96] Show and Tell
+1 [RIX:82] Ravenous Chupacabra
+1 [LRW:133] Oona's Prowler
+1 [M12:63] Mana Leak
+1 [GRN:205] Thief of Sanity
+1 [ALL:28] Force of Will
+1 [SHM:135] Woodfall Primus
+1 [NPH:9] Elesh Norn, Grand Cenobite
+1 [XLN:223] Hostage Taker
+1 [TMP:142] Living Death
+1 [3ED:290] Underground Sea
+1 [ARN:70] Bazaar of Baghdad
+1 [LRW:139] Shriekmaw
+5 [UST:213] Island
+1 [UST:212] Plains
+8 [UST:214] Swamp
+1 [10E:163] Nekrataal
+1 [ULG:49] Bone Shredder
+1 [AER:57] Fatal Push
+SB: 1 [TSP:216] Search for Tomorrow
+SB: 1 [3ED:283] Bayou
+SB: 1 [5DN:55] Night's Whisper
+SB: 1 [VIS:79] Fireblast
+SB: 1 [EXO:115] Oath of Druids
+SB: 1 [KLD:244] Botanical Sanctum
+SB: 1 [ARB:92] Maelstrom Pulse
+SB: 1 [RTR:200] Sphinx's Revelation
+SB: 1 [ORI:189] Nissa, Vastwood Seer
+SB: 1 [AKH:14] Gideon of the Trials
+SB: 1 [AVR:79] Tamiyo, the Moon Sage
+SB: 1 [M19:196] Reclamation Sage
+SB: 1 [CHK:225] Kodama's Reach
+SB: 1 [DTK:219] Dragonlord Ojutai
+SB: 1 [CHK:62] Gifts Ungiven
+SB: 1 [MBS:99] Blightsteel Colossus
+SB: 1 [TOR:77] Putrid Imp
+SB: 1 [AKH:97] Liliana, Death's Majesty
+LAYOUT MAIN:(2,7)(CMC,true,69)|()()([ORI:60],[RTR:73],[LRW:133])([BBD:136],[GRN:205],[ULG:49])([RIX:82],[XLN:223],[10E:163])([HOU:145],[LRW:139])([ARB:110],[ZEN:13],[SHM:135],[NPH:9])([3ED:290],[ARN:70],[UST:213],[UST:213],[UST:213],[UST:213],[UST:213],[UST:212],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214])([6ED:83],[AER:57])([USG:134],[5ED:140],[M12:63])([VIS:64],[USG:96])([LRW:124])([ALL:28],[TMP:142])()
+LAYOUT SIDEBOARD:(1,1)(COLOR,false,50)|([3ED:283],[KLD:244],[MBS:99],[TSP:216],[5DN:55],[EXO:115],[ORI:189],[AVR:79],[M19:196],[CHK:225],[CHK:62],[TOR:77],[AKH:97],[VIS:79],[ARB:92],[RTR:200],[AKH:14],[DTK:219])

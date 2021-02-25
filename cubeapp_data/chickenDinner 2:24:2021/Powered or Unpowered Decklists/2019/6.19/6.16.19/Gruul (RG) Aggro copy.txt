@@ -1,0 +1,49 @@
+1 [M12:156] Stormblood Berserker
+1 [THS:135] Purphoros, God of the Forge
+1 [ZEN:223] Scalding Tarn
+1 [M15:145] Goblin Rabblemaster
+1 [THS:122] Firedrinker Satyr
+1 [AKH:125] Combat Celebrant
+1 [GRN:103] Goblin Cratermaker
+1 [AER:87] Kari Zev, Skyship Raider
+1 [ZEN:211] Arid Mesa
+1 [STH:138] Mox Diamond
+1 [VIS:79] Fireblast
+1 [ODY:193] Firebolt
+1 [BOK:163] Umezawa's Jitte
+1 [WAR:137] Krenko, Tin Street Kingpin
+1 [AKH:136] Hazoret the Fervent
+1 [PLC:102] Keldon Marauders
+1 [ZEN:220] Misty Rainforest
+1 [HOU:83] Abrade
+1 [GPT:165] Stomping Ground
+1 [GRN:109] Legion Warboss
+1 [HOU:90] Earthshaker Khenra
+1 [KLD:124] Pia Nalaar
+1 [SCG:106] Sulfuric Vortex
+1 [RTR:220] Rakdos Cackler
+1 [MH1:168] Hexdrinker
+1 [BBD:62] Najeela, the Blade-Blossom
+1 [RIX:99] Dire Fleet Daredevil
+1 [DST:148] Sword of Fire and Ice
+1 [PC2:84] Bloodbraid Elf
+1 [UNH:140] Forest
+10 [UNH:139] Mountain
+SB: 1 [V12:10] Maze of Ith
+SB: 1 [CMD:170] Scavenging Ooze
+SB: 1 [MBS:92] Thrun, the Last Troll
+SB: 1 [RTR:157] Dreadbore
+SB: 1 [BNG:119] Courser of Kruphix
+SB: 1 [WAR:244] Blast Zone
+SB: 1 [C18:53] Ancient Stone Idol
+SB: 1 [AKH:204] Nissa, Steward of Elements
+SB: 1 [ZEN:168] Lotus Cobra
+SB: 1 [AKH:175] Manglehorn
+SB: 1 [DST:146] Sundering Titan
+SB: 1 [WAR:53] God-Eternal Kefnet
+SB: 1 [EVE:80] Wickerbough Elder
+SB: 1 [WTH:153] Mind Stone
+SB: 1 [M13:150] Thundermaw Hellkite
+SB: 1 [AVR:166] Zealous Conscripts
+LAYOUT MAIN:(1,6)(CMC,false,50)|([ZEN:223],[ZEN:211],[STH:138],[ZEN:220],[GPT:165],[UNH:140],[UNH:139],[UNH:139],[UNH:139],[UNH:139],[UNH:139],[UNH:139],[UNH:139],[UNH:139],[UNH:139],[UNH:139])([THS:122],[ODY:193],[RTR:220],[MH1:168])([M12:156],[GRN:103],[AER:87],[BOK:163],[PLC:102],[HOU:83],[HOU:90],[RIX:99])([M15:145],[AKH:125],[WAR:137],[GRN:109],[KLD:124],[SCG:106],[BBD:62],[DST:148])([THS:135],[AKH:136],[PC2:84])([VIS:79])
+LAYOUT SIDEBOARD:(1,5)(COLOR,false,50)|([V12:10],[WAR:244],[C18:53],[DST:146],[WTH:153])([WAR:53])([CMD:170],[MBS:92],[BNG:119],[ZEN:168],[AKH:175],[EVE:80])([M13:150],[AVR:166])([RTR:157],[AKH:204])

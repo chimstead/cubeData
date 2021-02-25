@@ -1,0 +1,50 @@
+1 [GPT:157] Godless Shrine
+1 [AVR:106] Griselbrand
+1 [P02:46] Sleight of Hand
+1 [LEA:92] Animate Dead
+1 [VIS:64] Necromancy
+1 [ZEN:219] Marsh Flats
+1 [ROE:115] Inquisition of Kozilek
+1 [LRW:139] Shriekmaw
+1 [M11:97] Grave Titan
+1 [TSP:66] Looter il-Kor
+1 [IKO:366] Heartless Act
+1 [ODY:132] Entomb
+1 [APC:130] Life // Death
+1 [PTK:78] Imperial Seal
+1 [RAV:286] Watery Grave
+1 [MIR:80] Mystical Tutor
+1 [THS:90] Hero's Downfall
+1 [ULG:126] Grim Monolith
+1 [ORI:60] Jace, Vryn's Prodigy
+1 [ISD:105] Liliana of the Veil
+1 [XLN:110] Kitesail Freebooter
+1 [EMN:93] Liliana, the Last Hope
+1 [MH1:246] Silent Clearing
+1 [FEM:38a] Hymn to Tourach
+1 [USG:134] Exhume
+1 [SOM:180] Myr Battlesphere
+5 [UST:213] Island
+7 [UST:214] Swamp
+1 [DGM:11] Aetherling
+1 [SOM:78] Skinrender
+SB: 1 [LEB:278] Badlands
+SB: 1 [MIR:255] Worldly Tutor
+SB: 1 [DKA:87] Faithless Looting
+SB: 1 [DTK:224] Kolaghan's Command
+SB: 1 [DST:146] Sundering Titan
+SB: 1 [LEB:283] Taiga
+SB: 1 [DKA:64] Gravecrawler
+SB: 1 [OGW:182] Wandering Fumarole
+SB: 1 [APC:128] Fire // Ice
+SB: 1 [THB:151] Purphoros's Intervention
+SB: 1 [XLN:248] Sorcerous Spyglass
+SB: 1 [CN2:74] Daretti, Ingenious Iconoclast
+SB: 1 [TMP:154] Sarcomancy
+SB: 1 [SOI:242] Anguished Unmaking
+SB: 1 [AVR:32] Restoration Angel
+SB: 1 [UST:214] Swamp
+SB: 1 [ARB:110] Sphinx of the Steel Wind
+SB: 1 [ODY:292] Psychatog
+LAYOUT MAIN:(1,9)(CMC,false,71)|([GPT:157],[ZEN:219],[RAV:286],[MH1:246],[UST:213],[UST:213],[UST:213],[UST:213],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[UST:213])([P02:46],[ROE:115],[ODY:132],[PTK:78],[MIR:80])([LEA:92],[TSP:66],[IKO:366],[ULG:126],[ORI:60],[XLN:110],[FEM:38a],[USG:134])([VIS:64],[APC:130],[THS:90],[ISD:105],[EMN:93])([SOM:78])([LRW:139])([M11:97],[DGM:11])([SOM:180])([AVR:106])
+LAYOUT SIDEBOARD:(1,6)(COLOR,false,100)|([LEB:278],[DST:146],[LEB:283],[OGW:182],[XLN:248],[UST:214])([DKA:64],[TMP:154])([MIR:255])([DKA:87],[THB:151])([AVR:32])([DTK:224],[APC:128],[CN2:74],[SOI:242],[ARB:110],[ODY:292])

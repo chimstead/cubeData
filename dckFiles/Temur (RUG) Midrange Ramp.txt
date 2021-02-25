@@ -1,3 +1,6 @@
+2017
+12.17
+12.3.17
 7 Forest
 1 Island
 2 Mountain
@@ -13,7 +16,7 @@
 1 Fauna Shaman
 1 Tarmogoyf
 1 Survival of the Fittest
-1 Sylvan Caryatid 
+1 Sylvan Caryatid
 1 Lotus Cobra
 1 Noose Constrictor
 1 Edric, Spymaster of Trest
@@ -31,4 +34,3 @@
 1 Primeval Titan
 1 Dragonlord Atarka
 1 Woodfall Primus
-

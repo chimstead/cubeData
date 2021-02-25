@@ -1,0 +1,51 @@
+1 [EVE:6] Flickerwisp
+1 [SOI:44] Thraben Inspector
+1 [NPH:161] Sword of War and Peace
+1 [ULG:14] Mother of Runes
+1 [ARB:75] Qasali Pridemage
+1 [SHM:23] Spectral Procession
+1 [XLN:1] Adanto Vanguard
+1 [ORI:23] Kytheon, Hero of Akros
+1 [HOU:90] Earthshaker Khenra
+1 [GRN:109] Legion Warboss
+1 [CHK:19] Isamaru, Hound of Konda
+1 [THS:32] Soldier of the Pantheon
+1 [NPH:4] Blade Splicer
+1 [ZNR:39] Skyclave Apparition
+1 [DGM:114] Voice of Resurgence
+1 [M21:34] Seasoned Hallowblade
+1 [PC2:84] Bloodbraid Elf
+1 [KLD:231] Scrapheap Scrounger
+1 [KLD:235] Smuggler's Copter
+1 [DKA:24] Thalia, Guardian of Thraben
+1 [ZNR:24] Luminarch Aspirant
+1 [M13:132] Flames of the Firebrand
+1 [SOK:158] Pithing Needle
+1 [ONS:316] Flooded Strand
+1 [LEB:280] Plateau
+1 [MH1:247] Sunbaked Canyon
+1 [GPT:165] Stomping Ground
+1 [OGW:175] Needle Spires
+1 [RAV:280] Sacred Foundry
+1 [RAV:284] Temple Garden
+1 [ZNR:12] Emeria's Call
+1 [UST:216] Forest
+2 [UST:215] Mountain
+5 [UST:212] Plains
+1 [SCG:106] Sulfuric Vortex
+SB: 1 [ELD:197] Oko, Thief of Crowns
+SB: 1 [ROE:190] Joraga Treespeaker
+SB: 1 [AVR:106] Griselbrand
+SB: 1 [CHK:268] Sensei's Divining Top
+SB: 1 [ICE:244] Fyndhorn Elves
+SB: 1 [TMP:128] Diabolic Edict
+SB: 1 [M20:126] Chandra, Acolyte of Flame
+SB: 1 [ISD:213] Geist of Saint Traft
+SB: 1 [MH1:210] Nature's Chant
+SB: 1 [USG:174] Arc Lightning
+SB: 1 [NPH:35] Gitaxian Probe
+SB: 1 [DTK:169] Zurgo Bellstriker
+SB: 1 [UST:212] Plains
+SB: 1 [MOR:148] Mutavault
+LAYOUT MAIN:(1,5)(CMC,false,64)|([UST:216],[UST:215],[UST:215],[UST:212],[UST:212],[UST:212],[UST:212],[UST:212],[ZNR:12],[ONS:316],[LEB:280],[MH1:247],[GPT:165],[OGW:175],[RAV:280],[RAV:284])([SOK:158],[SOI:44],[ULG:14],[ORI:23],[CHK:19],[THS:32])([XLN:1],[DKA:24],[ZNR:24],[M21:34],[KLD:235],[KLD:231],[DGM:114],[ARB:75],[HOU:90])([EVE:6],[NPH:4],[ZNR:39],[SHM:23],[M13:132],[SCG:106],[GRN:109],[NPH:161])([PC2:84])
+LAYOUT SIDEBOARD:(1,6)(COLOR,false,100)|([CHK:268],[UST:212])([AVR:106],[TMP:128],[MOR:148])([NPH:35])([ROE:190],[ICE:244])([M20:126],[USG:174],[DTK:169])([ELD:197],[ISD:213],[MH1:210])

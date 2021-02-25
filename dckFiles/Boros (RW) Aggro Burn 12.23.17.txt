@@ -1,3 +1,6 @@
+2017
+12.17
+12.23.17
 6 Mountain
 5 Plains
 1 Flooded Strand
@@ -15,13 +18,13 @@
 1 Rakdos Cackler
 1 Skullclamp
 1 Thraben Inspector
-1 Toolcraft Exemplar 
+1 Toolcraft Exemplar
 1 Zurgo Bellstriker
-1 Incinerate 
+1 Incinerate
 1 Selfless Spirit
-1 Shrine of Burning Rage 
-1 Stormblood Berserker 
-1 Young Pyromancer 
+1 Shrine of Burning Rage
+1 Stormblood Berserker
+1 Young Pyromancer
 1 Ahn-Crop Crasher
 1 Hanweir Garrison
 1 Sulfuric Vortex
@@ -29,4 +32,3 @@
 1 Fiery Confluence
 1 Fleetwheel Cruiser
 1 Palace Jailer
-

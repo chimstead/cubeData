@@ -1,0 +1,52 @@
+1 [JR:109] Imperial Seal
+1 [3ED:290] Underground Sea
+1 [VIS:64] Necromancy
+1 [LRW:124] Makeshift Mannequin
+1 [MBS:46] Massacre Wurm
+1 [ARN:70] Bazaar of Baghdad
+1 [5ED:140] Animate Dead
+1 [5DN:55] Night's Whisper
+1 [KTK:233] Flooded Strand
+1 [ODY:132] Entomb
+1 [AVR:106] Griselbrand
+1 [MIR:141] Shallow Grave
+1 [ELD:110] Wishclaw Talisman
+1 [GPT:155] Orzhov Signet
+1 [TOR:77] Putrid Imp
+1 [THS:187] Ashen Rider
+1 [LEG:65] Mana Drain
+1 [M12:98] Grave Titan
+1 [THS:188] Ashiok, Nightmare Weaver
+1 [MMQ:61] Brainstorm
+1 [LRW:76] Mulldrifter
+1 [ORI:90] Dark Petition
+1 [ROE:115] Inquisition of Kozilek
+1 [ULG:36] Miscalculation
+1 [LRW:133] Oona's Prowler
+1 [3ED:297] Island
+1 [3ED:295] Island
+4 [3ED:296] Island
+4 [3ED:300] Swamp
+4 [3ED:299] Swamp
+1 [CON:30] Inkwell Leviathan
+SB: 1 [C17:37] Fractured Identity
+SB: 1 [RAV:270] Selesnya Signet
+SB: 1 [SOI:5] Archangel Avacyn
+SB: 1 [MBS:10] Leonin Relic-Warder
+SB: 1 [M10:100] Hypnotic Specter
+SB: 1 [XLN:110] Kitesail Freebooter
+SB: 1 [M15:225] Phyrexian Revoker
+SB: 1 [CHK:62] Gifts Ungiven
+SB: 1 [UMA:11] Containment Priest
+SB: 1 [SCG:41] Mind's Desire
+SB: 1 [DRK:117] Maze of Ith
+SB: 1 [C13:84] Ophiomancer
+SB: 1 [KLD:84] Gonti, Lord of Luxury
+SB: 1 [DTK:169] Zurgo Bellstriker
+SB: 1 [M12:55] Frost Titan
+SB: 1 [BBD:33] Arcane Artisan
+SB: 1 [EXO:72] Recurring Nightmare
+SB: 1 [8ED:64] Bribery
+SB: 1 [MH1:52] Force of Negation
+LAYOUT MAIN:(2,9)(CMC,true,50)|()([TOR:77])([LRW:133])()()([LRW:76])([MBS:46],[M12:98])([AVR:106],[THS:187])([CON:30])([3ED:290],[ARN:70],[KTK:233],[3ED:297],[3ED:295],[3ED:296],[3ED:296],[3ED:296],[3ED:296],[3ED:300],[3ED:299],[3ED:299],[3ED:299],[3ED:300],[3ED:300],[3ED:299],[3ED:300])([JR:109],[ODY:132],[MMQ:61],[ROE:115])([5ED:140],[5DN:55],[MIR:141],[ELD:110],[GPT:155],[LEG:65],[ULG:36])([VIS:64],[THS:188])([LRW:124])([ORI:90])()()()
+LAYOUT SIDEBOARD:(2,7)(CMC,true,32)|()([DTK:169])([MBS:10],[XLN:110],[M15:225],[UMA:11])([M10:100],[C13:84],[BBD:33])([KLD:84])([SOI:5])([M12:55])([DRK:117])()([RAV:270])([EXO:72],[MH1:52])([CHK:62])([C17:37],[8ED:64])([SCG:41])

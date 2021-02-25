@@ -1,0 +1,49 @@
+1 [ISD:78] Snapcaster Mage
+1 [7ED:67] Counterspell
+1 [DOM:1] Karn, Scion of Urza
+1 [M19:229] Crucible of Worlds
+1 [USG:318] Worn Powerstone
+1 [HOU:49] Supreme Will
+1 [M19:79] Tezzeret, Artifice Master
+1 [RTR:172] Izzet Charm
+1 [10E:335] Mind Stone
+1 [RAV:63] Remand
+1 [THS:128] Magma Jet
+1 [MMQ:61] Brainstorm
+1 [C18:44] Saheeli, the Gifted
+1 [THB:305] Nadir Kraken
+1 [MRD:256] Talisman of Progress
+1 [C18:57] Retrofitter Foundry
+1 [ULG:36] Miscalculation
+1 [WWK:31] Jace, the Mind Sculptor
+1 [MOR:55] Vendilion Clique
+1 [MH1:75] Urza, Lord High Artificer
+1 [9ED:228] Wildfire
+1 [SOM:180] Myr Battlesphere
+1 [UDS:139] Thran Dynamo
+1 [MH1:238] Fiery Islet
+1 [ZEN:223] Scalding Tarn
+9 [UNH:137] Island
+6 [UNH:139] Mountain
+SB: 1 [CM2:98] Fiery Confluence
+SB: 1 [OGW:44] Dimensional Infiltrator
+SB: 1 [C17:52] Heirloom Blade
+SB: 1 [M10:191] Master of the Wild Hunt
+SB: 1 [TSB:89] Wall of Roots
+SB: 1 [RNA:47] Pteramander
+SB: 1 [HOU:145] The Scarab God
+SB: 1 [M13:150] Thundermaw Hellkite
+SB: 1 [ICE:244] Fyndhorn Elves
+SB: 1 [ELD:122] Embereth Shieldbreaker
+SB: 1 [4ED:64] Control Magic
+SB: 1 [XLN:1] Adanto Vanguard
+SB: 1 [GRN:208] Trostani Discordant
+SB: 1 [THB:83] Agonizing Remorse
+SB: 1 [EMN:133] Incendiary Flow
+SB: 1 [TSP:66] Looter il-Kor
+SB: 1 [KLD:124] Pia Nalaar
+SB: 1 [ORI:83] Whirler Rogue
+SB: 1 [HOU:83] Abrade
+SB: 1 [KLD:110] Chandra, Torch of Defiance
+LAYOUT MAIN:(1,8)(CMC,false,44)|([UNH:137],[UNH:137],[UNH:137],[UNH:137],[UNH:137],[UNH:137],[UNH:137],[UNH:137],[UNH:137],[UNH:139],[UNH:139],[UNH:139],[UNH:139],[UNH:139],[UNH:139])([MH1:238],[ZEN:223])([MMQ:61],[C18:57])([7ED:67],[RTR:172],[THS:128],[10E:335],[ULG:36],[RAV:63],[ISD:78],[MRD:256])([M19:229],[THB:305],[HOU:49],[MOR:55],[USG:318])([WWK:31],[DOM:1],[C18:44],[UDS:139],[MH1:75])([M19:79])([9ED:228],[SOM:180])
+LAYOUT SIDEBOARD:(1,5)(CMC,false,50)|([RNA:47],[ICE:244])([OGW:44],[TSB:89],[XLN:1],[THB:83],[EMN:133],[TSP:66],[HOU:83])([C17:52],[ELD:122],[KLD:124])([CM2:98],[M10:191],[4ED:64],[ORI:83],[KLD:110])([HOU:145],[M13:150],[GRN:208])

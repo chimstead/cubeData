@@ -1,0 +1,32 @@
+6 Forest
+4 Swamp
+1 Gaea's Cradle
+1 Llanowar Wastes
+1 Polluted Delta
+1 Tropical Island
+1 Underground Sea
+1 Verdant Catacombs
+1 Volrath's Stronghold
+1 Elvish Mystic
+1 Fyndhorn Elves
+1 Oath of Nissa
+1 Vampiric Tutor
+1 Bitterblossom
+1 Fauna Shaman
+1 Grim Monolith
+1 Noose Constrictor
+1 Oona's Prowler
+1 Scavenging Ooze
+1 Survival of the Fittest
+1 Talisman of Impulse
+1 Flesh Carver
+1 Manglehorn
+1 Nissa, Vastwood Seer
+1 Recurring Nightmare
+1 Sword of Light and Shadow
+1 Garruk Relentless
+1 Snuff Out
+1 Wickerbough Elder
+1 Thragtusk
+1 Primeval Titan
+1 Woodfall Primus

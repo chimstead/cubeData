@@ -1,0 +1,50 @@
+1 [ROE:53] Wall of Omens
+1 [VIS:34] Impulse
+1 [M13:150] Thundermaw Hellkite
+1 [ELD:115] Bonecrusher Giant
+1 [LEB:41] Swords to Plowshares
+1 [PLS:60] Flametongue Kavu
+1 [CHK:175] Kiki-Jiki, Mirror Breaker
+1 [SOI:247] Nahiri, the Harbinger
+1 [XLN:48] Chart a Course
+1 [MH1:230] Talisman of Conviction
+1 [C15:26] Fiery Confluence
+1 [AKH:134] Glorybringer
+1 [CNS:42] Dack Fayden
+1 [GRN:109] Legion Warboss
+1 [MM2:129] Splinter Twin
+1 [HOU:83] Abrade
+1 [NPH:33] Deceiver Exarch
+1 [AVR:32] Restoration Angel
+1 [MRD:245] Solemn Simulacrum
+1 [SOM:223] Wurmcoil Engine
+1 [LEB:162] Lightning Bolt
+1 [OGW:104] Chandra, Flamecaller
+1 [DIS:159] Azorius Signet
+1 [WWK:133] Celestial Colonnade
+1 [GPT:164] Steam Vents
+1 [ARN:71] City of Brass
+1 [OGW:175] Needle Spires
+1 [ZEN:211] Arid Mesa
+2 [UGL:85] Island
+9 [UGL:87] Mountain
+1 [UGL:84] Plains
+SB: 1 [SOM:224] Blackcleave Cliffs
+SB: 1 [KLD:199] Bomat Courier
+SB: 1 [M20:200] Voracious Hydra
+SB: 1 [EXO:53] Carnophage
+SB: 1 [NPH:37] Jin-Gitaxias, Core Augur
+SB: 1 [ELD:137] Rimrock Knight
+SB: 1 [AKH:14] Gideon of the Trials
+SB: 1 [THB:148] Phoenix of Ash
+SB: 1 [AER:87] Kari Zev, Skyship Raider
+SB: 1 [ELD:138] Robber of the Rich
+SB: 1 [M19:166] Viashino Pyromancer
+SB: 1 [EVE:139] Figure of Destiny
+SB: 1 [SOI:155] Falkenrath Gorger
+SB: 1 [M14:163] Young Pyromancer
+SB: 1 [WAR:143] Sarkhan the Masterless
+SB: 1 [ZEN:119] Burst Lightning
+SB: 1 [MOR:43] Negate
+LAYOUT MAIN:(1,7)(CMC,false,50)|([WWK:133],[GPT:164],[ARN:71],[OGW:175],[ZEN:211],[UGL:85],[UGL:85],[UGL:87],[UGL:87],[UGL:87],[UGL:87],[UGL:87],[UGL:87],[UGL:87],[UGL:87],[UGL:87],[UGL:84])([LEB:41],[LEB:162])([ROE:53],[VIS:34],[XLN:48],[MH1:230],[HOU:83],[DIS:159],[ELD:115])([CNS:42],[GRN:109],[NPH:33])([PLS:60],[SOI:247],[C15:26],[MM2:129],[AVR:32],[MRD:245])([M13:150],[CHK:175],[AKH:134])([SOM:223],[OGW:104])
+LAYOUT SIDEBOARD:(1,7)(COLOR,false,50)|([SOM:224],[KLD:199])([EXO:53])([NPH:37],[MOR:43])([M20:200])([ELD:137],[THB:148],[AER:87],[ELD:138],[M19:166],[SOI:155],[M14:163],[WAR:143],[ZEN:119])([AKH:14])([EVE:139])

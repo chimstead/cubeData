@@ -1,3 +1,6 @@
+2017
+12.17
+12.3.17
 4 Island
 1 Plains
 2 Mountain
@@ -6,7 +9,7 @@
 1 Badlands
 1 Blood Crypt
 1 Bloodstained Mire
-1 Floded Strand
+1 Flooded Strand
 1 Mana Confluence
 1 Steam Vents
 1 Sulfurous Springs
@@ -23,7 +26,7 @@
 1 Scroll Rack
 1 Crucible of Worlds
 1 Supreme Will
-1 Vendilion Clique 
+1 Vendilion Clique
 1 Chandra, Torch of Defiance
 1 Control Magic
 1 Fiery Confluence

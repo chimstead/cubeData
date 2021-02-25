@@ -1,0 +1,52 @@
+2021
+1.31.21
+1 [MM2:75] Dark Confidant
+1 [ZNR:145] Kargan Intimidator
+1 [AKH:148] Soul-Scar Mage
+1 [SOM:81] Arc Trail
+1 [C20:251] Skullclamp
+1 [ZNR:106] Hagra Mauling
+1 [RNA:76] Gutterbones
+1 [UMA:93] Demonic Tutor
+1 [DTK:224] Kolaghan's Command
+1 [M13:147] Searing Spear
+1 [GRN:103] Goblin Cratermaker
+1 [M20:105] Knight of the Ebon Legion
+1 [ICE:289] Fire Covenant
+1 [M21:150] Heartfire Immolator
+1 [VMA:153] Chain Lightning
+1 [10E:213] Incinerate
+1 [JVC:49] Firebolt
+1 [ISD:164] Stromkirk Noble
+1 [IMA:140] Monastery Swiftspear
+1 [AKH:88] Dread Wanderer
+1 [MM2:71] Bitterblossom
+1 [UMA:155] Young Pyromancer
+1 [MMA:221] City of Brass
+1 [VMA:291] Badlands
+1 [TPR:225] Lotus Petal
+1 [ZNR:336] Agadeem's Awakening
+8 [UST:215] Mountain
+5 [UST:214] Swamp
+1 [ORI:229] Hangarback Walker
+SB: 1 [M11:70] Preordain
+SB: 1 [EMA:2] Balance
+SB: 1 [CMD:17] Journey to Nowhere
+SB: 1 [EMA:108] Toxic Deluge
+SB: 1 [ROE:53] Wall of Omens
+SB: 1 [RNA:185] Judith, the Scourge Diva
+SB: 1 [CN2:41] Custodi Lich
+SB: 1 [GRN:183] Knight of Autumn
+SB: 1 [GTC:242] Godless Shrine
+SB: 1 [ZNR:118] Nullpriest of Oblivion
+SB: 1 [ZNR:12] Emeria's Call
+SB: 1 [EMN:189] Spell Queller
+SB: 1 [V13:8] Tangle Wire
+SB: 1 [C18:57] Retrofitter Foundry
+SB: 1 [CN2:80] Throne of the High City
+SB: 1 [SOM:180] Myr Battlesphere
+SB: 1 [BBD:94] Land Tax
+SB: 1 [IKO:226] Lurrus of the Dream-Den
+SB: 1 [UST:214] Swamp
+LAYOUT MAIN:(1,5)(CMC,false,85)|([MMA:221],[VMA:291],[TPR:225],[UST:215],[UST:215],[UST:215],[UST:215],[UST:215],[UST:215],[UST:215],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[UST:215],[ORI:229])([AKH:148],[VMA:153],[JVC:49],[ISD:164],[IMA:140],[AKH:88],[M20:105],[RNA:76],[C20:251])([ZNR:145],[SOM:81],[M13:147],[GRN:103],[M21:150],[10E:213],[UMA:155],[MM2:71],[UMA:93],[MM2:75])([DTK:224],[ICE:289],[ZNR:336])([ZNR:106])
+LAYOUT SIDEBOARD:(1,5)(COLOR,false,100)|([GTC:242],[V13:8],[C18:57],[CN2:80],[SOM:180],[UST:214])([EMA:108],[CN2:41],[ZNR:118])([M11:70])([EMA:2],[CMD:17],[ROE:53],[ZNR:12],[BBD:94])([RNA:185],[GRN:183],[EMN:189],[IKO:226])

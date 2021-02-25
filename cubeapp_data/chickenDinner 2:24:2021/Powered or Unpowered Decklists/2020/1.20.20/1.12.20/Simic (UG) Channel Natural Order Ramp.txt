@@ -1,0 +1,49 @@
+1 [VIS:114] Natural Order
+1 [ISD:170] Avacyn's Pilgrim
+1 [M15:173] Elvish Mystic
+1 [THS:180] Sylvan Caryatid
+1 [KTK:249] Wooded Foothills
+1 [WAR:160] Finale of Devastation
+1 [WWK:96] Avenger of Zendikar
+1 [SHM:211] Manamorphose
+1 [SHM:110] Devoted Druid
+1 [WWK:108] Nature's Claim
+1 [DST:146] Sundering Titan
+1 [DTK:181] Den Protector
+1 [4ED:236] Channel
+1 [BNG:119] Courser of Kruphix
+1 [5DN:86] Eternal Witness
+1 [ZEN:229] Verdant Catacombs
+1 [LRW:272] Shelldock Isle
+1 [ZEN:172] Oracle of Mul Daya
+1 [THS:223] Nykthos, Shrine to Nyx
+1 [TSP:216] Search for Tomorrow
+1 [UDS:118] Rofellos, Llanowar Emissary
+1 [M13:174] Garruk, Primal Hunter
+1 [M13:159] Acidic Slime
+1 [ROE:4] Emrakul, the Aeons Torn
+1 [LRW:233] Primal Command
+1 [ROE:12] Ulamog, the Infinite Gyre
+1 [3ED:288] Tropical Island
+1 [GPT:32] Repeal
+8 [3ED:305] Forest
+4 [3ED:304] Forest
+SB: 1 [RAV:262] Golgari Signet
+SB: 1 [ISD:127] Ancient Grudge
+SB: 1 [TOR:69] Mesmeric Fiend
+SB: 1 [GRN:152] Assassin's Trophy
+SB: 1 [ALA:202] Tidehollow Sculler
+SB: 1 [MIR:141] Shallow Grave
+SB: 1 [CM2:98] Fiery Confluence
+SB: 1 [A25:136] Imperial Recruiter
+SB: 1 [4ED:361] Mishra's Factory
+SB: 1 [WWK:141] Raging Ravine
+SB: 1 [ISD:213] Geist of Saint Traft
+SB: 1 [VIS:79] Fireblast
+SB: 1 [APC:114] Pernicious Deed
+SB: 1 [3ED:287] Taiga
+SB: 1 [DOM:143] Siege-Gang Commander
+SB: 1 [OGW:110] Goblin Dark-Dwellers
+SB: 1 [GPT:150] Gruul Signet
+LAYOUT MAIN:(2,10)(CMC,true,73)|()([ISD:170],[M15:173])([THS:180],[SHM:110],[DTK:181],[UDS:118])([BNG:119],[5DN:86])([ZEN:172])([M13:159])([WWK:96])([DST:146])([ROE:12])([ROE:4])([KTK:249],[ZEN:229],[LRW:272],[THS:223],[3ED:288],[3ED:305],[3ED:304],[3ED:305],[3ED:305],[3ED:304],[3ED:305],[3ED:305],[3ED:305],[3ED:304],[3ED:305],[3ED:305],[3ED:304])([WWK:108],[GPT:32])([WAR:160],[SHM:211],[4ED:236])([TSP:216])([VIS:114])([M13:174],[LRW:233])()()()()
+LAYOUT SIDEBOARD:(2,6)(CMC,true,51)|()([TOR:69],[ALA:202])([A25:136],[ISD:213])()([DOM:143],[OGW:110])()([4ED:361],[WWK:141],[3ED:287])([RAV:262],[ISD:127],[GRN:152],[MIR:141],[GPT:150])([APC:114])([CM2:98])()([VIS:79])

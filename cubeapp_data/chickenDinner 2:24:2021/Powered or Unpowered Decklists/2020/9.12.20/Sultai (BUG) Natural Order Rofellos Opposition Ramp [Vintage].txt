@@ -1,0 +1,53 @@
+1 [USG:321] Gaea's Cradle
+1 [ICE:244] Fyndhorn Elves
+1 [M15:173] Elvish Mystic
+1 [AVR:172] Craterhoof Behemoth
+1 [DST:140] Skullclamp
+1 [ATQ:82a] Strip Mine
+1 [CSP:105] Boreal Druid
+1 [M13:159] Acidic Slime
+1 [RAV:161] Elves of Deep Shadow
+1 [THS:180] Sylvan Caryatid
+1 [LEB:230] Wild Growth
+1 [LRW:211] Fertile Ground
+1 [DIS:99] Utopia Sprawl
+1 [LEB:85] Timetwister
+1 [VIS:114] Natural Order
+1 [BFZ:239] Lumbering Falls
+1 [M19:196] Reclamation Sage
+1 [LRW:272] Shelldock Isle
+1 [WAR:160] Finale of Devastation
+1 [ZEN:220] Misty Rainforest
+1 [UDS:118] Rofellos, Llanowar Emissary
+1 [ISD:181] Garruk Relentless
+1 [ELD:160] Gilded Goose
+1 [C18:57] Retrofitter Foundry
+1 [UDS:40] Opposition
+1 [RNA:122] Biogenic Ooze
+1 [LEB:48] Ancestral Recall
+1 [LEB:264] Mox Pearl
+3 [LEB:301] Forest
+2 [LEB:302] Forest
+2 [LEB:300] Forest
+1 [LEB:292] Island
+1 [RAV:279] Overgrown Tomb
+1 [RAV:81] Dark Confidant
+1 [IMA:240] Horizon Canopy
+1 [10E:335] Mind Stone
+SB: 1 [ROE:165] Splinter Twin
+SB: 1 [CNS:42] Dack Fayden
+SB: 1 [A25:136] Imperial Recruiter
+SB: 1 [LRW:139] Shriekmaw
+SB: 1 [CON:113] Knight of the Reliquary
+SB: 1 [APC:130] Life // Death
+SB: 1 [M13:22] Oblivion Ring
+SB: 1 [V14:10] Rolling Earthquake
+SB: 1 [ZEN:119] Burst Lightning
+SB: 1 [ISD:6] Champion of the Parish
+SB: 1 [M12:12] Day of Judgment
+SB: 1 [BFZ:29] Gideon, Ally of Zendikar
+SB: 1 [GRN:174] Goblin Electromancer
+SB: 1 [LEB:300] Forest
+SB: 1 [LEB:302] Forest
+LAYOUT MAIN:(1,7)(CMC,false,100)|([LEB:301],[LEB:301],[LEB:302],[LEB:302],[LEB:301],[LEB:300],[LEB:300],[USG:321],[LEB:292],[BFZ:239],[ZEN:220],[LRW:272],[ATQ:82a],[RAV:279],[IMA:240],[LEB:264])([CSP:105],[RAV:161],[M15:173],[ICE:244],[ELD:160],[C18:57],[DST:140],[DIS:99],[LEB:230],[LEB:48])([LRW:211],[THS:180],[RAV:81],[10E:335],[UDS:118])([M19:196],[WAR:160],[LEB:85])([ISD:181],[VIS:114],[UDS:40])([M13:159],[RNA:122])([AVR:172])
+LAYOUT SIDEBOARD:(1,5)(COLOR,false,100)|([LEB:300],[LEB:302])([LRW:139])([ROE:165],[A25:136],[V14:10],[ZEN:119])([M13:22],[ISD:6],[M12:12],[BFZ:29])([CNS:42],[CON:113],[APC:130],[GRN:174])

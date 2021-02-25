@@ -1,0 +1,49 @@
+1 [NPH:161] Sword of War and Peace
+1 [TSB:55] Avalanche Riders
+1 [RIX:99] Dire Fleet Daredevil
+1 [KTK:248] Windswept Heath
+1 [M19:152] Lightning Strike
+6 [UNH:139] Mountain
+1 [DKA:93] Hellrider
+1 [AKH:134] Glorybringer
+1 [AVR:36] Silverblade Paladin
+1 [MBS:14] Mirran Crusader
+6 [UNH:136] Plains
+1 [NPH:19] Porcelain Legionnaire
+1 [GRN:254] Sacred Foundry
+1 [ULG:14] Mother of Runes
+1 [RIX:21] Skymarcher Aspirant
+1 [KLD:110] Chandra, Torch of Defiance
+1 [RIX:111] Rekindling Phoenix
+1 [NPH:153] Shrine of Burning Rage
+1 [TMP:183] Jackal Pup
+1 [OGW:175] Needle Spires
+1 [ZEN:119] Burst Lightning
+1 [HOU:83] Abrade
+1 [TSP:176] Rift Bolt
+1 [KTK:230] Bloodstained Mire
+1 [CM2:98] Fiery Confluence
+1 [ORI:23] Kytheon, Hero of Akros
+1 [EVE:139] Figure of Destiny
+1 [LEG:137] Chain Lightning
+1 [JOU:94] Eidolon of the Great Revel
+1 [XLN:1] Adanto Vanguard
+SB: 1 [WWK:141] Raging Ravine
+SB: 1 [ULG:49] Bone Shredder
+SB: 1 [DOM:26] Lyra Dawnbringer
+SB: 1 [3ED:282] Badlands
+SB: 1 [RTR:141] Abrupt Decay
+SB: 1 [PLC:85] Damnation
+SB: 1 [WWK:139] Lavaclaw Reaches
+SB: 1 [CM2:94] Dualcaster Mage
+SB: 1 [M15:134] Chandra, Pyromaster
+SB: 1 [MOR:22] Reveillark
+SB: 1 [M13:150] Thundermaw Hellkite
+SB: 1 [NPH:33] Deceiver Exarch
+SB: 1 [PLS:60] Flametongue Kavu
+SB: 1 [SOM:94] Koth of the Hammer
+SB: 1 [VIS:79] Fireblast
+SB: 1 [V14:2] Burning of Xinye
+SB: 1 [ISD:127] Ancient Grudge
+LAYOUT MAIN:(1,6)(CMC,false,51)|([OGW:175],[KTK:230],[GRN:254],[KTK:248],[UNH:139],[UNH:139],[UNH:139],[UNH:139],[UNH:139],[UNH:139],[UNH:136],[UNH:136],[UNH:136],[UNH:136],[UNH:136],[UNH:136])([TMP:183],[EVE:139],[LEG:137],[ZEN:119],[TSP:176],[RIX:21],[ULG:14],[ORI:23])([RIX:99],[M19:152],[JOU:94],[NPH:153],[HOU:83],[NPH:19],[XLN:1])([NPH:161],[AVR:36],[MBS:14])([CM2:98],[RIX:111],[DKA:93],[TSB:55],[KLD:110])([AKH:134])
+LAYOUT SIDEBOARD:(1,6)(CMC,false,50)|([WWK:141],[WWK:139],[3ED:282])([ISD:127],[RTR:141])([NPH:33],[ULG:49],[CM2:94])([PLC:85],[PLS:60],[M15:134],[SOM:94])([DOM:26],[MOR:22],[M13:150])([V14:2],[VIS:79])

@@ -1,0 +1,54 @@
+1 [AKH:134] Glorybringer
+1 [M13:150] Thundermaw Hellkite
+1 [XLN:179] Carnage Tyrant
+1 [ELD:171] Questing Beast
+1 [ORI:157] Pia and Kiran Nalaar
+1 [ZEN:172] Oracle of Mul Daya
+1 [SOM:94] Koth of the Hammer
+1 [DKA:93] Hellrider
+1 [AKH:136] Hazoret the Fervent
+1 [KLD:110] Chandra, Torch of Defiance
+1 [RAV:117] Char
+1 [BNG:119] Courser of Kruphix
+1 [ELD:122] Embereth Shieldbreaker
+1 [M15:145] Goblin Rabblemaster
+1 [TSP:216] Search for Tomorrow
+1 [CHK:239] Sakura-Tribe Elder
+1 [DIS:165] Rakdos Signet
+1 [M19:152] Lightning Strike
+1 [RIX:99] Dire Fleet Daredevil
+1 [ICE:244] Fyndhorn Elves
+1 [M15:173] Elvish Mystic
+1 [LEG:137] Chain Lightning
+1 [M19:130] Banefire
+1 [2ED:262] Mox Emerald
+1 [2ED:263] Mox Jet
+1 [MH1:244] Prismatic Vista
+1 [RNA:259] Stomping Ground
+1 [4ED:363] Strip Mine
+5 [UST:216] Forest
+7 [UST:215] Mountain
+SB: 1 [KLD:199] Bomat Courier
+SB: 1 [WAR:180] Vivien, Champion of the Wilds
+SB: 1 [WWK:115] Terastodon
+SB: 1 [SOM:228] Razorverge Thicket
+SB: 1 [DTK:181] Den Protector
+SB: 1 [USG:309] Smokestack
+SB: 1 [ROE:165] Splinter Twin
+SB: 1 [FUT:101] Magus of the Moon
+SB: 1 [GRN:183] Knight of Autumn
+SB: 1 [WAR:160] Finale of Devastation
+SB: 1 [10E:61] Wrath of God
+SB: 1 [M12:12] Day of Judgment
+SB: 1 [ISD:170] Avacyn's Pilgrim
+SB: 1 [SCG:106] Sulfuric Vortex
+SB: 1 [NPH:153] Shrine of Burning Rage
+SB: 1 [PUMA:U22] Leovold, Emissary of Trest
+SB: 1 [M11:153] Pyretic Ritual
+SB: 2 [AKH:268] Forest
+SB: 2 [AKH:269] Forest
+SB: 4 [AKH:266] Mountain
+SB: 3 [AKH:253] Mountain
+SB: 1 [AKH:265] Mountain
+LAYOUT MAIN:(1,7)(CMC,false,56)|([2ED:262],[2ED:263],[MH1:244],[RNA:259],[4ED:363],[UST:216],[UST:216],[UST:216],[UST:216],[UST:216],[UST:215],[UST:215],[UST:215],[UST:215],[UST:215],[UST:215],[UST:215])([ICE:244],[M15:173],[LEG:137],[M19:130])([CHK:239],[DIS:165],[M19:152],[RIX:99])([RAV:117],[BNG:119],[ELD:122],[M15:145],[TSP:216])([ELD:171],[ORI:157],[ZEN:172],[SOM:94],[DKA:93],[AKH:136],[KLD:110])([AKH:134],[M13:150])([XLN:179])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,61)|([ISD:170],[KLD:199],[M12:12],[DTK:181],[WAR:160],[GRN:183],[PUMA:U22],[FUT:101],[M11:153],[SOM:228],[NPH:153],[USG:309],[ROE:165],[SCG:106],[WWK:115],[WAR:180],[10E:61])

@@ -1,0 +1,55 @@
+2021
+1.31.21
+1 [2ED:53] Control Magic
+1 [IKO:59] Neutralize
+1 [THS:90] Hero's Downfall
+1 [SLD:510] Liliana, Dreadhorde General
+1 [KTK:249] Wooded Foothills
+1 [KLD:244] Botanical Sanctum
+1 [ELD:288] Order of Midnight
+1 [THB:208] Ashiok, Nightmare Muse
+1 [MH1:249] Waterlogged Grove
+1 [LEB:279] Bayou
+1 [3ED:187] Birds of Paradise
+1 [ELD:287] Murderous Rider
+1 [RNA:183] Hydroid Krasis
+1 [ZNR:90] Agadeem's Awakening
+1 [C16:114] Languish
+1 [M20:68] Mu Yanling, Sky Dancer
+1 [ONS:313] Bloodstained Mire
+1 [RTR:241] Hallowed Fountain
+1 [RIX:82] Ravenous Chupacabra
+1 [DOM:81] Cast Down
+1 [MH1:243] Nurturing Peatland
+1 [DDJ:47] Elves of Deep Shadow
+1 [MH1:161] Deep Forest Hermit
+1 [EMA:169] Green Sun's Zenith
+1 [WAR:171] Paradise Druid
+1 [MED:GR8] Vraska, Golgari Queen
+1 [C20:136] Shriekmaw
+1 [MBS:43] Go for the Throat
+1 [IKO:319] Shark Typhoon
+1 [DDM:26] Remand
+1 [M21:395] Eliminate
+1 [ISD:241] Hinterland Harbor
+1 [2ED:300] Forest
+1 [2ED:301] Forest
+2 [2ED:292] Island
+1 [2ED:296] Swamp
+1 [2ED:295] Swamp
+2 [2ED:294] Swamp
+SB: 1 [AER:140] Winding Constrictor
+SB: 1 [GTC:245] Sacred Foundry
+SB: 1 [AKH:14] Gideon of the Trials
+SB: 1 [WWK:118] Wolfbriar Elemental
+SB: 1 [AVR:149] Pillar of Flame
+SB: 1 [WAR:17] Grateful Apparition
+SB: 1 [DOM:207] Teferi, Hero of Dominaria
+SB: 1 [BFZ:29] Gideon, Ally of Zendikar
+SB: 1 [M12:40] Timely Reinforcements
+SB: 1 [DOM:14] Dauntless Bodyguard
+SB: 1 [WAR:184*] Ajani, the Greathearted
+SB: 1 [RNA:245] Blood Crypt
+SB: 1 [MH1:187] Trumpeting Herd
+LAYOUT MAIN:(1,7)(CMC,false,67)|([LEB:279],[ONS:313],[KLD:244],[RTR:241],[ISD:241],[MH1:243],[MH1:249],[KTK:249],[ZNR:90],[2ED:300],[2ED:301],[2ED:292],[2ED:292],[2ED:296],[2ED:295],[2ED:294],[2ED:294])([3ED:187],[DDJ:47],[EMA:169])([DOM:81],[M21:395],[MBS:43],[WAR:171],[DDM:26],[ELD:288])([THS:90],[M20:68],[IKO:59],[ELD:287])([2ED:53],[C16:114],[RIX:82],[MED:GR8],[RNA:183])([THB:208],[MH1:161],[C20:136])([SLD:510],[IKO:319])
+LAYOUT SIDEBOARD:(1,5)(COLOR,false,50)|([GTC:245],[RNA:245])([WWK:118],[MH1:187])([AVR:149])([AKH:14],[BFZ:29],[WAR:17],[M12:40],[DOM:14])([DOM:207],[AER:140],[WAR:184*])

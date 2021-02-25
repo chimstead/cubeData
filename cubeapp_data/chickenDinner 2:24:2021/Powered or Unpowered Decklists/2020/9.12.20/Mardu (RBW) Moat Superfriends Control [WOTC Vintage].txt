@@ -1,0 +1,50 @@
+1 [ARN:76] Library of Alexandria
+1 [CHK:268] Sensei's Divining Top
+1 [CON:15] Path to Exile
+1 [ODY:193] Firebolt
+1 [M20:14] Disenchant
+1 [EMN:40] Selfless Spirit
+1 [DIS:159] Azorius Signet
+1 [RAV:213] Lightning Helix
+1 [MB1:206] Recruiter of the Guard
+1 [VMA:20] Council's Judgment
+1 [MEDM:GR3] Daretti, Ingenious Iconoclast
+1 [SOI:242] Anguished Unmaking
+1 [BFZ:29] Gideon, Ally of Zendikar
+1 [ALA:9] Elspeth, Knight-Errant
+1 [ALA:154] Ajani Vengeant
+1 [10E:61] Wrath of God
+1 [KLD:110] Chandra, Torch of Defiance
+1 [LEG:28] Moat
+1 [ORI:157] Pia and Kiran Nalaar
+1 [KLD:4] Angel of Invention
+1 [THS:9] Elspeth, Sun's Champion
+1 [GRN:254] Sacred Foundry
+1 [KTK:239] Polluted Delta
+1 [3ED:282] Badlands
+1 [LEG:303] Karakas
+1 [KTK:233] Flooded Strand
+1 [SOM:224] Blackcleave Cliffs
+1 [KTK:248] Windswept Heath
+1 [KTK:230] Bloodstained Mire
+1 [RNA:248] Godless Shrine
+1 [WWK:20] Stoneforge Mystic
+1 [SOM:208] Sword of Body and Mind
+1 [RNA:251] Hallowed Fountain
+2 [GUR:3] Mountain
+4 [GUR:4] Plains
+1 [GUR:5] Swamp
+SB: 1 [LEG:65] Mana Drain
+SB: 1 [XLN:1] Adanto Vanguard
+SB: 1 [JR:109] Imperial Seal
+SB: 1 [RIX:99] Dire Fleet Daredevil
+SB: 1 [ELD:235] Stonecoil Serpent
+SB: 1 [ELD:110] Wishclaw Talisman
+SB: 1 [GRN:207] Thousand-Year Storm
+SB: 1 [RNA:27] Tithe Taker
+SB: 1 [KLD:13] Fairgrounds Warden
+SB: 1 [DOM:207] Teferi, Hero of Dominaria
+SB: 1 [ELD:281] Brazen Borrower
+SB: 1 [OGW:182] Wandering Fumarole
+LAYOUT MAIN:(1,8)(CMC,false,80)|([GUR:3],[GUR:3],[GUR:4],[GUR:4],[GUR:4],[GUR:4],[GUR:5])([3ED:282],[SOM:224],[KTK:230],[KTK:233],[RNA:248],[RNA:251],[LEG:303],[ARN:76],[KTK:239],[GRN:254],[KTK:248])([ODY:193],[CON:15],[CHK:268])([DIS:159],[M20:14],[RAV:213],[EMN:40],[WWK:20])([SOI:242],[VMA:20],[MEDM:GR3],[MB1:206],[SOM:208])([ALA:154],[KLD:110],[ALA:9],[BFZ:29],[LEG:28],[ORI:157],[10E:61])([KLD:4])([THS:9])
+LAYOUT SIDEBOARD:(1,6)(CMC,false,70)|([ELD:235],[OGW:182])([JR:109])([LEG:65],[XLN:1],[RIX:99],[ELD:110],[RNA:27])([KLD:13])([DOM:207],[ELD:281])([GRN:207])

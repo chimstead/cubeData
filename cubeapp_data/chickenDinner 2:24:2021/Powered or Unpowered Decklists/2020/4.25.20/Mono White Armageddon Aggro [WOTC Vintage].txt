@@ -1,0 +1,50 @@
+1 [ALA:9] Elspeth, Knight-Errant
+1 [TMP:315] Ancient Tomb
+1 [MH1:246] Silent Clearing
+1 [DOM:14] Dauntless Bodyguard
+1 [M15:225] Phyrexian Revoker
+1 [THS:32] Soldier of the Pantheon
+1 [KLD:235] Smuggler's Copter
+1 [MH1:13] Giver of Runes
+1 [MH1:247] Sunbaked Canyon
+1 [CMA:27] Unexpectedly Absent
+1 [DDL:3] Figure of Destiny
+1 [ROE:47] Student of Warfare
+1 [CMA:17] Mother of Runes
+1 [CHK:19] Isamaru, Hound of Konda
+1 [5DN:126] Grafted Wargear
+1 [GK1:111] Dryad Militant
+1 [MPS:29] Sword of Fire and Ice
+1 [EMA:248] Wasteland
+1 [M14:22] Imposing Sovereign
+1 [V17:13a] Kytheon, Hero of Akros
+1 [M14:228] Mutavault
+1 [EMN:40] Selfless Spirit
+1 [V16:14] Umezawa's Jitte
+1 [CN2:18] Palace Jailer
+1 [RIX:21] Skymarcher Aspirant
+1 [PTK:17] Ravages of War
+1 [A25:242] Mishra's Factory
+1 [RNA:27] Tithe Taker
+1 [MBS:1] Accorder Paladin
+1 [XLN:1] Adanto Vanguard
+1 [ISD:6] Champion of the Parish
+4 [LEB:288] Plains
+3 [LEB:290] Plains
+2 [LEB:289] Plains
+SB: 1 [MH1:230] Talisman of Conviction
+SB: 1 [DDO:1] Elspeth, Sun's Champion
+SB: 1 [AER:87] Kari Zev, Skyship Raider
+SB: 1 [MM3:122] Craterhoof Behemoth
+SB: 1 [MMA:59] Pestermite
+SB: 1 [HOU:83] Abrade
+SB: 1 [MH1:249] Waterlogged Grove
+SB: 1 [MM2:134] Wildfire
+SB: 1 [EMA:241] Maze of Ith
+SB: 1 [MM2:129] Splinter Twin
+SB: 1 [2ED:85] Timetwister
+SB: 1 [CMA:157] Titania, Protector of Argoth
+SB: 1 [ORI:244] Battlefield Forge
+SB: 1 [ELD:335] Charming Prince
+LAYOUT MAIN:(1,5)(CMC,false,70)|([TMP:315],[MH1:246],[MH1:247],[EMA:248],[M14:228],[A25:242],[LEB:288],[LEB:288],[LEB:290],[LEB:289],[LEB:288],[LEB:289],[LEB:290],[LEB:288],[LEB:290])([DOM:14],[THS:32],[MH1:13],[DDL:3],[ROE:47],[CMA:17],[CHK:19],[GK1:111],[V17:13a],[RIX:21],[ISD:6])([M15:225],[KLD:235],[CMA:27],[M14:22],[EMN:40],[V16:14],[RNA:27],[MBS:1],[XLN:1])([5DN:126],[MPS:29])([ALA:9],[CN2:18],[PTK:17])
+LAYOUT SIDEBOARD:(1,5)(COLOR,false,70)|([MH1:230],[MH1:249],[EMA:241])([MMA:59],[2ED:85])([MM3:122],[CMA:157])([AER:87],[HOU:83],[MM2:134],[MM2:129])([DDO:1],[ELD:335])

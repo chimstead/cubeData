@@ -1,0 +1,37 @@
+2 Forest
+3 Plains
+1 Mountain
+1 Battlefield Forge
+1 Flooded Strand
+1 Horizon Canopy
+1 Karakas
+1 Mana Confluence
+1 Savannah
+1 Stomping Ground
+1 Taiga
+1 Temple Garden
+1 Treetop Village
+1 Verdant Catacombs
+1 Skullclamp
+1 Swords to Plowshares
+1 Fauna Shaman
+1 Kari Zev, Skyship Raider
+1 Qasali Pridemage
+1 Regrowth
+1 Scavenging Ooze
+1 Stoneforge Mystic
+1 Umezawa's Jitte
+1 Wall of Roots
+1 Winter Orb
+1 Courser of Kruphix
+1 Flickerwisp
+1 Gideon of the Trials
+1 Goblin Rabblemaster
+1 Manglehorn
+1 Recruiter of the Guard
+1 Elspeth, Knight-Errant
+1 Garruk Wildspeaker
+1 Gideon, Ally of Zendikar
+1 Palace Jailer
+1 Acidic Slime
+1 Reveillark

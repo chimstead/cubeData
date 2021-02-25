@@ -1,0 +1,49 @@
+1 [RAV:270] Selesnya Signet
+1 [ALA:9] Elspeth, Knight-Errant
+1 [M13:174] Garruk, Primal Hunter
+1 [TSP:216] Search for Tomorrow
+1 [M13:160] Arbor Elf
+1 [SHM:110] Devoted Druid
+1 [NPH:9] Elesh Norn, Grand Cenobite
+1 [SOI:5] Archangel Avacyn
+1 [AER:181] Walking Ballista
+1 [ISD:170] Avacyn's Pilgrim
+1 [ELD:171] Questing Beast
+1 [WAR:169] Nissa, Who Shakes the World
+1 [AVR:172] Craterhoof Behemoth
+1 [DOM:26] Lyra Dawnbringer
+1 [M19:208] Vivien Reid
+1 [M12:165] Birds of Paradise
+1 [FRF:145] Whisperwood Elemental
+1 [RAV:161] Elves of Deep Shadow
+1 [ZEN:13] Iona, Shield of Emeria
+1 [KLD:4] Angel of Invention
+1 [BFZ:29] Gideon, Ally of Zendikar
+1 [GPT:150] Gruul Signet
+1 [XLN:179] Carnage Tyrant
+1 [2ED:262] Mox Emerald
+1 [3ED:285] Savannah
+1 [M14:228] Mutavault
+1 [LEG:303] Karakas
+1 [MB1:1603] Mana Crypt
+1 [GRN:258] Temple Garden
+7 [THB:254] Forest
+4 [THB:250] Plains
+SB: 1 [DTK:181] Den Protector
+SB: 1 [EVE:6] Flickerwisp
+SB: 1 [WAR:13] Gideon Blackblade
+SB: 1 [M13:22] Oblivion Ring
+SB: 1 [BFZ:239] Lumbering Falls
+SB: 1 [LEG:185] Eureka
+SB: 1 [EXO:129] Survival of the Fittest
+SB: 1 [THB:4] Banishing Light
+SB: 1 [MIR:307] Lion's Eye Diamond
+SB: 1 [10E:61] Wrath of God
+SB: 1 [BBD:25] Brightling
+SB: 1 [WWK:108] Nature's Claim
+SB: 1 [6ED:19] Enlightened Tutor
+SB: 1 [MH1:37] Winds of Abandon
+SB: 1 [LRW:233] Primal Command
+SB: 1 [5ED:329] Sylvan Library
+LAYOUT MAIN:(1,6)(CMC,false,62)|([2ED:262],[3ED:285],[M14:228],[LEG:303],[MB1:1603],[GRN:258],[THB:254],[THB:254],[THB:254],[THB:254],[THB:254],[THB:254],[THB:254],[THB:250],[THB:250],[THB:250],[THB:250])([M13:160],[ISD:170],[M12:165],[RAV:161],[TSP:216])([RAV:270],[SHM:110],[GPT:150])([ALA:9],[ELD:171],[BFZ:29])([M13:174],[SOI:5],[WAR:169],[DOM:26],[M19:208],[FRF:145],[KLD:4])([AVR:172],[NPH:9],[AER:181],[XLN:179],[ZEN:13])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,61)|([THB:4],[BBD:25],[DTK:181],[6ED:19],[LEG:185],[EVE:6],[WAR:13],[MIR:307],[BFZ:239],[WWK:108],[M13:22],[LRW:233],[EXO:129],[5ED:329],[MH1:37],[10E:61])

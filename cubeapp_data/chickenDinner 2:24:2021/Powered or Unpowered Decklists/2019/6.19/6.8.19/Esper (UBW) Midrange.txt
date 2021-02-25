@@ -1,0 +1,49 @@
+1 [ICE:54] Swords to Plowshares
+1 [XLN:110] Kitesail Freebooter
+1 [RAV:260] Dimir Signet
+1 [GPT:155] Orzhov Signet
+1 [AER:62] Glint-Sleeve Siphoner
+1 [MBS:43] Go for the Throat
+1 [EVE:6] Flickerwisp
+1 [M13:22] Oblivion Ring
+1 [ORI:106] Liliana, Heretical Healer
+1 [GPT:134] Teysa, Orzhov Scion
+1 [SHM:229] Kitchen Finks
+1 [DKA:12] Lingering Souls
+1 [CN2:18] Palace Jailer
+1 [AVR:32] Restoration Angel
+1 [KLD:84] Gonti, Lord of Luxury
+1 [XLN:223] Hostage Taker
+1 [EMA:198] Brago, King Eternal
+1 [CMA:74] Wretched Confluence
+1 [CN2:41] Custodi Lich
+1 [M13:8] Captain of the Watch
+1 [SOI:242] Anguished Unmaking
+1 [TOR:57] Chainer's Edict
+1 [SOM:78] Skinrender
+1 [8ED:322] City of Brass
+1 [SOI:270] Choked Estuary
+1 [DOM:241] Isolated Chapel
+1 [SOI:278] Port Town
+1 [ORI:245] Caves of Koilos
+6 [UNH:136] Plains
+6 [UNH:138] Swamp
+SB: 1 [NPH:35] Gitaxian Probe
+SB: 1 [KTK:36] Dig Through Time
+SB: 1 [ZEN:48] Into the Roil
+SB: 1 [ROE:85] Sea Gate Oracle
+SB: 1 [FRF:72] Gurmag Angler
+SB: 1 [CMA:27] Unexpectedly Absent
+SB: 1 [ULG:80] Goblin Welder
+SB: 1 [TMP:179] Goblin Bombardment
+SB: 1 [SOI:272] Foreboding Ruins
+SB: 1 [DKA:11] Increasing Devotion
+SB: 1 [M14:22] Imposing Sovereign
+SB: 1 [SCG:59] Carrion Feeder
+SB: 1 [USG:309] Smokestack
+SB: 1 [AER:129] Hidden Stockpile
+SB: 1 [AVR:36] Silverblade Paladin
+SB: 1 [RTR:165] Grisly Salvage
+SB: 1 [DTK:169] Zurgo Bellstriker
+LAYOUT MAIN:(1,7)(CMC,false,51)|([ORI:245],[SOI:270],[8ED:322],[DOM:241],[UNH:136],[UNH:136],[UNH:136],[UNH:136],[UNH:136],[UNH:136],[SOI:278],[UNH:138],[UNH:138],[UNH:138],[UNH:138],[UNH:138],[UNH:138])([ICE:54])([TOR:57],[RAV:260],[AER:62],[MBS:43],[XLN:110],[GPT:155])([SOI:242],[EVE:6],[SHM:229],[ORI:106],[DKA:12],[M13:22],[GPT:134])([EMA:198],[KLD:84],[XLN:223],[CN2:18],[AVR:32],[SOM:78])([CN2:41],[CMA:74])([M13:8])
+LAYOUT SIDEBOARD:(1,8)(CMC,false,50)|([SOI:272])([NPH:35],[ULG:80],[SCG:59],[DTK:169])([ZEN:48],[CMA:27],[TMP:179],[M14:22],[AER:129],[RTR:165])([ROE:85],[AVR:36])([USG:309])([DKA:11])([FRF:72])([KTK:36])

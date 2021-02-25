@@ -1,0 +1,52 @@
+1 [ELD:287] Murderous Rider
+1 [ROE:115] Inquisition of Kozilek
+1 [LEB:116] Mind Twist
+1 [DST:140] Skullclamp
+1 [DIS:99] Utopia Sprawl
+1 [CON:15] Path to Exile
+1 [ROE:190] Joraga Treespeaker
+1 [M14:195] Scavenging Ooze
+1 [LEG:207] Sylvan Library
+1 [MOR:58] Bitterblossom
+1 [MBS:43] Go for the Throat
+1 [WAR:171] Paradise Druid
+1 [RAV:81] Dark Confidant
+1 [WWK:20] Stoneforge Mystic
+1 [MH1:37] Winds of Abandon
+1 [EMN:93] Liliana, the Last Hope
+1 [APC:126] Vindicate
+1 [MH1:100] Plague Engineer
+1 [THB:4] Banishing Light
+1 [ELD:101] Rankle, Master of Pranks
+1 [ELD:171] Questing Beast
+1 [MH1:161] Deep Forest Hermit
+1 [M13:193] Thragtusk
+1 [M19:208] Vivien Reid
+1 [LEB:279] Bayou
+1 [GTC:242] Godless Shrine
+1 [ZEN:211] Arid Mesa
+1 [ELD:244] Fabled Passage
+1 [OGW:171] Hissing Quagmire
+1 [BFZ:244] Shambling Vent
+1 [IMA:240] Horizon Canopy
+1 [3ED:306] Forest
+2 [3ED:305] Forest
+3 [3ED:304] Forest
+1 [3ED:293] Plains
+2 [3ED:299] Swamp
+SB: 1 [EXO:72] Recurring Nightmare
+SB: 1 [PLS:60] Flametongue Kavu
+SB: 1 [LRW:133] Oona's Prowler
+SB: 1 [VIS:64] Necromancy
+SB: 1 [XLN:34] Settle the Wreckage
+SB: 1 [MH1:217] Wrenn and Six
+SB: 1 [ODY:132] Entomb
+SB: 1 [M12:12] Day of Judgment
+SB: 1 [EMA:108] Toxic Deluge
+SB: 1 [C14:5] Containment Priest
+SB: 1 [APC:130] Life // Death
+SB: 1 [MIR:307] Lion's Eye Diamond
+SB: 1 [TSP:259] Lotus Bloom
+SB: 1 [THS:90] Hero's Downfall
+LAYOUT MAIN:(1,6)(CMC,false,50)|([LEB:279],[GTC:242],[ZEN:211],[ELD:244],[OGW:171],[BFZ:244],[IMA:240],[3ED:306],[3ED:305],[3ED:304],[3ED:304],[3ED:304],[3ED:305],[3ED:293],[3ED:299],[3ED:299])([ROE:115],[LEB:116],[DST:140],[DIS:99],[CON:15],[ROE:190])([M14:195],[LEG:207],[MOR:58],[MBS:43],[WAR:171],[RAV:81],[WWK:20],[MH1:37])([EMN:93],[APC:126],[MH1:100],[THB:4],[ELD:287])([ELD:101],[ELD:171])([MH1:161],[M13:193],[M19:208])
+LAYOUT SIDEBOARD:(1,5)(CMC,false,50)|([MIR:307],[TSP:259])([ODY:132])([LRW:133],[MH1:217],[C14:5])([EXO:72],[VIS:64],[EMA:108],[APC:130],[THS:90])([PLS:60],[XLN:34],[M12:12])

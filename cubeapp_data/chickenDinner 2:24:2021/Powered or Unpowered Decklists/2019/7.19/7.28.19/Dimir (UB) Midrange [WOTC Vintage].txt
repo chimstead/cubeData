@@ -1,0 +1,54 @@
+1 [FUT:161] Coalition Relic
+1 [M12:98] Grave Titan
+1 [NPH:33] Deceiver Exarch
+1 [FRF:87] Tasigur, the Golden Fang
+1 [ROE:115] Inquisition of Kozilek
+1 [FEM:38a] Hymn to Tourach
+1 [5DN:55] Night's Whisper
+1 [NPH:73] Sheoldred, Whispering One
+1 [XLN:129] Vraska's Contempt
+1 [KLD:84] Gonti, Lord of Luxury
+1 [ULG:126] Grim Monolith
+1 [MBS:138] Sword of Feast and Famine
+1 [AER:57] Fatal Push
+1 [TSP:73] Riftwing Cloudskate
+1 [M15:225] Phyrexian Revoker
+1 [HOU:145] The Scarab God
+1 [EMN:85] Collective Brutality
+1 [GRN:69] Doom Whisperer
+1 [XLN:81] Spell Pierce
+1 [LRW:78] Pestermite
+1 [ODY:113] Upheaval
+1 [EMA:108] Toxic Deluge
+1 [TSP:48] Ancestral Vision
+1 [2ED:264] Mox Pearl
+1 [3ED:290] Underground Sea
+1 [GRN:259] Watery Grave
+1 [KTK:239] Polluted Delta
+3 [M12:234] Island
+1 [M12:235] Island
+1 [M12:236] Island
+2 [M12:240] Swamp
+4 [M12:238] Swamp
+1 [M12:239] Swamp
+1 [M12:241] Swamp
+SB: 1 [FUT:101] Magus of the Moon
+SB: 1 [THS:209] Xenagos, the Reveler
+SB: 1 [AKH:134] Glorybringer
+SB: 1 [STH:125] Wall of Blossoms
+SB: 1 [ROE:53] Wall of Omens
+SB: 1 [MEDM:GR3] Daretti, Ingenious Iconoclast
+SB: 1 [FRF:145] Whisperwood Elemental
+SB: 1 [ISD:181] Garruk Relentless
+SB: 1 [SOI:247] Nahiri, the Harbinger
+SB: 1 [3ED:288] Tropical Island
+SB: 1 [WWK:139] Lavaclaw Reaches
+SB: 1 [SOM:224] Blackcleave Cliffs
+SB: 1 [GRN:257] Steam Vents
+SB: 1 [KLD:246] Inspiring Vantage
+SB: 1 [TMP:142] Living Death
+SB: 1 [SHM:75] Puppeteer Clique
+SB: 1 [SOM:208] Sword of Body and Mind
+SB: 1 [USG:134] Exhume
+LAYOUT MAIN:(1,9)(CMC,false,50)|([2ED:264],[3ED:290],[GRN:259],[KTK:239],[M12:234],[M12:234],[M12:235],[M12:236],[M12:234],[M12:240],[M12:238],[M12:239],[M12:238],[M12:238],[M12:241],[M12:240],[M12:238])([ROE:115],[AER:57],[XLN:81])([FEM:38a],[5DN:55],[ULG:126],[M15:225],[EMN:85])([FUT:161],[NPH:33],[MBS:138],[LRW:78],[EMA:108])([XLN:129],[KLD:84])([TSP:73],[HOU:145],[GRN:69])([M12:98],[FRF:87],[ODY:113])([TSP:48])([NPH:73])
+LAYOUT SIDEBOARD:(1,7)(COLOR,false,50)|([SOM:208])([TMP:142],[SHM:75],[USG:134])([STH:125],[FRF:145],[ISD:181])([FUT:101],[AKH:134])([ROE:53])([THS:209],[MEDM:GR3],[SOI:247])([3ED:288],[WWK:139],[SOM:224],[GRN:257],[KLD:246])

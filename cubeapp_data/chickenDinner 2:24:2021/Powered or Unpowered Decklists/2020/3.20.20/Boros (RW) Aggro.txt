@@ -1,0 +1,52 @@
+1 [WWK:20] Stoneforge Mystic
+1 [GRN:115] Runaway Steam-Kin
+1 [EMN:130a] Hanweir Garrison
+1 [AKH:148] Soul-Scar Mage
+1 [LEG:137] Chain Lightning
+1 [WAR:137] Krenko, Tin Street Kingpin
+1 [M12:146] Incinerate
+1 [RTR:220] Rakdos Cackler
+1 [GTC:148] Boros Charm
+1 [M15:145] Goblin Rabblemaster
+1 [PCA:39] Arc Trail
+1 [DST:148] Sword of Fire and Ice
+1 [NEM:17] Parallax Wave
+1 [CM2:98] Fiery Confluence
+1 [THB:148] Phoenix of Ash
+1 [KLD:124] Pia Nalaar
+1 [SOM:94] Koth of the Hammer
+1 [ORI:157] Pia and Kiran Nalaar
+1 [DTK:169] Zurgo Bellstriker
+1 [RAV:213] Lightning Helix
+1 [NPH:153] Shrine of Burning Rage
+1 [EVE:139] Figure of Destiny
+1 [SOI:155] Falkenrath Gorger
+1 [EMA:33] Unexpectedly Absent
+1 [MH1:244] Prismatic Vista
+1 [ZEN:211] Arid Mesa
+1 [MH1:247] Sunbaked Canyon
+1 [GRN:254] Sacred Foundry
+1 [JOU:163] Mana Confluence
+1 [OGW:175] Needle Spires
+3 [3ED:303] Mountain
+2 [3ED:302] Mountain
+2 [3ED:301] Mountain
+2 [3ED:293] Plains
+1 [3ED:294] Plains
+SB: 1 [E01:80] Baleful Strix
+SB: 1 [THS:180] Sylvan Caryatid
+SB: 1 [LRW:88] Sower of Temptation
+SB: 1 [M14:195] Scavenging Ooze
+SB: 1 [TSB:89] Wall of Roots
+SB: 1 [10E:354] Karplusan Forest
+SB: 1 [GRN:152] Assassin's Trophy
+SB: 1 [BBD:1] Will Kenrith
+SB: 1 [DKA:140] Huntmaster of the Fells
+SB: 1 [CHK:19] Isamaru, Hound of Konda
+SB: 1 [M14:22] Imposing Sovereign
+SB: 1 [THB:12] Eidolon of Obstruction
+SB: 1 [ELD:335] Charming Prince
+SB: 1 [GRN:99] Experimental Frenzy
+SB: 1 [AER:142] Aethersphere Harvester
+LAYOUT MAIN:(1,5)(CMC,false,50)|([MH1:244],[ZEN:211],[MH1:247],[GRN:254],[JOU:163],[OGW:175],[3ED:303],[3ED:302],[3ED:301],[3ED:302],[3ED:303],[3ED:301],[3ED:303],[3ED:293],[3ED:293],[3ED:294])([AKH:148],[LEG:137],[RTR:220],[DTK:169],[EVE:139],[SOI:155])([WWK:20],[GRN:115],[M12:146],[GTC:148],[PCA:39],[RAV:213],[NPH:153],[EMA:33])([EMN:130a],[WAR:137],[M15:145],[DST:148],[THB:148],[KLD:124])([NEM:17],[CM2:98],[SOM:94],[ORI:157])
+LAYOUT SIDEBOARD:(1,6)(CMC,false,50)|([10E:354])([CHK:19])([E01:80],[THS:180],[M14:195],[TSB:89],[GRN:152],[M14:22],[THB:12],[ELD:335])([AER:142])([LRW:88],[DKA:140],[GRN:99])([BBD:1])

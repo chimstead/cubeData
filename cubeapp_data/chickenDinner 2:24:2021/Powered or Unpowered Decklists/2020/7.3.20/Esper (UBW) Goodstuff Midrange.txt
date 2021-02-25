@@ -1,0 +1,54 @@
+1 [RAV:63] Remand
+1 [MRD:257] Talisman of Unity
+1 [CMD:17] Journey to Nowhere
+1 [MRD:253] Talisman of Dominance
+1 [DKA:12] Lingering Souls
+1 [MH1:100] Plague Engineer
+1 [A25:219] Vindicate
+1 [MM2:67] Vendilion Clique
+1 [EMA:42] Control Magic
+1 [DDF:1] Elspeth, Knight-Errant
+1 [XLN:223] Hostage Taker
+1 [ORI:83] Whirler Rogue
+1 [LRW:88] Sower of Temptation
+1 [C17:37] Fractured Identity
+1 [5DN:27] Condescend
+1 [PLC:25] Mana Tithe
+1 [CON:15] Path to Exile
+1 [ICE:54] Swords to Plowshares
+1 [DST:140] Skullclamp
+1 [LRW:139] Shriekmaw
+1 [SHM:229] Kitchen Finks
+1 [BNG:5] Brimaz, King of Oreskos
+1 [C18:57] Retrofitter Foundry
+1 [A25:236] Ash Barrens
+1 [VMA:323] Underground Sea
+1 [VMA:313] Scrubland
+1 [ZEN:211] Arid Mesa
+1 [GTC:242] Godless Shrine
+1 [VMA:322] Tundra
+1 [KTK:248] Windswept Heath
+1 [3ED:296] Island
+2 [3ED:295] Island
+1 [3ED:297] Island
+3 [3ED:292] Plains
+1 [3ED:293] Plains
+1 [3ED:299] Swamp
+1 [3ED:298] Swamp
+SB: 1 [5ED:413] City of Brass
+SB: 1 [RNA:183] Hydroid Krasis
+SB: 1 [CHK:74] Meloku the Clouded Mirror
+SB: 1 [ORI:157] Pia and Kiran Nalaar
+SB: 1 [THB:151] Purphoros's Intervention
+SB: 1 [RTR:172] Izzet Charm
+SB: 1 [RNA:205] Seraph of the Scales
+SB: 1 [DDR:1] Nissa, Voice of Zendikar
+SB: 1 [M20:22] Hanged Executioner
+SB: 1 [V17:14a] Liliana, Heretical Healer
+SB: 1 [RTR:201] Supreme Verdict
+SB: 1 [AKH:97] Liliana, Death's Majesty
+SB: 1 [THB:305] Nadir Kraken
+SB: 1 [VMA:321] Tropical Island
+SB: 1 [UMA:174] Noble Hierarch
+LAYOUT MAIN:(1,6)(CMC,false,50)|([A25:236],[VMA:323],[VMA:313],[ZEN:211],[GTC:242],[VMA:322],[KTK:248],[3ED:296],[3ED:295],[3ED:297],[3ED:295],[3ED:292],[3ED:293],[3ED:292],[3ED:292],[3ED:299],[3ED:298])([5DN:27],[PLC:25],[CON:15],[ICE:54],[DST:140],[C18:57])([RAV:63],[MRD:257],[CMD:17],[MRD:253])([DKA:12],[MH1:100],[A25:219],[MM2:67],[SHM:229],[BNG:5])([EMA:42],[DDF:1],[XLN:223],[ORI:83],[LRW:88])([C17:37],[LRW:139])
+LAYOUT SIDEBOARD:(1,6)(CMC,false,50)|([5ED:413],[VMA:321])([THB:151],[UMA:174])([RNA:183],[RTR:172])([DDR:1],[M20:22],[V17:14a],[THB:305])([ORI:157],[RNA:205],[RTR:201])([CHK:74],[AKH:97])

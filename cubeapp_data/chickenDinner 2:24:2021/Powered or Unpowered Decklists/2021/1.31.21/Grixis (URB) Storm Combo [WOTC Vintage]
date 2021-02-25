@@ -1,0 +1,50 @@
+1 [GRN:207] Thousand-Year Storm
+1 [ORI:90] Dark Petition
+1 [ROE:115] Inquisition of Kozilek
+1 [M11:70] Preordain
+1 [9ED:216] Seething Song
+1 [TOR:51] Cabal Ritual
+1 [6ED:161] Vampiric Tutor
+1 [ULG:129] Memory Jar
+1 [CHK:163] Desperate Ritual
+1 [M21:96] Duress
+1 [RAV:81] Dark Confidant
+1 [SUM:235] Basalt Monolith
+1 [RAV:260] Dimir Signet
+1 [INV:57] Fact or Fiction
+1 [5ED:388] Mana Vault
+1 [ISD:155] Past in Flames
+1 [SUM:185] Wheel of Fortune
+1 [2XM:270] Mana Crypt
+1 [TSP:259] Lotus Bloom
+1 [M19:130] Banefire
+1 [SCG:41] Mind's Desire
+1 [CHK:268] Sensei's Divining Top
+1 [SUM:290] Underground Sea
+1 [GRN:257] Steam Vents
+1 [2ED:263] Mox Jet
+1 [USG:330] Tolarian Academy
+1 [GRN:259] Watery Grave
+1 [SOM:226] Darkslick Shores
+1 [WWK:139] Lavaclaw Reaches
+1 [SOM:224] Blackcleave Cliffs
+2 [UST:213] Island
+3 [UST:215] Mountain
+2 [UST:214] Swamp
+1 [UDS:75] Yawgmoth's Bargain
+1 [USG:105] Turnabout
+1 [5ED:249] Mana Flare
+SB: 1 [FEM:18a] High Tide
+SB: 1 [ORI:127] Abbot of Keral Keep
+SB: 1 [CON:30] Inkwell Leviathan
+SB: 1 [M13:150] Thundermaw Hellkite
+SB: 1 [KLD:84] Gonti, Lord of Luxury
+SB: 1 [TSB:55] Avalanche Riders
+SB: 1 [OGW:110] Goblin Dark-Dwellers
+SB: 1 [ULG:80] Goblin Welder
+SB: 1 [IKO:366] Heartless Act
+SB: 1 [USG:318] Worn Powerstone
+SB: 1 [WAR:244] Blast Zone
+SB: 1 [GRN:174] Goblin Electromancer
+LAYOUT MAIN:(1,7)(CMC,false,85)|([2XM:270],[TSP:259],[SUM:290],[GRN:257],[2ED:263],[USG:330],[GRN:259],[SOM:226],[WWK:139],[SOM:224],[UST:213],[UST:213],[UST:215],[UST:215],[UST:214],[UST:214],[UST:215])([ROE:115],[M11:70],[6ED:161],[M21:96],[5ED:388],[M19:130],[CHK:268])([TOR:51],[CHK:163],[RAV:81],[RAV:260])([9ED:216],[SUM:235],[SUM:185],[5ED:249])([INV:57],[ISD:155],[USG:105])([ORI:90],[ULG:129])([GRN:207],[SCG:41],[UDS:75])
+LAYOUT SIDEBOARD:(1,5)(COLOR,false,100)|([USG:318],[WAR:244])([KLD:84],[IKO:366])([FEM:18a],[CON:30])([ORI:127],[M13:150],[TSB:55],[OGW:110],[ULG:80])([GRN:174])

@@ -1,3 +1,6 @@
+2017
+12.17
+12.4.17
 5 Swamp
 3 Island
 2 Forest
@@ -31,4 +34,3 @@
 1 Smokestack
 1 Control Magic
 1 Prognostic Sphinx
-

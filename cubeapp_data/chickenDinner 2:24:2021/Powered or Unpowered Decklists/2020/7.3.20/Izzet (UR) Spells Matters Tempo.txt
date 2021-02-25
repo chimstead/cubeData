@@ -1,0 +1,49 @@
+1 [THB:58] Omen of the Sea
+1 [HOU:49] Supreme Will
+1 [M20:54] Cloudkin Seer
+1 [RTR:98] Guttersnipe
+1 [KTK:54] Set Adrift
+1 [M14:163] Young Pyromancer
+1 [GRN:32] Chemister's Insight
+1 [GRN:44] Mission Briefing
+1 [BFZ:85] Scatter to the Winds
+1 [DOM:46] Blink of an Eye
+1 [RTR:172] Izzet Charm
+1 [RNA:230] Warrant // Warden
+1 [GRN:45] Murmuring Mystic
+1 [WAR:234] Saheeli, Sublime Artificer
+1 [HOU:47] Strategic Planning
+1 [DGM:134] Turn // Burn
+1 [RNA:48] Quench
+1 [KTK:59] Treasure Cruise
+1 [AKH:49] Curator of Mysteries
+1 [WAR:61] Narset, Parter of Veils
+1 [ELD:74] Witching Well
+1 [AKH:57] Hieroglyphic Illumination
+1 [RTR:54] Syncopate
+1 [M14:43] Archaeomancer
+1 [M15:240] Battlefield Forge
+1 [ELD:242] Castle Vantress
+1 [JOU:164] Temple of Epiphany
+1 [M15:246] Shivan Reef
+8 [UNH:137] Island
+4 [UNH:139] Mountain
+SB: 1 [JOU:62] Brain Maggot
+SB: 1 [WAR:98] Liliana's Triumph
+SB: 1 [SOI:43] Thalia's Lieutenant
+SB: 1 [ELD:1] Acclaimed Contender
+SB: 1 [THB:91] Elspeth's Nightmare
+SB: 1 [WAR:120] Chandra's Pyrohelix
+SB: 1 [M11:117] Sign in Blood
+SB: 1 [GTC:32] Cloudfin Raptor
+SB: 1 [M15:225] Phyrexian Revoker
+SB: 1 [ORI:40] Vryn Wingmare
+SB: 1 [XLN:253] Drowned Catacomb
+SB: 1 [DGM:11] Aetherling
+SB: 1 [HOU:40] Nimble Obstructionist
+SB: 1 [THB:305] Nadir Kraken
+SB: 1 [E01:24] Icefall Regent
+SB: 1 [AKH:211] Commit // Memory
+SB: 1 [M20:57] Dungeon Geists
+LAYOUT MAIN:(1,8)(CMC,false,44)|([M15:240],[ELD:242],[JOU:164],[M15:246],[UNH:137],[UNH:137],[UNH:137],[UNH:137],[UNH:137],[UNH:137],[UNH:137],[UNH:137],[UNH:139],[UNH:139],[UNH:139],[UNH:139])([ELD:74],[AKH:57],[AKH:49])([THB:58],[M14:163],[GRN:44],[DOM:46],[RTR:172],[HOU:47],[RNA:48],[RTR:54],[RNA:230])([HOU:49],[M20:54],[RTR:98],[BFZ:85],[WAR:234],[WAR:61])([GRN:32],[GRN:45],[M14:43])([DGM:134])([KTK:54])([KTK:59])
+LAYOUT SIDEBOARD:(1,7)(CMC,false,50)|([GTC:32])([JOU:62],[WAR:98],[SOI:43],[WAR:120],[M11:117],[M15:225])([ELD:1],[THB:91],[ORI:40],[HOU:40],[THB:305])([M20:57])([E01:24])([DGM:11],[AKH:211])([XLN:253])

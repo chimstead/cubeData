@@ -1,0 +1,54 @@
+1 [M13:160] Arbor Elf
+1 [CN2:176] Birds of Paradise
+1 [RTR:213] Deathrite Shaman
+1 [MM2:151] Noble Hierarch
+1 [MM2:71] Bitterblossom
+1 [CON:15] Path to Exile
+1 [EMN:40] Selfless Spirit
+1 [IKO:366] Heartless Act
+1 [AKH:14] Gideon of the Trials
+1 [DDR:1] Nissa, Voice of Zendikar
+1 [M15:194] Reclamation Sage
+1 [MPS:30] Sword of Light and Shadow
+1 [NEM:17] Parallax Wave
+1 [ISD:181] Garruk Relentless
+1 [MBS:8] Hero of Bladehold
+1 [AER:24] Sram's Expertise
+1 [THB:13] Elspeth Conquers Death
+1 [AER:181] Walking Ballista
+1 [THS:9] Elspeth, Sun's Champion
+1 [THS:101] Read the Bones
+1 [WAR:184] Ajani, the Greathearted
+1 [M15:178] Hornet Queen
+1 [M11:172] Fauna Shaman
+1 [MM3:229] Arid Mesa
+1 [KTK:248] Windswept Heath
+1 [CNS:210] Reflecting Pool
+1 [SOM:228] Razorverge Thicket
+1 [KTK:239] Polluted Delta
+1 [C16:56] Ash Barrens
+1 [MMA:221] City of Brass
+1 [GTC:242] Godless Shrine
+3 [M13:248] Forest
+1 [M13:249] Forest
+2 [M13:233] Plains
+1 [M13:231] Plains
+1 [M13:238] Swamp
+1 [M13:246] Forest
+SB: 1 [C13:114] Inferno Titan
+SB: 1 [MH1:247] Sunbaked Canyon
+SB: 1 [C13:110] Goblin Bombardment
+SB: 1 [SOI:155] Falkenrath Gorger
+SB: 1 [XLN:74] Search for Azcanta
+SB: 1 [ORI:23] Kytheon, Hero of Akros
+SB: 1 [MM3:50] Snapcaster Mage
+SB: 1 [THS:90] Hero's Downfall
+SB: 1 [CN2:71] Selvala's Stampede
+SB: 1 [DOM:87] Divest
+SB: 1 [IMA:140] Monastery Swiftspear
+SB: 1 [ALL:139] Kjeldoran Outpost
+SB: 1 [EVE:139] Figure of Destiny
+SB: 2 [KLD:246] Inspiring Vantage
+SB: 1 [M13:246] Forest
+LAYOUT MAIN:(1,8)(CMC,false,74)|([MM3:229],[C16:56],[MMA:221],[M13:248],[M13:248],[M13:248],[M13:246],[M13:249],[GTC:242],[M13:233],[M13:233],[M13:231],[KTK:239],[SOM:228],[CNS:210],[M13:238],[KTK:248])([M13:160],[CN2:176],[RTR:213],[MM2:151],[CON:15])([MM2:71],[M11:172],[IKO:366],[EMN:40],[AER:181])([AKH:14],[DDR:1],[THS:101],[M15:194],[MPS:30])([WAR:184],[ISD:181],[MBS:8],[NEM:17],[AER:24])([THB:13])([THS:9])([M15:178])
+LAYOUT SIDEBOARD:(1,5)(CMC,false,88)|([ALL:139],[MH1:247],[KLD:246],[M13:246],[KLD:246])([SOI:155],[EVE:139],[ORI:23],[IMA:140])([C13:110],[XLN:74],[MM3:50],[DOM:87])([THS:90])([C13:114],[CN2:71])

@@ -1,0 +1,53 @@
+1 [KTK:36] Dig Through Time
+1 [XLN:48] Chart a Course
+1 [LRW:76] Mulldrifter
+1 [7ED:67] Counterspell
+1 [AER:28] Baral, Chief of Compliance
+1 [M12:72] Phantasmal Image
+1 [WWK:123] Everflowing Chalice
+1 [MMQ:82] Gush
+1 [ALL:28] Force of Will
+1 [DOM:1] Karn, Scion of Urza
+1 [LRW:56] Cryptic Command
+1 [OGW:104] Chandra, Flamecaller
+1 [M12:146] Incinerate
+1 [LRW:88] Sower of Temptation
+1 [NPH:1] Karn Liberated
+1 [ULG:32] Frantic Search
+1 [M11:149] Lightning Bolt
+1 [XLN:74] Search for Azcanta
+1 [RIX:111] Rekindling Phoenix
+1 [KLD:110] Chandra, Torch of Defiance
+1 [THS:107] Thoughtseize
+1 [DTK:124] Ultimate Price
+1 [3ED:105] Demonic Tutor
+1 [ZEN:229] Verdant Catacombs
+1 [RNA:245] Blood Crypt
+1 [KTK:239] Polluted Delta
+1 [OGW:182] Wandering Fumarole
+1 [2ED:264] Mox Pearl
+3 [P02:155] Island
+2 [P02:156] Island
+2 [P02:154] Island
+1 [P02:160] Mountain
+2 [P02:162] Mountain
+2 [P02:157] Swamp
+SB: 1 [MIR:141] Shallow Grave
+SB: 1 [NPH:103] Beast Within
+SB: 1 [PLC:25] Mana Tithe
+SB: 1 [ORI:157] Pia and Kiran Nalaar
+SB: 1 [DKA:93] Hellrider
+SB: 1 [4ED:6] Balance
+SB: 1 [ULG:80] Goblin Welder
+SB: 1 [10E:163] Nekrataal
+SB: 1 [M11:154] Pyroclasm
+SB: 1 [SHM:211] Manamorphose
+SB: 1 [OGW:110] Goblin Dark-Dwellers
+SB: 1 [SCG:75] Tendrils of Agony
+SB: 1 [M20:97] Duress
+SB: 1 [XLN:110] Kitesail Freebooter
+SB: 1 [C13:84] Ophiomancer
+SB: 1 [RAV:117] Char
+SB: 1 [USG:103] Time Spiral
+LAYOUT MAIN:(2,7)(CMC,true,45)|([2ED:264],[KTK:239],[ZEN:229],[RNA:245],[OGW:182])()([AER:28],[M12:72])()([RIX:111],[LRW:88])([LRW:76])()([P02:155],[P02:155],[P02:156],[P02:156],[P02:155],[P02:154],[P02:154],[P02:160],[P02:162],[P02:162],[P02:157],[P02:157])([M11:149],[THS:107])([XLN:48],[7ED:67],[3ED:105],[M12:146],[XLN:74],[DTK:124],[WWK:123])([ULG:32])([KLD:110],[LRW:56],[DOM:1])([ALL:28],[MMQ:82])([OGW:104],[NPH:1],[KTK:36])
+LAYOUT SIDEBOARD:(1,5)(CMC,false,38)|([PLC:25],[ULG:80])([MIR:141],[4ED:6],[M11:154],[SHM:211])([NPH:103],[RAV:117])([ORI:157],[DKA:93],[10E:163],[OGW:110],[SCG:75],[M20:97],[XLN:110],[C13:84])([USG:103])

@@ -1,3 +1,6 @@
+2018
+6.18
+6.17.18
 7 Forest
 6 Mountain
 1 Blinkmoth Nexus
@@ -12,7 +15,7 @@
 1 Fauna Shaman
 1 Magma Jet
 1 Survival of the Fittest
-1 Tarmogoyf 
+1 Tarmogoyf
 1 Wall of Roots
 1 Winter Orb
 1 Walking Ballista
@@ -26,4 +29,4 @@
 1 Deranged Hermit
 1 Plow Under
 1 Siege-Gang Commander
-1 Greater Gargadon 
+1 Greater Gargadon

@@ -1,0 +1,32 @@
+5 Forest
+5 Plains
+1 Arid Mesa
+1 City of Brass
+1 Horizon Canopy
+1 Taiga
+1 Temple Garden
+1 Treetop Village
+1 Verdant Catacombs
+1 Mox Diamond
+1 Llanowar Elves
+1 Path to Exile
+1 Warden of the First Tree
+1 Journey to Nowhere
+1 Survival of the Fittest
+1 Talisman of Impulse
+1 Tarmogoyf
+1 Wall of Roots
+1 Banishing Light
+1 Coalition Relic
+1 Manglehorn
+1 Worn Powerstone
+1 Elspeth, Knight-Errant
+1 Garruk Relentless
+1 Palace Jailer
+1 Acidic Slime
+1 Archangel Avacyn
+1 Deranged Hermit
+1 Plow Under
+1 Reveillark
+1 Catastrophe
+1 Sun Titan

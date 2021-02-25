@@ -1,0 +1,54 @@
+1 [ISD:164] Stromkirk Noble
+1 [XLN:136] Captain Lannery Storm
+1 [MM3:98] Hellrider
+1 [MM3:17] Path to Exile
+1 [MM3:229] Arid Mesa
+1 [DTK:169] Zurgo Bellstriker
+1 [MM3:116] Zealous Conscripts
+1 [RTR:98] Guttersnipe
+1 [M12:146] Incinerate
+1 [DDF:1] Elspeth, Knight-Errant
+1 [M14:22] Imposing Sovereign
+1 [M15:145] Goblin Rabblemaster
+1 [ELD:239] Castle Embereth
+1 [RIX:99] Dire Fleet Daredevil
+1 [EMN:40] Selfless Spirit
+1 [ULG:14] Mother of Runes
+1 [AER:164] Metallic Mimic
+1 [RIX:21] Skymarcher Aspirant
+1 [EMA:136] Keldon Marauders
+1 [THS:128] Magma Jet
+1 [AKH:136] Hazoret the Fervent
+1 [FRF:18] Mardu Woe-Reaper
+1 [SOI:155] Falkenrath Gorger
+1 [NPH:19] Porcelain Legionnaire
+1 [ISD:6] Champion of the Parish
+1 [AKH:8] Cast Out
+1 [MH1:247] Sunbaked Canyon
+2 [ZEN:244] Mountain
+2 [ZEN:243] Mountain
+1 [ZEN:242] Mountain
+2 [ZEN:245] Mountain
+2 [ZEN:233] Plains
+2 [ZEN:231] Plains
+2 [ZEN:232] Plains
+SB: 1 [M19:23] Leonin Warleader
+SB: 1 [GTC:97] Legion Loyalist
+SB: 1 [MMA:184] Tidehollow Sculler
+SB: 1 [SOI:5] Archangel Avacyn
+SB: 1 [KTK:36] Dig Through Time
+SB: 1 [MM2:65] Thrummingbird
+SB: 1 [AKH:27] Sacred Cat
+SB: 1 [GRN:152] Assassin's Trophy
+SB: 1 [EMA:197] Bloodbraid Elf
+SB: 1 [C16:285] Caves of Koilos
+SB: 1 [XLN:250] Treasure Map
+SB: 1 [WAR:98] Liliana's Triumph
+SB: 1 [BFZ:244] Shambling Vent
+SB: 1 [ELD:146] Thrill of Possibility
+SB: 1 [C15:153] Faithless Looting
+SB: 1 [AKH:5] Aven Mindcensor
+SB: 1 [MBS:8] Hero of Bladehold
+SB: 1 [EMN:123] Collective Defiance
+LAYOUT MAIN:(1,7)(CMC,false,68)|([ZEN:244],[ZEN:243],[ZEN:242],[ZEN:245],[ZEN:245],[ZEN:243],[ZEN:244],[ZEN:233],[ZEN:231],[ZEN:232],[ZEN:232],[ZEN:231],[ZEN:233])([MM3:229],[ELD:239],[MH1:247])([ISD:6],[SOI:155],[FRF:18],[ULG:14],[MM3:17],[RIX:21],[ISD:164],[DTK:169])([RIX:99],[M14:22],[M12:146],[EMA:136],[THS:128],[AER:164],[EMN:40],[NPH:19])([XLN:136],[M15:145],[RTR:98])([AKH:8],[DDF:1],[AKH:136],[MM3:98])([MM3:116])
+LAYOUT SIDEBOARD:(1,7)(CMC,false,50)|([C16:285],[BFZ:244])([GTC:97],[AKH:27],[C15:153])([MMA:184],[MM2:65],[GRN:152],[XLN:250],[WAR:98],[ELD:146])([AKH:5],[EMN:123])([M19:23],[EMA:197],[MBS:8])([SOI:5])([KTK:36])

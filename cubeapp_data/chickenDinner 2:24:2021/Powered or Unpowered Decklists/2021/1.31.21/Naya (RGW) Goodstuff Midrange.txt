@@ -1,0 +1,39 @@
+1 Windswept Heath
+1 Taiga
+1 Karplusan Forest
+1 Scavenging Ooze
+1 Rhonas the Indomitable
+1 Branchloft Pathway
+1 Garruk Relentless
+1 Kabira Takedown
+1 Flame Slash
+1 Tireless Tracker
+1 Lightning Strike
+1 Burning-Tree Emissary
+1 Sanctuary Blade
+1 Thrun, the Last Troll
+1 Chandra, Torch of Defiance
+1 Sylvan Library
+1 Copperline Gorge
+1 Wooded Bastion
+1 Bloodbraid Elf
+1 Sungrass Prairie
+1 Fleecemane Lion
+1 Prison Realm
+1 Misty Rainforest
+1 Seal of Fire
+1 Winds of Abandon
+1 Mother of Runes
+1 Fiery Justice
+1 Bronzehide Lion
+1 Savannah
+1 Stirring Wildwood
+1 Lightning Helix
+1 Searing Spear
+1 Firebolt
+1 Gruul Spellbreaker
+1 Phoenix of Ash
+1 Sevinne's Reclamation
+2 Mountain
+1 Forest
+1 Plains

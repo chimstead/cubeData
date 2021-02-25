@@ -1,0 +1,53 @@
+2021
+1.31.21
+1 [5ED:408] Winter Orb
+1 [M21:13] Containment Priest
+1 [THB:4] Banishing Light
+1 [ICE:54] Swords to Plowshares
+1 [SHM:23] Spectral Procession
+1 [SOI:5] Archangel Avacyn
+1 [WAR:13*] Gideon Blackblade
+1 [MH1:13] Giver of Runes
+1 [ROE:47] Student of Warfare
+1 [J15:4] Ravages of War
+1 [M21:34] Seasoned Hallowblade
+1 [M12:23] Honor of the Pure
+1 [XLN:1] Adanto Vanguard
+1 [BNG:5] Brimaz, King of Oreskos
+1 [NPH:42] Phyrexian Metamorph
+1 [DKA:24] Thalia, Guardian of Thraben
+1 [NPH:57] Dismember
+1 [PLC:25] Mana Tithe
+1 [IKO:12] Fight as One
+1 [NPH:4] Blade Splicer
+1 [ELD:235] Stonecoil Serpent
+1 [DKA:12] Lingering Souls
+1 [4ED:147] Mind Twist
+1 [ZEN:219] Marsh Flats
+1 [SUM:286] Scrubland
+1 [TMP:315] Ancient Tomb
+1 [4ED:361] Mishra's Factory
+1 [LEG:303] Karakas
+1 [M14:228] Mutavault
+1 [2ED:264] Mox Pearl
+4 [5ED:431] Plains
+1 [5ED:430] Plains
+4 [5ED:432] Plains
+1 [5ED:433] Plains
+SB: 1 [ME3:17] Land Tax
+SB: 1 [ROE:115] Inquisition of Kozilek
+SB: 1 [WAR:244] Blast Zone
+SB: 1 [LRW:139] Shriekmaw
+SB: 1 [WAR:185] Angrath's Rampage
+SB: 1 [THS:9] Elspeth, Sun's Champion
+SB: 1 [M21:107] Kitesail Freebooter
+SB: 1 [RNA:245] Blood Crypt
+SB: 1 [VIS:79] Fireblast
+SB: 1 [APC:126] Vindicate
+SB: 1 [CON:113] Knight of the Reliquary
+SB: 1 [DRK:117] Maze of Ith
+SB: 1 [SOI:242] Anguished Unmaking
+SB: 1 [M21:114] Massacre Wurm
+SB: 1 [WWK:134] Creeping Tar Pit
+LAYOUT MAIN:(1,8)(CMC,false,50)|([5ED:431],[5ED:430],[5ED:431],[5ED:432],[5ED:431],[5ED:432],[5ED:432],[5ED:433],[5ED:432],[5ED:431])([ICE:54],[MH1:13],[ROE:47],[PLC:25],[IKO:12],[NPH:57])([5ED:408],[M21:13],[M21:34],[M12:23],[XLN:1],[DKA:24])([THB:4],[WAR:13*],[BNG:5],[NPH:4],[NPH:42],[DKA:12],[SHM:23])([J15:4],[ELD:235])([SOI:5])([4ED:147])([ZEN:219],[SUM:286],[TMP:315],[4ED:361],[LEG:303],[M14:228],[2ED:264])
+LAYOUT SIDEBOARD:(1,5)(COLOR,false,50)|([WAR:244],[RNA:245],[DRK:117],[WWK:134])([ROE:115],[LRW:139],[M21:107],[M21:114])([VIS:79])([ME3:17],[THS:9])([WAR:185],[APC:126],[CON:113],[SOI:242])

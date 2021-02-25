@@ -1,0 +1,53 @@
+1 [KTK:36] Dig Through Time
+1 [M11:149] Lightning Bolt
+1 [NPH:33] Deceiver Exarch
+1 [GRN:115] Runaway Steam-Kin
+1 [MB1:440] Mystic Confluence
+1 [LEG:137] Chain Lightning
+1 [WWK:31] Jace, the Mind Sculptor
+1 [3ED:291] Volcanic Island
+1 [IKO:319] Shark Typhoon
+1 [AVR:166] Zealous Conscripts
+1 [LRW:78] Pestermite
+1 [A25:136] Imperial Recruiter
+1 [RIX:99] Dire Fleet Daredevil
+1 [3ED:274] Sol Ring
+1 [CHK:175] Kiki-Jiki, Mirror Breaker
+1 [TSP:73] Riftwing Cloudskate
+1 [TSP:259] Lotus Bloom
+1 [NEM:30] Daze
+1 [KLD:110] Chandra, Torch of Defiance
+1 [NPH:35] Gitaxian Probe
+1 [ZEN:211] Arid Mesa
+1 [ROE:165] Splinter Twin
+1 [GRN:257] Steam Vents
+1 [MEDM:RA6] Dack Fayden
+1 [AKH:134] Glorybringer
+1 [USG:318] Worn Powerstone
+1 [ODY:193] Firebolt
+4 [KTK:255] Island
+2 [KTK:254] Island
+2 [KTK:264] Mountain
+2 [KTK:263] Mountain
+2 [KTK:262] Mountain
+1 [KTK:265] Mountain
+SB: 1 [TSB:55] Avalanche Riders
+SB: 1 [WWK:139] Lavaclaw Reaches
+SB: 1 [2ED:85] Timetwister
+SB: 1 [LEG:28] Moat
+SB: 1 [USG:218] Sneak Attack
+SB: 1 [ULG:129] Memory Jar
+SB: 1 [VIS:79] Fireblast
+SB: 1 [RNA:107] Light Up the Stage
+SB: 1 [MIR:307] Lion's Eye Diamond
+SB: 1 [9ED:216] Seething Song
+SB: 1 [MMQ:129] Dark Ritual
+SB: 1 [SOM:48] Trinket Mage
+SB: 1 [M11:154] Pyroclasm
+SB: 1 [USG:105] Turnabout
+SB: 1 [SCG:41] Mind's Desire
+SB: 1 [SOM:94] Koth of the Hammer
+SB: 1 [ROE:145] Flame Slash
+SB: 1 [M15:145] Goblin Rabblemaster
+LAYOUT MAIN:(2,7)(CMC,true,51)|([3ED:291],[GRN:257],[ZEN:211])([LEG:137],[M11:149],[ODY:193])([GRN:115],[RIX:99])([NPH:33],[LRW:78],[A25:136])()([AVR:166],[CHK:175],[AKH:134],[TSP:73])()([KTK:255],[KTK:254],[KTK:254],[KTK:255],[KTK:255],[KTK:255],[KTK:264],[KTK:263],[KTK:264],[KTK:262],[KTK:265],[KTK:263],[KTK:262])([3ED:274],[NPH:35],[TSP:259])([NEM:30])([MEDM:RA6],[USG:318])([WWK:31],[KLD:110],[ROE:165])([MB1:440])([IKO:319],[KTK:36])
+LAYOUT SIDEBOARD:(2,8)(COLOR,true,52)|([9ED:216],[M11:154])([USG:218],[VIS:79],[RNA:107])([SOM:48])([TSB:55])([SOM:94])([SCG:41])([ROE:145])([M15:145])([WWK:139],[ULG:129],[MIR:307])([MMQ:129])([2ED:85],[USG:105])()([LEG:28])()()()

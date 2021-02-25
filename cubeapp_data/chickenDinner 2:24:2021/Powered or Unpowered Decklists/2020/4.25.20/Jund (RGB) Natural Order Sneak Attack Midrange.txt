@@ -1,0 +1,50 @@
+1 [MH1:116] Yawgmoth, Thran Physician
+1 [ULG:101] Deranged Hermit
+1 [THS:180] Sylvan Caryatid
+1 [RAV:163] Farseek
+1 [MIR:253] Wall of Roots
+1 [5DN:86] Eternal Witness
+1 [M20:200] Voracious Hydra
+1 [LEB:232] Basalt Monolith
+1 [FUT:153] Tarmogoyf
+1 [6ED:239] Llanowar Elves
+1 [M14:169] Elvish Mystic
+1 [LEB:105] Demonic Tutor
+1 [CON:87] Noble Hierarch
+1 [CHK:225] Kodama's Reach
+1 [LEB:116] Mind Twist
+1 [USG:218] Sneak Attack
+1 [AVR:172] Craterhoof Behemoth
+1 [SHM:135] Woodfall Primus
+1 [MH1:161] Deep Forest Hermit
+1 [SOI:233] Tireless Tracker
+1 [VIS:114] Natural Order
+1 [WAR:169] Nissa, Who Shakes the World
+1 [CMD:159] Hornet Queen
+1 [ROE:190] Joraga Treespeaker
+1 [TSP:279] Terramorphic Expanse
+1 [WWK:139] Lavaclaw Reaches
+1 [USG:321] Gaea's Cradle
+1 [6ED:326] Karplusan Forest
+1 [DIS:171] Blood Crypt
+1 [ZEN:220] Misty Rainforest
+1 [ULG:143] Treetop Village
+7 [THB:254] Forest
+1 [THB:253] Mountain
+1 [THB:252] Swamp
+SB: 1 [M20:185] Nightpack Ambusher
+SB: 1 [NPH:42] Phyrexian Metamorph
+SB: 1 [MBS:122] Phyrexian Revoker
+SB: 1 [BFZ:109] Drana, Liberator of Malakir
+SB: 1 [AER:57] Fatal Push
+SB: 1 [10E:61] Wrath of God
+SB: 1 [LRW:133] Oona's Prowler
+SB: 1 [ZEN:83] Bloodghast
+SB: 1 [EXO:53] Carnophage
+SB: 1 [ARB:110] Sphinx of the Steel Wind
+SB: 1 [ORI:189] Nissa, Vastwood Seer
+SB: 1 [VIS:64] Necromancy
+SB: 1 [AVR:32] Restoration Angel
+SB: 1 [ISD:97] Diregraf Ghoul
+LAYOUT MAIN:(2,5)(CMC,false,49)|([TSP:279],[WWK:139],[USG:321],[6ED:326],[DIS:171],[ZEN:220],[ULG:143])([6ED:239],[M14:169],[CON:87],[LEB:116],[ROE:190])([5DN:86],[LEB:232],[CHK:225],[SOI:233])([ULG:101],[MH1:161],[WAR:169])([AVR:172],[SHM:135])([THB:254],[THB:254],[THB:254],[THB:254],[THB:254],[THB:254],[THB:254],[THB:253],[THB:252])([THS:180],[RAV:163],[MIR:253],[M20:200],[FUT:153],[LEB:105])([MH1:116],[USG:218],[VIS:114])([CMD:159])()
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([ZEN:83],[EXO:53],[ISD:97],[BFZ:109],[AER:57],[VIS:64],[M20:185],[ORI:189],[LRW:133],[NPH:42],[MBS:122],[AVR:32],[ARB:110],[10E:61])

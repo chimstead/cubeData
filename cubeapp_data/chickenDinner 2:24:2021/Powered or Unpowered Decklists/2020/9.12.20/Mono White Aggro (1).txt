@@ -1,0 +1,48 @@
+1 [EVE:139] Figure of Destiny
+1 [THS:32] Soldier of the Pantheon
+1 [FRF:18] Mardu Woe-Reaper
+1 [PLC:25] Mana Tithe
+1 [ROE:47] Student of Warfare
+1 [ULG:14] Mother of Runes
+1 [CON:15] Path to Exile
+1 [CHK:19] Isamaru, Hound of Konda
+1 [KLD:235] Smuggler's Copter
+1 [M21:34] Seasoned Hallowblade
+1 [M14:22] Imposing Sovereign
+1 [XLN:1] Adanto Vanguard
+1 [MBS:1] Accorder Paladin
+1 [MH1:37] Winds of Abandon
+1 [CNS:16] Council's Judgment
+1 [EMN:46] Thalia, Heretic Cathar
+1 [CN2:18] Palace Jailer
+1 [BFZ:29] Gideon, Ally of Zendikar
+1 [MH1:26] Serra the Benevolent
+1 [PTK:17] Ravages of War
+1 [THB:14] Elspeth, Sun's Nemesis
+1 [SHM:23] Spectral Procession
+1 [NPH:19] Porcelain Legionnaire
+1 [JOU:5] Banishing Light
+1 [TMP:330] Wasteland
+1 [ATQ:80a] Mishra's Factory
+14 [UGL:84] Plains
+SB: 1 [LEG:26] Land Tax
+SB: 1 [THS:9] Elspeth, Sun's Champion
+SB: 1 [OGW:175] Needle Spires
+SB: 1 [NEM:17] Parallax Wave
+SB: 1 [SCG:103] Siege-Gang Commander
+SB: 1 [NEM:139] Tangle Wire
+SB: 1 [C14:8] Hallowed Spiritkeeper
+SB: 1 [M11:192] Primeval Titan
+SB: 1 [THB:302] Shatter the Sky
+SB: 1 [ALA:154] Ajani Vengeant
+SB: 1 [NPH:161] Sword of War and Peace
+SB: 1 [LRW:56] Cryptic Command
+SB: 1 [MIR:14] Enlightened Tutor
+SB: 1 [ROE:21] Gideon Jura
+SB: 1 [WAR:169] Nissa, Who Shakes the World
+SB: 1 [SCG:106] Sulfuric Vortex
+SB: 1 [BFZ:15] Ulamog, the Ceaseless Hunger
+SB: 1 [AVR:32] Restoration Angel
+SB: 1 [BFZ:244] Shambling Vent
+LAYOUT MAIN:(1,5)(CMC,false,50)|([TMP:330],[ATQ:80a],[UGL:84],[UGL:84],[UGL:84],[UGL:84],[UGL:84],[UGL:84],[UGL:84],[UGL:84],[UGL:84],[UGL:84],[UGL:84],[UGL:84],[UGL:84],[UGL:84])([EVE:139],[THS:32],[FRF:18],[PLC:25],[ROE:47],[ULG:14],[CON:15],[CHK:19])([KLD:235],[M21:34],[M14:22],[XLN:1],[MBS:1],[MH1:37],[NPH:19])([CNS:16],[EMN:46],[SHM:23],[JOU:5])([CN2:18],[BFZ:29],[MH1:26],[PTK:17],[THB:14])
+LAYOUT SIDEBOARD:(1,7)(CMC,false,45)|([OGW:175],[BFZ:244])([LEG:26],[MIR:14])([NEM:139],[C14:8],[NPH:161],[SCG:106])([NEM:17],[THB:302],[ALA:154],[LRW:56],[AVR:32])([SCG:103],[ROE:21],[WAR:169])([THS:9],[M11:192])([BFZ:15])

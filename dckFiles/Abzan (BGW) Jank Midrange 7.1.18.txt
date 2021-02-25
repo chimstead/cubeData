@@ -1,3 +1,6 @@
+2018
+7.18
+7.1.18
 3 Swamp
 1 Forest
 2 Plains
@@ -5,7 +8,7 @@
 1 Caves of Koilos
 1 Mana Confluence
 1 Marsh Flats
-1 Mishra’s Factory
+1 Mishra's Factory
 1 Shambling Vent
 1 Stirring Wildwood
 1 Strip Mine
@@ -20,7 +23,7 @@
 1 Talisman of Unity
 1 Unexpectedly Absent
 1 Brimaz, King of Oreskos
-1 Council’s Judgment
+1 Council's Judgment
 1 Gideon of the Trials
 1 Pernicious Deed
 1 Phyrexian Arena

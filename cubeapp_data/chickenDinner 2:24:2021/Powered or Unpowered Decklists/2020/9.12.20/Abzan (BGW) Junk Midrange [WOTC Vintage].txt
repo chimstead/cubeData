@@ -1,0 +1,50 @@
+1 [4ED:147] Mind Twist
+1 [M13:160] Arbor Elf
+1 [6ED:161] Vampiric Tutor
+1 [4ED:34] Land Tax
+1 [ULG:126] Grim Monolith
+1 [RAV:260] Dimir Signet
+1 [RAV:262] Golgari Signet
+1 [5ED:329] Sylvan Library
+1 [ZEN:168] Lotus Cobra
+1 [SOI:242] Anguished Unmaking
+1 [ARB:92] Maelstrom Pulse
+1 [NPH:4] Blade Splicer
+1 [BNG:119] Courser of Kruphix
+1 [KLD:84] Gonti, Lord of Luxury
+1 [ISD:181] Garruk Relentless
+1 [BFZ:29] Gideon, Ally of Zendikar
+1 [AVR:32] Restoration Angel
+1 [NEM:17] Parallax Wave
+1 [SOI:5] Archangel Avacyn
+1 [XLN:179] Carnage Tyrant
+1 [M12:98] Grave Titan
+1 [FRF:87] Tasigur, the Golden Fang
+1 [ELD:287] Murderous Rider
+1 [KTK:249] Wooded Foothills
+1 [ZEN:229] Verdant Catacombs
+1 [KTK:248] Windswept Heath
+1 [ZEN:220] Misty Rainforest
+1 [3ED:285] Savannah
+1 [3ED:289] Tundra
+1 [GRN:253] Overgrown Tomb
+1 [3ED:283] Bayou
+1 [WWK:144] Stirring Wildwood
+3 [GUR:1] Forest
+2 [GUR:4] Plains
+3 [GUR:5] Swamp
+SB: 1 [GPT:152] Izzet Signet
+SB: 1 [4ED:6] Balance
+SB: 1 [7ED:67] Counterspell
+SB: 1 [KLD:244] Botanical Sanctum
+SB: 1 [WWK:134] Creeping Tar Pit
+SB: 1 [APC:114] Pernicious Deed
+SB: 1 [ARN:70] Bazaar of Baghdad
+SB: 1 [DKA:140] Huntmaster of the Fells
+SB: 1 [SOM:229] Seachrome Coast
+SB: 1 [IKO:220] Fiend Artisan
+SB: 1 [SOM:225] Copperline Gorge
+SB: 1 [MH1:217] Wrenn and Six
+SB: 1 [THB:169] Dryad of the Ilysian Grove
+LAYOUT MAIN:(1,8)(CMC,false,71)|([GUR:1],[GUR:1],[GUR:1],[GUR:4],[GUR:4],[GUR:5],[GUR:5],[GUR:5])([3ED:283],[ZEN:220],[GRN:253],[3ED:285],[WWK:144],[3ED:289],[ZEN:229],[KTK:248],[KTK:249])([M13:160],[4ED:34],[4ED:147],[6ED:161])([RAV:260],[RAV:262],[ULG:126],[ZEN:168],[5ED:329])([SOI:242],[NPH:4],[BNG:119],[ARB:92],[ELD:287])([ISD:181],[BFZ:29],[KLD:84],[NEM:17],[AVR:32])([SOI:5])([XLN:179],[M12:98],[FRF:87])
+LAYOUT SIDEBOARD:(1,4)(CMC,false,73)|([KLD:244],[WWK:134],[ARN:70],[SOM:229],[SOM:225])([GPT:152],[4ED:6],[7ED:67],[IKO:220],[MH1:217])([APC:114],[THB:169])([DKA:140])

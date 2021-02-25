@@ -1,0 +1,50 @@
+1 [USG:132] Duress
+1 [VIS:72] Vampiric Tutor
+1 [MMQ:61] Brainstorm
+1 [M11:70] Preordain
+1 [EXO:115] Oath of Druids
+1 [MH1:210] Nature's Chant
+1 [LEA:188] Channel
+1 [DOM:81] Cast Down
+1 [MBS:43] Go for the Throat
+1 [MH1:233] Talisman of Hierarchy
+1 [MMA:180] Maelstrom Pulse
+1 [EMN:93] Liliana, the Last Hope
+1 [ISD:181] Garruk Relentless
+1 [4ED:64] Control Magic
+1 [LRW:213] Garruk Wildspeaker
+1 [M15:187] Nissa, Worldwaker
+1 [ROE:6] Kozilek, Butcher of Truth
+1 [CON:30] Inkwell Leviathan
+1 [FRF:1] Ugin, the Spirit Dragon
+1 [SOM:223] Wurmcoil Engine
+1 [XLN:179] Carnage Tyrant
+1 [CN2:71] Selvala's Stampede
+1 [M13:193] Thragtusk
+1 [LEB:279] Bayou
+1 [ONS:321] Polluted Delta
+1 [OGW:171] Hissing Quagmire
+1 [MH1:249] Waterlogged Grove
+1 [MH1:243] Nurturing Peatland
+1 [LEB:284] Tropical Island
+1 [ONS:330] Wooded Foothills
+1 [ULG:143] Treetop Village
+1 [ONS:319] Grand Coliseum
+1 [TSP:279] Terramorphic Expanse
+2 [GUR:1] Forest
+3 [GUR:2] Island
+2 [GUR:5] Swamp
+SB: 1 [SOM:81] Arc Trail
+SB: 1 [5ED:408] Winter Orb
+SB: 1 [RTR:157] Dreadbore
+SB: 1 [CHK:19] Isamaru, Hound of Konda
+SB: 1 [ODY:193] Firebolt
+SB: 1 [SOM:78] Skinrender
+SB: 1 [6ED:239] Llanowar Elves
+SB: 1 [STH:143] Volrath's Stronghold
+SB: 1 [MOR:148] Mutavault
+SB: 1 [VIS:167] Undiscovered Paradise
+SB: 1 [MBS:8] Hero of Bladehold
+SB: 1 [AKH:212] Never // Return
+LAYOUT MAIN:(1,11)(CMC,false,58)|([LEB:279],[GUR:1],[GUR:1],[GUR:2],[GUR:2],[GUR:2],[GUR:5],[GUR:5])([ONS:319],[OGW:171],[MH1:243],[ONS:321],[TSP:279],[ULG:143],[LEB:284],[MH1:249],[ONS:330])([MMQ:61],[USG:132],[M11:70],[VIS:72])([DOM:81],[LEA:188],[MBS:43],[MH1:210],[EXO:115],[MH1:233])([EMN:93],[MMA:180])([4ED:64],[ISD:181],[LRW:213])([M15:187],[M13:193])([XLN:179],[CN2:71],[SOM:223])([FRF:1])([CON:30])([ROE:6])
+LAYOUT SIDEBOARD:(1,4)(CMC,false,76)|([STH:143],[MOR:148],[VIS:167])([CHK:19],[ODY:193],[6ED:239])([SOM:81],[5ED:408],[RTR:157])([SOM:78],[AKH:212],[MBS:8])

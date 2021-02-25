@@ -1,0 +1,49 @@
+1 [GRN:115] Runaway Steam-Kin
+1 [DTK:224] Kolaghan's Command
+1 [IMA:140] Monastery Swiftspear
+1 [DDL:3] Figure of Destiny
+1 [BBD:171] Chain Lightning
+1 [A25:141] Lightning Bolt
+1 [IMA:110] Thoughtseize
+1 [NPH:153] Shrine of Burning Rage
+1 [ORI:127] Abbot of Keral Keep
+1 [EMN:85] Collective Brutality
+1 [WAR:125] Dreadhorde Arcanist
+1 [EMA:234] Winter Orb
+1 [CN2:157] Flame Slash
+1 [VMA:159] Fireblast
+1 [MM3:96] Goblin Guide
+1 [THB:221] Kroxa, Titan of Death's Hunger
+1 [ELD:122] Embereth Shieldbreaker
+1 [EMA:150] Sulfuric Vortex
+1 [AKH:136] Hazoret the Fervent
+1 [NPH:19] Porcelain Legionnaire
+1 [NEM:139] Tangle Wire
+1 [MM2:75] Dark Confidant
+1 [KLD:199] Bomat Courier
+1 [DDT:46] Goblin Rabblemaster
+1 [MM3:229] Arid Mesa
+1 [EMA:248] Wasteland
+1 [UMA:245] Lavaclaw Reaches
+1 [VMA:6] Mox Jet
+8 [UST:215] Mountain
+4 [UST:214] Swamp
+SB: 1 [BFZ:244] Shambling Vent
+SB: 1 [RIX:111] Rekindling Phoenix
+SB: 1 [VMA:202] Deranged Hermit
+SB: 1 [FRF:27] Soulfire Grand Master
+SB: 1 [DDU:47] Pia and Kiran Nalaar
+SB: 1 [M12:23] Honor of the Pure
+SB: 1 [VMA:192] Wheel of Fortune
+SB: 1 [KLD:4] Angel of Invention
+SB: 1 [A25:128] Eidolon of the Great Revel
+SB: 1 [VMA:271] Lion's Eye Diamond
+SB: 1 [C13:84] Ophiomancer
+SB: 1 [RTR:73] Pack Rat
+SB: 1 [MM3:116] Zealous Conscripts
+SB: 1 [ULG:74] Avalanche Riders
+SB: 1 [THB:14] Elspeth, Sun's Nemesis
+SB: 1 [IMA:138] Magus of the Moon
+SB: 1 [VMA:73] High Tide
+LAYOUT MAIN:(2,4)(CMC,false,40)|([MM3:229],[EMA:248],[UMA:245],[VMA:6],[UST:214],[UST:214],[UST:214],[UST:214])([IMA:140],[DDL:3],[BBD:171],[A25:141],[IMA:110],[CN2:157],[MM3:96],[KLD:199],[ELD:122])([DTK:224],[EMA:150],[NEM:139],[DDT:46])([VMA:159])([UST:215],[UST:215],[UST:215],[UST:215],[UST:215],[UST:215],[UST:215],[UST:215])([GRN:115],[NPH:153],[ORI:127],[EMN:85],[WAR:125],[EMA:234],[THB:221],[MM2:75],[NPH:19])([AKH:136])()
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([KLD:4],[ULG:74],[VMA:202],[A25:128],[THB:14],[VMA:73],[M12:23],[VMA:271],[IMA:138],[C13:84],[RTR:73],[DDU:47],[RIX:111],[BFZ:244],[FRF:27],[VMA:192],[MM3:116])

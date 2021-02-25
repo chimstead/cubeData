@@ -1,0 +1,54 @@
+1 [NPH:19] Porcelain Legionnaire
+1 [SOI:44] Thraben Inspector
+1 [DOM:14] Dauntless Bodyguard
+1 [ZEN:126] Goblin Guide
+1 [MH1:13] Giver of Runes
+1 [ROE:47] Student of Warfare
+1 [CHK:19] Isamaru, Hound of Konda
+1 [ELD:235] Stonecoil Serpent
+1 [M14:163] Young Pyromancer
+1 [MIR:184] Incinerate
+1 [GTC:148] Boros Charm
+1 [HOU:90] Earthshaker Khenra
+1 [HOU:83] Abrade
+1 [5DN:126] Grafted Wargear
+1 [THB:148] Phoenix of Ash
+1 [BNG:5] Brimaz, King of Oreskos
+1 [EMN:130a] Hanweir Garrison
+1 [NEM:17] Parallax Wave
+1 [BFZ:29] Gideon, Ally of Zendikar
+1 [C15:26] Fiery Confluence
+1 [ELD:115] Bonecrusher Giant
+1 [ZEN:14] Journey to Nowhere
+1 [SOM:94] Koth of the Hammer
+1 [JOU:163] Mana Confluence
+1 [RAV:280] Sacred Foundry
+1 [ARN:71] City of Brass
+1 [WTH:164] Gemstone Mine
+1 [ATQ:82a] Strip Mine
+1 [LEB:280] Plateau
+3 [3ED:303] Mountain
+1 [3ED:301] Mountain
+1 [3ED:302] Mountain
+2 [3ED:294] Plains
+2 [3ED:292] Plains
+2 [3ED:293] Plains
+SB: 1 [ORI:105] Languish
+SB: 1 [ORI:83] Whirler Rogue
+SB: 1 [RIX:111] Rekindling Phoenix
+SB: 1 [KLD:4] Angel of Invention
+SB: 1 [CMD:159] Hornet Queen
+SB: 1 [LEB:281] Savannah
+SB: 1 [DIS:174] Hallowed Fountain
+SB: 1 [LEB:282] Scrubland
+SB: 1 [MH1:238] Fiery Islet
+SB: 1 [DKA:87] Faithless Looting
+SB: 1 [TSB:6] Disenchant
+SB: 1 [UDS:118] Rofellos, Llanowar Emissary
+SB: 1 [C14:8] Hallowed Spiritkeeper
+SB: 1 [TOR:100] Grim Lavamancer
+SB: 1 [ELD:335] Charming Prince
+SB: 1 [EMN:46] Thalia, Heretic Cathar
+SB: 1 [3ED:302] Mountain
+LAYOUT MAIN:(1,6)(CMC,false,50)|([ELD:235],[JOU:163],[RAV:280],[ARN:71],[WTH:164],[ATQ:82a],[LEB:280],[3ED:303],[3ED:303],[3ED:303],[3ED:301],[3ED:302],[3ED:294],[3ED:292],[3ED:292],[3ED:293],[3ED:294],[3ED:293])([SOI:44],[DOM:14],[ZEN:126],[MH1:13],[ROE:47],[CHK:19])([M14:163],[MIR:184],[GTC:148],[HOU:90],[HOU:83],[ZEN:14])([NPH:19],[5DN:126],[THB:148],[BNG:5],[EMN:130a])([NEM:17],[BFZ:29],[C15:26],[SOM:94])([ELD:115])
+LAYOUT SIDEBOARD:(1,7)(CMC,false,50)|([LEB:281],[DIS:174],[LEB:282],[MH1:238],[3ED:302])([DKA:87],[TOR:100])([TSB:6],[UDS:118],[ELD:335])([C14:8],[EMN:46])([ORI:105],[ORI:83],[RIX:111])([KLD:4])([CMD:159])

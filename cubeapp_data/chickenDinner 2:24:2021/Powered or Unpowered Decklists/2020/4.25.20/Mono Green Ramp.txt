@@ -1,0 +1,48 @@
+1 [NPH:1] Karn Liberated
+1 [FRF:1] Ugin, the Spirit Dragon
+1 [XLN:179] Carnage Tyrant
+1 [FRF:145] Whisperwood Elemental
+1 [M13:193] Thragtusk
+1 [WAR:169] Nissa, Who Shakes the World
+1 [M13:174] Garruk, Primal Hunter
+1 [NPH:130] Batterskull
+1 [ELD:171] Questing Beast
+1 [THS:172] Polukranos, World Eater
+1 [M11:175] Garruk Wildspeaker
+1 [USG:318] Worn Powerstone
+1 [CHK:225] Kodama's Reach
+1 [NPH:57] Dismember
+1 [BNG:119] Courser of Kruphix
+1 [5ED:329] Sylvan Library
+1 [THS:180] Sylvan Caryatid
+1 [M14:195] Scavenging Ooze
+1 [CHK:239] Sakura-Tribe Elder
+1 [RNA:131] Incubation Druid
+1 [RAV:262] Golgari Signet
+1 [M19:314] Llanowar Elves
+1 [RAV:161] Elves of Deep Shadow
+16 [UST:216] Forest
+1 [THS:223] Nykthos, Shrine to Nyx
+SB: 1 [VIS:114] Natural Order
+SB: 1 [KLD:84] Gonti, Lord of Luxury
+SB: 1 [OGW:171] Hissing Quagmire
+SB: 1 [LEG:185] Eureka
+SB: 1 [WAR:244] Blast Zone
+SB: 1 [CON:121] Progenitus
+SB: 1 [SOI:242] Anguished Unmaking
+SB: 1 [M11:7] Baneslayer Angel
+SB: 1 [LEG:28] Moat
+SB: 1 [ISD:213] Geist of Saint Traft
+SB: 1 [ROE:12] Ulamog, the Infinite Gyre
+SB: 1 [ELD:235] Stonecoil Serpent
+SB: 1 [10E:163] Nekrataal
+SB: 1 [ARB:46] Terminate
+SB: 1 [SOI:5] Archangel Avacyn
+SB: 1 [DTK:224] Kolaghan's Command
+SB: 1 [ELD:191] Garruk, Cursed Huntsman
+SB: 1 [KLD:235] Smuggler's Copter
+SB: 1 [UDS:124] Yavimaya Elder
+SB: 1 [WWK:96] Avenger of Zendikar
+SB: 1 [NPH:42] Phyrexian Metamorph
+LAYOUT MAIN:(1,5)(CMC,false,62)|([UST:216],[UST:216],[UST:216],[UST:216],[UST:216],[UST:216],[UST:216],[UST:216],[UST:216],[UST:216],[UST:216],[UST:216],[UST:216],[UST:216],[UST:216],[UST:216],[THS:223])([5ED:329],[THS:180],[M14:195],[CHK:239],[RNA:131],[RAV:262],[M19:314],[RAV:161])([USG:318],[CHK:225],[NPH:57],[BNG:119])([ELD:171],[THS:172],[M11:175])([FRF:145],[M13:193],[WAR:169],[M13:174],[NPH:130],[NPH:1],[XLN:179],[FRF:1])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,61)|([SOI:242],[SOI:5],[WWK:96],[M11:7],[WAR:244],[LEG:185],[ELD:191],[ISD:213],[KLD:84],[OGW:171],[DTK:224],[LEG:28],[VIS:114],[10E:163],[NPH:42],[CON:121],[KLD:235],[ELD:235],[ARB:46],[ROE:12],[UDS:124])

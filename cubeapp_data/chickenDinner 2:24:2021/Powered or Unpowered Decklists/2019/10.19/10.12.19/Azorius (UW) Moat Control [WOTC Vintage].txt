@@ -1,0 +1,49 @@
+1 [ULG:36] Miscalculation
+1 [M12:63] Mana Leak
+1 [TSP:73] Riftwing Cloudskate
+1 [KLD:4] Angel of Invention
+1 [THS:9] Elspeth, Sun's Champion
+1 [GPT:32] Repeal
+1 [MRD:199] Lightning Greaves
+1 [ALA:9] Elspeth, Knight-Errant
+1 [VMA:20] Council's Judgment
+1 [BNG:5] Brimaz, King of Oreskos
+1 [LEG:28] Moat
+1 [AER:31] Disallow
+1 [FUT:46] Venser, Shaper Savant
+1 [ULG:126] Grim Monolith
+1 [MBS:21] Consecrated Sphinx
+1 [ISD:78] Snapcaster Mage
+1 [RNA:47] Pteramander
+1 [FRF:1] Ugin, the Spirit Dragon
+1 [ISD:213] Geist of Saint Traft
+1 [6ED:19] Enlightened Tutor
+1 [DKA:12] Lingering Souls
+1 [RNA:251] Hallowed Fountain
+1 [SOM:226] Darkslick Shores
+1 [KLD:245] Concealed Courtyard
+1 [XLN:254] Field of Ruin
+1 [MPS:16] Mana Crypt
+5 [UST:213] Island
+7 [UST:212] Plains
+1 [AVR:38] Terminus
+1 [KLD:13] Fairgrounds Warden
+SB: 1 [M15:145] Goblin Rabblemaster
+SB: 1 [ROE:145] Flame Slash
+SB: 1 [KLD:124] Pia Nalaar
+SB: 1 [CHK:212] Heartbeat of Spring
+SB: 1 [UDS:124] Yavimaya Elder
+SB: 1 [RNA:183] Hydroid Krasis
+SB: 1 [AKH:134] Glorybringer
+SB: 1 [NPH:161] Sword of War and Peace
+SB: 1 [V14:2] Burning of Xinye
+SB: 1 [NPH:103] Beast Within
+SB: 1 [5DN:86] Eternal Witness
+SB: 1 [CHK:225] Kodama's Reach
+SB: 1 [9ED:228] Wildfire
+SB: 1 [JOU:94] Eidolon of the Great Revel
+SB: 1 [CHK:268] Sensei's Divining Top
+SB: 1 [M12:23] Honor of the Pure
+SB: 1 [M12:39] Sun Titan
+LAYOUT MAIN:(1,5)(CMC,false,69)|([RNA:251],[SOM:226],[KLD:245],[XLN:254],[MPS:16],[UST:213],[UST:213],[UST:213],[UST:213],[UST:213],[UST:212],[UST:212],[UST:212],[UST:212],[UST:212],[UST:212],[UST:212])([GPT:32],[RNA:47],[6ED:19],[ULG:36],[M12:63],[MRD:199],[ULG:126],[ISD:78])([VMA:20],[BNG:5],[AER:31],[ISD:213],[DKA:12],[KLD:13])([ALA:9],[LEG:28],[FUT:46],[AVR:38])([TSP:73],[KLD:4],[THS:9],[MBS:21],[FRF:1])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([M15:145],[ROE:145],[KLD:124],[CHK:212],[UDS:124],[RNA:183],[AKH:134],[NPH:161],[V14:2],[NPH:103],[5DN:86],[CHK:225],[9ED:228],[JOU:94],[CHK:268],[M12:23],[M12:39])

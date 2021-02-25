@@ -1,0 +1,49 @@
+1 [MED:RA6] Dack Fayden
+1 [SCG:41] Mind's Desire
+1 [XLN:48] Chart a Course
+1 [2ED:266] Mox Sapphire
+1 [M12:73] Ponder
+1 [CHK:163] Desperate Ritual
+1 [J20:3] Spellseeker
+1 [GRN:207] Thousand-Year Storm
+1 [9ED:216] Seething Song
+1 [ISD:78] Snapcaster Mage
+1 [ULG:129] Memory Jar
+1 [SUM:291] Volcanic Island
+1 [USG:103] Time Spiral
+1 [RAV:63] Remand
+1 [SS3:3] Fiery Confluence
+1 [TSP:48] Ancestral Vision
+1 [ISD:155] Past in Flames
+1 [UDS:50] Treachery
+1 [6ED:83] Mystical Tutor
+1 [KTK:230] Bloodstained Mire
+1 [7ED:67] Counterspell
+1 [INV:57] Fact or Fiction
+1 [MMQ:82] Gush
+1 [ALL:28] Force of Will
+1 [CHK:62] Gifts Ungiven
+1 [FEM:18a] High Tide
+1 [2ED:233] Black Lotus
+1 [THB:308] Thassa's Oracle
+10 [UST:213] Island
+2 [UST:215] Mountain
+SB: 1 [KLD:235] Smuggler's Copter
+SB: 1 [GRN:259] Watery Grave
+SB: 1 [DOM:207] Teferi, Hero of Dominaria
+SB: 1 [SUM:214] Regrowth
+SB: 1 [UDS:135] Metalworker
+SB: 1 [AVR:106] Griselbrand
+SB: 1 [MMQ:129] Dark Ritual
+SB: 1 [ULG:80] Goblin Welder
+SB: 1 [OGW:171] Hissing Quagmire
+SB: 1 [ROE:145] Flame Slash
+SB: 1 [4ED:147] Mind Twist
+SB: 1 [ELD:342] Emry, Lurker of the Loch
+SB: 1 [ROE:115] Inquisition of Kozilek
+SB: 1 [NPH:57] Dismember
+SB: 1 [5ED:249] Mana Flare
+SB: 1 [MH1:52] Force of Negation
+SB: 1 [ORI:60] Jace, Vryn's Prodigy
+LAYOUT MAIN:(1,7)(CMC,false,71)|([2ED:266],[SUM:291],[TSP:48],[KTK:230],[2ED:233],[UST:213],[UST:213],[UST:213],[UST:213],[UST:213],[UST:213],[UST:213],[UST:213],[UST:213],[UST:213],[UST:215],[UST:215])([M12:73],[6ED:83],[FEM:18a])([XLN:48],[CHK:163],[ISD:78],[RAV:63],[7ED:67],[THB:308])([MED:RA6],[J20:3],[9ED:216])([SS3:3],[ISD:155],[INV:57],[CHK:62])([ULG:129],[UDS:50],[MMQ:82],[ALL:28])([SCG:41],[GRN:207],[USG:103])
+LAYOUT SIDEBOARD:(1,6)(COLOR,false,82)|([KLD:235],[GRN:259],[UDS:135],[OGW:171])([AVR:106],[MMQ:129],[4ED:147],[ROE:115],[NPH:57])([ELD:342],[MH1:52],[ORI:60])([SUM:214])([ULG:80],[ROE:145],[5ED:249])([DOM:207])
