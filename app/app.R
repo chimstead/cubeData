@@ -56,6 +56,7 @@ jdd2<-jdd1%>%
 
 # Define UI
 ui <- fluidPage(
+   tags$head(HTML("<title>CubeData</title>")),
    navbarPage(id = "tabset1",
               
     #needs to be here to not mess up navbarPage
